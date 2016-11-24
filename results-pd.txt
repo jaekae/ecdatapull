@@ -1,0 +1,374 @@
+Puducherry - Mannadipet	T.P.R. SELVAME	All India N.R. Congress	7679
+Puducherry - Mannadipet	A. KRISHNAN	Dravida Munnetra Kazhagam	7260
+Puducherry - Mannadipet	MAHADEVI	All India Anna Dravida Munnetra Kazhagam	5676
+Puducherry - Mannadipet	K.P.K. ARUL MURUGAN	Independent	4913
+Puducherry - Mannadipet	CANDANE NAARAYANASSAAMY	Independent	784
+Puducherry - Mannadipet	VENKATESAN	Pattali Makkal Katchi	260
+Puducherry - Mannadipet	M. KARTHIKEYAN	Desiya Murpokku Dravida Kazhagam	220
+Puducherry - Mannadipet	SADHASIVAM @ SARAVANAN	Bharatiya Janata Party	211
+Puducherry - Mannadipet	PURUSHOTHAMAN	Bahujan Samaj Party	85
+Puducherry - Mannadipet	V. MURUGANANDHAM	Independent	56
+Puducherry - Mannadipet	P. MUTHUKUMARAN	Indiya Jananayaka Katchi	53
+Puducherry - Mannadipet	BOOMILINGAM	Agila India Makkal Kazhagam	47
+Puducherry - Mannadipet	None of the Above	None of the Above	316
+Puducherry - Thirubhuvanai	B. KOBIGA	All India N.R. Congress	12143
+Puducherry - Thirubhuvanai	P. ANGALANE	Indian National Congress	10711
+Puducherry - Thirubhuvanai	M. SANKAR @ VADIVELAN	All India Anna Dravida Munnetra Kazhagam	1618
+Puducherry - Thirubhuvanai	L. KALIVARATHAN	Communist Party of India (Marxist)	1484
+Puducherry - Thirubhuvanai	S.T.PARAMASIVAM ALIAS CALE	Independent	213
+Puducherry - Thirubhuvanai	SUNDARAMOORTHY	Bharatiya Janata Party	208
+Puducherry - Thirubhuvanai	S. KOMALA	Independent	113
+Puducherry - Thirubhuvanai	PERU. PANDIYAN	Bahujan Samaj Party	69
+Puducherry - Thirubhuvanai	A. EGAMBARAM	Independent	55
+Puducherry - Thirubhuvanai	G. BOOMILINGAM	Agila India Makkal Kazhagam	21
+Puducherry - Thirubhuvanai	E. ANANTHAVEL	Independent	19
+Puducherry - Thirubhuvanai	None of the Above	None of the Above	496
+Puducherry - Oussudu	E. THEEPPAINTHAN	Indian National Congress	8675
+Puducherry - Oussudu	SAI J SARAVANAN KUMAR	Bharatiya Janata Party	6345
+Puducherry - Oussudu	M. VAITHIYANATHAN	All India N.R. Congress	5687
+Puducherry - Oussudu	P. KARTHIKEYAN	Independent	3397
+Puducherry - Oussudu	M. SELVARASSOU	All India Anna Dravida Munnetra Kazhagam	942
+Puducherry - Oussudu	D. ANGALAN	Viduthalai Chiruthaigal Katchi	479
+Puducherry - Oussudu	P. ASARAVEL	Independent	166
+Puducherry - Oussudu	P. MADHIVANAN	Independent	65
+Puducherry - Oussudu	S. SASIKUMAR	Naam Tamilar Katchi	59
+Puducherry - Oussudu	K. ARUNACHALAM	Agila India Makkal Kazhagam	39
+Puducherry - Oussudu	R. JEYAPRIYA	Indiya Jananayaka Katchi	31
+Puducherry - Oussudu	None of the Above	None of the Above	388
+Puducherry - Mangalam	S.V. SUGUMARAN	All India N.R. Congress	13955
+Puducherry - Mangalam	S. KUMARAVEL	Dravida Munnetra Kazhagam	8392
+Puducherry - Mangalam	K. NATARAJAN	All India Anna Dravida Munnetra Kazhagam	7124
+Puducherry - Mangalam	N. ELUMALAI	Marumalarchi Dravida Munnetra Kazhagam	314
+Puducherry - Mangalam	M. LATCHOUMY DITE SRIVARAMANGUE	Bharatiya Janata Party	272
+Puducherry - Mangalam	R. BALAMURUGAN	Independent	181
+Puducherry - Mangalam	SUGUMARAN	Independent	178
+Puducherry - Mangalam	P. MURUGESAN	Independent	105
+Puducherry - Mangalam	P. BAKKIYARAJ	Naam Tamilar Katchi	104
+Puducherry - Mangalam	D. ALANGARAVELU	Bahujan Samaj Party	103
+Puducherry - Mangalam	P. MURUGAN	Communist Party of India (Marxist-Leninist) (Liberation)	95
+Puducherry - Mangalam	J. HARIDASS	Independent	42
+Puducherry - Mangalam	DR. K.A. MAGADEVAN	Agila India Makkal Kazhagam	33
+Puducherry - Mangalam	N. KASINATHAN	Indiya Jananayaka Katchi	19
+Puducherry - Mangalam	None of the Above	None of the Above	366
+Puducherry - Villianur	A. NAMASSIVAYAM	Indian National Congress	18009
+Puducherry - Villianur	JAYAKUMAR	All India N.R. Congress	9728
+Puducherry - Villianur	A. MOHAMAD HALID	Viduthalai Chiruthaigal Katchi	1598
+Puducherry - Villianur	V. SUBRAMANIAN	All India Anna Dravida Munnetra Kazhagam	704
+Puducherry - Villianur	S. MOHANKUMAR	Bharatiya Janata Party	361
+Puducherry - Villianur	A. RABICK MANSURE	SOCIAL DEMOCRATIC PARTY OF INDIA	195
+Puducherry - Villianur	R. MURUGAN	Pattali Makkal Katchi	114
+Puducherry - Villianur	DAVID SOURESH DE REMY	Naam Tamilar Katchi	103
+Puducherry - Villianur	E.J. RAMACHANDRRAN	Independent	90
+Puducherry - Villianur	A.G. PATHIMARAJ	Bahujan Samaj Party	71
+Puducherry - Villianur	S. MASCO	Independent	67
+Puducherry - Villianur	P. KATHIRAVAN	Independent	27
+Puducherry - Villianur	S. JOHN BOSCO	Indiya Jananayaka Katchi	21
+Puducherry - Villianur	None of the Above	None of the Above	445
+Puducherry - Ozhukarai	MNR. BALAN	Indian National Congress	14703
+Puducherry - Ozhukarai	N.G. PANNIRSELVAM	All India N.R. Congress	7596
+Puducherry - Ozhukarai	M. SIVASANKAR	All India Anna Dravida Munnetra Kazhagam	3958
+Puducherry - Ozhukarai	T. SAMPATHKUMAR	Independent	1406
+Puducherry - Ozhukarai	A. DEVASAGAYAM	Communist Party of India	1199
+Puducherry - Ozhukarai	K. AKILAN	Bharatiya Janata Party	629
+Puducherry - Ozhukarai	A. IRUDAYANATHAN	Naam Tamilar Katchi	193
+Puducherry - Ozhukarai	R. MURUGAN	Pattali Makkal Katchi	174
+Puducherry - Ozhukarai	G. SHANMUGAM	Independent	135
+Puducherry - Ozhukarai	K. SAKTHIVEL	Independent	66
+Puducherry - Ozhukarai	N. BALU	Independent	61
+Puducherry - Ozhukarai	A. GOWRISANKAR	Independent	47
+Puducherry - Ozhukarai	S. SATHIYAVEL	Indiya Jananayaka Katchi	22
+Puducherry - Ozhukarai	S. SENTHILKUMAR	Independent	20
+Puducherry - Ozhukarai	V. GANDHIMATHISREE	Independent	19
+Puducherry - Ozhukarai	J. RAGUPATHI	Independent	17
+Puducherry - Ozhukarai	G. GUNASEELAN	Independent	14
+Puducherry - Ozhukarai	None of the Above	None of the Above	579
+Puducherry - Kadirgamam	N.S.J. JAYABAL @ AYYANAR	All India N.R. Congress	11690
+Puducherry - Kadirgamam	S. RAMESH	Independent	7888
+Puducherry - Kadirgamam	A. SIVASHANMUGAM	Indian National Congress	2601
+Puducherry - Kadirgamam	V. MOUROUGAYAN	Independent	1538
+Puducherry - Kadirgamam	M.R. GOVINDAN	All India Anna Dravida Munnetra Kazhagam	1043
+Puducherry - Kadirgamam	R. SOMASUNDARAM	Bharatiya Janata Party	673
+Puducherry - Kadirgamam	D. RAMESH	Naam Tamilar Katchi	265
+Puducherry - Kadirgamam	S. RADHAKRISHNAN	Pattali Makkal Katchi	250
+Puducherry - Kadirgamam	K. EZHUMALAI	Desiya Murpokku Dravida Kazhagam	129
+Puducherry - Kadirgamam	S. MURUGESAN	Indiya Jananayaka Katchi	39
+Puducherry - Kadirgamam	None of the Above	None of the Above	897
+Puducherry - Indira Nagar	N. RANGASAMY	All India N.R. Congress	15463
+Puducherry - Indira Nagar	V. AROUMOUGAM A.K.D.	Indian National Congress	12059
+Puducherry - Indira Nagar	T. GUNASEGARAN	All India Anna Dravida Munnetra Kazhagam	612
+Puducherry - Indira Nagar	V. MURUGAN	Bharatiya Janata Party	228
+Puducherry - Indira Nagar	E. VADIVEL	Pattali Makkal Katchi	224
+Puducherry - Indira Nagar	C. SELVARAJ	Naam Tamilar Katchi	149
+Puducherry - Indira Nagar	K. LENIN	Revolutionary Socialist Party	63
+Puducherry - Indira Nagar	I. SENTHIL KUMAR	Independent	48
+Puducherry - Indira Nagar	R. ANNADURAI	Independent	15
+Puducherry - Indira Nagar	R. SHANMUGAM	Indiya Jananayaka Katchi	14
+Puducherry - Indira Nagar	None of the Above	None of the Above	470
+Puducherry - Thattanchavady	ASHOK ANAND	All India N.R. Congress	12754
+Puducherry - Thattanchavady	K. SETHU @ SETHUSELVAM	Communist Party of India	5296
+Puducherry - Thattanchavady	S. CASSINADIN	All India Anna Dravida Munnetra Kazhagam	1649
+Puducherry - Thattanchavady	N. KALIAPERUMAL	Dravida Munnetra Kazhagam	1467
+Puducherry - Thattanchavady	P. SIVANANDAME	Bharatiya Janata Party	897
+Puducherry - Thattanchavady	T. KANNADHASAN	Naam Tamilar Katchi	361
+Puducherry - Thattanchavady	M. MURUGASAMY	Pattali Makkal Katchi	227
+Puducherry - Thattanchavady	JAYABALAN. R	Independent	56
+Puducherry - Thattanchavady	R. PASUPATHY	Indiya Jananayaka Katchi	33
+Puducherry - Thattanchavady	None of the Above	None of the Above	922
+Puducherry - Kamaraj Nagar	VE. VAITHILINGAM	Indian National Congress	11618
+Puducherry - Kamaraj Nagar	P. GANESAN	All India Anna Dravida Munnetra Kazhagam	6512
+Puducherry - Kamaraj Nagar	B. THAYALAN	All India N.R. Congress	3642
+Puducherry - Kamaraj Nagar	L. MUNISAMY	Independent	1241
+Puducherry - Kamaraj Nagar	R VISWANATHAN	Communist Party of India	857
+Puducherry - Kamaraj Nagar	S. RAVICHANDRAN	Bharatiya Janata Party	764
+Puducherry - Kamaraj Nagar	P. SIVAKUMAR	Naam Tamilar Katchi	189
+Puducherry - Kamaraj Nagar	K. SEETHARAMAN	Pattali Makkal Katchi	150
+Puducherry - Kamaraj Nagar	A. KENNADY KUMARAN	Agila India Makkal Kazhagam	47
+Puducherry - Kamaraj Nagar	S. SANKAR	Independent	25
+Puducherry - Kamaraj Nagar	S. A. MOHAMED ELIAS	Indiya Jananayaka Katchi	16
+Puducherry - Kamaraj Nagar	M. KRISHNAMURTHY	Independent	14
+Puducherry - Kamaraj Nagar	None of the Above	None of the Above	694
+Puducherry - Lawspet	V.P. SIVAKOLUNDHU	Indian National Congress	12144
+Puducherry - Lawspet	M. VAITHIANATHAN	Independent	5695
+Puducherry - Lawspet	NANDHA T. SARAVANAN	All India N.R. Congress	4066
+Puducherry - Lawspet	V. SAMINATHAN	Bharatiya Janata Party	1509
+Puducherry - Lawspet	ANBANANDAM. G	All India Anna Dravida Munnetra Kazhagam	797
+Puducherry - Lawspet	A. ANAND	Communist Party of India (Marxist)	739
+Puducherry - Lawspet	S. MANI BHARATHI	Naam Tamilar Katchi	141
+Puducherry - Lawspet	R. MURALIKRISHNAN	Pattali Makkal Katchi	73
+Puducherry - Lawspet	RAMESH. R	Independent	60
+Puducherry - Lawspet	LEO @ RAJASEKARAN	Independent	51
+Puducherry - Lawspet	MURUGAN	Independent	43
+Puducherry - Lawspet	G. SWAMINATHAN	Independent	19
+Puducherry - Lawspet	S. PRABHAKARAN	Indiya Jananayaka Katchi	8
+Puducherry - Lawspet	None of the Above	None of the Above	538
+Puducherry - Kalapet	M.O.H.F. SHAHJAHAN	Indian National Congress	9839
+Puducherry - Kalapet	P.M.L. KALYANASUNDARAM	Independent	9205
+Puducherry - Kalapet	N. VISWANATHAN	All India N.R. Congress	3841
+Puducherry - Kalapet	V.C. EZHUMALAI@KASILINGAM	All India Anna Dravida Munnetra Kazhagam	3694
+Puducherry - Kalapet	P. SELVARASSOU	Pattali Makkal Katchi	271
+Puducherry - Kalapet	S. ARUNACHALAM	Desiya Murpokku Dravida Kazhagam	219
+Puducherry - Kalapet	I.M.S. BALAJI	Bharatiya Janata Party	184
+Puducherry - Kalapet	FAROOK	Independent	118
+Puducherry - Kalapet	V. KUMARI	Naam Tamilar Katchi	89
+Puducherry - Kalapet	A. MOHANASUNDARAM	Independent	73
+Puducherry - Kalapet	DR. M. HARIHARAN	Independent	42
+Puducherry - Kalapet	N. PERIYANNAN @ THANGAVEL	Independent	36
+Puducherry - Kalapet	L. SUBBULAKSHMI	Indiya Jananayaka Katchi	33
+Puducherry - Kalapet	SARAVANAN	Agila India Makkal Kazhagam	21
+Puducherry - Kalapet	None of the Above	None of the Above	377
+Puducherry - Muthialpet	VAIYAPURI MANIKANDAN	All India Anna Dravida Munnetra Kazhagam	9257
+Puducherry - Muthialpet	J. PREGASH KUMAR	All India N.R. Congress	7093
+Puducherry - Muthialpet	S.P. SIVAKUMAR	Dravida Munnetra Kazhagam	5268
+Puducherry - Muthialpet	T. SIVAKUMAR	Bharatiya Janata Party	496
+Puducherry - Muthialpet	K. MURUGAN	Communist Party of India	339
+Puducherry - Muthialpet	I. MEERA MYDHEEN	Naam Tamilar Katchi	228
+Puducherry - Muthialpet	G. GANAPATHY	Pattali Makkal Katchi	135
+Puducherry - Muthialpet	K. BALAMURUGAN	Bahujan Samaj Party	77
+Puducherry - Muthialpet	P.K. KUMAR	Independent	61
+Puducherry - Muthialpet	S. KRISHNARAJ	Agila India Makkal Kazhagam	51
+Puducherry - Muthialpet	S. ABDUL HADI	Independent	42
+Puducherry - Muthialpet	G. MAGESH	Indiya Jananayaka Katchi	13
+Puducherry - Muthialpet	None of the Above	None of the Above	549
+Puducherry - Raj bhavan	K. LAKSHMINARAYANAN	Indian National Congress	9445
+Puducherry - Raj bhavan	P. KANNAN	All India Anna Dravida Munnetra Kazhagam	7220
+Puducherry - Raj bhavan	A. ANNIBAL NEHRU	All India N.R. Congress	1517
+Puducherry - Raj bhavan	N. POUGAJENDY	Bharatiya Janata Party	929
+Puducherry - Raj bhavan	R. VELAYUTHAM	Naam Tamilar Katchi	153
+Puducherry - Raj bhavan	B. PANDIARAJAN	Pattali Makkal Katchi	76
+Puducherry - Raj bhavan	K. RAJESWARI	Marumalarchi Dravida Munnetra Kazhagam	47
+Puducherry - Raj bhavan	S. KAVITHA	Indiya Jananayaka Katchi	39
+Puducherry - Raj bhavan	P. VENKATARAMANAN	Independent	32
+Puducherry - Raj bhavan	S. PAZHANIRAJ	Independent	29
+Puducherry - Raj bhavan	B.J. WILSON	Independent	23
+Puducherry - Raj bhavan	None of the Above	None of the Above	487
+Puducherry - Oupalam	A. ANBALAGAN	All India Anna Dravida Munnetra Kazhagam	9411
+Puducherry - Oupalam	ANNIBAL KENNEDY	Dravida Munnetra Kazhagam	8503
+Puducherry - Oupalam	N. ANAND	All India N.R. Congress	4725
+Puducherry - Oupalam	SIVARAJ	Bharatiya Janata Party	113
+Puducherry - Oupalam	S. KALA	Naam Tamilar Katchi	88
+Puducherry - Oupalam	KRISHNAMOORTHY	Bahujan Samaj Party	73
+Puducherry - Oupalam	A. MOHAMMED YUNUS	Pattali Makkal Katchi	65
+Puducherry - Oupalam	R. VIJAYAKUMAR BASTE	Independent	60
+Puducherry - Oupalam	S. SUDHARSNAN	Independent	32
+Puducherry - Oupalam	T. VELMURUGAN @ PRAKASH	Desiya Murpokku Dravida Kazhagam	28
+Puducherry - Oupalam	B. VALLATTAN	Agila India Makkal Kazhagam	17
+Puducherry - Oupalam	P. GANAPATHY	Independent	15
+Puducherry - Oupalam	ANGAPPIN @ LOPES ROUSSEAU ANGAPPIN	Indiya Jananayaka Katchi	9
+Puducherry - Oupalam	R. ARUMUGAM @ SARAVANAN	Janata Dal (United)	8
+Puducherry - Oupalam	None of the Above	None of the Above	398
+Puducherry - Orleampeth	R. SIVA	Dravida Munnetra Kazhagam	11110
+Puducherry - Orleampeth	G. NEHRU @ KUPPUSAMY	All India N.R. Congress	8130
+Puducherry - Orleampeth	A. RAVINDRAN	All India Anna Dravida Munnetra Kazhagam	425
+Puducherry - Orleampeth	R. RAJENDRAN	Bharatiya Janata Party	164
+Puducherry - Orleampeth	S. JESILIYA	Naam Tamilar Katchi	98
+Puducherry - Orleampeth	NEHRU @ AYYANAR	Independent	78
+Puducherry - Orleampeth	K. SUPRAMANIEN	Pattali Makkal Katchi	72
+Puducherry - Orleampeth	G. MANIMARAN	Marumalarchi Dravida Munnetra Kazhagam	57
+Puducherry - Orleampeth	M. NEHRU	Independent	42
+Puducherry - Orleampeth	K. RAMALINGAM	Independent	37
+Puducherry - Orleampeth	P. KOLANJIRAJ	Independent	26
+Puducherry - Orleampeth	N. LOGANATHAN	Indiya Jananayaka Katchi	6
+Puducherry - Orleampeth	N. SIVARAJ	Independent	3
+Puducherry - Orleampeth	None of the Above	None of the Above	395
+Puducherry - Nellithope	A. JOHNKUMAR	Indian National Congress	18506
+Puducherry - Nellithope	OMSAKTHI SEKAR	All India Anna Dravida Munnetra Kazhagam	6365
+Puducherry - Nellithope	BALAJI. D	All India N.R. Congress	598
+Puducherry - Nellithope	ELANGOVAN	Bharatiya Janata Party	287
+Puducherry - Nellithope	N. MOHAN @ VEERAIYAN	Communist Party of India	214
+Puducherry - Nellithope	P. RAMARAJAN	Naam Tamilar Katchi	153
+Puducherry - Nellithope	K. PURUSHOTHAMAN	Pattali Makkal Katchi	77
+Puducherry - Nellithope	U. CHITRA	Indiya Jananayaka Katchi	51
+Puducherry - Nellithope	B. RADHAKRISHNAN	Independent	50
+Puducherry - Nellithope	F. JOHN PAUL	Independent	30
+Puducherry - Nellithope	M. MANIMARAN	Independent	19
+Puducherry - Nellithope	D. AROKIARAJ	Independent	15
+Puducherry - Nellithope	None of the Above	None of the Above	394
+Puducherry - Mudaliarpet	A. BASKAR	All India Anna Dravida Munnetra Kazhagam	14321
+Puducherry - Mudaliarpet	V. BALAN	All India N.R. Congress	8934
+Puducherry - Mudaliarpet	SURESH	Dravida Munnetra Kazhagam	2759
+Puducherry - Mudaliarpet	V. SELVAM	Bharatiya Janata Party	593
+Puducherry - Mudaliarpet	GOPALAKRISHNAN	Pattali Makkal Katchi	443
+Puducherry - Mudaliarpet	V.S.ABISHEGAM	Communist Party of India	385
+Puducherry - Mudaliarpet	A. HARIDASS	Naam Tamilar Katchi	288
+Puducherry - Mudaliarpet	R. RAJESHBABU	Tamizhaga Vaazhvurimai Katchi	59
+Puducherry - Mudaliarpet	S. YOGESWARAN	Independent	39
+Puducherry - Mudaliarpet	S. BALAJI	Independent	36
+Puducherry - Mudaliarpet	E. JEGANADHANE	Indiya Jananayaka Katchi	25
+Puducherry - Mudaliarpet	None of the Above	None of the Above	883
+Puducherry - Ariankuppam	T. DJEAMOURTHY	Indian National Congress	14029
+Puducherry - Ariankuppam	DR. M.A.S.SUBRAMANIAN	All India Anna Dravida Munnetra Kazhagam	7458
+Puducherry - Ariankuppam	V. SABAPATHY @ KOTHANDARAMAN	All India N.R. Congress	7248
+Puducherry - Ariankuppam	S. KUMARAVELU	Independent	501
+Puducherry - Ariankuppam	LAKSHMANAN. G	Pattali Makkal Katchi	297
+Puducherry - Ariankuppam	C. DEIVASSIGAMANY	Bharatiya Janata Party	228
+Puducherry - Ariankuppam	A. CHANDIRASEGARAN	Marumalarchi Dravida Munnetra Kazhagam	208
+Puducherry - Ariankuppam	R. GANESAN	Independent	171
+Puducherry - Ariankuppam	G. THAMIZHVENDHAN	Independent	141
+Puducherry - Ariankuppam	G. SATHIYANANDAM	Naam Tamilar Katchi	109
+Puducherry - Ariankuppam	V. ANGAMUTHU	Indiya Jananayaka Katchi	58
+Puducherry - Ariankuppam	KASILINGAM	Independent	28
+Puducherry - Ariankuppam	YAGAVELU	Bahujan Samaj Party	23
+Puducherry - Ariankuppam	None of the Above	None of the Above	478
+Puducherry - Manavely	R.K.R. ANANTHARAMAN	Indian National Congress	9326
+Puducherry - Manavely	G. SURESH	All India N.R. Congress	6611
+Puducherry - Manavely	EMBALAM SELVAM @ R. SELVAM	Independent	5831
+Puducherry - Manavely	P. PURUSHOTHAMAN	All India Anna Dravida Munnetra Kazhagam	3350
+Puducherry - Manavely	P. RAJAKUMAR	Viduthalai Chiruthaigal Katchi	833
+Puducherry - Manavely	K. PANDURANGAN	Naam Tamilar Katchi	258
+Puducherry - Manavely	N. MURUGESAN	Pattali Makkal Katchi	246
+Puducherry - Manavely	THANGA. VIKRAMAN	Bharatiya Janata Party	174
+Puducherry - Manavely	J. VEERASEKARAN	Independent	165
+Puducherry - Manavely	SELVAMANI	Tamizhaga Vaazhvurimai Katchi	128
+Puducherry - Manavely	C. OUTTOUCATTANE	Indiya Jananayaka Katchi	45
+Puducherry - Manavely	None of the Above	None of the Above	442
+Puducherry - Embalam	CANDASSAMY M.	Indian National Congress	18945
+Puducherry - Embalam	LAKSHMIKANDHAN U.	All India N.R. Congress	7745
+Puducherry - Embalam	GOVINDHARASU K.	All India Anna Dravida Munnetra Kazhagam	1193
+Puducherry - Embalam	STEEBAN S.	Desiya Murpokku Dravida Kazhagam	135
+Puducherry - Embalam	RAMADASS M.	Bharatiya Janata Party	107
+Puducherry - Embalam	ELLAMMAL R.	Communist Party of India (Marxist-Leninist) (Liberation)	82
+Puducherry - Embalam	SANDYLIAN S.	Naam Tamilar Katchi	76
+Puducherry - Embalam	RAMADOSS K.	Janata Dal (United)	43
+Puducherry - Embalam	JAYACHANDIRAN A.	Indiya Jananayaka Katchi	9
+Puducherry - Embalam	None of the Above	None of the Above	333
+Puducherry - Nettapakkam	VIZEAVENY V.	Indian National Congress	10577
+Puducherry - Nettapakkam	RAJAVELU P.	All India N.R. Congress	9109
+Puducherry - Nettapakkam	PERIASAMY L.	All India Anna Dravida Munnetra Kazhagam	4917
+Puducherry - Nettapakkam	VADIVELU R.	Viduthalai Chiruthaigal Katchi	744
+Puducherry - Nettapakkam	SUBRAMANIAN K.	Pattali Makkal Katchi	439
+Puducherry - Nettapakkam	VISWAMOHAN A.	Bharatiya Janata Party	381
+Puducherry - Nettapakkam	AYANAR R.	Independent	274
+Puducherry - Nettapakkam	ANANDADURAI A.	Independent	153
+Puducherry - Nettapakkam	EZHILARASAN S.	Independent	129
+Puducherry - Nettapakkam	VEERAMUTHU P.	Naam Tamilar Katchi	99
+Puducherry - Nettapakkam	RAMESH M.	Indiya Jananayaka Katchi	17
+Puducherry - Nettapakkam	None of the Above	None of the Above	307
+Puducherry - Bahour	DANAVELOU N.	Indian National Congress	11278
+Puducherry - Bahour	THIAGARAJAN T.	All India N.R. Congress	8471
+Puducherry - Bahour	VELMURUGAN P.	All India Anna Dravida Munnetra Kazhagam	3732
+Puducherry - Bahour	SIVAKAMI P.	Communist Party of India (Marxist)	457
+Puducherry - Bahour	VENUGOPAL P.	Pattali Makkal Katchi	257
+Puducherry - Bahour	THAMIZHKKUMARAN K.	Naam Tamilar Katchi	97
+Puducherry - Bahour	PADMANABAN G.	Bharatiya Janata Party	79
+Puducherry - Bahour	RAJENDIRAN K.	Indiya Jananayaka Katchi	78
+Puducherry - Bahour	THIYAGU A.	Independent	63
+Puducherry - Bahour	None of the Above	None of the Above	168
+Puducherry - Nedungadu	CHANDIRAPRIYANGA	All India N.R. Congress	8789
+Puducherry - Nedungadu	A. MARIMOTTOU	Indian National Congress	7695
+Puducherry - Nedungadu	G. PANNEER SELVAM	All India Anna Dravida Munnetra Kazhagam	2957
+Puducherry - Nedungadu	JAYASEELAN	Independent	1806
+Puducherry - Nedungadu	ANANDHAN	Independent	1594
+Puducherry - Nedungadu	R. MAHENDIRAN	Independent	828
+Puducherry - Nedungadu	U. KAMARAJ	Bharatiya Janata Party	711
+Puducherry - Nedungadu	P. MATHIAZHAGAN	Communist Party of India	277
+Puducherry - Nedungadu	MUNISAMY	Pattali Makkal Katchi	223
+Puducherry - Nedungadu	DHANABAL	Naam Tamilar Katchi	167
+Puducherry - Nedungadu	None of the Above	None of the Above	444
+Puducherry - Thirunallar	R. KAMALAKKANNAN	Indian National Congress	13138
+Puducherry - Thirunallar	P. R. SIVA @ SIVASAKTHI	All India N.R. Congress	10263
+Puducherry - Thirunallar	K.DEVAMANI	Pattali Makkal Katchi	1261
+Puducherry - Thirunallar	G. MURUGAIYAN	All India Anna Dravida Munnetra Kazhagam	220
+Puducherry - Thirunallar	AMBALAVANAN	Marumalarchi Dravida Munnetra Kazhagam	129
+Puducherry - Thirunallar	LOURDUMARY. R	Independent	115
+Puducherry - Thirunallar	J. SENTHIL MURUGAN	Independent	68
+Puducherry - Thirunallar	R. MARIAPPAN	Independent	59
+Puducherry - Thirunallar	K. RAJAVELU	Bharatiya Janata Party	52
+Puducherry - Thirunallar	SEETHAPATHI	Naam Tamilar Katchi	38
+Puducherry - Thirunallar	SABARIKANTH	Independent	35
+Puducherry - Thirunallar	None of the Above	None of the Above	233
+Puducherry - Karaikal North	P.R.N. THIRUMURUGAN	All India N.R. Congress	13139
+Puducherry - Karaikal North	M.V.OMALINGAM	All India Anna Dravida Munnetra Kazhagam	9841
+Puducherry - Karaikal North	R.P. CHANDRAMOHAN	Indian National Congress	2129
+Puducherry - Karaikal North	M.ARUL MURUGAN	Bharatiya Janata Party	402
+Puducherry - Karaikal North	N.SELVASUNDARAM	Viduthalai Chiruthaigal Katchi	261
+Puducherry - Karaikal North	M.SIKKANTHAR BATSHA	Naam Tamilar Katchi	226
+Puducherry - Karaikal North	P.MANIKANDAN	Independent	176
+Puducherry - Karaikal North	THANGA DEVADOSS	Independent	22
+Puducherry - Karaikal North	None of the Above	None of the Above	408
+Puducherry - Karaikal South	K.A.U. ASANA	All India Anna Dravida Munnetra Kazhagam	11104
+Puducherry - Karaikal South	A.M.H. NAZEEM	Dravida Munnetra Kazhagam	11084
+Puducherry - Karaikal South	A.SURESH	All India N.R. Congress	393
+Puducherry - Karaikal South	G.MANIKANDAN	Bharatiya Janata Party	268
+Puducherry - Karaikal South	H. MOHAMED BILAL MARICAR	SOCIAL DEMOCRATIC PARTY OF INDIA	258
+Puducherry - Karaikal South	PRANADARTIGARESWARAN @ MOUTTOUVEL	Desiya Murpokku Dravida Kazhagam	119
+Puducherry - Karaikal South	S.MARIE ANTHUVAN	Naam Tamilar Katchi	97
+Puducherry - Karaikal South	SYED MASTHAN OLI	Pattali Makkal Katchi	80
+Puducherry - Karaikal South	K.SELVAMANI	Bahujan Samaj Party	26
+Puducherry - Karaikal South	MOHAMED TAMEEM KANI	Independent	22
+Puducherry - Karaikal South	None of the Above	None of the Above	349
+Puducherry - Neravy T.R. Pattinam	A.GEETHA	Dravida Munnetra Kazhagam	14993
+Puducherry - Neravy T.R. Pattinam	VMC. SIVAKUMAR	All India Anna Dravida Munnetra Kazhagam	8057
+Puducherry - Neravy T.R. Pattinam	K.R. UDAYAKUMAR	All India N.R. Congress	373
+Puducherry - Neravy T.R. Pattinam	S. MOHAMED THAMEEM ANSARI	Communist Party of India (Marxist)	334
+Puducherry - Neravy T.R. Pattinam	M.KUMARAVELU	Bharatiya Janata Party	237
+Puducherry - Neravy T.R. Pattinam	CHELLADURAI	Pattali Makkal Katchi	203
+Puducherry - Neravy T.R. Pattinam	Z. SULTAN GHOUSE HAMEED MALIM	SOCIAL DEMOCRATIC PARTY OF INDIA	187
+Puducherry - Neravy T.R. Pattinam	H. BADOUROUDINE	Independent	93
+Puducherry - Neravy T.R. Pattinam	T.SUGANTH	Naam Tamilar Katchi	60
+Puducherry - Neravy T.R. Pattinam	S. SENTAMILSELVAN	Bahujan Samaj Party	52
+Puducherry - Neravy T.R. Pattinam	DHAMOTHARAN	Independent	48
+Puducherry - Neravy T.R. Pattinam	A. SINGARAVELU	Communist Party of India (Marxist-Leninist) (Liberation)	42
+Puducherry - Neravy T.R. Pattinam	None of the Above	None of the Above	231
+Puducherry - Mahe	DR. V.RAMACHANDRAN	Independent	10797
+Puducherry - Mahe	E. VALSARAJ	Indian National Congress	8658
+Puducherry - Mahe	ABDUL RAHMAN.V.P	All India N.R. Congress	1653
+Puducherry - Mahe	DEVARAJAN.P.T.	Bharatiya Janata Party	1653
+Puducherry - Mahe	C.K. UMMER MASTER	SOCIAL DEMOCRATIC PARTY OF INDIA	206
+Puducherry - Mahe	K.E. SULOCHANA	Independent	182
+Puducherry - Mahe	BHASKARAN.C.K.	All India Anna Dravida Munnetra Kazhagam	97
+Puducherry - Mahe	JANAKY TEACHER	Independent	51
+Puducherry - Mahe	SHAJ KUMAR.V.V	Pattali Makkal Katchi	49
+Puducherry - Mahe	THAYALAKATH KADARKUTTY	Independent	24
+Puducherry - Mahe	None of the Above	None of the Above	109
+Puducherry - Yanam	MALLADI KRISHNA RAO	Indian National Congress	20801
+Puducherry - Yanam	TIRIKOTY BAIRAVA SWAMY	All India N.R. Congress	12047
+Puducherry - Yanam	MANCHALA SATYA SAI KUMAR	All India Anna Dravida Munnetra Kazhagam	343
+Puducherry - Yanam	PEMMADI DURGA PRASAD	Independent	250
+Puducherry - Yanam	RAMADAS KANAKALA	Bharatiya Janata Party	148
+Puducherry - Yanam	MUDE HARICHANDRA	Independent	43
+Puducherry - Yanam	NATI BURIYYA	Independent	33
+Puducherry - Yanam	MALLADI UDAYALAKSHMI	Independent	32
+Puducherry - Yanam	SURIMILLI SUBBARAO	Independent	27
+Puducherry - Yanam	KOLLU NARASIMHA BABU	Independent	19
+Puducherry - Yanam	DHULIPUDI MADHAVA VENKANNA	Independent	12
+Puducherry - Yanam	None of the Above	None of the Above	144

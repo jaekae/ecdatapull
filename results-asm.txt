@@ -1,0 +1,1190 @@
+Assam - Ratabari	KRIPANATH MALLAH	Bharatiya Janata Party	53975
+Assam - Ratabari	AKHIL RANJAN TALUKDAR	Indian National Congress	29449
+Assam - Ratabari	RAJIB BISWAS	All India United Democratic Front	23926
+Assam - Ratabari	SETUL CHANDRA NAMASUDRA	Independent	908
+Assam - Ratabari	NIRMAL MALLICK	Samajwadi Party	542
+Assam - Ratabari	PRABIR BARDHAN	Independent	487
+Assam - Ratabari	SANJOY KUMAR MALLAH	Independent	419
+Assam - Ratabari	KALIPADA BISWAS	Independent	380
+Assam - Ratabari	MANILAL RABIDAS	Independent	370
+Assam - Ratabari	SATYENDRA NAMASUDRA	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	354
+Assam - Ratabari	NIRANJAN MALLAH	Independent	267
+Assam - Ratabari	RANJU ROY	Independent	247
+Assam - Ratabari	UMESH MALAH	Independent	204
+Assam - Ratabari	AMULYA NAMASUDRA	Independent	191
+Assam - Ratabari	None of the Above	None of the Above	889
+Assam - Patharkandi	KRISHNENDU PAUL	Bharatiya Janata Party	46544
+Assam - Patharkandi	DEBENDRA KUMAR SINHA	All India United Democratic Front	37276
+Assam - Patharkandi	MONI LAL GOWALA	Indian National Congress	32048
+Assam - Patharkandi	KRIPESH RANJAN DASGUPTA	Communist Party of India (Marxist)	1638
+Assam - Patharkandi	KABIR AHMED	Independent	892
+Assam - Patharkandi	RAHIM UDDIN AHMED	Independent	743
+Assam - Patharkandi	MISBAQUE UDDIN	Samajwadi Party	599
+Assam - Patharkandi	DEBANGSHU NATH	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	509
+Assam - Patharkandi	ASAD UDDIN AHMED	Independent	501
+Assam - Patharkandi	NITAI DEY	Independent	495
+Assam - Patharkandi	NIHAR RANJAN DEB NATH	Independent	419
+Assam - Patharkandi	None of the Above	None of the Above	1030
+Assam - Karimganj North	KAMALAKHYA DEY PURKAYASTHA	Indian National Congress	45289
+Assam - Karimganj North	MISSION RANJAN DAS	Bharatiya Janata Party	44821
+Assam - Karimganj North	SAHABUL ISLAM CHOUDHURY	All India United Democratic Front	34207
+Assam - Karimganj North	NAZRUL ISLAM CHOUDHURY	Independent	1704
+Assam - Karimganj North	ABDUL AHAD CHOUDHURY	Independent	1052
+Assam - Karimganj North	MOIN UDDIN	Independent	708
+Assam - Karimganj North	ARUNANGSHU BHATTACHARJEE	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	468
+Assam - Karimganj North	MUHAMMAD MUHSIN ALAM	Independent	420
+Assam - Karimganj North	SIBIR AHMED	Independent	265
+Assam - Karimganj North	BIKASH KANTI ROY	Bharatiya Gana Parishad	253
+Assam - Karimganj North	DEEPAN NATH	Independent	241
+Assam - Karimganj North	KAYSAR AHMED CHOUDHURY	Independent	237
+Assam - Karimganj North	AMJAD HUSSAIN	Independent	161
+Assam - Karimganj North	TAJ UDDIN CHOUDHURY	Independent	144
+Assam - Karimganj North	ARUN KUMAR DAS	Independent	137
+Assam - Karimganj North	None of the Above	None of the Above	674
+Assam - Karimganj South	AZIZ AHMED KHAN	All India United Democratic Front	58060
+Assam - Karimganj South	SIDDEQUE AHMED	Indian National Congress	53644
+Assam - Karimganj South	SIPRA GOON	Bharatiya Janata Party	11861
+Assam - Karimganj South	MONARUL HAQUE	Independent	815
+Assam - Karimganj South	MOSUD AHMED	Independent	592
+Assam - Karimganj South	AZIR UDDIN	Independent	391
+Assam - Karimganj South	MOIN UDDIN	Independent	366
+Assam - Karimganj South	MAYNUL HAQUE	Independent	265
+Assam - Karimganj South	SUFIAN AHMED	Independent	264
+Assam - Karimganj South	BILAL UDDIN	Independent	242
+Assam - Karimganj South	TAJ MD KAMAL UDDIN KHAN	Independent	212
+Assam - Karimganj South	JAMAL AHMED	Independent	199
+Assam - Karimganj South	ABDUL HAMID	Independent	159
+Assam - Karimganj South	AHMED ALI	Independent	157
+Assam - Karimganj South	ABU BARKAT NIZAM UDDIN AHMED	Independent	150
+Assam - Karimganj South	MUKTAR HUSSAIN	Independent	122
+Assam - Karimganj South	SAD UDDIN	Independent	106
+Assam - Karimganj South	SAHAJAN AHMED	Independent	105
+Assam - Karimganj South	QUAMRUL ISLAM	Independent	98
+Assam - Karimganj South	SARIF UDDIN	Independent	97
+Assam - Karimganj South	FAIZUL HAQUE	Independent	95
+Assam - Karimganj South	KABIR UDDIN	Independent	90
+Assam - Karimganj South	SALIM UDDIN	Independent	80
+Assam - Karimganj South	SABIR AHMED	Independent	56
+Assam - Karimganj South	RAJIB DAS	Independent	43
+Assam - Karimganj South	None of the Above	None of the Above	173
+Assam - Badarpur	JAMAL UDDIN AHMED	Indian National Congress	38266
+Assam - Badarpur	ABDUL AZIZ	All India United Democratic Front	36178
+Assam - Badarpur	DIPAK DEB	Bharatiya Janata Party	35694
+Assam - Badarpur	SAZIDUL HOQUE	Independent	418
+Assam - Badarpur	KAMRUL ISLAM	Samajwadi Party	303
+Assam - Badarpur	SUBODH SUKLABAIDYA	Independent	295
+Assam - Badarpur	OLIOUR RAHAMAN TAPADAR	Independent	168
+Assam - Badarpur	SOLMON SHAIKH	Independent	147
+Assam - Badarpur	ABDUS SUKKUR BEIG	Independent	142
+Assam - Badarpur	KHASRUZZAMAN TALUKDAR	Independent	132
+Assam - Badarpur	ANAM UDDIN	Independent	101
+Assam - Badarpur	BINOY NAMASUDRA	Independent	79
+Assam - Badarpur	None of the Above	None of the Above	596
+Assam - Hailakandi	ANWAR HUSSAIN LASKAR	All India United Democratic Front	41647
+Assam - Hailakandi	SOUMYAJIT DUTTA CHOUDHURY	Bharatiya Janata Party	39039
+Assam - Hailakandi	ZAKIR HUSSAIN LASKAR	Independent	15633
+Assam - Hailakandi	ANAM UDDIN LASKAR	Indian National Congress	9287
+Assam - Hailakandi	HAJI SALIM UDDIN BARBHUIYA	Independent	1119
+Assam - Hailakandi	PREMRAJ GOALA	Independent	1104
+Assam - Hailakandi	SAMIR UDDIN LASKAR	Samajwadi Party	602
+Assam - Hailakandi	FAKRUL ALAM MAZARBHUIYA	Independent	579
+Assam - Hailakandi	ALI HUSSAIN MIRA	Independent	430
+Assam - Hailakandi	NIREN DAS	Independent	376
+Assam - Hailakandi	AJIT KUMAR PAUL	Nationalist Congress Party	372
+Assam - Hailakandi	LUTFUR RAHMAN LASKAR	Independent	366
+Assam - Hailakandi	AMIT KUMAR DEB	Independent	363
+Assam - Hailakandi	MITUZZAMAN LASKAR	Independent	244
+Assam - Hailakandi	PARBEJ KHASRU LASKAR	Independent	228
+Assam - Hailakandi	AMAR CHAND BHOWMIK	Independent	211
+Assam - Hailakandi	BURHAN UDDIN BARBHUIYA	Independent	199
+Assam - Hailakandi	SAHARUZZAMAN LASKAR	Independent	180
+Assam - Hailakandi	ABUL HUSSAIN BARBHUIYA	Independent	176
+Assam - Hailakandi	SUSHIL PAUL	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	163
+Assam - Hailakandi	ADHIR CHANDA	Independent	158
+Assam - Hailakandi	AJAY KUMAR ROY	Independent	122
+Assam - Hailakandi	SANKAR CHAKROBARTY	Independent	114
+Assam - Hailakandi	None of the Above	None of the Above	281
+Assam - Katlichera	SUZAM UDDIN LASKAR	All India United Democratic Front	50676
+Assam - Katlichera	GAUTAM ROY	Indian National Congress	35592
+Assam - Katlichera	RAJ KUMAR DAS	Bharatiya Janata Party	32164
+Assam - Katlichera	MULNEILAL HRANGKHOL	Nationalist Congress Party	898
+Assam - Katlichera	SUZAM UDDIN LASKAR	Independent	782
+Assam - Katlichera	ANIL NATH	Samajwadi Party	755
+Assam - Katlichera	BHASKAR DEB	Independent	661
+Assam - Katlichera	BACHCHU PAUL	Independent	567
+Assam - Katlichera	MINNOTULLA CHOUDHURY	Independent	429
+Assam - Katlichera	MOHAN DEB	Independent	383
+Assam - Katlichera	ASHIK AHMED LASKAR	Independent	364
+Assam - Katlichera	BAPPA PURKAYASTHA	Independent	329
+Assam - Katlichera	NOROKANTO DAS	Independent	300
+Assam - Katlichera	None of the Above	None of the Above	931
+Assam - Algapur	NIZAM UDDIN CHOUDHURY	All India United Democratic Front	50531
+Assam - Algapur	KAUSHIK RAI	Bharatiya Janata Party	32777
+Assam - Algapur	RAHUL ROY	Indian National Congress	25927
+Assam - Algapur	MEHNAZ SAHID CHOUDHURY	Asom Gana Parishad	5822
+Assam - Algapur	SAHIDUL ISLAM LASKAR	Samajwadi Party	585
+Assam - Algapur	AHMED HUSSAIN LASKAR	Independent	509
+Assam - Algapur	RAJU DAS	Independent	475
+Assam - Algapur	RUPU DEB	Independent	475
+Assam - Algapur	SAMIN AHMED CHOUDHURY	Independent	461
+Assam - Algapur	AHMED KARIM BARBHUIYA	Independent	260
+Assam - Algapur	IMADUL ISLAM LASKAR	Independent	229
+Assam - Algapur	BINAYAK DEB	Independent	222
+Assam - Algapur	KAZI MUZAKKIR HUSSAIN	Independent	179
+Assam - Algapur	SALEH AHMED MAZUMDER	Independent	173
+Assam - Algapur	None of the Above	None of the Above	768
+Assam - Silchar	SRI DILIP KUMAR PAUL	Bharatiya Janata Party	94787
+Assam - Silchar	BITHIKA DEV	Indian National Congress	54867
+Assam - Silchar	SUPRIYA BHATTACHARJEE	Communist Party of India (Marxist)	1961
+Assam - Silchar	SHUVADIP DATTA	Independent	657
+Assam - Silchar	RITA MAZUMDER	Independent	526
+Assam - Silchar	IMDAD HUSSAIN LASKAR	Independent	512
+Assam - Silchar	SAHIN AHMED CHOUDHURY	Samajwadi Party	332
+Assam - Silchar	PRADIP KUMAR DEB	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	324
+Assam - Silchar	BIJU CHANDA	Independent	318
+Assam - Silchar	KHAIRUL ALAM BARBHUIYA	Independent	270
+Assam - Silchar	BROJALAL DAS	Independent	232
+Assam - Silchar	ASCHAM UDDIN LASKAR	Independent	211
+Assam - Silchar	NILOM SANJIB SARMAH	Bharatiya Gana Parishad	199
+Assam - Silchar	MONILAL DAS	Independent	158
+Assam - Silchar	ASHIM KUMAR DAS	Independent	97
+Assam - Silchar	None of the Above	None of the Above	1143
+Assam - Sonai	AMINUL HAQUE LASKAR	Bharatiya Janata Party	44236
+Assam - Sonai	ANAMUL HAQUE	Indian National Congress	36683
+Assam - Sonai	KARIM UDDIN BARBHUIYA	All India United Democratic Front	32109
+Assam - Sonai	IBUNGOBI SINGHA	Independent	2987
+Assam - Sonai	ANWAR HUSSAIN LASKAR	Independent	2408
+Assam - Sonai	SANJIB KUMAR DAS	Independent	943
+Assam - Sonai	SANTOSH DAS	Independent	598
+Assam - Sonai	REJAUL ISLAM BARBHUIYA	Independent	579
+Assam - Sonai	PRANESH NATH	Lok Jan Shakti Party	522
+Assam - Sonai	MANINDRA CHANDRA DAS	Samajwadi Party	401
+Assam - Sonai	JAWAHAR LAL GOALA	Independent	401
+Assam - Sonai	MAKSUS AHMED LASKAR	Independent	306
+Assam - Sonai	None of the Above	None of the Above	1292
+Assam - Dholai	PARIMAL SUKLABAIDYA	Bharatiya Janata Party	68694
+Assam - Dholai	GIRINDRA MALLIK	Indian National Congress	41857
+Assam - Dholai	LALTA PROSAD MALA	All India United Democratic Front	13382
+Assam - Dholai	GOUR CHANDRA DAS	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	1146
+Assam - Dholai	NIHAR RANJAN DAS	Independent	1114
+Assam - Dholai	None of the Above	None of the Above	2110
+Assam - Udharbond	MIHIR KANTI SHOME	Bharatiya Janata Party	54204
+Assam - Udharbond	AJIT SINGH	Indian National Congress	45598
+Assam - Udharbond	LIAKAT ALI LASKAR	All India United Democratic Front	8715
+Assam - Udharbond	SADIK HUSSAIN BARLASKAR	Independent	882
+Assam - Udharbond	APARNA TEWARI	Samajwadi Party	542
+Assam - Udharbond	MOINUL HOQUE LASKAR	Independent	474
+Assam - Udharbond	None of the Above	None of the Above	1745
+Assam - Lakhipur	RAJDEEP GOALA	Indian National Congress	60135
+Assam - Lakhipur	THOIBA SINGHA	Bharatiya Janata Party	35768
+Assam - Lakhipur	LALTHOMLIEN HMAR	Janata Dal (United)	8923
+Assam - Lakhipur	JOY SINGH CHATRI	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	1346
+Assam - Lakhipur	SANJAY KUMAR THAKUR	Independent	741
+Assam - Lakhipur	AJMUL HUSSAIN LASKAR	Independent	660
+Assam - Lakhipur	UJJAL DHUBI	Independent	456
+Assam - Lakhipur	None of the Above	None of the Above	1309
+Assam - Barkhola	KISHOR NATH	Bharatiya Janata Party	36482
+Assam - Barkhola	MISBAHUL ISLAM LASKAR	Independent	36440
+Assam - Barkhola	DR. RUMI NATH	Indian National Congress	21946
+Assam - Barkhola	JAHURUL ISLAM BARBHUIYA	All India United Democratic Front	4051
+Assam - Barkhola	CHUNILAL BHATTACHARJEE	Communist Party of India (Marxist)	2438
+Assam - Barkhola	BADRUL ISLAM MAZUMDER	Independent	619
+Assam - Barkhola	ANAM UDDIN MAZUMDER	Independent	473
+Assam - Barkhola	NAZMUL HOQUE LASKAR	Independent	464
+Assam - Barkhola	None of the Above	None of the Above	1621
+Assam - Katigorah	AMAR CHAND JAIN	Bharatiya Janata Party	59764
+Assam - Katigorah	KHALIL UDDIN MAZUMDER	All India United Democratic Front	50956
+Assam - Katigorah	ATAUR RAHMAN MAZARBHUIYA	Indian National Congress	16418
+Assam - Katigorah	TRAYABASHI DAS	Independent	1949
+Assam - Katigorah	MOINUL HOQUE	Communist Party of India	1372
+Assam - Katigorah	SAMUJJAL DAS	Independent	906
+Assam - Katigorah	HANIF ALOM MAZARBHUIYA	Independent	826
+Assam - Katigorah	ALA UDDIN CHOUDHURY	Samajwadi Party	552
+Assam - Katigorah	SALEH AHMED TALUKDAR	Independent	541
+Assam - Katigorah	ARUN KARMAKAR	Independent	425
+Assam - Katigorah	RAFIQUE UZZAMAN LASKAR	Independent	356
+Assam - Katigorah	MAHENDRA SINHA	Independent	284
+Assam - Katigorah	SUJATA SINHA	Jan Congress Party	273
+Assam - Katigorah	DIPAK LAL DAS	Independent	184
+Assam - Katigorah	None of the Above	None of the Above	906
+Assam - Haflong	BIR BHADRA HAGJER	Bharatiya Janata Party	52037
+Assam - Haflong	NIRMAL LANGTHASA	Indian National Congress	43731
+Assam - Haflong	MAYASING DAULAGUPU	Independent	2893
+Assam - Haflong	NEIKHOL HAOLAI CHANGSAN	All India United Democratic Front	2723
+Assam - Haflong	None of the Above	None of the Above	1111
+Assam - Bokajan	NUMAL MOMIN	Bharatiya Janata Party	40170
+Assam - Bokajan	KLENGDOON ENGTI	Indian National Congress	35426
+Assam - Bokajan	JAGAT SING ENGTI	Independent	25388
+Assam - Bokajan	DANIEL MOMIN	National People's Party	1628
+Assam - Bokajan	SANJAY KEMPRAI	Independent	1441
+Assam - Bokajan	BIKHA TOKBI	Jan Congress Party	959
+Assam - Bokajan	None of the Above	None of the Above	2144
+Assam - Howraghat	JOY RAM ENGLENG	Bharatiya Janata Party	43378
+Assam - Howraghat	KHORSING ENGTI	Indian National Congress	36987
+Assam - Howraghat	CHOMANG KRO	Independent	15899
+Assam - Howraghat	None of the Above	None of the Above	1906
+Assam - Diphu	SUM RONGHANG	Bharatiya Janata Party	64421
+Assam - Diphu	BIDYA SING ENGLENG	Indian National Congress	36185
+Assam - Diphu	DR. JAYANTA RONGPI	Independent	31647
+Assam - Diphu	DIPENDRA RONGPI	Lok Jan Shakti Party	1975
+Assam - Diphu	MARY KRAMSAPI	Jan Congress Party	1231
+Assam - Diphu	None of the Above	None of the Above	2803
+Assam - Baithalangso	DR.MANSING RONGPI	Indian National Congress	62596
+Assam - Baithalangso	ARUN TERANG	Bharatiya Janata Party	53077
+Assam - Baithalangso	HOLIRAM TERANG	Independent	25171
+Assam - Baithalangso	DHONSING HANSE	Jan Congress Party	2285
+Assam - Baithalangso	None of the Above	None of the Above	2981
+Assam - Mankachar	DR. MOTIUR ROHMAN MONDAL	Indian National Congress	54181
+Assam - Mankachar	MD. AMINUL ISLAM	All India United Democratic Front	49868
+Assam - Mankachar	ZABED ISLAM	Independent	48358
+Assam - Mankachar	ABDUL SALAM SHAH	Bharatiya Janata Party	8490
+Assam - Mankachar	AMINUL ISLAM	Independent	6718
+Assam - Mankachar	RUKUNUR ZAMAN	Independent	1399
+Assam - Mankachar	PAHCHAN ALI	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	1186
+Assam - Mankachar	MOSTAQUE MD MOKSEDUR HASSAN	Samajwadi Party	590
+Assam - Mankachar	None of the Above	None of the Above	835
+Assam - Salmara South	WAZED ALI CHOUDHURY	Indian National Congress	80066
+Assam - Salmara South	BADRUDDIN AJMAL	All India United Democratic Front	63343
+Assam - Salmara South	SHIRAJ HUSSAIN	Bharatiya Janata Party	1954
+Assam - Salmara South	DEWAN JOYNAL ABEDIN	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	1153
+Assam - Salmara South	None of the Above	None of the Above	581
+Assam - Dhubri	NAJRUL HOQUE	All India United Democratic Front	60933
+Assam - Dhubri	NAZIBUL UMAR	Independent	36847
+Assam - Dhubri	DR. DEBAMOY SANYAL	Bharatiya Janata Party	33648
+Assam - Dhubri	ABEDUR ZAMAN	Indian National Congress	13126
+Assam - Dhubri	RASUL HOQUE	Independent	3486
+Assam - Dhubri	ALI HUSSAIN	Independent	975
+Assam - Dhubri	SOPIAR RAHMAN	Communist Party of India (Marxist)	669
+Assam - Dhubri	AZHAR HUSSAIN	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	552
+Assam - Dhubri	MUKTA BEGUM	Republican Party of India (A)	406
+Assam - Dhubri	BAHARUL SK.	Rashtriya Secular Congress	312
+Assam - Dhubri	None of the Above	None of the Above	1069
+Assam - Gauripur	NIJANUR RAHMAN	All India United Democratic Front	73423
+Assam - Gauripur	BANENDRA KUMAR MUSHAHARY	Bodoland Peoples Front	53512
+Assam - Gauripur	SUSHIL KUMAR ROY	Indian National Congress	23102
+Assam - Gauripur	SUKUMAR ROY	Independent	5420
+Assam - Gauripur	ABDUR RAZZAQUE SHEIKH	Independent	768
+Assam - Gauripur	SUNIL DAS	Independent	669
+Assam - Gauripur	MOINUL HOQUE	Independent	595
+Assam - Gauripur	HELIM ZAMAN	Rashtriya Secular Congress	539
+Assam - Gauripur	BIKROMJIT ROY	Independent	534
+Assam - Gauripur	MD. MAHIJUR RAHMAN	The National Road Map Party of India	487
+Assam - Gauripur	MIR HUSSAIN SARKAR	Republican Party of India (A)	301
+Assam - Gauripur	None of the Above	None of the Above	1447
+Assam - Golakganj	ASHWINI RAY SARKAR	Bharatiya Janata Party	74644
+Assam - Golakganj	ABDUS SOBAHAN ALI SARKAR	Indian National Congress	68253
+Assam - Golakganj	SAFER ALI AHMED	All India United Democratic Front	16843
+Assam - Golakganj	JALAL UDDIN KHAN	Independent	814
+Assam - Golakganj	None of the Above	None of the Above	1001
+Assam - BILASIPARA WEST	HAFIZ BASHIR AHMED	All India United Democratic Front	44407
+Assam - BILASIPARA WEST	ALI AKBAR MIAH	Independent	33205
+Assam - BILASIPARA WEST	SABANA AKTAR	Indian National Congress	25515
+Assam - BILASIPARA WEST	ALI AZOM SHEIKH	Asom Gana Parishad	14688
+Assam - BILASIPARA WEST	GIAS UDDIN AHMED	Communist Party of India	6792
+Assam - BILASIPARA WEST	BIPLAB MUKHERJEE	Independent	5812
+Assam - BILASIPARA WEST	ATOWAR HUSSAIN	Independent	1997
+Assam - BILASIPARA WEST	SAIFUL ISLAM	Independent	1412
+Assam - BILASIPARA WEST	SHEIKH MONSHUR RAHMAN	Independent	616
+Assam - BILASIPARA WEST	MOHAR UDDIN MONDAL	Samajwadi Party	577
+Assam - BILASIPARA WEST	AFZALUR RAHMAN	Republican Party of India (A)	498
+Assam - BILASIPARA WEST	AJMIRA AKTAR	Jan Congress Party	492
+Assam - BILASIPARA WEST	PRAKRITA KUMAR N ATH	Independent	486
+Assam - BILASIPARA WEST	YOUSUB ALI AHMED	Indian Union Muslim League	250
+Assam - BILASIPARA WEST	None of the Above	None of the Above	766
+Assam - BILASIPARA EAST	ASHOK KUMAR SINGHI	Bharatiya Janata Party	59206
+Assam - BILASIPARA EAST	AMRIT BADSHA	Indian National Congress	54110
+Assam - BILASIPARA EAST	MOSHLEM UDDIN CHOUDHURY	All India United Democratic Front	43213
+Assam - BILASIPARA EAST	ANWAR HUSSAIN	Independent	4941
+Assam - BILASIPARA EAST	SIDDIQUE HUSSEIN	Independent	1047
+Assam - BILASIPARA EAST	AMARENDRA NATH	Independent	749
+Assam - BILASIPARA EAST	MARTIAL RUSSEL	Independent	733
+Assam - BILASIPARA EAST	NISHIL KUMAR RAY	Independent	720
+Assam - BILASIPARA EAST	TRIDIP PATI SINGHA	Independent	700
+Assam - BILASIPARA EAST	AMZAD HUSSEIN	Samajwadi Party	500
+Assam - BILASIPARA EAST	DR. ASHWIN KUMAR MAHANTA	Independent	406
+Assam - BILASIPARA EAST	MOMINUR ALI SHEIKH	Republican Party of India (A)	340
+Assam - BILASIPARA EAST	None of the Above	None of the Above	1073
+Assam - Gossaigaon	MAJENDRA NARZARY	Bodoland Peoples Front	45517
+Assam - Gossaigaon	RAVI SANKAR KASIREDDY	All India United Democratic Front	39476
+Assam - Gossaigaon	ASHIM HASDA	Indian National Congress	32187
+Assam - Gossaigaon	SOMNATH NARZARY	Independent	17924
+Assam - Gossaigaon	WILSON HASDA	Independent	3786
+Assam - Gossaigaon	MITHUN NATH	Republican Party of India (A)	1199
+Assam - Gossaigaon	RAJENDRA MUSHAHARY	Independent	969
+Assam - Gossaigaon	None of the Above	None of the Above	1482
+Assam - Kokrajhar West	RABIRAM NARZARY	Bodoland Peoples Front	64423
+Assam - Kokrajhar West	DAHIT CHANDRA BRAHMA	All India United Democratic Front	47083
+Assam - Kokrajhar West	URKHAO GWRA BRAHMA	Independent	18629
+Assam - Kokrajhar West	NILIMA BRAHMA	Independent	3545
+Assam - Kokrajhar West	BHADRESWAR BRAHMA	Independent	1437
+Assam - Kokrajhar West	MUKUNDA KOCH	Independent	1116
+Assam - Kokrajhar West	SUBHADRA NARZARY	Independent	1044
+Assam - Kokrajhar West	SUJILA BASUMATARY	Independent	977
+Assam - Kokrajhar West	ARUNA BRAHMA	Independent	775
+Assam - Kokrajhar West	RANJOY KR. BRAHMA	Independent	627
+Assam - Kokrajhar West	None of the Above	None of the Above	1285
+Assam - Kokrajhar East	PRAMILA RANI BRAHMA	Bodoland Peoples Front	76496
+Assam - Kokrajhar East	PRATIBHA BRAHMA	Independent	36405
+Assam - Kokrajhar East	MANU BORGAYARY	All India United Democratic Front	12588
+Assam - Kokrajhar East	BASANTA KUMAR MEDHI	Independent	6994
+Assam - Kokrajhar East	AJAY KUMAR NARZARY	Independent	1816
+Assam - Kokrajhar East	RAJESH NARZARY	Independent	1642
+Assam - Kokrajhar East	None of the Above	None of the Above	2288
+Assam - Sidli	CHANDAN BRAHMA	Bodoland Peoples Front	66037
+Assam - Sidli	RWNGWRA NARZARY	Independent	57049
+Assam - Sidli	DILIP KUMAR SARANIA	Independent	21601
+Assam - Sidli	PANKAJ ISLARY	All India United Democratic Front	8083
+Assam - Sidli	PHALMARSTON BRAHMA	Independent	1548
+Assam - Sidli	None of the Above	None of the Above	2929
+Assam - Bongaigaon	PHANI BHUSAN CHOUDHURY	Asom Gana Parishad	77292
+Assam - Bongaigaon	SHANKAR PRASAD RAY	Indian National Congress	45972
+Assam - Bongaigaon	DR. ITESH BORDOLOI	Independent	7087
+Assam - Bongaigaon	DHIRABATI CHOUDHURY	Independent	1902
+Assam - Bongaigaon	PRABHAT BAISNAB	Independent	1404
+Assam - Bongaigaon	FULBAR ALI MOLYA	Independent	1099
+Assam - Bongaigaon	DEEPAK KUMAR DAS	Independent	815
+Assam - Bongaigaon	None of the Above	None of the Above	2376
+Assam - Bijni	KAMALSHING NARZARY	Bodoland Peoples Front	29240
+Assam - Bijni	AJAY KUMAR RAY	Bharatiya Gana Parishad	27562
+Assam - Bijni	SANTOSH KHAKHLARY	Independent	19350
+Assam - Bijni	KAMALESWAR RAY	All India United Democratic Front	18197
+Assam - Bijni	KHALILUR RAHMAN	Independent	12619
+Assam - Bijni	GAJENDRA BARMAN	Communist Party of India (Marxist)	5991
+Assam - Bijni	BISWAJIT RAY	Indian National Congress	3861
+Assam - Bijni	PHILIP MARANDI	Jharkhand Disom Party	1236
+Assam - Bijni	None of the Above	None of the Above	1306
+Assam - Abhayapuri North	ABDUL HAI NAGORI	Indian National Congress	48354
+Assam - Abhayapuri North	BHUPEN ROY	Asom Gana Parishad	46211
+Assam - Abhayapuri North	ABDUL BATIN KHANDAKAR	All India United Democratic Front	32699
+Assam - Abhayapuri North	SWAPAN MUKHERJEE	Independent	3968
+Assam - Abhayapuri North	TAREN CHANDRA RAY	Communist Party of India (Marxist)	3315
+Assam - Abhayapuri North	BHAGIRATH RAY	Republican Party of India (A)	836
+Assam - Abhayapuri North	SAMSUL HOQUE	Independent	501
+Assam - Abhayapuri North	None of the Above	None of the Above	803
+Assam - Abhayapuri South (SC)	ANANTA KUMAR MALO	All India United Democratic Front	51525
+Assam - Abhayapuri South (SC)	CHANDAN KUMAR SARKAR	Indian National Congress	51334
+Assam - Abhayapuri South (SC)	RABIN BANIKYA	Asom Gana Parishad	50957
+Assam - Abhayapuri South (SC)	NIRMALENDU BANIKYA	Independent	1602
+Assam - Abhayapuri South (SC)	ASHOK DUTTA	Republican Party of India (A)	1304
+Assam - Abhayapuri South (SC)	DHIREN MAJUMDAR	Jan Congress Party	694
+Assam - Abhayapuri South (SC)	None of the Above	None of the Above	1113
+Assam - Dudhnai	DIPAK KUMAR RABHA	Bharatiya Janata Party	79983
+Assam - Dudhnai	SIBCHARAN BASUMATARY	Indian National Congress	51316
+Assam - Dudhnai	MEERA BASUMATARY	All India United Democratic Front	11305
+Assam - Dudhnai	KANGKAN KHAKHALARY	Independent	7278
+Assam - Dudhnai	DEBEN DAIMARY	Independent	2936
+Assam - Dudhnai	BHUPENDRA RABHA	Communist Party of India	1567
+Assam - Dudhnai	THARMAN MOMIN	Independent	1413
+Assam - Dudhnai	RAJESWAR RABHA	Republican Party of India (A)	1210
+Assam - Dudhnai	REXSTAR B. SANGMA	Independent	1054
+Assam - Dudhnai	STINDRO MARAK	Independent	850
+Assam - Dudhnai	None of the Above	None of the Above	1142
+Assam - Goalpara East	ABUL KALAM RASHEED ALAM	Indian National Congress	57374
+Assam - Goalpara East	GAURANGA PRASAD DAS	Bharatiya Janata Party	54793
+Assam - Goalpara East	SHADEED MAZUMDER	All India United Democratic Front	27778
+Assam - Goalpara East	ABUL KALAM HUSSAIN	Independent	12138
+Assam - Goalpara East	ELBARTH MARAK	All India Trinamool Congress	7172
+Assam - Goalpara East	PUNAM CHAND SHARMA (LILU)	National People's Party	6710
+Assam - Goalpara East	KOFIL UDDIN AHMED	Nationalist Congress Party	971
+Assam - Goalpara East	BIRMAL RAY	Independent	770
+Assam - Goalpara East	SOLEMAN ALI	Bhartiya Rashtrawadi Party	592
+Assam - Goalpara East	NAREN SANKAR RABHA	Independent	495
+Assam - Goalpara East	MEHBUBAR RAHMAN	Republican Party of India (A)	483
+Assam - Goalpara East	MUJAHARUL ISLAM	Independent	447
+Assam - Goalpara East	ABDUL HAMID	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	420
+Assam - Goalpara East	None of the Above	None of the Above	1064
+Assam - Goalpara West	ABDUR RASHID MANDAL	Indian National Congress	61007
+Assam - Goalpara West	SHEIKH SHAH ALAM	All India United Democratic Front	36668
+Assam - Goalpara West	JABEEN BARBHUIYAN	Bharatiya Janata Party	32432
+Assam - Goalpara West	ANOWAR HUSSAIN	Asom Gana Parishad	1154
+Assam - Goalpara West	MOHIBUL ISLAM	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	1016
+Assam - Goalpara West	ZESMINA KHATUN	All India Trinamool Congress	582
+Assam - Goalpara West	MIZANUR RAHMAN	Independent	523
+Assam - Goalpara West	KHANINDRA CHANDRA NATH	Republican Party of India (A)	489
+Assam - Goalpara West	BABLI GOSWAMI CHAKRABORTY	Independent	480
+Assam - Goalpara West	ALI AKBAR	Jai Maha Bharath Party	457
+Assam - Goalpara West	JALI BEGUM	Independent	289
+Assam - Goalpara West	JOYNAL ABEDIN	National People's Party	269
+Assam - Goalpara West	GIAS UDDIN AHMED	New All India Congress Party	252
+Assam - Goalpara West	None of the Above	None of the Above	646
+Assam - Jaleswar	SAHAB UDDIN AHMED	All India United Democratic Front	56003
+Assam - Jaleswar	AFTAB UDDIN MOLLAH	Independent	49341
+Assam - Jaleswar	ABDUR RAHIM ZIBRAN	Bharatiya Janata Party	11535
+Assam - Jaleswar	ABUL FAZAL NASIR UDDIN MOLLAH	Indian National Congress	6567
+Assam - Jaleswar	ABDUL WAHAB SHEIKH	Bhartiya Rashtrawadi Party	1433
+Assam - Jaleswar	KHAIRUL ISLAM MONDAL	Independent	1355
+Assam - Jaleswar	ABDUS SALAM	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	761
+Assam - Jaleswar	INNAS ALI	Independent	690
+Assam - Jaleswar	None of the Above	None of the Above	627
+Assam - Sorbhog	RANJEET KUMAR DASS	Bharatiya Janata Party	56454
+Assam - Sorbhog	ANURUPA HANNAN	Indian National Congress	36928
+Assam - Sorbhog	MANORANJAN TALUKDAR	Communist Party of India (Marxist)	29082
+Assam - Sorbhog	PRADIP DEB NATH	Independent	19387
+Assam - Sorbhog	SAMSUL HOQUE	All India United Democratic Front	17504
+Assam - Sorbhog	ANILANANDA PATHAK	Independent	3755
+Assam - Sorbhog	HIMANGSHU BHARALI	Independent	1181
+Assam - Sorbhog	MOHIDUL ISLAM	Independent	1010
+Assam - Sorbhog	NIRMAL KUMAR AGARWALA	Independent	630
+Assam - Sorbhog	IKBAL HUSSAIN	The National Road Map Party of India	602
+Assam - Sorbhog	MANJU SHABNAM	Republican Party of India (A)	466
+Assam - Sorbhog	MUKTAR HUSSAIN	Jan Congress Party	435
+Assam - Sorbhog	SUBAL CH. DAS	Bharatiya Gana Parishad	414
+Assam - Sorbhog	ABDUL HAKIM AHMED	Independent	370
+Assam - Sorbhog	None of the Above	None of the Above	1129
+Assam - Bhabanipur	ABUL KALAM AZAD	All India United Democratic Front	28383
+Assam - Bhabanipur	PHANIHDAR TALUKDAR	Independent	25944
+Assam - Bhabanipur	MANOJ BARUAH	Bharatiya Janata Party	22380
+Assam - Bhabanipur	MILAN BARO	Independent	14500
+Assam - Bhabanipur	KANAK CHANDRA BARO	Independent	8748
+Assam - Bhabanipur	RAJIB DAS	Indian National Congress	6620
+Assam - Bhabanipur	KAZI SHAMSUL ARFIN	Rashtriya Secular Congress	921
+Assam - Bhabanipur	BHUPENDRA KALITA	Independent	511
+Assam - Bhabanipur	SATYACHARAN ARJYA	Republican Party of India (A)	447
+Assam - Bhabanipur	ANOWAR ISLAM AKAND	Rashtriya Jankranti Party	401
+Assam - Bhabanipur	HAIDAR ALI	Independent	378
+Assam - Bhabanipur	MESER MOLLAH	Independent	341
+Assam - Bhabanipur	None of the Above	None of the Above	706
+Assam - Patacharkuchi	PABINDRA DEKA	Asom Gana Parishad	64558
+Assam - Patacharkuchi	SAILEN KALITA	Indian National Congress	12582
+Assam - Patacharkuchi	KAMALESWAR MEDHI	Independent	12306
+Assam - Patacharkuchi	MANORANJAN DAS	Independent	8227
+Assam - Patacharkuchi	KARTIK DEKA	Independent	3134
+Assam - Patacharkuchi	BAIKUNTHA SARMA	Independent	960
+Assam - Patacharkuchi	PUSPAK DUTTA	Independent	936
+Assam - Patacharkuchi	NILIMA BHATTACHARJYA	Independent	846
+Assam - Patacharkuchi	None of the Above	None of the Above	1043
+Assam - Barpeta	GUNINDRA NATH DAS	Asom Gana Parishad	63563
+Assam - Barpeta	A.RAHIM AHMED	Indian National Congress	57753
+Assam - Barpeta	ABDUR RAHIM KHAN	All India United Democratic Front	37697
+Assam - Barpeta	SANJAY KUMAR DAS	Independent	936
+Assam - Barpeta	ATIKUR RAHMAN	Republican Party of India	820
+Assam - Barpeta	FARUK KHAN	Independent	774
+Assam - Barpeta	SORHAB HUSSAIN	Independent	672
+Assam - Barpeta	None of the Above	None of the Above	937
+Assam - Jania	ABDUL KHALEQUE	Indian National Congress	86930
+Assam - Jania	RAFIQUL ISLAM	All India United Democratic Front	57194
+Assam - Jania	BENAZIR ARFAN	Bharatiya Janata Party	6067
+Assam - Jania	MAINUL HOQUE	Communist Party of India (Marxist)	1976
+Assam - Jania	AMIR HUSSAIN	Rashtriya Secular Congress	769
+Assam - Jania	MD. SULTAN MAHMUD	Rashtriya Jankranti Party	506
+Assam - Jania	None of the Above	None of the Above	689
+Assam - Baghbar	SHERMAN ALI AHMED	Indian National Congress	73340
+Assam - Baghbar	SHEIKH ABDUL HAMID	All India United Democratic Front	29907
+Assam - Baghbar	RAJIB AHMED	Independent	18357
+Assam - Baghbar	MD. ABDUL BARIK	Bharatiya Janata Party	1418
+Assam - Baghbar	ALTAF HUSSAIN	Janata Congress Party of Bharat Varsha	1022
+Assam - Baghbar	JAMAL UDDIN	Bhartiya Rashtrawadi Party	868
+Assam - Baghbar	JAHIDUL ISLAM	Independent	642
+Assam - Baghbar	REJAUL KARIM	Republican Party of India	435
+Assam - Baghbar	ALI ASGAR	All India Trinamool Congress	411
+Assam - Baghbar	None of the Above	None of the Above	974
+Assam - Sarukhetri	JAKIR HUSSAIN SIKDAR	Indian National Congress	70062
+Assam - Sarukhetri	CHITTARANJAN BARMAN	Asom Gana Parishad	45815
+Assam - Sarukhetri	ALI HOSSAIN	All India United Democratic Front	21460
+Assam - Sarukhetri	TARA PRASAD DAS	Independent	9623
+Assam - Sarukhetri	PEARUL ISLAM AHMED	Communist Party of India (Marxist)	3626
+Assam - Sarukhetri	HARESWAR DEKA	Independent	1308
+Assam - Sarukhetri	MATIAR RAHMAN	The National Road Map Party of India	836
+Assam - Sarukhetri	HEMANTA KALITA	Bharatiya Gana Parishad	523
+Assam - Sarukhetri	MD. ANOWAR ISLAM AKAND	Rashtriya Jankranti Party	516
+Assam - Sarukhetri	JABIDUR RAHMAN KHAN	Republican Party of India	505
+Assam - Sarukhetri	ARUN DAS	Nationalist Congress Party	442
+Assam - Sarukhetri	None of the Above	None of the Above	776
+Assam - Chenga	SUKUR ALI AHMED	Indian National Congress	51882
+Assam - Chenga	MONOWARA KHATUN	All India United Democratic Front	28525
+Assam - Chenga	GUNAJIT ADHIKARY	Bharatiya Janata Party	25902
+Assam - Chenga	SHAFIKUL HOQUE	All India Trinamool Congress	2190
+Assam - Chenga	SURJYA MALLIQUE	Independent	639
+Assam - Chenga	None of the Above	None of the Above	667
+Assam - Boko SC	NANDITA DAS	Indian National Congress	69986
+Assam - Boko SC	JYOTI PRASAD DAS	Asom Gana Parishad	52392
+Assam - Boko SC	GOPI NATH DAS	All India United Democratic Front	42338
+Assam - Boko SC	DR. GHANASHYAM DAS	Independent	5794
+Assam - Boko SC	ANIRBAN DAS	Independent	2976
+Assam - Boko SC	NITISH RANJAN DAS	Independent	1148
+Assam - Boko SC	None of the Above	None of the Above	1851
+Assam - Chaygaon	REKIBUDDIN AHMED	Indian National Congress	72211
+Assam - Chaygaon	DR. KAMALA KANTA KALITA	Asom Gana Parishad	64390
+Assam - Chaygaon	DERAJUDDIN AHMED	All India United Democratic Front	4984
+Assam - Chaygaon	BECKNIUR K. MARAK	Independent	2225
+Assam - Chaygaon	None of the Above	None of the Above	1601
+Assam - Palasbari	SRI PRANAB KALITA	Bharatiya Janata Party	75210
+Assam - Palasbari	NABAJYOTI TALUKDAR	Indian National Congress	26468
+Assam - Palasbari	JATIN MALI	Independent	15755
+Assam - Palasbari	KUSHAL CHANDRA SARMA	Independent	991
+Assam - Palasbari	JURI MALI	Liberal Democratic Party	980
+Assam - Palasbari	PALASH JYOTI DAS	Rashtriya Jankranti Party	467
+Assam - Palasbari	None of the Above	None of the Above	1564
+Assam - Jalukbari	HIMANTA BISWA SARMA	Bharatiya Janata Party	118390
+Assam - Jalukbari	NIREN DEKA	Indian National Congress	32455
+Assam - Jalukbari	RAMEN CHANDRA LAHKAR	Independent	636
+Assam - Jalukbari	AMIT BASFOR	Rashtriya Jankranti Party	614
+Assam - Jalukbari	SADEK ALI	All India Trinamool Congress	371
+Assam - Jalukbari	NABA KUMAR NATH	Independent	290
+Assam - Jalukbari	BAPI AICH	Bharatiya Gana Parishad	180
+Assam - Jalukbari	MOINUL HOQUE	Bhartiya Rashtrawadi Party	168
+Assam - Jalukbari	NATHUNI DAS	Republican Party of India (A)	164
+Assam - Jalukbari	MAKANI BARMAN	Rashtriya Pragati Party	164
+Assam - Jalukbari	None of the Above	None of the Above	1074
+Assam - Dispur	ATUL BORA	Bharatiya Janata Party	198378
+Assam - Dispur	AKON BORA	Indian National Congress	68181
+Assam - Dispur	SANGITA DAS	Communist Party of India (Marxist)	1944
+Assam - Dispur	HARESWAR RAHANG	Independent	1756
+Assam - Dispur	PRADIP BARUAH	Nationalist Congress Party	1259
+Assam - Dispur	BIDYUT BORA	All India Trinamool Congress	1022
+Assam - Dispur	DADHISWAR PHANGCHO	Independent	717
+Assam - Dispur	BISHNU PRASAD SARMA	Independent	614
+Assam - Dispur	GOBINDA DAS	Independent	551
+Assam - Dispur	RIJUMONI GOGOI	Bhartiya Rashtrawadi Party	485
+Assam - Dispur	DR. JITENDRA KUMAR TALUKDAR	Liberal Democratic Party	420
+Assam - Dispur	DR. FARUK AHMED BHUYAN	Samajwadi Party	384
+Assam - Dispur	BANDANA BARMAN BARUAH	Rashtriya Jankranti Party	336
+Assam - Dispur	PARAG KOCH	Republican Party of India (A)	222
+Assam - Dispur	None of the Above	None of the Above	2600
+Assam - Gauhati East	SIDDHARTHA BHATTACHARYA	Bharatiya Janata Party	127602
+Assam - Gauhati East	BOBBEETA SHARMA	Indian National Congress	30965
+Assam - Gauhati East	DR. AVIJIT CHAKRABORTY	Bharatiya Gana Parishad	591
+Assam - Gauhati East	PRODYUT KUMAR BORA	Liberal Democratic Party	499
+Assam - Gauhati East	RAKTIMAVA SWAMI	Independent	377
+Assam - Gauhati East	BIPUL KUMAR TALUKDAR	Independent	243
+Assam - Gauhati East	BHUPEN SARMA	Independent	196
+Assam - Gauhati East	PRADIP KUMAR DAS	Rashtriya Secular Congress	189
+Assam - Gauhati East	SUBHASH CHANDRA GUPTA	The National Road Map Party of India	182
+Assam - Gauhati East	KAZI NEKIB AHMED	Independent	181
+Assam - Gauhati East	PRANAB JYOTI DAS	Republican Party of India (A)	137
+Assam - Gauhati East	BANDANA BARMAN BARUAH	Rashtriya Jankranti Party	129
+Assam - Gauhati East	None of the Above	None of the Above	1288
+Assam - Gauhati West	RAMENDRA NARAYAN KALITA	Asom Gana Parishad	132184
+Assam - Gauhati West	DR. JURY SHARMA BORDOLOI	Indian National Congress	42274
+Assam - Gauhati West	HEMANTA TALUKDAR	Independent	12397
+Assam - Gauhati West	PRANAB SARMAH	Independent	5838
+Assam - Gauhati West	DEBA KUMAR BARMAN	All India Trinamool Congress	4269
+Assam - Gauhati West	JAYANTA BORO	Independent	1771
+Assam - Gauhati West	MD. JAVED HUSSAIN TANWAR	The National Road Map Party of India	1741
+Assam - Gauhati West	MD. IFTAZUR RAHMAN	Independent	763
+Assam - Gauhati West	SUBIMAL BISWAS	Bharatiya Gana Parishad	684
+Assam - Gauhati West	MITAN SARKAR	Lok Jan Shakti Party	613
+Assam - Gauhati West	PULAK RANJAN CHAKRABARTY	Shivsena	612
+Assam - Gauhati West	HASNUR ALI	Rashtriya Pragati Party	496
+Assam - Gauhati West	MANAS PRATIM DAS	Rashtriya Jankranti Party	398
+Assam - Gauhati West	None of the Above	None of the Above	2280
+Assam - Hajo	SUMAN HARIPRIYA	Bharatiya Janata Party	55096
+Assam - Hajo	DULU AHMED	Indian National Congress	46188
+Assam - Hajo	NURUL HUSSAIN	Asom Gana Parishad	16608
+Assam - Hajo	DWIPEN PATHAK	All India Trinamool Congress	6673
+Assam - Hajo	MUJIBUR RAHMAN	All India United Democratic Front	3567
+Assam - Hajo	HEMANTA KALITA	Independent	1380
+Assam - Hajo	RAMANI MALAKAR	Independent	1017
+Assam - Hajo	IMDADUR RAHMAN	National People's Party	696
+Assam - Hajo	RAMEN CHANDRA LAHKAR	Independent	556
+Assam - Hajo	TRIPTI KANA MAZUMDAR CHOUDHURY	Independent	501
+Assam - Hajo	TAHER ALI TALUKDAR	Independent	369
+Assam - Hajo	MD. REKIBUDDIN AHMED	Samajwadi Party	338
+Assam - Hajo	MAKANI BARMAN	Rashtriya Pragati Party	301
+Assam - Hajo	MOHAN CHANDRA MALAKAR	Liberal Democratic Party	261
+Assam - Hajo	TABIBAR RAHMAN	Rashtriya Secular Congress	240
+Assam - Hajo	TAIZUDDIN AHMED	Independent	214
+Assam - Hajo	None of the Above	None of the Above	1163
+Assam - Kamalpur	SATYABRAT KALITA	Asom Gana Parishad	78170
+Assam - Kamalpur	PRANJIT CHOUDHURY	Indian National Congress	41261
+Assam - Kamalpur	MATLEBUDDIN AHMED	Independent	6882
+Assam - Kamalpur	OMAR RASHID	Independent	3400
+Assam - Kamalpur	MADHABI DEKA	All India Trinamool Congress	1840
+Assam - Kamalpur	HARMOHAN CHANDRA RAJBONGSHI	Independent	1021
+Assam - Kamalpur	RAMEN CHANDRA MAHANTA	Jai Maha Bharath Party	650
+Assam - Kamalpur	SAIDUR RAHMAN	Independent	505
+Assam - Kamalpur	REKIBAR RAHMAN	Independent	441
+Assam - Kamalpur	SISIR KUMAR KAKATI	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	361
+Assam - Kamalpur	None of the Above	None of the Above	939
+Assam - Rangia	BHABESH KALITA	Bharatiya Janata Party	58353
+Assam - Rangia	GHANASHYAM KALITA	Indian National Congress	26286
+Assam - Rangia	MRINAL DEKA	Independent	17772
+Assam - Rangia	ABDUL SAMAD CHOUDHURY	All India United Democratic Front	14411
+Assam - Rangia	ANANTA DEKA	Communist Party of India (Marxist)	12261
+Assam - Rangia	THANESWAR BORO	Independent	5358
+Assam - Rangia	SAMSUL HAQUE	Independent	4472
+Assam - Rangia	PABITRA BARO	Independent	1230
+Assam - Rangia	RAJIB KAKOTI	Independent	1066
+Assam - Rangia	BISWAJIT BRAHMA	Independent	616
+Assam - Rangia	BABUL BARO	Independent	570
+Assam - Rangia	None of the Above	None of the Above	892
+Assam - Tamulpur	EMMANUEL MOSAHARY	Bodoland Peoples Front	63031
+Assam - Tamulpur	RABINDRA BISWAS	Indian National Congress	43084
+Assam - Tamulpur	CHANDI BASUMATARY	Independent	21704
+Assam - Tamulpur	JAMIR UDDIN AHMED	Independent	5331
+Assam - Tamulpur	GIRISH CHANDRA MAHANTA	Independent	3532
+Assam - Tamulpur	MANDAL BASKEY	Independent	3120
+Assam - Tamulpur	HIRANYA CHOUDHURY	Independent	1697
+Assam - Tamulpur	DERHAGRA MOCHAHARY	Liberal Democratic Party	1527
+Assam - Tamulpur	RANJIT KR BISWAS	Republican Party of India (A)	1339
+Assam - Tamulpur	None of the Above	None of the Above	2674
+Assam - Nalbari	ASHOK SARMA	Bharatiya Janata Party	99131
+Assam - Nalbari	PRADYUT KUMAR BHUYAN	Indian National Congress	46087
+Assam - Nalbari	KHURSHID ALAM	Independent	3608
+Assam - Nalbari	SHRISTI SARMA	Independent	3028
+Assam - Nalbari	MAHESWAR DUTTA	Communist Party of India (Marxist)	1676
+Assam - Nalbari	HARINARAYAN DAS	Independent	698
+Assam - Nalbari	JYOTIRMAY GOSWAMI	Independent	611
+Assam - Nalbari	MAHARISHI PARASAR CHAKRAVARTY	Independent	398
+Assam - Nalbari	GOPI BARUAH	Independent	271
+Assam - Nalbari	JITEN KALITA	Janata Dal (United)	229
+Assam - Nalbari	MUNINDRA DOLEY	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	222
+Assam - Nalbari	None of the Above	None of the Above	1576
+Assam - Barkhetry	NARAYAN DEKA	Bharatiya Janata Party	69223
+Assam - Barkhetry	DIGANTA BARMAN	Indian National Congress	60610
+Assam - Barkhetry	MD. AKRAM HUSSAIN TALUKDAR	All India United Democratic Front	9950
+Assam - Barkhetry	KAMALESH DEKA	Independent	2316
+Assam - Barkhetry	RAAJU BARMAN	All India Trinamool Congress	874
+Assam - Barkhetry	DEEPAK KALITA	Jai Maha Bharath Party	670
+Assam - Barkhetry	BHUPEN TALUKDAR	Independent	551
+Assam - Barkhetry	MANOMATI DAS	Independent	475
+Assam - Barkhetry	BIPUL GOSWAMI	Independent	382
+Assam - Barkhetry	MANTU BARUAH	Independent	368
+Assam - Barkhetry	RAJU DEKA	Independent	347
+Assam - Barkhetry	BHUMIDHAR BARMAN	Liberal Democratic Party	255
+Assam - Barkhetry	None of the Above	None of the Above	782
+Assam - Dharmapur	CHANDRA MOHAN PATOWARY	Bharatiya Janata Party	70503
+Assam - Dharmapur	NILAMANI SEN DEKA	Indian National Congress	36560
+Assam - Dharmapur	DIPAK BARMAN	Independent	2194
+Assam - Dharmapur	SANKAR TALUKDAR	Rashtriya Jankranti Party	699
+Assam - Dharmapur	None of the Above	None of the Above	988
+Assam - Barama	MANESWAR BRAHMA	Bodoland Peoples Front	45289
+Assam - Barama	REKHA RANI DAS BORO	Independent	35493
+Assam - Barama	KATI RAM BARO	Independent	20870
+Assam - Barama	PANI RAM RABHA	Indian National Congress	14373
+Assam - Barama	BHUPEN DAS	Independent	1484
+Assam - Barama	None of the Above	None of the Above	1977
+Assam - Chapaguri	THANESWAR BASUMATARY	Bodoland Peoples Front	43250
+Assam - Chapaguri	SUJAN DAS	Independent	41769
+Assam - Chapaguri	HITESH BASUMATARY	Independent	27342
+Assam - Chapaguri	None of the Above	None of the Above	2058
+Assam - Panery	KAMALI BASUMATARI	Bodoland Peoples Front	38668
+Assam - Panery	NANDA RAM BARO	Independent	22866
+Assam - Panery	DURGADAS BORO	Indian National Congress	19089
+Assam - Panery	PRABHAT DAS PANIKA	Independent	12812
+Assam - Panery	SUDHENDU MOHAN TALUKDAR	Independent	3644
+Assam - Panery	BIKAN CHANDRA DEKA	Independent	3276
+Assam - Panery	MAHESH CHANDRA SARMA	Independent	1978
+Assam - Panery	DINA NATH DAS	Independent	1489
+Assam - Panery	SWARNALATA CHALIHA	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	1364
+Assam - Panery	None of the Above	None of the Above	2427
+Assam - Kalaigaon	MAHESWAR BARO	Bodoland Peoples Front	47206
+Assam - Kalaigaon	NATHU RAM BORO	All India United Democratic Front	29585
+Assam - Kalaigaon	MUKUNDA RAM CHOUDHURY	Asom Gana Parishad	24287
+Assam - Kalaigaon	BABUL BASUMATARY	Independent	11344
+Assam - Kalaigaon	INDRAJIT KUMAR SAIKIA	Indian National Congress	10367
+Assam - Kalaigaon	SUDHENDU MOHAN TALUKDAR	Bharatiya Gana Parishad	2238
+Assam - Kalaigaon	BRAJEN MAHANTA	Independent	1411
+Assam - Kalaigaon	RADHE SHYAM CHAUHAN	Independent	1140
+Assam - Kalaigaon	BIJOY DAS	Independent	783
+Assam - Kalaigaon	AROON BAROOA	New All India Congress Party	708
+Assam - Kalaigaon	DR. NAYAN MANI BHAGAWATI	Independent	634
+Assam - Kalaigaon	SUSHIL KUMAR SARMA	Lok Jan Shakti Party	594
+Assam - Kalaigaon	JITENDRA CHALIHA	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	531
+Assam - Kalaigaon	GOPAL SARKAR	Independent	484
+Assam - Kalaigaon	ABDUL SABUR	Independent	305
+Assam - Kalaigaon	None of the Above	None of the Above	1199
+Assam - Sipajhar	BINANDA KUMAR SAIKIA	Bharatiya Janata Party	65487
+Assam - Sipajhar	DR ZOII NATH SARMAH	Indian National Congress	53312
+Assam - Sipajhar	JAYANTA SAHARIA	Independent	10818
+Assam - Sipajhar	SYED ABDULLAH	All India United Democratic Front	2476
+Assam - Sipajhar	TRIDIB SARMA	Republican Party of India (A)	1033
+Assam - Sipajhar	REJAUL HOQUE	Independent	793
+Assam - Sipajhar	SARAT CHANDRA SARMA	Independent	780
+Assam - Sipajhar	THANESWAR DAS	Lok Jan Shakti Party	351
+Assam - Sipajhar	UMESH BANIA	Independent	339
+Assam - Sipajhar	PAHESWARI BARUA	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	242
+Assam - Sipajhar	AMIYA KUMAR DEKA	Independent	171
+Assam - Sipajhar	None of the Above	None of the Above	953
+Assam - Mangaldoi	GURUJYOTI DAS	Bharatiya Janata Party	73423
+Assam - Mangaldoi	BASANTA DAS	Indian National Congress	51378
+Assam - Mangaldoi	HIREN KR DAS	All India United Democratic Front	48417
+Assam - Mangaldoi	JITENDRA SARKAR	Independent	953
+Assam - Mangaldoi	BHUPEN CH. DAS	Lok Jan Shakti Party	874
+Assam - Mangaldoi	ARJUN CH. DAS	Independent	841
+Assam - Mangaldoi	JAGADISH CHANDRA SARKAR	Independent	466
+Assam - Mangaldoi	None of the Above	None of the Above	1384
+Assam - Dalgaon	ILIAS ALI	Indian National Congress	76607
+Assam - Dalgaon	MAZIBUR RAHMAN	All India United Democratic Front	74287
+Assam - Dalgaon	HABIBAR RAHMAN	Asom Gana Parishad	24714
+Assam - Dalgaon	SARIFUDDIN AHMED	Independent	1016
+Assam - Dalgaon	ABDUR RAHIM	Independent	926
+Assam - Dalgaon	MUSTAFA FAROOK AHMED	Independent	900
+Assam - Dalgaon	AHMED ALI	Lok Jan Shakti Party	707
+Assam - Dalgaon	None of the Above	None of the Above	1165
+Assam - Udalguri	RIHON DAIMARI	Bodoland Peoples Front	45037
+Assam - Udalguri	ANJALI PRABHA DAIMARI	Independent	20663
+Assam - Udalguri	DILIP KR. BARO	Independent	20204
+Assam - Udalguri	JAMAN SINGH BRAHMA	Indian National Congress	16343
+Assam - Udalguri	BIPUL NARZARY	Independent	3624
+Assam - Udalguri	SANTOSH MADAHI	Independent	1668
+Assam - Udalguri	None of the Above	None of the Above	2456
+Assam - Majbat	CHARAN BORO	Bodoland Peoples Front	48351
+Assam - Majbat	TEHARU GOUR	All India United Democratic Front	22133
+Assam - Majbat	RAPHAEL KUJUR	Indian National Congress	20577
+Assam - Majbat	RABINDRA BASUMATARY	Independent	8763
+Assam - Majbat	SAPNA DAIMARY	Independent	2841
+Assam - Majbat	GIRISH CHANDRA CHAUDHURY	Independent	2117
+Assam - Majbat	SUNIL SARKAR	Independent	1906
+Assam - Majbat	BALDEV CHOUHAN	Lok Jan Shakti Party	1276
+Assam - Majbat	LAL SOREN	Independent	1007
+Assam - Majbat	MANOJ KUMAR TAMULI	Independent	707
+Assam - Majbat	ABUL QUASIM	Independent	380
+Assam - Majbat	None of the Above	None of the Above	1974
+Assam - Dhekiajuli	ASHOK SINGHAL	Bharatiya Janata Party	71425
+Assam - Dhekiajuli	HABUL CHAKRABORTY	Indian National Congress	36430
+Assam - Dhekiajuli	DHANIRAM RAJOWAR	All India United Democratic Front	16690
+Assam - Dhekiajuli	BENUDHAR NATH	Independent	8142
+Assam - Dhekiajuli	RANJAY BASUMATARY	Independent	2972
+Assam - Dhekiajuli	JAHIRUL ISLAM	Independent	2164
+Assam - Dhekiajuli	SATRUGHNA SASONI	Independent	1603
+Assam - Dhekiajuli	MOHAN CH NAG	Independent	1159
+Assam - Dhekiajuli	MANORANJAN DAIMARI	Independent	1127
+Assam - Dhekiajuli	None of the Above	None of the Above	2368
+Assam - Barchalla	GANESH KUMAR LIMBU	Bharatiya Janata Party	53912
+Assam - Barchalla	TANKA BAHADUR RAI	Indian National Congress	30230
+Assam - Barchalla	BINA DAIMARI	All India United Democratic Front	23821
+Assam - Barchalla	NARAYAN SARMAH	Independent	8847
+Assam - Barchalla	BIPHAI MINJ	Independent	1216
+Assam - Barchalla	None of the Above	None of the Above	1778
+Assam - Tezpur	BRINDABAN GOSWAMI	Asom Gana Parishad	71170
+Assam - Tezpur	HIRANYA BHUYAN	Indian National Congress	36507
+Assam - Tezpur	SUKENDRA NATH	All India United Democratic Front	22295
+Assam - Tezpur	BIZIT SAIKIA	Independent	1096
+Assam - Tezpur	NAYAN MONI CHOUDHURY	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	855
+Assam - Tezpur	BHABANANDA DEKA	Independent	742
+Assam - Tezpur	SUJIT SARMA	Jai Maha Bharath Party	662
+Assam - Tezpur	MAHENDRA BHUYAN	Nationalist Congress Party	569
+Assam - Tezpur	None of the Above	None of the Above	1514
+Assam - Rangapara	PALLAB LOCHAN DAS	Bharatiya Janata Party	51597
+Assam - Rangapara	BHIMANANDA TANTI	Indian National Congress	28606
+Assam - Rangapara	BIJOY KUMAR TIRU	All India United Democratic Front	13281
+Assam - Rangapara	ROYAL SORENG	Communist Party of India (Marxist)	8033
+Assam - Rangapara	CHRISTOPHER DHANWAR	Independent	6415
+Assam - Rangapara	ABHIJIT HAZARIKA	Independent	3438
+Assam - Rangapara	JITENDRA KUMAR SHARMA	Independent	1362
+Assam - Rangapara	MITHU MALAKAR	Independent	1255
+Assam - Rangapara	ABBAS KHAN	Independent	687
+Assam - Rangapara	ARCHANA PAUL CHOUDHURY	Independent	490
+Assam - Rangapara	None of the Above	None of the Above	2321
+Assam - Sootea	PADMA HAZARIKA	Bharatiya Janata Party	60440
+Assam - Sootea	PRANESWAR BASUMATARY	Indian National Congress	58622
+Assam - Sootea	KHEMRAJ CHETRY	Communist Party of India (Marxist)	4914
+Assam - Sootea	JYOTI SUBBA	Independent	2484
+Assam - Sootea	MAHENDRA URANG	Independent	2112
+Assam - Sootea	ARUN NATH	Independent	1189
+Assam - Sootea	None of the Above	None of the Above	1941
+Assam - Biswanath	PROMOD BORTHAKUR	Bharatiya Janata Party	64225
+Assam - Biswanath	NURJAMAL SARKAR	Indian National Congress	54105
+Assam - Biswanath	GOPI CHAND SHAHABADI	Janata Dal (United)	2056
+Assam - Biswanath	None of the Above	None of the Above	2341
+Assam - Behali	RANJIT DUTTA	Bharatiya Janata Party	52152
+Assam - Behali	RUPAK SARMA	Indian National Congress	28551
+Assam - Behali	BIBEK DAS	Communist Party of India (Marxist-Leninist) (Liberation)	8025
+Assam - Behali	ZULFIKAR HUSSAIN	Independent	1573
+Assam - Behali	None of the Above	None of the Above	2495
+Assam - Gohpur	UTPAL BORAH	Bharatiya Janata Party	85424
+Assam - Gohpur	MONIKA BORA	Indian National Congress	56489
+Assam - Gohpur	HALAN PURTTI	Communist Party of India (Marxist-Leninist) (Liberation)	1189
+Assam - Gohpur	SABIR NARZARY	Independent	967
+Assam - Gohpur	DEBEN SAIKIA	Independent	928
+Assam - Gohpur	None of the Above	None of the Above	1621
+Assam - Jagiroad	SHRI PIJUSH HAZARIKA	Bharatiya Janata Party	94550
+Assam - Jagiroad	SHRI BIBEKANANDA DALAI	Indian National Congress	66224
+Assam - Jagiroad	SHRI PUTUL DAS	All India United Democratic Front	7192
+Assam - Jagiroad	SHRI DILIP DAS	All India Trinamool Congress	1357
+Assam - Jagiroad	SHRI SUKANTA MAZUMDAR	Bharatiya Gana Parishad	576
+Assam - Jagiroad	SMT. MAMANI DAS	Independent	523
+Assam - Jagiroad	SHRI SURJYA KUMAR DAS	Liberal Democratic Party	401
+Assam - Jagiroad	None of the Above	None of the Above	1142
+Assam - Marigaon	RAMA KANTA DEWRI	Bharatiya Janata Party	80669
+Assam - Marigaon	JONJONALI BARUAH	Indian National Congress	51046
+Assam - Marigaon	SHRI MUNIN MAHANTA	Communist Party of India	3526
+Assam - Marigaon	SRI LACHIT CH MEDHI	Independent	2441
+Assam - Marigaon	SHRI RAMEN NATH	Independent	1403
+Assam - Marigaon	KHAIRUN NESSA	Independent	920
+Assam - Marigaon	DR. DHIREN CHANDRA NATH	Independent	417
+Assam - Marigaon	None of the Above	None of the Above	870
+Assam - Laharighat	DR. NAZRUL ISLAM	Indian National Congress	57904
+Assam - Laharighat	SIDDIQUE AHMED	All India United Democratic Front	52098
+Assam - Laharighat	SHRI JADUMONI PATAR	Asom Gana Parishad	25692
+Assam - Laharighat	SHRI RABINDRA NATH BISWAS	Independent	1752
+Assam - Laharighat	SHRI RANJIT KUMAR DEKA	Independent	1494
+Assam - Laharighat	None of the Above	None of the Above	930
+Assam - Raha	DIMBESWAR DAS	Bharatiya Janata Party	76941
+Assam - Raha	SASHI KANTA DAS	Indian National Congress	43867
+Assam - Raha	GUNESWAR DAS	All India United Democratic Front	38767
+Assam - Raha	None of the Above	None of the Above	2052
+Assam - Dhing	AMINUL ISLAM	All India United Democratic Front	82786
+Assam - Dhing	ANWAR HUSSAIN	Indian National Congress	58233
+Assam - Dhing	MUZIBUR RAHMAN	Independent	17807
+Assam - Dhing	MUKUT KUMAR DEBNATH	Bharatiya Janata Party	8958
+Assam - Dhing	MUBARAK ALI PATHAN	Independent	1004
+Assam - Dhing	MAINUL HOQUE	Independent	843
+Assam - Dhing	RAJANI KANTA NATH	Jai Maha Bharath Party	823
+Assam - Dhing	JAMANUR RAHMAN	Revolutionary Communist Party of India (Rasik Bhatt)	737
+Assam - Dhing	JEHIRUL ISLAM	All India Trinamool Congress	710
+Assam - Dhing	None of the Above	None of the Above	1358
+Assam - Batadroba	ANGOORLATA DEKA	Bharatiya Janata Party	46343
+Assam - Batadroba	GAUTAM BORA	Indian National Congress	40458
+Assam - Batadroba	NAJIR UDDIN AHMED	All India United Democratic Front	33022
+Assam - Batadroba	RAJASREE BORA	Independent	830
+Assam - Batadroba	ARUP KUMAR MAHANTA	Communist Party of India (Marxist-Leninist) (Liberation)	559
+Assam - Batadroba	MUKUL BORAH	Independent	551
+Assam - Batadroba	PABAN PRAN RABI DAS	Bharat Vikas Morcha	434
+Assam - Batadroba	DILWAR AHMED	Independent	237
+Assam - Batadroba	None of the Above	None of the Above	792
+Assam - Rupohihat	NURUL HUDA	Indian National Congress	72627
+Assam - Rupohihat	NURUL AMIN CHOWDHURY	All India United Democratic Front	50783
+Assam - Rupohihat	JAKARIA HAQUE CHOUDHURY	Bharatiya Janata Party	15963
+Assam - Rupohihat	ABDUL AZIZ	Independent	9671
+Assam - Rupohihat	ABU HANIFA	Jan Congress Party	1019
+Assam - Rupohihat	FAIZUR RAHMAN	Independent	901
+Assam - Rupohihat	BIJU BORO	Independent	709
+Assam - Rupohihat	NAZIR HUSSAIN	Independent	419
+Assam - Rupohihat	None of the Above	None of the Above	803
+Assam - Nowgong	RUPAK SARMAH	Bharatiya Janata Party	66706
+Assam - Nowgong	DR. DURLAV CHAMUA	Indian National Congress	53442
+Assam - Nowgong	KARTICK SAHA	All India United Democratic Front	18038
+Assam - Nowgong	BIREN CHANDRA DAS	Akhil Bharat Hindu Mahasabha	491
+Assam - Nowgong	SHANTANA MAHATO	Independent	376
+Assam - Nowgong	JESMIN AHMED	Independent	322
+Assam - Nowgong	MIHIR PAUL	All India Trinamool Congress	268
+Assam - Nowgong	ANSER ALI ALOM	Independent	230
+Assam - Nowgong	None of the Above	None of the Above	782
+Assam - Barhampur	SRI PRAFULLA KUMAR MAHANTA	Asom Gana Parishad	65768
+Assam - Barhampur	SURESH BORA	Indian National Congress	60599
+Assam - Barhampur	SHARIFUL ISLAM SIDDIQUE	All India United Democratic Front	2787
+Assam - Barhampur	LAKHAN CH.MIRDHA	Communist Party of India	1687
+Assam - Barhampur	PRAHLAD CHANDRA BHUYAN	Independent	1184
+Assam - Barhampur	ABIDA BEGUM	Rashtriya Jankranti Party	754
+Assam - Barhampur	PAWAN PANIKA	Forward Democratic Labour Party	607
+Assam - Barhampur	ABDUL ALI	Independent	480
+Assam - Barhampur	DEBABRATA SAIKIA	Independent	461
+Assam - Barhampur	SONA RAM BORA	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	284
+Assam - Barhampur	None of the Above	None of the Above	1179
+Assam - Samaguri	RAKIBUL HUSSAIN	Indian National Congress	66364
+Assam - Samaguri	JITU GOSWAMI	Bharatiya Janata Party	51849
+Assam - Samaguri	MOSKUR RAHMAN CHOUDHURY	All India United Democratic Front	6726
+Assam - Samaguri	SRI CHITTA RANJAN PAUL	Independent	1282
+Assam - Samaguri	PRADIP KALITA	Independent	562
+Assam - Samaguri	None of the Above	None of the Above	968
+Assam - Kaliabor	KESHAB MAHANTA	Asom Gana Parishad	64759
+Assam - Kaliabor	BINDU GANJU	Indian National Congress	26769
+Assam - Kaliabor	BOLORAM NAG	All India United Democratic Front	3682
+Assam - Kaliabor	BIJAY KUMAR CHAMARIA	Independent	2325
+Assam - Kaliabor	PROMODE BHUYAN	Communist Party of India	2063
+Assam - Kaliabor	JAYANTA ORANG	Independent	1016
+Assam - Kaliabor	BHUPEN CHANDRA BORAH	Liberal Democratic Party	870
+Assam - Kaliabor	BHASKAR SHARMA	Independent	794
+Assam - Kaliabor	BIREN MIRDHA	Bharat Vikas Morcha	503
+Assam - Kaliabor	None of the Above	None of the Above	1626
+Assam - Jamunamukh	ABDUR RAHIM AJMAL	All India United Democratic Front	65599
+Assam - Jamunamukh	REJAUL KARIM CHOWDHURY	Independent	52394
+Assam - Jamunamukh	BASHIR UDDIN LASKAR	Indian National Congress	23849
+Assam - Jamunamukh	ZIA UDDIN AHMED	Asom Gana Parishad	4732
+Assam - Jamunamukh	BADAR UDDIN	Independent	1956
+Assam - Jamunamukh	ABDUL WAHID	Independent	904
+Assam - Jamunamukh	SHAMAL DAS	Independent	756
+Assam - Jamunamukh	SUMITRA BORAH	Independent	653
+Assam - Jamunamukh	JUGAL BODO (DILU)	Independent	611
+Assam - Jamunamukh	NURUL HOQUE	Jan Congress Party	489
+Assam - Jamunamukh	SUNTI BORA	Jai Maha Bharath Party	309
+Assam - Jamunamukh	MINAZ UDDIN	Independent	266
+Assam - Jamunamukh	BASIR UDDIN	Independent	233
+Assam - Jamunamukh	KAMAL UDDIN	Independent	208
+Assam - Jamunamukh	None of the Above	None of the Above	1129
+Assam - Hojai	SHILADITYA DEV	Bharatiya Janata Party	105615
+Assam - Hojai	DHANIRAM THOUSEN	All India United Democratic Front	49756
+Assam - Hojai	ARDHENDU KUMAR DEY	Indian National Congress	35207
+Assam - Hojai	MD ZAKIR HUSSAIN	Independent	1432
+Assam - Hojai	MAINUL HOQUE	Independent	795
+Assam - Hojai	None of the Above	None of the Above	1342
+Assam - Lumding	SIBU MISRA	Bharatiya Janata Party	72072
+Assam - Lumding	NETRA RANJAN MAHANTA	Indian National Congress	41672
+Assam - Lumding	SWAPAN KAR	All India United Democratic Front	39075
+Assam - Lumding	UJJAL DEB	Independent	1109
+Assam - Lumding	KAMRUL ISLAM BARBHUYAN	Jan Congress Party	746
+Assam - Lumding	KAMAL PATAR	Independent	618
+Assam - Lumding	None of the Above	None of the Above	1232
+Assam - Bokakhat	ATUL BORA	Asom Gana Parishad	62962
+Assam - Bokakhat	ARUN PHUKAN	Indian National Congress	22769
+Assam - Bokakhat	ANIMA GOGOI	Independent	11872
+Assam - Bokakhat	REBA KANTA GOGOI	Independent	3414
+Assam - Bokakhat	BIJOY KUTUM	Independent	1351
+Assam - Bokakhat	MRITYUNJOY PEGU	Independent	905
+Assam - Bokakhat	None of the Above	None of the Above	2181
+Assam - Sarupathar	ROSELINA TIRKEY	Indian National Congress	67150
+Assam - Sarupathar	BINOD GOWALLA	Asom Gana Parishad	64223
+Assam - Sarupathar	BISWAJIT PHUKAN	Independent	37281
+Assam - Sarupathar	SATYA DEV SAHU	All India United Democratic Front	7596
+Assam - Sarupathar	BHADRESWAR TANTI	Independent	4058
+Assam - Sarupathar	RUHIT BASUMATARY	Independent	1554
+Assam - Sarupathar	DIPU SAIKIA	Independent	1189
+Assam - Sarupathar	None of the Above	None of the Above	3212
+Assam - Golaghat	AJANTA NEOG	Indian National Congress	73862
+Assam - Golaghat	BITUPAN SAIKIA	Bharatiya Janata Party	68649
+Assam - Golaghat	SYED JAHID ABDULLAH	All India United Democratic Front	1804
+Assam - Golaghat	DIPANKAR DAS	Independent	1193
+Assam - Golaghat	None of the Above	None of the Above	1717
+Assam - Khumtai	MRINAL SAIKIA	Bharatiya Janata Party	57637
+Assam - Khumtai	BISMITA GOGOI	Indian National Congress	40763
+Assam - Khumtai	LALAN THAKUR	Communist Party of India	2005
+Assam - Khumtai	SAHJAHAN ALI	All India United Democratic Front	1763
+Assam - Khumtai	HEMANTA DOLOI	Independent	813
+Assam - Khumtai	None of the Above	None of the Above	1286
+Assam - Dergaon	BHABENDRA NATH BHARALI	Asom Gana Parishad	63079
+Assam - Dergaon	AROTI HAZARIKA KACHARI	Indian National Congress	46807
+Assam - Dergaon	RITA DAS	Independent	3622
+Assam - Dergaon	BHUBAN CHANDRA SAIKIA	Independent	3225
+Assam - Dergaon	AJIT HAZARIKA	Nationalist Congress Party	1828
+Assam - Dergaon	None of the Above	None of the Above	2050
+Assam - Jorhat	HITENDRA NATH GOSWAMI	Bharatiya Janata Party	69209
+Assam - Jorhat	RANA GOSWAMI	Indian National Congress	55571
+Assam - Jorhat	NIRMAL CHANDRA GOGOI	Communist Party of India (Marxist)	1548
+Assam - Jorhat	PRODYUT KUMAR BORA	Liberal Democratic Party	1372
+Assam - Jorhat	SANJEEV RAJKHOWA	All India United Democratic Front	842
+Assam - Jorhat	BHASKAR JYOTI MAHANTA	Independent	635
+Assam - Jorhat	JIBON CHANDRA SARMAH	Independent	448
+Assam - Jorhat	None of the Above	None of the Above	1184
+Assam - Majuli	SARBANANDA SONOWAL	Bharatiya Janata Party	49602
+Assam - Majuli	RAJIB LOCHAN PEGU	Indian National Congress	30679
+Assam - Majuli	RANJIT DOLEY	Independent	15695
+Assam - Majuli	HEMANTA PEGU	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	798
+Assam - Majuli	None of the Above	None of the Above	987
+Assam - Titabar	TARUN GOGOI	Indian National Congress	62025
+Assam - Titabar	KAMAKHYA PRASAD TASA	Bharatiya Janata Party	44530
+Assam - Titabar	KULA DAS	Communist Party of India	2413
+Assam - Titabar	BIREN GOGOI	Bharat Vikas Morcha	1332
+Assam - Titabar	DILIP GOGOI	Independent	763
+Assam - Titabar	SMRITIREKHA SHYAM	Independent	715
+Assam - Titabar	None of the Above	None of the Above	1726
+Assam - Mariani	RUPJYOTI KURMI	Indian National Congress	36701
+Assam - Mariani	ALOK KUMAR GHOSH	Nationalist Congress Party	34908
+Assam - Mariani	DULEN NAYAK	Bharatiya Janata Party	14602
+Assam - Mariani	JINTU HAZARIKA	Independent	1954
+Assam - Mariani	DIGANTA PHUKAN	Independent	770
+Assam - Mariani	None of the Above	None of the Above	1613
+Assam - Teok	RENUPOMA RAJKHOWA	Asom Gana Parishad	40928
+Assam - Teok	PALLABI SAIKIA GOGOI	Indian National Congress	35879
+Assam - Teok	GOJANAND MUNDA	Independent	3923
+Assam - Teok	BUBUL DUTTA	Independent	3645
+Assam - Teok	MOHENDRA KUMAR GOGOI	Independent	3270
+Assam - Teok	JITEN TANTI	Communist Party of India (Marxist-Leninist) (Liberation)	1611
+Assam - Teok	RANJAN JYOTI PHUKON	Independent	1441
+Assam - Teok	CHIRANJIT BORAH	Independent	1088
+Assam - Teok	KRISHNAA GOGOI	Independent	811
+Assam - Teok	ASHRAF HUSSAIN	Independent	753
+Assam - Teok	JOTIN SAIKIA	Independent	527
+Assam - Teok	None of the Above	None of the Above	1570
+Assam - Amguri	PRODIP HAZARIKA	Asom Gana Parishad	42010
+Assam - Amguri	ANGKITA DUTTA	Indian National Congress	40390
+Assam - Amguri	DULAL BARUAH	Independent	5498
+Assam - Amguri	JANARDAN HAZARIKA	Independent	3420
+Assam - Amguri	DILRAM KARMAKAR	Independent	1053
+Assam - Amguri	GAYATRI BORAH KALITA	All India United Democratic Front	873
+Assam - Amguri	RAJKUMAR DOWARAH	All India Forward Bloc	699
+Assam - Amguri	ANWAR HUSSAIN	Independent	672
+Assam - Amguri	None of the Above	None of the Above	1399
+Assam - Nazira	DEBABRATA SAIKIA	Indian National Congress	52869
+Assam - Nazira	PROHLAD GOWALA	Bharatiya Janata Party	38014
+Assam - Nazira	KANAK GOGOI	Communist Party of India	4507
+Assam - Nazira	RIBULAYA GOGOI	Independent	1501
+Assam - Nazira	None of the Above	None of the Above	1430
+Assam - Mahmara	JOGEN MOHAN	Bharatiya Janata Party	49036
+Assam - Mahmara	SURUJ DEHINGIA	Indian National Congress	34711
+Assam - Mahmara	HIRANYA KUMAR KONWAR	Asom Gana Parishad	9316
+Assam - Mahmara	HEMEN PEGU	Independent	2194
+Assam - Mahmara	BALDEV TELI	Bharat Vikas Morcha	1178
+Assam - Mahmara	PRASUN RAJKONWAR	Independent	1140
+Assam - Mahmara	SUNIT KUMAR MAHANTA	Jan Congress Party	872
+Assam - Mahmara	RAJEN GOGOI	Nationalist Congress Party	812
+Assam - Mahmara	KALI BORUAH	Liberal Democratic Party	744
+Assam - Mahmara	DIBYA BURAGOHAIN GOGOI	Independent	731
+Assam - Mahmara	NITYANANDA GOGOI	Revolutionary Communist Party of India (Rasik Bhatt)	448
+Assam - Mahmara	GIRISH PHUKON	Rashtriya Jankranti Party	251
+Assam - Mahmara	None of the Above	None of the Above	1795
+Assam - Sonari	TOPON KUMAR GOGOI	Bharatiya Janata Party	73327
+Assam - Sonari	SARAT BARKATAKY	Indian National Congress	49210
+Assam - Sonari	RATAN HEMROM	Independent	1579
+Assam - Sonari	ANUP BHOWMIK	Janata Dal (United)	1330
+Assam - Sonari	BISHNU KOYA	Bharat Vikas Morcha	1254
+Assam - Sonari	RAYMOND KUJUR	Jan Congress Party	770
+Assam - Sonari	MONIL BOKALIAL	Liberal Democratic Party	732
+Assam - Sonari	None of the Above	None of the Above	3144
+Assam - Thowra	KUSHAL DOWARI	Bharatiya Janata Party	41560
+Assam - Thowra	SUSHANTA BORGOHAIN	Indian National Congress	40334
+Assam - Thowra	KUSHAL BORGOHAIN	Communist Party of India	2066
+Assam - Thowra	None of the Above	None of the Above	1876
+Assam - Sibsagar	PRANAB KUMAR GOGOI	Indian National Congress	48584
+Assam - Sibsagar	SURABHI RAJKONWAR	Bharatiya Janata Party	48042
+Assam - Sibsagar	ASHINI KUMAR CHETIA	Independent	10188
+Assam - Sibsagar	JITEN BORPATRA GOHAIN	Communist Party of India	2174
+Assam - Sibsagar	JAYANTA RAJKONWAR	Independent	1506
+Assam - Sibsagar	ANWAR HUSSAIN	Independent	722
+Assam - Sibsagar	DILSHAD HUSSAIN AHMED	All India United Democratic Front	663
+Assam - Sibsagar	DR. GUNIN BASUMATARI	Liberal Democratic Party	559
+Assam - Sibsagar	None of the Above	None of the Above	893
+Assam - Bihpuria	DEBANANDA HAZARIKA	Bharatiya Janata Party	66563
+Assam - Bihpuria	BHUPEN KUMAR BORAH	Indian National Congress	40376
+Assam - Bihpuria	PREMADHAR BORAH	Independent	754
+Assam - Bihpuria	SUNDER DEURI	Rashtriya Secular Congress	693
+Assam - Bihpuria	GARGI DEORI	Independent	474
+Assam - Bihpuria	None of the Above	None of the Above	834
+Assam - Naoboicha	MAMUN IMDADUL HAQUE CHAWDHURY	All India United Democratic Front	56003
+Assam - Naoboicha	RAO GAJENDRA SINGH	Bharatiya Janata Party	54770
+Assam - Naoboicha	SANJAY RAJ SUBBA	Indian National Congress	33862
+Assam - Naoboicha	JAYANTA KHAUND	Asom Gana Parishad	8070
+Assam - Naoboicha	SIMANTA BORUAH	Independent	2787
+Assam - Naoboicha	PAWAN MAJHI SAUTAL	Independent	2481
+Assam - Naoboicha	SAHEBA AHMED	Independent	827
+Assam - Naoboicha	ANUPAM CHUTIA	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	737
+Assam - Naoboicha	DR. DEBABRAT GOGOI	Independent	640
+Assam - Naoboicha	SOFIQUL ISLAM	Independent	512
+Assam - Naoboicha	DILWAR HUSSAIN	Independent	371
+Assam - Naoboicha	None of the Above	None of the Above	1176
+Assam - Lakhimpur	UTPAL DUTTA	Asom Gana Parishad	45917
+Assam - Lakhimpur	JOY PRAKASH DAS	Indian National Congress	41762
+Assam - Lakhimpur	GHANA BURAGOHAIN	Independent	23493
+Assam - Lakhimpur	MAHIM HAZARIKA	Independent	11272
+Assam - Lakhimpur	UDAY SHANKAR HAZARIKA	Independent	4750
+Assam - Lakhimpur	DIPAK CHETIA	All India United Democratic Front	1313
+Assam - Lakhimpur	ARUP KALITA	Communist Party of India	1313
+Assam - Lakhimpur	MINAKHI GOHAIN BARUAH	Independent	1092
+Assam - Lakhimpur	HIRA GOGOI	Independent	861
+Assam - Lakhimpur	FAZLUR RAHMAN	Independent	730
+Assam - Lakhimpur	DILIP DUTTA	Independent	662
+Assam - Lakhimpur	NANDA KISHORE MAHESWARI	Independent	640
+Assam - Lakhimpur	MAHIM KONWAR	Independent	481
+Assam - Lakhimpur	BIRINCHI PEGU	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	344
+Assam - Lakhimpur	None of the Above	None of the Above	888
+Assam - Dhakuakhana	NABA KUMAR DOLEY	Bharatiya Janata Party	81556
+Assam - Dhakuakhana	BHARAT CHANDRA NARAH	Indian National Congress	57014
+Assam - Dhakuakhana	LAKHI NATH SONOWAL	Communist Party of India (Marxist)	2270
+Assam - Dhakuakhana	DILIP KUMAR CHOWDHURY	Independent	2032
+Assam - Dhakuakhana	BHUMI RANJAN DOLEY	Independent	1855
+Assam - Dhakuakhana	DR RAJENDRA NATH PEGU	Liberal Democratic Party	812
+Assam - Dhakuakhana	JUTIKA DOLEY	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	422
+Assam - Dhakuakhana	None of the Above	None of the Above	1111
+Assam - Dhemaji	PRADAN BARUAH	Bharatiya Janata Party	69592
+Assam - Dhemaji	SUMITRA DOLEY PATIR	Indian National Congress	50471
+Assam - Dhemaji	PARAMANANDA CHAYENGIA	Independent	21874
+Assam - Dhemaji	SAILEN SONOWAL	Independent	16548
+Assam - Dhemaji	GANDHESWAR BORAH	Communist Party of India (Marxist)	3830
+Assam - Dhemaji	KIRANBAN DEORI	Liberal Democratic Party	2456
+Assam - Dhemaji	RAJKUMAR DOLEY	Independent	2173
+Assam - Dhemaji	DURGESWAR PATIR	Lok Jan Shakti Party	1275
+Assam - Dhemaji	HEM KANTA MIRI	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	524
+Assam - Dhemaji	None of the Above	None of the Above	1417
+Assam - Jonai	BHUBON PEGU	Independent	88441
+Assam - Jonai	ASWINI PAIT	Bharatiya Janata Party	39148
+Assam - Jonai	SATHO BASUMATARY	Independent	33265
+Assam - Jonai	SUSHIL PEGU	Indian National Congress	30890
+Assam - Jonai	LENINDRA KUMAR DOLEY	Independent	5625
+Assam - Jonai	HITESH DEORI	Independent	2290
+Assam - Jonai	BHUPEN NARAH	Independent	2120
+Assam - Jonai	JANKI KUMAR PEGU	Independent	1519
+Assam - Jonai	NAREN SONOWAL	Independent	1068
+Assam - Jonai	None of the Above	None of the Above	1850
+Assam - Moran	CHAKRADHAR GOGOI	Bharatiya Janata Party	54571
+Assam - Moran	PABAN SINGH GHATOWAR	Indian National Congress	38340
+Assam - Moran	ASHOK KUMAR URANG	Independent	2322
+Assam - Moran	HIRANYA BORUAH	Communist Party of India	1650
+Assam - Moran	SUNIL RAJKONWAR	Independent	1464
+Assam - Moran	RUBUL BURAGOHAIN	Independent	791
+Assam - Moran	None of the Above	None of the Above	1673
+Assam - Dibrugarh	PRASANTA PHUKAN	Bharatiya Janata Party	63985
+Assam - Dibrugarh	CHANDRA KANTA BARUA	Indian National Congress	36611
+Assam - Dibrugarh	DIGANTA PHUKAN	Communist Party of India	1086
+Assam - Dibrugarh	BIPUL CHANDRA DAS	Independent	748
+Assam - Dibrugarh	AVINASH SINGH	Independent	503
+Assam - Dibrugarh	JUGEN KACHARI	Independent	501
+Assam - Dibrugarh	PADMESWAR PHUKAN	Independent	311
+Assam - Dibrugarh	None of the Above	None of the Above	1116
+Assam - Lahowal	RITUPARNA BARUAH	Bharatiya Janata Party	59013
+Assam - Lahowal	PRITHIBI MAJHI	Indian National Congress	39414
+Assam - Lahowal	RAJESH RAJPUT	Communist Party of India	3022
+Assam - Lahowal	RANJIT KONWAR	Independent	1753
+Assam - Lahowal	SOMBHULAL SABOR	Independent	1568
+Assam - Lahowal	PRIYA NATH GOGOI	Independent	911
+Assam - Lahowal	BOGA KUMAR NAG	Jan Congress Party	857
+Assam - Lahowal	None of the Above	None of the Above	3039
+Assam - Duliajan	TERASH GOWALLA	Bharatiya Janata Party	58450
+Assam - Duliajan	DHRUBA JYOTI GOGOI	Indian National Congress	41364
+Assam - Duliajan	AMIYA GOGOI	Independent	4376
+Assam - Duliajan	RAMESH CHANDRA PHUKAN	Independent	1816
+Assam - Duliajan	HIRANYA SONOWAL (RAJU)	Independent	1144
+Assam - Duliajan	ANJALI SENAPATI	Jan Congress Party	1037
+Assam - Duliajan	JATIN KONWAR	Independent	825
+Assam - Duliajan	SUNIL TANTI	Communist Party of India (Marxist-Leninist) (Liberation)	710
+Assam - Duliajan	PROBIN KUMAR HAZARIKA	Independent	651
+Assam - Duliajan	ISAK KARKARIA	Independent	637
+Assam - Duliajan	JHUMA DEB NATH	Shivsena	542
+Assam - Duliajan	None of the Above	None of the Above	2761
+Assam - Tingkhong	BIMAL BORAH	Bharatiya Janata Party	57072
+Assam - Tingkhong	ATUWA MUNDA	Indian National Congress	38734
+Assam - Tingkhong	ANUP PHUKON	Independent	2935
+Assam - Tingkhong	MIRA TANTI	Communist Party of India (Marxist-Leninist) (Liberation)	1299
+Assam - Tingkhong	DILIP BHARALI	Independent	1235
+Assam - Tingkhong	ELIASH SICHAN	Jharkhand Disom Party	1150
+Assam - Tingkhong	None of the Above	None of the Above	2075
+Assam - Naharkatia	NAREN SONOWAL (BOTALI)	Asom Gana Parishad	46051
+Assam - Naharkatia	PRANATEE PHUKAN	Indian National Congress	42520
+Assam - Naharkatia	SURESH CH. DEKA	Communist Party of India (Marxist)	4026
+Assam - Naharkatia	MOHAN NAG	Independent	2708
+Assam - Naharkatia	MAHENDRA DHADUMIYA	Independent	783
+Assam - Naharkatia	SADANANDA DAS	Jan Congress Party	697
+Assam - Naharkatia	None of the Above	None of the Above	1719
+Assam - Chabua	BINOD HAZARIKA	Bharatiya Janata Party	69351
+Assam - Chabua	RAJU SAHU	Indian National Congress	38597
+Assam - Chabua	DEBNATH MAJHI	Communist Party of India (Marxist-Leninist) (Liberation)	2516
+Assam - Chabua	RABIN CHANDRA KACHARI	Independent	1315
+Assam - Chabua	UTPAL KAKOTI	Independent	1252
+Assam - Chabua	None of the Above	None of the Above	3012
+Assam - Tinsukia	SANJOY KISHAN	Bharatiya Janata Party	70937
+Assam - Tinsukia	RAJENDRA PRASAD SINGH	Indian National Congress	35868
+Assam - Tinsukia	LAKHYAJYOTI BORUAH	Independent	4056
+Assam - Tinsukia	CINTU BARUAH	Nationalist Congress Party	1020
+Assam - Tinsukia	ANANTA JYOTI BHATTACHARJEE	Jan Congress Party	773
+Assam - Tinsukia	RAM DARSHAN SINGH	Independent	667
+Assam - Tinsukia	RAM NARAYAN SINGH	Shivsena	536
+Assam - Tinsukia	None of the Above	None of the Above	1986
+Assam - Digboi	SUREN PHUKAN	Bharatiya Janata Party	49167
+Assam - Digboi	GAUTAM DHANOWAR	Indian National Congress	34874
+Assam - Digboi	PRANAB CHETIA	Independent	4841
+Assam - Digboi	IMRAN SIDDIQUE	Independent	1166
+Assam - Digboi	BISWANATH SARMA BORDOLOI	Independent	977
+Assam - Digboi	NOGEN DHEKIAL PHUKAN	Nationalist Congress Party	923
+Assam - Digboi	BHABAKANTA CHUTIA	Independent	743
+Assam - Digboi	CHANDAN BAGH	Independent	588
+Assam - Digboi	None of the Above	None of the Above	2246
+Assam - Margherita	BHASKAR SHARMA	Bharatiya Janata Party	76365
+Assam - Margherita	PRADYUT BORDOLOI	Indian National Congress	53621
+Assam - Margherita	NIDAN PURTY	Independent	1332
+Assam - Margherita	BISHWANATH SINGHA	Independent	1306
+Assam - Margherita	UMESH BORA	Independent	1289
+Assam - Margherita	PURNA CHETRI	Independent	690
+Assam - Margherita	None of the Above	None of the Above	2137
+Assam - Doom Dooma	DURGA BHUMIJ	Indian National Congress	46938
+Assam - Doom Dooma	DILIP MORAN	Bharatiya Janata Party	46156
+Assam - Doom Dooma	HRISHIKESH BARUAH	Independent	1481
+Assam - Doom Dooma	MONOJ KUMAR SAWASHI	Jan Congress Party	1443
+Assam - Doom Dooma	RAJESH KARMAKAR	Independent	1441
+Assam - Doom Dooma	SARFARAZ ALAM	Independent	846
+Assam - Doom Dooma	ISAB HUSSAIN	Independent	642
+Assam - Doom Dooma	RANJIT SINGH GORH	Independent	571
+Assam - Doom Dooma	BHABA KANTA CHUTIA	Independent	557
+Assam - Doom Dooma	None of the Above	None of the Above	3317
+Assam - Sadiya	BOLIN CHETIA	Bharatiya Janata Party	38845
+Assam - Sadiya	BIRINCHI NEOG	Indian National Congress	32279
+Assam - Sadiya	LAKHIN CHANDRA CHETIA	Independent	22005
+Assam - Sadiya	DINDAYAL VERMA	Independent	12481
+Assam - Sadiya	TIKENDRA THAPA	Independent	5047
+Assam - Sadiya	DRONA CHARINGIA PHUKAN	Communist Party of India (Marxist)	2310
+Assam - Sadiya	BISWANATH BARUAH	Independent	1430
+Assam - Sadiya	SHRIKUMAR DOHUTIA	Independent	1264
+Assam - Sadiya	ANUP PRATIM BORBARUAH	Nationalist Congress Party	846
+Assam - Sadiya	BULBUL GOWALA	Independent	783
+Assam - Sadiya	RAMEN BORGOHAIN	Independent	758
+Assam - Sadiya	LALIT DEORI	Independent	756
+Assam - Sadiya	None of the Above	None of the Above	2044

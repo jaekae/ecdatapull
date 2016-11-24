@@ -1,0 +1,85 @@
+Constituency No.	Constituency Name	Candidate Name	Party	Votes Polled	Position	Margin
+1	Tamil Nadu - Gummidipoondi	VIJAYAKUMAR K S	All India Anna Dravida Munnetra Kazhagam	89332	1	23395
+1	Tamil Nadu - Gummidipoondi	SEKAR C H	Dravida Munnetra Kazhagam	65937	2	
+1	Tamil Nadu - Gummidipoondi	SELVARAJ M	Pattali Makkal Katchi	43055	3	
+1	Tamil Nadu - Gummidipoondi	GEETHA K	Desiya Murpokku Dravida Kazhagam	6585	4	
+1	Tamil Nadu - Gummidipoondi	BHASKARAN M	Bharatiya Janata Party	2092	5	
+1	Tamil Nadu - Gummidipoondi	None of the Above	None of the Above	1484	6	
+1	Tamil Nadu - Gummidipoondi	MURALI KRISHNA M (A) SAMARAN	Bahujan Samaj Party	1282	7	
+1	Tamil Nadu - Gummidipoondi	SURESHKUMAR S	Naam Tamilar Katchi	1250	8	
+1	Tamil Nadu - Gummidipoondi	MURUGAN M	Independent	875	9	
+1	Tamil Nadu - Gummidipoondi	KANDAVEL R	Youth And Students Party	645	10	
+1	Tamil Nadu - Gummidipoondi	KARUNAKARAN A	Independent	554	11	
+1	Tamil Nadu - Gummidipoondi	ARULVEL SELVAN C	Independent	550	12	
+1	Tamil Nadu - Gummidipoondi	PANDIYAN A	Independent	231	13	
+1	Tamil Nadu - Gummidipoondi	GANAPATHY R	Independent	164	14	
+1	Tamil Nadu - Gummidipoondi	SARAVANAN T	Independent	163	15	
+1	Tamil Nadu - Gummidipoondi	KANTHARAJ V C	Gokula Makkal Katchi	149	16	
+2	Tamil Nadu - Ponneri	BALARAMAN P	All India Anna Dravida Munnetra Kazhagam	95979	1	19336
+2	Tamil Nadu - Ponneri	PARIMALAM K DOCTOR	Dravida Munnetra Kazhagam	76643	2	
+2	Tamil Nadu - Ponneri	PANDIAN A	Pattali Makkal Katchi	9586	3	
+2	Tamil Nadu - Ponneri	SENTHIL KUMAR V	Viduthalai Chiruthaigal Katchi	5566	4	
+2	Tamil Nadu - Ponneri	None of the Above	None of the Above	2284	5	
+2	Tamil Nadu - Ponneri	GANESAN K	Bharatiya Janata Party	2067	6	
+2	Tamil Nadu - Ponneri	VINOTH BABU S	Naam Tamilar Katchi	1620	7	
+2	Tamil Nadu - Ponneri	RAJA S	Bahujan Samaj Party	1152	8	
+2	Tamil Nadu - Ponneri	KOTTEESWARAN K	Youth And Students Party	696	9	
+2	Tamil Nadu - Ponneri	RUKUMANGADAN L	Independent	640	10	
+2	Tamil Nadu - Ponneri	DILLI BABU V	Independent	536	11	
+2	Tamil Nadu - Ponneri	SUDHAKARAN H	Independent	383	12	
+2	Tamil Nadu - Ponneri	ELAYARAJA R	Independent	213	13	
+2	Tamil Nadu - Ponneri	SRINIVASAN E	Independent	181	14	
+2	Tamil Nadu - Ponneri	SATHISH RAJA M	Independent	102	15	
+3	Tamil Nadu - Tiruttani	NARASIMHAN P M	All India Anna Dravida Munnetra Kazhagam	93045	1	23141
+3	Tamil Nadu - Tiruttani	CHIDAMBARAM A G	Indian National Congress	69904	2	
+3	Tamil Nadu - Tiruttani	VAITHILINGAM A	Pattali Makkal Katchi	29596	3	
+3	Tamil Nadu - Tiruttani	KRISHNAMURTHY D	Desiya Murpokku Dravida Kazhagam	15648	4	
+3	Tamil Nadu - Tiruttani	CHAKRAVARTHY. M	Bharatiya Janata Party	5525	5	
+3	Tamil Nadu - Tiruttani	None of the Above	None of the Above	2076	6	
+3	Tamil Nadu - Tiruttani	JAIBASKARAN S	Bahujan Samaj Party	1445	7	
+3	Tamil Nadu - Tiruttani	PRABU S	Naam Tamilar Katchi	1077	8	
+3	Tamil Nadu - Tiruttani	RAJESHKUMAR V	Independent	875	9	
+3	Tamil Nadu - Tiruttani	KRISHNAMOORTHY R	Independent	748	10	
+3	Tamil Nadu - Tiruttani	RAJAGOPAL N	Independent	723	11	
+3	Tamil Nadu - Tiruttani	BABU K	Independent	643	12	
+3	Tamil Nadu - Tiruttani	PRATHEEP M	Independent	359	13	
+3	Tamil Nadu - Tiruttani	VAITHIYALINGAM K	Independent	346	14	
+3	Tamil Nadu - Tiruttani	NARASIMAN P	Independent	247	15	
+3	Tamil Nadu - Tiruttani	THUKKARAM N	Independent	152	16	
+4	Tamil Nadu - Thiruvallur	RAAJENDRAN V G	Dravida Munnetra Kazhagam	80473	1	5138
+4	Tamil Nadu - Thiruvallur	BASKARAN A	All India Anna Dravida Munnetra Kazhagam	75335	2	
+4	Tamil Nadu - Thiruvallur	BALAYOGI V	Pattali Makkal Katchi	31935	3	
+4	Tamil Nadu - Thiruvallur	BALASUBRAMANI A	Viduthalai Chiruthaigal Katchi	7006	4	
+4	Tamil Nadu - Thiruvallur	PREM SEKAR M	Bahujan Samaj Party	2171	5	
+4	Tamil Nadu - Thiruvallur	SRINIVASAN K	Bharatiya Janata Party	1826	6	
+4	Tamil Nadu - Thiruvallur	SENTHIL KUMAR K	Naam Tamilar Katchi	1451	7	
+4	Tamil Nadu - Thiruvallur	None of the Above	None of the Above	1418	8	
+4	Tamil Nadu - Thiruvallur	BASKAR A	Independent	796	9	
+4	Tamil Nadu - Thiruvallur	SHANKAR K	Vijaya Bharatha Makkal (People) Party	703	10	
+4	Tamil Nadu - Thiruvallur	BALA KRISHNAN N	Independent	572	11	
+4	Tamil Nadu - Thiruvallur	RAJEEV B	Independent	418	12	
+4	Tamil Nadu - Thiruvallur	ANANDANAYAGI A	Lok Jan Shakti Party	417	13	
+4	Tamil Nadu - Thiruvallur	MURUGAN S	Independent	415	14	
+4	Tamil Nadu - Thiruvallur	SRINIVASAN V	Independent	289	15	
+4	Tamil Nadu - Thiruvallur	BASKAR M	Independent	202	16	
+4	Tamil Nadu - Thiruvallur	SATHISH B	Vidiyalai Thedum Indhiyargal Party	172	17	
+4	Tamil Nadu - Thiruvallur	SIVANANTHAM R	Independent	149	18	
+4	Tamil Nadu - Thiruvallur	ANBURAJ P	Independent	138	19	
+4	Tamil Nadu - Thiruvallur	RAJENDIRAN D	Independent	128	20	
+4	Tamil Nadu - Thiruvallur	PANNEERSELVAM T N	Independent	125	21	
+4	Tamil Nadu - Thiruvallur	RADHAKRISHNAN D	Independent	105	22	
+5	Tamil Nadu - Poonamallee	ELUMALAI T A	All India Anna Dravida Munnetra Kazhagam	103952	1	11763
+5	Tamil Nadu - Poonamallee	PARANTHAMEN I	Dravida Munnetra Kazhagam	92189	2	
+5	Tamil Nadu - Poonamallee	PARTHASARATHY C	Pattali Makkal Katchi	15827	3	
+5	Tamil Nadu - Poonamallee	KANDAN D	Marumalarchi Dravida Munnetra Kazhagam	15051	4	
+5	Tamil Nadu - Poonamallee	AMARNATH A	Bharatiya Janata Party	3456	5	
+5	Tamil Nadu - Poonamallee	None of the Above	None of the Above	3265	6	
+5	Tamil Nadu - Poonamallee	PONNARASU A	Naam Tamilar Katchi	2562	7	
+5	Tamil Nadu - Poonamallee	VIJAYABALAJI V	Bahujan Samaj Party	2066	8	
+5	Tamil Nadu - Poonamallee	RAMAMOORTHY M	Independent	391	9	
+5	Tamil Nadu - Poonamallee	PRATHAP R	Shivsena	351	10	
+5	Tamil Nadu - Poonamallee	NAGARAJ J	Independent	312	11	
+5	Tamil Nadu - Poonamallee	TAMILSELVAN B	Independent	177	12	
+5	Tamil Nadu - Poonamallee	ANANTH C	Independent	151	13	
+5	Tamil Nadu - Poonamallee	KANDHASAMY B	Independent	121	14	
+5	Tamil Nadu - Poonamallee	SANKARALINGAM J	Independent	116	15	

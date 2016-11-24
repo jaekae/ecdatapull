@@ -1,0 +1,1343 @@
+Kerala - MANJESHWAR	P B ABDUL RAZAK	Indian Union Muslim League	56870
+Kerala - MANJESHWAR	K SURENDRAN	Bharatiya Janata Party	56781
+Kerala - MANJESHWAR	ADV. C.H.KUNHAMBU	Communist Party of India (Marxist)	42565
+Kerala - MANJESHWAR	BASHEER AHAMMAD S M	Peoples Democratic Party	759
+Kerala - MANJESHWAR	SUNDARA K	Independent	467
+Kerala - MANJESHWAR	RAVICHANDRA	Bahujan Samaj Party	365
+Kerala - MANJESHWAR	K P MUNEER	Independent	224
+Kerala - MANJESHWAR	JOHN D SOUZA	Independent	207
+Kerala - MANJESHWAR	None of the Above	None of the Above	646
+Kerala - KASARAGOD	N A NELLIKKUNNU	Indian Union Muslim League	64727
+Kerala - KASARAGOD	RAVISHA THANTRI KUNTAR	Bharatiya Janata Party	56120
+Kerala - KASARAGOD	DR. A A AMEEN	Indian National League	21615
+Kerala - KASARAGOD	VIJAYAKUMAR B	Bahujan Samaj Party	585
+Kerala - KASARAGOD	ROSHAN KUMAR	Independent	508
+Kerala - KASARAGOD	A DAMODARAN	Independent	283
+Kerala - KASARAGOD	MUNEER MUNAMBAM	Independent	250
+Kerala - KASARAGOD	None of the Above	None of the Above	661
+Kerala - UDMA	K KUNHIRAMAN	Communist Party of India (Marxist)	70679
+Kerala - UDMA	K SUDHAKARAN	Indian National Congress	66847
+Kerala - UDMA	ADV. K SHREEKANTH	Bharatiya Janata Party	21231
+Kerala - UDMA	GOPI KUTHIRAKALLU	Peoples Democratic Party	353
+Kerala - UDMA	DAMODARAN P	Independent	349
+Kerala - UDMA	MOHAMMED PAKYARA	SOCIAL DEMOCRATIC PARTY OF INDIA	331
+Kerala - UDMA	SUDHAKARAN CHERUKANAM	Independent	208
+Kerala - UDMA	GOVINDAN B ALINTHAZHE	Ambedkarite Party of India	165
+Kerala - UDMA	ABBAS MOTHALAPPARA	Independent	157
+Kerala - UDMA	K KUNHIRAMAN PERIYANGANAM	Independent	145
+Kerala - UDMA	None of the Above	None of the Above	405
+Kerala - KANHANGAD	E.CHANDRASHEKARAN	Communist Party of India	80558
+Kerala - KANHANGAD	DHANYA SURESH	Indian National Congress	54547
+Kerala - KANHANGAD	M P RAGHAVAN	Bharath Dharma Jana Sena	21104
+Kerala - KANHANGAD	CHANDRAN PARAPPA	Bahujan Samaj Party	965
+Kerala - KANHANGAD	ASSAINAR MUTTUMTHALA	Peoples Democratic Party	959
+Kerala - KANHANGAD	SAJEEVAN R	Independent	663
+Kerala - KANHANGAD	MUHAMMED ALI V V	Independent	420
+Kerala - KANHANGAD	KOOKKAL BALAKRISHNAN	Independent	294
+Kerala - KANHANGAD	RAGHAVAN B POODAMKALLU	Ambedkarite Party of India	272
+Kerala - KANHANGAD	BALACHANDRAN KARIMBIL	Shivsena	260
+Kerala - KANHANGAD	K U KRISHNAKUMAR	Independent	186
+Kerala - KANHANGAD	M DAMODARAN	Independent	105
+Kerala - KANHANGAD	None of the Above	None of the Above	856
+Kerala - TRIKARIPUR	M.RAJAGOPALAN	Communist Party of India (Marxist)	79286
+Kerala - TRIKARIPUR	K P KUNHIKANNAN	Indian National Congress	62327
+Kerala - TRIKARIPUR	M.BHASKARAN	Bharatiya Janata Party	10767
+Kerala - TRIKARIPUR	C.H.MUTHALIB	Welfare Party Of India	1029
+Kerala - TRIKARIPUR	M V SHAUKATHALI	SOCIAL DEMOCRATIC PARTY OF INDIA	840
+Kerala - TRIKARIPUR	P P PURUSHOTHAMAN	Independent	263
+Kerala - TRIKARIPUR	K.P. KUNHIKANNAN KANDOTHUMPURATH	Independent	183
+Kerala - TRIKARIPUR	KUNJIKANNAN. P. M KURUVATTU VEEDU	Independent	109
+Kerala - TRIKARIPUR	K M SREEDHARAN	Independent	93
+Kerala - TRIKARIPUR	None of the Above	None of the Above	774
+Kerala - PAYYANNUR	C KRISHNAN	Communist Party of India (Marxist)	83226
+Kerala - PAYYANNUR	SAJID MAVVAL	Indian National Congress	42963
+Kerala - PAYYANNUR	ANIAMMA TEACHER	Bharatiya Janata Party	15341
+Kerala - PAYYANNUR	VINOD KUMAR RAMANTHALI	Communist Party of India (Marxist-Leninist) Red Star	870
+Kerala - PAYYANNUR	None of the Above	None of the Above	1042
+Kerala - KALLIASSERI	T V RAJESH	Communist Party of India (Marxist)	83006
+Kerala - KALLIASSERI	AMRITHA RAMAKRISHNAN	Indian National Congress	40115
+Kerala - KALLIASSERI	K P ARUN MASTER	Bharatiya Janata Party	11036
+Kerala - KALLIASSERI	SUNIL KOYILERIAN	Independent	1455
+Kerala - KALLIASSERI	K SUBAIR	SOCIAL DEMOCRATIC PARTY OF INDIA	1435
+Kerala - KALLIASSERI	SAINUDHEEN KARIVELLUR	Welfare Party Of India	1080
+Kerala - KALLIASSERI	None of the Above	None of the Above	620
+Kerala - TALIPARAMBA	JAMES MATHEW	Communist Party of India (Marxist)	91106
+Kerala - TALIPARAMBA	RAJESH NAMBIAR	Kerala Congress (M)	50489
+Kerala - TALIPARAMBA	P. BALAKRISHNAN MASTER	Bharatiya Janata Party	14742
+Kerala - TALIPARAMBA	IBRAHIM THIRUVATTOOR	SOCIAL DEMOCRATIC PARTY OF INDIA	1323
+Kerala - TALIPARAMBA	P. K. AYYAPPAN MASTER	Bahujan Samaj Party	675
+Kerala - TALIPARAMBA	K. SADANANDAN	Independent	288
+Kerala - TALIPARAMBA	RAJESH KUMAR	Independent	287
+Kerala - TALIPARAMBA	P. V. ANIL	Independent	203
+Kerala - TALIPARAMBA	None of the Above	None of the Above	867
+Kerala - IRIKKUR	K C JOSEPH	Indian National Congress	72548
+Kerala - IRIKKUR	K T JOSE	Communist Party of India	62901
+Kerala - IRIKKUR	A P GANGADHARAN	Bharatiya Janata Party	8294
+Kerala - IRIKKUR	ADV. BINOY THOMAS	Independent	2734
+Kerala - IRIKKUR	JOSEPH K C KALAYAKKATTIL	Independent	602
+Kerala - IRIKKUR	RIJO	Independent	134
+Kerala - IRIKKUR	RAJEEV JOSEPH	Independent	123
+Kerala - IRIKKUR	A K SHAJI	Independent	103
+Kerala - IRIKKUR	RAVEENDRAN A V	Independent	80
+Kerala - IRIKKUR	None of the Above	None of the Above	553
+Kerala - AZHIKODE	K M SHAJI	Indian Union Muslim League	63082
+Kerala - AZHIKODE	M V NIKESH KUMAR	Communist Party of India (Marxist)	60795
+Kerala - AZHIKODE	A V KESAVAN	Bharatiya Janata Party	12580
+Kerala - AZHIKODE	K K ABDUL JABBAR	SOCIAL DEMOCRATIC PARTY OF INDIA	1705
+Kerala - AZHIKODE	P K RAGESH	Independent	1518
+Kerala - AZHIKODE	M JOSEPH JOHN	Welfare Party Of India	687
+Kerala - AZHIKODE	ADV. P C VIVEK	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	235
+Kerala - AZHIKODE	SHAJI K M THOLAMBRA	Independent	196
+Kerala - AZHIKODE	K M SHAJI MAMBA	Independent	160
+Kerala - AZHIKODE	PRASAD V P	Independent	87
+Kerala - AZHIKODE	None of the Above	None of the Above	453
+Kerala - KANNUR	RAMACHANDRAN KADANNAPPALLI	Congress (Secular)	54347
+Kerala - KANNUR	SATHEESAN PACHENI	Indian National Congress	53151
+Kerala - KANNUR	K.G. BABU	Bharatiya Janata Party	13215
+Kerala - KANNUR	SUFIRA K P	SOCIAL DEMOCRATIC PARTY OF INDIA	2551
+Kerala - KANNUR	C P RAHNA TEACHER	Welfare Party Of India	1134
+Kerala - KANNUR	N P SATHAR	Independent	755
+Kerala - KANNUR	K SUDHAKARAN	Independent	223
+Kerala - KANNUR	SATHEESAN PAZHAYADATH	Independent	97
+Kerala - KANNUR	SATHEESAN EDATHIL VEEDU	Independent	79
+Kerala - KANNUR	RAMACHANDRAN THAYALE PURAYIL	Independent	77
+Kerala - KANNUR	RAMACHANDRAN POTHERAVALAPPIL	Independent	73
+Kerala - KANNUR	None of the Above	None of the Above	517
+Kerala - DHARMADAM	PINARAYI VIJAYAN	Communist Party of India (Marxist)	87329
+Kerala - DHARMADAM	MAMBARAM DIVAKARAN	Indian National Congress	50424
+Kerala - DHARMADAM	MOHANAN MANANTHERY	Bharatiya Janata Party	12763
+Kerala - DHARMADAM	THARAMMAL NIYAS	SOCIAL DEMOCRATIC PARTY OF INDIA	1994
+Kerala - DHARMADAM	DIVAKARAN.M.THIRUVATHIRA	Independent	354
+Kerala - DHARMADAM	DIVAKARAN MOOTTIL HOUSE	Independent	148
+Kerala - DHARMADAM	None of the Above	None of the Above	615
+Kerala - THALASSERY	ADV. A N SHAMSEER	Communist Party of India (Marxist)	70741
+Kerala - THALASSERY	A P ABDULLAKUTTY	Indian National Congress	36624
+Kerala - THALASSERY	V K SAJEEVAN	Bharatiya Janata Party	22125
+Kerala - THALASSERY	JABEENA IRSHAD	Welfare Party Of India	1337
+Kerala - THALASSERY	A C JALALUDHEEN	SOCIAL DEMOCRATIC PARTY OF INDIA	959
+Kerala - THALASSERY	BALAKRISHNAN KODIYERI	Independent	129
+Kerala - THALASSERY	THAYYIL VATTAKKANDI SAJEEVAN V K	Independent	125
+Kerala - THALASSERY	DANISH MAHAL A P ABDULLAKUTTY	Independent	112
+Kerala - THALASSERY	None of the Above	None of the Above	514
+Kerala - KUTHUPARAMBA	K K SHAILAJA TEACHER	Communist Party of India (Marxist)	67013
+Kerala - KUTHUPARAMBA	K P MOHANAN S/O P R KURUP	Janata Dal (United)	54722
+Kerala - KUTHUPARAMBA	C SADANANDAN MASTER	Bharatiya Janata Party	20787
+Kerala - KUTHUPARAMBA	ADV. MUHAMMAD SABEER K C	SOCIAL DEMOCRATIC PARTY OF INDIA	1681
+Kerala - KUTHUPARAMBA	K P MOHANAN (VEDICHALIL)	Independent	1041
+Kerala - KUTHUPARAMBA	K P MOHANAN (HRIDYAM)	Independent	355
+Kerala - KUTHUPARAMBA	K RAGHUNATH	Independent	296
+Kerala - KUTHUPARAMBA	K P SHYLAJA (PRASANTH)	Independent	265
+Kerala - KUTHUPARAMBA	SHYLAJA (NELLIYULLA PARAMBATH)	Independent	163
+Kerala - KUTHUPARAMBA	None of the Above	None of the Above	501
+Kerala - MATTANNUR	E. P. JAYARAJAN	Communist Party of India (Marxist)	84030
+Kerala - MATTANNUR	K. P. PRASANTH	Janata Dal (United)	40649
+Kerala - MATTANNUR	BIJU ELAKKUZHI	Bharatiya Janata Party	18620
+Kerala - MATTANNUR	RAFEEKH KEECHERI	SOCIAL DEMOCRATIC PARTY OF INDIA	3188
+Kerala - MATTANNUR	KODIPPADI PRASANTH	Independent	770
+Kerala - MATTANNUR	None of the Above	None of the Above	1420
+Kerala - PERAVOOR	ADV. SUNNY JOSEPH	Indian National Congress	65659
+Kerala - PERAVOOR	ADV. BINOY KURIAN	Communist Party of India (Marxist)	57670
+Kerala - PERAVOOR	PAILY VATHIATTU	Bharath Dharma Jana Sena	9129
+Kerala - PERAVOOR	P K FAROOKH	SOCIAL DEMOCRATIC PARTY OF INDIA	1935
+Kerala - PERAVOOR	PALLIPRAM PRASANNAN	Welfare Party Of India	513
+Kerala - PERAVOOR	SUNNY JOSEPH KALLARAKKAL	Independent	389
+Kerala - PERAVOOR	ADV. K J JOSEPH	Independent	241
+Kerala - PERAVOOR	BIJOY KURIAN	Independent	214
+Kerala - PERAVOOR	V D BINTO	Independent	124
+Kerala - PERAVOOR	SUNNY	Independent	110
+Kerala - PERAVOOR	RADHAMANI NARAYANA KUMAR	Independent	63
+Kerala - PERAVOOR	None of the Above	None of the Above	458
+Kerala - MANANTHAVADY	O R KELU	Communist Party of India (Marxist)	62436
+Kerala - MANANTHAVADY	P K JAYALAKSHMI	Indian National Congress	61129
+Kerala - MANANTHAVADY	K MOHANDAS	Bharatiya Janata Party	16230
+Kerala - MANANTHAVADY	SOMAN P N	SOCIAL DEMOCRATIC PARTY OF INDIA	1377
+Kerala - MANANTHAVADY	LAKSHMI	Independent	1300
+Kerala - MANANTHAVADY	ANNAN MADAKKIMALA	Bahujan Samaj Party	679
+Kerala - MANANTHAVADY	KELU CHAYIMMAL	Independent	583
+Kerala - MANANTHAVADY	VIJAYAN	Communist Party of India (Marxist-Leninist) Red Star	224
+Kerala - MANANTHAVADY	USHA K	Independent	205
+Kerala - MANANTHAVADY	KELU KOLLIYIL	Independent	196
+Kerala - MANANTHAVADY	NITTAMANI K KUNHIRAMAN	Independent	183
+Kerala - MANANTHAVADY	None of the Above	None of the Above	1050
+Kerala - SULTHANBATHERY	I C BALAKRISHNAN	Indian National Congress	75747
+Kerala - SULTHANBATHERY	RUGMINI SUBRAHMANIAN	Communist Party of India (Marxist)	64549
+Kerala - SULTHANBATHERY	C K JANU	Independent	27920
+Kerala - SULTHANBATHERY	MUKUNDAN CHEENGERI	Bahujan Samaj Party	791
+Kerala - SULTHANBATHERY	MADHAVI	Communist Party of India (Marxist-Leninist) Red Star	609
+Kerala - SULTHANBATHERY	K K VASU	Samajwadi Party	478
+Kerala - SULTHANBATHERY	BALAKRISHNAN EDAKKAL	Independent	387
+Kerala - SULTHANBATHERY	T R SREEDHARAN	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	262
+Kerala - SULTHANBATHERY	None of the Above	None of the Above	1261
+Kerala - KALPETTA	C K SASEENDRAN	Communist Party of India (Marxist)	72959
+Kerala - KALPETTA	M.V SHREYAMS KUMAR	Janata Dal (United)	59876
+Kerala - KALPETTA	K SADANANDAN	Bharatiya Janata Party	12938
+Kerala - KALPETTA	JOSEPH AMBALAVAYAL	Welfare Party Of India	900
+Kerala - KALPETTA	ADV. K A AYOOB	SOCIAL DEMOCRATIC PARTY OF INDIA	837
+Kerala - KALPETTA	MADAYI LATHEEF	Independent	594
+Kerala - KALPETTA	SREYAMS KUMAR ANJANA HOUSE	Independent	498
+Kerala - KALPETTA	SUJAYAKUMAR	Communist Party of India (Marxist-Leninist) Red Star	468
+Kerala - KALPETTA	MOIDEEN CHEMBOTHARA	Independent	451
+Kerala - KALPETTA	SANDHYA N M	Independent	214
+Kerala - KALPETTA	None of the Above	None of the Above	1172
+Kerala - VADAKARA	C.K.NANU	Janata Dal (Secular)	49211
+Kerala - VADAKARA	MANAYATH CHANDRAN	Janata Dal (United)	39700
+Kerala - VADAKARA	K.K.REMA T. P. HOUSE	Independent	20504
+Kerala - VADAKARA	ADV. M. RAJESHKUMAR	Bharatiya Janata Party	13937
+Kerala - VADAKARA	P. ABDUL HAMEED MASTER	SOCIAL DEMOCRATIC PARTY OF INDIA	2673
+Kerala - VADAKARA	MADAPARAMBATH CHANDRAN	Independent	1648
+Kerala - VADAKARA	K.K.REMA KUNIYIL	Independent	352
+Kerala - VADAKARA	STALIN.P.P	Communist Party of India (Marxist-Leninist) Red Star	284
+Kerala - VADAKARA	T. K. NANU THAZHE KANDOTH	Independent	279
+Kerala - VADAKARA	MATHATH CHANDRAN	Independent	240
+Kerala - VADAKARA	T. P. RAMA VADAKKE EROTH	Independent	238
+Kerala - VADAKARA	None of the Above	None of the Above	506
+Kerala - KUTTIADI	PARAKKAL ABDULLA	Indian Union Muslim League	71809
+Kerala - KUTTIADI	K.K. LATHIKA	Communist Party of India (Marxist)	70652
+Kerala - KUTTIADI	RAMADAS MANALERI	Bharatiya Janata Party	12327
+Kerala - KUTTIADI	P.C. BHASKARAN	Welfare Party Of India	1125
+Kerala - KUTTIADI	SABU KAKKATTIL	Samajwadi Party	860
+Kerala - KUTTIADI	K.C. KUMARAN	Independent	220
+Kerala - KUTTIADI	NARANATHU MUHAMMAD	Peoples Democratic Party	118
+Kerala - KUTTIADI	PARAKKAL ABDULLA PALLIYATH	Independent	85
+Kerala - KUTTIADI	S.R. KHAN MANIYOOR	Independent	76
+Kerala - KUTTIADI	PALLIYIL ABDULLA	Independent	62
+Kerala - KUTTIADI	ALUVA ANEESH	Independent	57
+Kerala - KUTTIADI	PAREMMAL ABDULLA	Independent	44
+Kerala - KUTTIADI	None of the Above	None of the Above	375
+Kerala - NADAPURAM	E. K. VIJAYAN	Communist Party of India	74742
+Kerala - NADAPURAM	ADV. PRAVEENKUMAR	Indian National Congress	69983
+Kerala - NADAPURAM	M. P. RAJAN	Bharatiya Janata Party	14493
+Kerala - NADAPURAM	C. K. ABDUL RAHIM MASTER	SOCIAL DEMOCRATIC PARTY OF INDIA	2183
+Kerala - NADAPURAM	K.K.VASU	Bahujan Samaj Party	377
+Kerala - NADAPURAM	E.K. VIJAYAN KOMATH	Independent	220
+Kerala - NADAPURAM	PRAVEENKUMAR THAYYULLATHIL	Independent	171
+Kerala - NADAPURAM	PRAVEEN RAYAROTH THAZHAKUNI	Independent	163
+Kerala - NADAPURAM	ALUVA ANEESH	Independent	151
+Kerala - NADAPURAM	None of the Above	None of the Above	446
+Kerala - QUILANDY	K.DASAN	Communist Party of India (Marxist)	70593
+Kerala - QUILANDY	N.SUBRAMANIAN	Indian National Congress	57224
+Kerala - QUILANDY	K. RAJINESH BABU	Bharatiya Janata Party	22087
+Kerala - QUILANDY	ISMAIL KAMMANA	SOCIAL DEMOCRATIC PARTY OF INDIA	798
+Kerala - QUILANDY	RASAL.M.K	Peoples Democratic Party	703
+Kerala - QUILANDY	PARAPPIL BALAKRISHNAN	Bahujan Samaj Party	678
+Kerala - QUILANDY	M.N.SUBRAHMANIAN KAKKUDUMBIL MEETHAL	Independent	489
+Kerala - QUILANDY	P.K. DASAN PAZHUNTHUM KOOTTATHIL	Independent	167
+Kerala - QUILANDY	P.M. SREEKUMAR	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	149
+Kerala - QUILANDY	P.M. KUNHIKKANNAN	Communist Party of India (Marxist-Leninist) Red Star	126
+Kerala - QUILANDY	None of the Above	None of the Above	653
+Kerala - PERAMBRA	T.P.RAMAKRISHNAN	Communist Party of India (Marxist)	72359
+Kerala - PERAMBRA	ADV.MOHAMMED IKBAL	Kerala Congress (M)	68258
+Kerala - PERAMBRA	SUKUMARAN NAIR	Bharath Dharma Jana Sena	8561
+Kerala - PERAMBRA	RAZAK PALERI	Welfare Party Of India	1673
+Kerala - PERAMBRA	K.P.GOPI	SOCIAL DEMOCRATIC PARTY OF INDIA	1036
+Kerala - PERAMBRA	MUHAMMED IQBAL BAPPUBAITH	Independent	637
+Kerala - PERAMBRA	M.T.MUHAMMED MASTER	Communist Party of India (Marxist-Leninist) Red Star	224
+Kerala - PERAMBRA	MUHAMMAD IQBAL PALLATH	Independent	148
+Kerala - PERAMBRA	None of the Above	None of the Above	616
+Kerala - BALUSSERI	PURUSHUAN KADALUNDI	Communist Party of India (Marxist)	82914
+Kerala - BALUSSERI	U.C RAMAN PADANILAM	Independent	67450
+Kerala - BALUSSERI	P.K SUPRAN	Bharatiya Janata Party	19324
+Kerala - BALUSSERI	BALAN NADUVANNUR	SOCIAL DEMOCRATIC PARTY OF INDIA	1764
+Kerala - BALUSSERI	SASEENDRAN BAPPANKAD	Welfare Party Of India	959
+Kerala - BALUSSERI	RAMAN THACHAMPOYIL MEETHAL	Independent	710
+Kerala - BALUSSERI	K.T SIVAN	Independent	497
+Kerala - BALUSSERI	JAYARAJAN	Independent	312
+Kerala - BALUSSERI	None of the Above	None of the Above	638
+Kerala - ELATHUR	A K SASEENDRAN	Nationalist Congress Party	76387
+Kerala - ELATHUR	KISHEN CHAND	Janata Dal (United)	47330
+Kerala - ELATHUR	RAJAN NAIR	Bharatiya Janata Party	29070
+Kerala - ELATHUR	KRISHNAN	Independent	1724
+Kerala - ELATHUR	RAGHU	Bahujan Samaj Party	1142
+Kerala - ELATHUR	USEFFALI P M	Independent	367
+Kerala - ELATHUR	None of the Above	None of the Above	986
+Kerala - KOZHIKODE NORTH	A PRADEEP KUMAR	Communist Party of India (Marxist)	64192
+Kerala - KOZHIKODE NORTH	ADV. P M SURESH BABU	Indian National Congress	36319
+Kerala - KOZHIKODE NORTH	K P SREESAN	Bharatiya Janata Party	29860
+Kerala - KOZHIKODE NORTH	VELAYUDHAN.K.P	Bahujan Samaj Party	457
+Kerala - KOZHIKODE NORTH	ABDUL VAHID	SOCIAL DEMOCRATIC PARTY OF INDIA	351
+Kerala - KOZHIKODE NORTH	S JENNIFER	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	208
+Kerala - KOZHIKODE NORTH	E PRADEEP KUMAR PEEDIKATHODI	Independent	187
+Kerala - KOZHIKODE NORTH	T SURESH BABU KAMALADHALAM	Independent	151
+Kerala - KOZHIKODE NORTH	ABDU SAMAD	Kerala Janatha Party	122
+Kerala - KOZHIKODE NORTH	None of the Above	None of the Above	770
+Kerala - KOZHIKODE SOUTH	DR. M.K.MUNEER	Indian Union Muslim League	49863
+Kerala - KOZHIKODE SOUTH	PROF.A. P. ABDUL VAHAB	Indian National League	43536
+Kerala - KOZHIKODE SOUTH	SATHEESH KUTTIYIL	Bharath Dharma Jana Sena	19146
+Kerala - KOZHIKODE SOUTH	U.K.DEYSI BALASUBRAHMANYAN	SOCIAL DEMOCRATIC PARTY OF INDIA	593
+Kerala - KOZHIKODE SOUTH	KAMALA PAVITHRAN	Bahujan Samaj Party	480
+Kerala - KOZHIKODE SOUTH	A.P.ABDUL VAHAB	Independent	287
+Kerala - KOZHIKODE SOUTH	SAJAN.A.K	Independent	227
+Kerala - KOZHIKODE SOUTH	ABDUL SATHAR	All India Trinamool Congress	211
+Kerala - KOZHIKODE SOUTH	MUNEER DAVARI	Independent	190
+Kerala - KOZHIKODE SOUTH	PREMANAND.T	Independent	166
+Kerala - KOZHIKODE SOUTH	ABDUL MUNEER	Independent	130
+Kerala - KOZHIKODE SOUTH	None of the Above	None of the Above	788
+Kerala - BEYPORE	MAMMED KOYA V K C	Communist Party of India (Marxist)	69114
+Kerala - BEYPORE	ADAM MULSI M P	Indian National Congress	54751
+Kerala - BEYPORE	PRAKASAN	Bharatiya Janata Party	27958
+Kerala - BEYPORE	P.C MUHAMMEDKUTTY	Welfare Party Of India	1387
+Kerala - BEYPORE	MUHAMMED MUSTHAFA P.P	SOCIAL DEMOCRATIC PARTY OF INDIA	1126
+Kerala - BEYPORE	V K MUHAMMED KOYA	Independent	355
+Kerala - BEYPORE	ADAM MALIQUE E	Independent	199
+Kerala - BEYPORE	ADAM	Independent	109
+Kerala - BEYPORE	AJEESH KUMAR ERAKKATHIL	Independent	105
+Kerala - BEYPORE	None of the Above	None of the Above	605
+Kerala - KUNNAMANGALAM	P.T.A. RAHIM	Independent	77410
+Kerala - KUNNAMANGALAM	SIDDIQU.T	Indian National Congress	66205
+Kerala - KUNNAMANGALAM	C.K.PADMANABHAN	Bharatiya Janata Party	32702
+Kerala - KUNNAMANGALAM	LATHEEF	SOCIAL DEMOCRATIC PARTY OF INDIA	1252
+Kerala - KUNNAMANGALAM	RAHIM	Independent	726
+Kerala - KUNNAMANGALAM	RAJAN	Bahujan Samaj Party	304
+Kerala - KUNNAMANGALAM	SIDHEEQ	Independent	212
+Kerala - KUNNAMANGALAM	SIDDEEQUE	Independent	206
+Kerala - KUNNAMANGALAM	ABOOBACKER SIDDIQU	Independent	176
+Kerala - KUNNAMANGALAM	None of the Above	None of the Above	1148
+Kerala - KODUVALLY	KARAT RAZACK	Independent	61033
+Kerala - KODUVALLY	M A RAZAK MASTER	Indian Union Muslim League	60460
+Kerala - KODUVALLY	ALI AKBAR	Bharatiya Janata Party	11537
+Kerala - KODUVALLY	ADV. P. K. ZAKARIYYA	Welfare Party Of India	1566
+Kerala - KODUVALLY	E. NAZAR	SOCIAL DEMOCRATIC PARTY OF INDIA	1466
+Kerala - KODUVALLY	ABDUL RAZAK K T	Independent	352
+Kerala - KODUVALLY	SAYYID HUSSAIN JIFFIRI THANGAL	Independent	281
+Kerala - KODUVALLY	K P ABOOBACKER	Independent	112
+Kerala - KODUVALLY	None of the Above	None of the Above	582
+Kerala - THIRUVAMBADY	GEORGE M. THOMAS	Communist Party of India (Marxist)	62324
+Kerala - THIRUVAMBADY	V M UMMER MASTER	Indian Union Muslim League	59316
+Kerala - THIRUVAMBADY	GIRI PAMBANAL	Bharath Dharma Jana Sena	8749
+Kerala - THIRUVAMBADY	RAJU PUNNAKKAL	Welfare Party Of India	2226
+Kerala - THIRUVAMBADY	SIMON THONAKKARA	Independent	641
+Kerala - THIRUVAMBADY	T P MOHAMMED	SOCIAL DEMOCRATIC PARTY OF INDIA	569
+Kerala - THIRUVAMBADY	NOUSHAD KODIYATHOOR	Peoples Democratic Party	517
+Kerala - THIRUVAMBADY	SIBI VAYALIL	Independent	426
+Kerala - THIRUVAMBADY	C M UMMER CHOKLIYIL	Independent	77
+Kerala - THIRUVAMBADY	UMMAR VILANGOT	Independent	65
+Kerala - THIRUVAMBADY	None of the Above	None of the Above	776
+Kerala - KONDOTTY	T.V. IBRAHIM	Indian Union Muslim League	69668
+Kerala - KONDOTTY	K.P. BEERANKUTTY	Independent	59014
+Kerala - KONDOTTY	K.RAMACHANDRAN	Bharatiya Janata Party	12513
+Kerala - KONDOTTY	NAZARUDHEEN ELAMARAM	SOCIAL DEMOCRATIC PARTY OF INDIA	3667
+Kerala - KONDOTTY	SALEEM VAZHAKKAD	Welfare Party Of India	2344
+Kerala - KONDOTTY	ABDUL GAFFOOR VAVOOR	Peoples Democratic Party	566
+Kerala - KONDOTTY	K.P. VEERANKUTTY	Independent	442
+Kerala - KONDOTTY	SULFIKAR ALI AMBAL	Independent	316
+Kerala - KONDOTTY	KADEEJA	Independent	267
+Kerala - KONDOTTY	IBRAHIM CHOLAKKAD	Independent	176
+Kerala - KONDOTTY	None of the Above	None of the Above	581
+Kerala - ERANAD	P.K BASHEER	Indian Union Muslim League	69048
+Kerala - ERANAD	ABDURAHIMAN	Independent	56155
+Kerala - ERANAD	K P BABURAJ MASTER THUNDATHIL	Bharatiya Janata Party	6055
+Kerala - ERANAD	ADV. UMMER CHELAKKODE	Samajwadi Party	1298
+Kerala - ERANAD	VELAYUDHAN	Bahujan Samaj Party	885
+Kerala - ERANAD	K.T. ABDUL RAHIMAN	Independent	825
+Kerala - ERANAD	FAROOQ CHENGARA	Peoples Democratic Party	536
+Kerala - ERANAD	V. K. BASHEER VALLAKKAATT THODI	Independent	245
+Kerala - ERANAD	SHAHANAS	Independent	193
+Kerala - ERANAD	P. K. BASHEER PALATTUKUYYAN	Independent	149
+Kerala - ERANAD	None of the Above	None of the Above	461
+Kerala - NILAMBUR	P V ANVAR	Independent	77858
+Kerala - NILAMBUR	ARYADAN SHOUKATH	Indian National Congress	66354
+Kerala - NILAMBUR	GIRISH MEKKATT	Bharath Dharma Jana Sena	12284
+Kerala - NILAMBUR	K BABU MANI	SOCIAL DEMOCRATIC PARTY OF INDIA	4751
+Kerala - NILAMBUR	None of the Above	None of the Above	1256
+Kerala - WANDOOR	A.P. ANIL KUMAR	Indian National Congress	81964
+Kerala - WANDOOR	K NISHANTH	Communist Party of India (Marxist)	58100
+Kerala - WANDOOR	SUNITHA MOHANDAS	Bharatiya Janata Party	9471
+Kerala - WANDOOR	KRISHNAN KUNIYIL	Welfare Party Of India	3399
+Kerala - WANDOOR	KRISHNAN ERANHIKKAL	SOCIAL DEMOCRATIC PARTY OF INDIA	1178
+Kerala - WANDOOR	VELAYUDHAN VENNIYUR	Peoples Democratic Party	920
+Kerala - WANDOOR	None of the Above	None of the Above	808
+Kerala - MANJERI	ADV. M UMMER	Indian Union Muslim League	69779
+Kerala - MANJERI	ADV. K.MOHANDAS	Communist Party of India	50163
+Kerala - MANJERI	ADV. C.DINESH	Bharatiya Janata Party	11223
+Kerala - MANJERI	K.A. SAVAD	Welfare Party Of India	2503
+Kerala - MANJERI	DR.C.H. ASHRAF	SOCIAL DEMOCRATIC PARTY OF INDIA	2357
+Kerala - MANJERI	MOYIN BAPPU	Peoples Democratic Party	1121
+Kerala - MANJERI	V.M. MUSTHAFA	Independent	887
+Kerala - MANJERI	None of the Above	None of the Above	913
+Kerala - PERINTHALMANNA	MANJALAMKUZHI ALI	Indian Union Muslim League	70990
+Kerala - PERINTHALMANNA	V.SASIKUMAR	Communist Party of India (Marxist)	70411
+Kerala - PERINTHALMANNA	ADV. M.K. SUNIL	Bharatiya Janata Party	5917
+Kerala - PERINTHALMANNA	SALEEM MAMPAD	Welfare Party Of India	1757
+Kerala - PERINTHALMANNA	SUNIYA SIRAJ	SOCIAL DEMOCRATIC PARTY OF INDIA	698
+Kerala - PERINTHALMANNA	PALATHINGAL ABOOBACKER	Independent	671
+Kerala - PERINTHALMANNA	SAYYID MUSTHAFA POOKOYA THANGAL	Peoples Democratic Party	335
+Kerala - PERINTHALMANNA	ANWAR SHAKEEL OMAR	Independent	125
+Kerala - PERINTHALMANNA	None of the Above	None of the Above	507
+Kerala - MANKADA	T A AHAMMED KABEER	Indian Union Muslim League	69165
+Kerala - MANKADA	ADV. T K RASHEED ALI	Communist Party of India (Marxist)	67657
+Kerala - MANKADA	B RATHEESH	Bharatiya Janata Party	6641
+Kerala - MANKADA	HAMEED VANIYAMBALAM	Welfare Party Of India	3999
+Kerala - MANKADA	A A RAHEEM	SOCIAL DEMOCRATIC PARTY OF INDIA	1456
+Kerala - MANKADA	O T SHIHAB	Peoples Democratic Party	273
+Kerala - MANKADA	AHAMED KABEER MUTTENGADAN	Independent	218
+Kerala - MANKADA	M.K AHAMMEDUL KABEER	Independent	119
+Kerala - MANKADA	ANWAR SHAKEEL OMAR	Independent	92
+Kerala - MANKADA	None of the Above	None of the Above	479
+Kerala - MALAPPURAM	P UBAIDULLA	Indian Union Muslim League	81072
+Kerala - MALAPPURAM	ADV. K P SUMATHI	Communist Party of India (Marxist)	45400
+Kerala - MALAPPURAM	BADUSHA THANGAL K.N	Bharatiya Janata Party	7211
+Kerala - MALAPPURAM	E.C. AYISHA	Welfare Party Of India	3330
+Kerala - MALAPPURAM	JALEEL NEELAMBRA	SOCIAL DEMOCRATIC PARTY OF INDIA	2444
+Kerala - MALAPPURAM	ASHRAF PULPATTA	Peoples Democratic Party	1550
+Kerala - MALAPPURAM	None of the Above	None of the Above	826
+Kerala - VENGARA	P.K. KUNHALIKKUTTY	Indian Union Muslim League	72181
+Kerala - VENGARA	ADV. P.P. BASHEER	Communist Party of India (Marxist)	34124
+Kerala - VENGARA	P.T. ALI HAJI	Bharatiya Janata Party	7055
+Kerala - VENGARA	KALLAN ABOOBACKER MASTER	SOCIAL DEMOCRATIC PARTY OF INDIA	3049
+Kerala - VENGARA	SURENDRAN KARIPPUZHA	Welfare Party Of India	1864
+Kerala - VENGARA	SUBAIR SWABAHI	Peoples Democratic Party	1472
+Kerala - VENGARA	None of the Above	None of the Above	531
+Kerala - VALLIKKUNNU	ABDUL HAMEED MASTER	Indian Union Muslim League	59720
+Kerala - VALLIKKUNNU	ADV. O.K. THANGAL	Indian National League	47110
+Kerala - VALLIKKUNNU	JANACHANDRAN MASTER	Bharatiya Janata Party	22887
+Kerala - VALLIKKUNNU	NISSAR METHAR	Peoples Democratic Party	2975
+Kerala - VALLIKKUNNU	HANEEFA HAJI	SOCIAL DEMOCRATIC PARTY OF INDIA	2499
+Kerala - VALLIKKUNNU	PRAVEEN KUMAR	Bahujan Samaj Party	705
+Kerala - VALLIKKUNNU	ANSAS KODAKKATTAKATH	Communist Party of India (Marxist-Leninist) Red Star	262
+Kerala - VALLIKKUNNU	ADV. BALAKRISHNAN MANEERI	Independent	192
+Kerala - VALLIKKUNNU	ABOOBACKER ALIAS K.K. ABOO	Independent	176
+Kerala - VALLIKKUNNU	ABDUL NAZER	Independent	106
+Kerala - VALLIKKUNNU	V.P. PADMAKUMAR	Independent	100
+Kerala - VALLIKKUNNU	None of the Above	None of the Above	752
+Kerala - TIRURANGADI	P.K ABDU RABB	Indian Union Muslim League	62927
+Kerala - TIRURANGADI	NIYAS PULIKKALAKATH	Independent	56884
+Kerala - TIRURANGADI	P.V GEETHA MADHAVAN	Bharatiya Janata Party	8046
+Kerala - TIRURANGADI	ADV. K.C NASEER	SOCIAL DEMOCRATIC PARTY OF INDIA	2478
+Kerala - TIRURANGADI	MALIYATT ABDURAZAK HAJI	Peoples Democratic Party	1902
+Kerala - TIRURANGADI	MINU MUMTHAZ	Welfare Party Of India	1270
+Kerala - TIRURANGADI	NIYAS PAROLI	Independent	541
+Kerala - TIRURANGADI	HANEEFA	Independent	294
+Kerala - TIRURANGADI	NIYAS THAZHATHETHIL	Independent	181
+Kerala - TIRURANGADI	YOONUS SALEEM POOZHITHARA	Communist Party of India (Marxist-Leninist) Red Star	93
+Kerala - TIRURANGADI	None of the Above	None of the Above	630
+Kerala - TANUR	V ABDURAHIMAN	National Secular Conference	64472
+Kerala - TANUR	ABDURAHIMAN RANDATHANI	Indian Union Muslim League	59554
+Kerala - TANUR	P.R.RASMILNATH	Bharatiya Janata Party	11051
+Kerala - TANUR	ASHARAF VAILATHUR	Welfare Party Of India	1291
+Kerala - TANUR	K.K. MAJEED KHASIMI	SOCIAL DEMOCRATIC PARTY OF INDIA	1151
+Kerala - TANUR	ANWAR PANNIKKANDATHIL	Peoples Democratic Party	858
+Kerala - TANUR	P.T. UNNI	Independent	708
+Kerala - TANUR	V ABDURAHIMAN VAYANGATIL	Independent	672
+Kerala - TANUR	V.ABDURAHIMAN VARIKKOTTIL	Independent	172
+Kerala - TANUR	N RAMAKRISHNAN MASTER	Independent	139
+Kerala - TANUR	THAMI	Independent	81
+Kerala - TANUR	V ABDURAHIMAN VAYARAKATH	Independent	66
+Kerala - TANUR	ABDURAHIMAN PUTHANMALIYEKKAL	Independent	54
+Kerala - TANUR	None of the Above	None of the Above	569
+Kerala - TIRUR	C. MAMMUTTY	Indian Union Muslim League	73432
+Kerala - TIRUR	GAFOOR P LILLIS	National Secular Conference	66371
+Kerala - TIRUR	M.K. DEVIDASAN	Bharatiya Janata Party	9083
+Kerala - TIRUR	GANESH VADERI	Welfare Party Of India	2001
+Kerala - TIRUR	IBRAHIM TIRUR	SOCIAL DEMOCRATIC PARTY OF INDIA	1828
+Kerala - TIRUR	ADV. SHAMEER PAYYANANGADI	Peoples Democratic Party	1276
+Kerala - TIRUR	E.K. GAFOOR	Independent	791
+Kerala - TIRUR	MAMMUTTY MUYYARIKANDI	Independent	485
+Kerala - TIRUR	SAHADEVAN	Independent	402
+Kerala - TIRUR	MAMMUTTY KOOLIPARAMBAN	Independent	201
+Kerala - TIRUR	MAMMUTTY MANDAMKANDI	Independent	132
+Kerala - TIRUR	BAPPU VADAKKAYIL	Independent	60
+Kerala - TIRUR	None of the Above	None of the Above	692
+Kerala - KOTTAKKAL	ABID HUSSAIN THANGAL	Indian Union Muslim League	71768
+Kerala - KOTTAKKAL	N.A. MUHAMMED KUTTY (MAMMOOTY)	Nationalist Congress Party	56726
+Kerala - KOTTAKKAL	V. UNNIKRISHNAN MASTER	Bharatiya Janata Party	13205
+Kerala - KOTTAKKAL	NEYYATHOOR KUNHIMOHAMED	Peoples Democratic Party	2763
+Kerala - KOTTAKKAL	K.P.O RAHMATHULLA	SOCIAL DEMOCRATIC PARTY OF INDIA	1719
+Kerala - KOTTAKKAL	C. MUHAMMED KUTTY	Independent	579
+Kerala - KOTTAKKAL	VILLAN MOHAMMED KUTTY	Independent	429
+Kerala - KOTTAKKAL	BINDU DEVARAJAN	Independent	223
+Kerala - KOTTAKKAL	SAINUL ABID THANGAL	Independent	150
+Kerala - KOTTAKKAL	BEERAN.K	Independent	105
+Kerala - KOTTAKKAL	None of the Above	None of the Above	806
+Kerala - THAVANUR	DR. K.T. JALEEL	Independent	68179
+Kerala - THAVANUR	IFTHIQUARUDHEEN. MASTER	Indian National Congress	51115
+Kerala - THAVANUR	RAVI THELATH	Bharatiya Janata Party	15801
+Kerala - THAVANUR	P.K. JALEEL PARAKKUZHIYIL	SOCIAL DEMOCRATIC PARTY OF INDIA	2649
+Kerala - THAVANUR	ALI KADAMPUZHA	Peoples Democratic Party	1077
+Kerala - THAVANUR	MUHAMMED PONNANI	Welfare Party Of India	1007
+Kerala - THAVANUR	IFTHIKARUDHEEN P. P	Independent	601
+Kerala - THAVANUR	APPUNNI. O.V	Independent	443
+Kerala - THAVANUR	K.T. JALEEL KANHIRATHODIKA	Independent	272
+Kerala - THAVANUR	K.A. JALEEL KOTTILIL	Independent	251
+Kerala - THAVANUR	SONIA PINTO	Independent	133
+Kerala - THAVANUR	K.T. JALEEL KUNNATHODI	Independent	124
+Kerala - THAVANUR	None of the Above	None of the Above	473
+Kerala - PONNANI	P. SREERAMAKRISHNAN	Communist Party of India (Marxist)	69332
+Kerala - PONNANI	P.T.AJAI MOHAN	Indian National Congress	53692
+Kerala - PONNANI	K.K. SURENDRAN	Bharatiya Janata Party	11662
+Kerala - PONNANI	M.M. SHAKKIR	Welfare Party Of India	2048
+Kerala - PONNANI	M. MOIDUNNI HAJI	Peoples Democratic Party	1857
+Kerala - PONNANI	ABDUL FATHAH	SOCIAL DEMOCRATIC PARTY OF INDIA	1659
+Kerala - PONNANI	SINDHUKUMARI P S	Independent	386
+Kerala - PONNANI	AJAY MOHAN	Independent	240
+Kerala - PONNANI	RAMAKRISHNAN PUDUSSERY	Independent	140
+Kerala - PONNANI	RAMAKRISHNAN NJAVANENGHAT	Independent	82
+Kerala - PONNANI	KOYILAN RAMAKRISHNAN	Independent	61
+Kerala - PONNANI	None of the Above	None of the Above	604
+Kerala - THRITHALA	V.T. BALRAM	Indian National Congress	66505
+Kerala - THRITHALA	SUBAIDA ISHAC	Communist Party of India (Marxist)	55958
+Kerala - THRITHALA	PROF.V.T.REMA	Bharatiya Janata Party	14510
+Kerala - THRITHALA	C.P.MOHAMMEDALI	SOCIAL DEMOCRATIC PARTY OF INDIA	1313
+Kerala - THRITHALA	SUBAIDA	Independent	1080
+Kerala - THRITHALA	MOIDEENKUTTY POOKKATH	Peoples Democratic Party	541
+Kerala - THRITHALA	VINOD PERUMANNOOR	Bahujan Samaj Party	366
+Kerala - THRITHALA	BALARAM	Independent	199
+Kerala - THRITHALA	None of the Above	None of the Above	549
+Kerala - PATTAMBI	MUHAMMED MUHASSIN	Communist Party of India	64025
+Kerala - PATTAMBI	C P MOHAMMED	Indian National Congress	56621
+Kerala - PATTAMBI	ADV.P. MANOJ	Bharatiya Janata Party	14824
+Kerala - PATTAMBI	ABDUL RAOOF C	SOCIAL DEMOCRATIC PARTY OF INDIA	1848
+Kerala - PATTAMBI	M A MOIDEENKUTTY MASTER	Welfare Party Of India	815
+Kerala - PATTAMBI	MUHSIN	Independent	525
+Kerala - PATTAMBI	ABOOBACKER P	Peoples Democratic Party	422
+Kerala - PATTAMBI	MUHASIN	Independent	315
+Kerala - PATTAMBI	MUHAMMED CHERUVASSERI PALLIYALIL	Independent	126
+Kerala - PATTAMBI	MOHAMED MUSHIN P	Independent	101
+Kerala - PATTAMBI	NOBY AUGUSTINE	Independent	62
+Kerala - PATTAMBI	None of the Above	None of the Above	435
+Kerala - SHORNUR	P.K.SASI	Communist Party of India (Marxist)	66165
+Kerala - SHORNUR	C.SANGEETHA	Indian National Congress	41618
+Kerala - SHORNUR	V.P.CHANDRAN	Bharath Dharma Jana Sena	28836
+Kerala - SHORNUR	M SAIDALAVI	SOCIAL DEMOCRATIC PARTY OF INDIA	1246
+Kerala - SHORNUR	HARISH MUHAMMED	Independent	882
+Kerala - SHORNUR	ANANDAN K K	Bahujan Samaj Party	764
+Kerala - SHORNUR	A.RADHAKRISHNAN	Independent	697
+Kerala - SHORNUR	P.K.ANUMON	Shivsena	407
+Kerala - SHORNUR	MOINDEENSHA MOLOOR	Independent	247
+Kerala - SHORNUR	None of the Above	None of the Above	800
+Kerala - OTTAPALAM	P UNNI	Communist Party of India (Marxist)	67161
+Kerala - OTTAPALAM	ADV.SHANIMOL OSMAN	Indian National Congress	51073
+Kerala - OTTAPALAM	P VENUGOPALAN	Bharatiya Janata Party	27605
+Kerala - OTTAPALAM	A A SULFIKAR	SOCIAL DEMOCRATIC PARTY OF INDIA	1166
+Kerala - OTTAPALAM	K T PADMINI	Bahujan Samaj Party	811
+Kerala - OTTAPALAM	S R PRAKASH	Independent	805
+Kerala - OTTAPALAM	M S SUNEESH	Shivsena	399
+Kerala - OTTAPALAM	SURESH VELAYUDHAN	Independent	180
+Kerala - OTTAPALAM	None of the Above	None of the Above	1012
+Kerala - KONGAD	K.V.VIJAYADAS	Communist Party of India (Marxist)	60790
+Kerala - KONGAD	PANDALAM SUDHAKARAN	Indian National Congress	47519
+Kerala - KONGAD	RENU SURESH	Bharatiya Janata Party	23800
+Kerala - KONGAD	RAMESH P.V KANNAMPARIYARAM	Bahujan Samaj Party	789
+Kerala - KONGAD	None of the Above	None of the Above	1163
+Kerala - MANNARKAD	ADV.N.SAMSUDHEEN	Indian Union Muslim League	73163
+Kerala - MANNARKAD	K.P. SURESH RAJ	Communist Party of India	60838
+Kerala - MANNARKAD	KESAVADEV PUTHUMANA	Bharath Dharma Jana Sena	10170
+Kerala - MANNARKAD	M SULAIMAN	Welfare Party Of India	1112
+Kerala - MANNARKAD	SHAMSUDHEEN THOTTASSERY	Independent	622
+Kerala - MANNARKAD	AJIKUMAR. K	Communist Party of India (Marxist-Leninist) Red Star	478
+Kerala - MANNARKAD	GEORGE KUTTY. E.V	Independent	445
+Kerala - MANNARKAD	A YOOSAF ALANALLUR	SOCIAL DEMOCRATIC PARTY OF INDIA	412
+Kerala - MANNARKAD	SURESH BABU. M	Shivsena	331
+Kerala - MANNARKAD	None of the Above	None of the Above	927
+Kerala - MALAMPUZHA	V S ACHUTHANANDAN	Communist Party of India (Marxist)	73299
+Kerala - MALAMPUZHA	C.KRISHNAKUMAR	Bharatiya Janata Party	46157
+Kerala - MALAMPUZHA	V S JOY	Indian National Congress	35333
+Kerala - MALAMPUZHA	C P SREEDHARAN	All India Anna Dravida Munnetra Kazhagam	3154
+Kerala - MALAMPUZHA	RAVI PALLATHERI	Bahujan Samaj Party	326
+Kerala - MALAMPUZHA	RAMESH PUDUPPARIYARAM	Independent	297
+Kerala - MALAMPUZHA	S. SARAVANAN	Independent	220
+Kerala - MALAMPUZHA	None of the Above	None of the Above	924
+Kerala - PALAKKAD	SHAFI PARAMBIL	Indian National Congress	57559
+Kerala - PALAKKAD	SOBHA SURENDRAN	Bharatiya Janata Party	40076
+Kerala - PALAKKAD	N N KRISHNADAS	Communist Party of India (Marxist)	38675
+Kerala - PALAKKAD	HARI ARUMBIL	Bahujan Samaj Party	411
+Kerala - PALAKKAD	DR. M. N. ANUVARUDHEEN	Independent	364
+Kerala - PALAKKAD	None of the Above	None of the Above	719
+Kerala - TARUR	A.K.BALAN	Communist Party of India (Marxist)	67047
+Kerala - TARUR	C.PRAKASH	Indian National Congress	43979
+Kerala - TARUR	K V DIVAKARAN	Bharatiya Janata Party	15493
+Kerala - TARUR	NARAYANANKUTTY K T	Bahujan Samaj Party	663
+Kerala - TARUR	None of the Above	None of the Above	1128
+Kerala - CHITTUR	K KRISHNANKUTTY	Janata Dal (Secular)	69270
+Kerala - CHITTUR	K ACHUTHAN	Indian National Congress	61985
+Kerala - CHITTUR	SASIKUMAR M	Bharatiya Janata Party	12537
+Kerala - CHITTUR	MAYILSWAMY	All India Anna Dravida Munnetra Kazhagam	6212
+Kerala - CHITTUR	SANTHA	Independent	679
+Kerala - CHITTUR	KRISHNANKUTTY	Independent	672
+Kerala - CHITTUR	P C RAMACHANDRAN	Bahujan Samaj Party	571
+Kerala - CHITTUR	ACHUTHAN	Independent	495
+Kerala - CHITTUR	A RAJEENA	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	442
+Kerala - CHITTUR	A KRISHNANKUTTY	Independent	157
+Kerala - CHITTUR	None of the Above	None of the Above	1260
+Kerala - NENMARA	K. BABU	Communist Party of India (Marxist)	66316
+Kerala - NENMARA	A.V.GOPINATHAN	Indian National Congress	58908
+Kerala - NENMARA	N.SIVARAJAN	Bharatiya Janata Party	23096
+Kerala - NENMARA	MENAKA.K	All India Anna Dravida Munnetra Kazhagam	2186
+Kerala - NENMARA	AJITH KUMAR M	Welfare Party Of India	772
+Kerala - NENMARA	SAKKIRHUSSAIN.S	SOCIAL DEMOCRATIC PARTY OF INDIA	487
+Kerala - NENMARA	MOHANDASAN	Independent	461
+Kerala - NENMARA	BABU CHATHAN	Independent	324
+Kerala - NENMARA	BABU KUMARAN	Independent	239
+Kerala - NENMARA	BABU THATHAKUTTY	Independent	233
+Kerala - NENMARA	BABU VASU	Independent	204
+Kerala - NENMARA	M.VINOD	Shivsena	168
+Kerala - NENMARA	M.B.GOPINATHAN	Independent	131
+Kerala - NENMARA	None of the Above	None of the Above	1053
+Kerala - ALATHUR	K.D.PRASENAN	Communist Party of India (Marxist)	71206
+Kerala - ALATHUR	ADV.K KUSALAKUMAR	Kerala Congress (M)	35146
+Kerala - ALATHUR	M P SREEKUMAR MASTER	Bharatiya Janata Party	19610
+Kerala - ALATHUR	KRISHNANKUTTY.K	Bahujan Samaj Party	1010
+Kerala - ALATHUR	KRISHNANKUTTY KUNISSERY	Independent	326
+Kerala - ALATHUR	M RAJESH	Independent	265
+Kerala - ALATHUR	None of the Above	None of the Above	1076
+Kerala - CHELAKKARA	U R PRADEEP	Communist Party of India (Marxist)	67771
+Kerala - CHELAKKARA	THULASI	Indian National Congress	57571
+Kerala - CHELAKKARA	SHAJUMON P P	Bharatiya Janata Party	23845
+Kerala - CHELAKKARA	A SUBRAMANIAN	SOCIAL DEMOCRATIC PARTY OF INDIA	1116
+Kerala - CHELAKKARA	None of the Above	None of the Above	922
+Kerala - KUNNAMKULAM	A C MOIDEEN	Communist Party of India (Marxist)	63274
+Kerala - KUNNAMKULAM	C P JOHN	Communist Marxist Party Kerala State Committee	55492
+Kerala - KUNNAMKULAM	ANEESHKUMAR K K	Bharatiya Janata Party	29325
+Kerala - KUNNAMKULAM	JILEEF	SOCIAL DEMOCRATIC PARTY OF INDIA	1204
+Kerala - KUNNAMKULAM	SULAIMAN	Peoples Democratic Party	710
+Kerala - KUNNAMKULAM	SCHARIACHAN P C	Independent	267
+Kerala - KUNNAMKULAM	None of the Above	None of the Above	653
+Kerala - GURUVAYOOR	K.V. ABDUL KHADER	Communist Party of India (Marxist)	66088
+Kerala - GURUVAYOOR	ADV. P.M. SADIQALI	Indian Union Muslim League	50990
+Kerala - GURUVAYOOR	ADV. NIVEDIDA	Bharatiya Janata Party	25490
+Kerala - GURUVAYOOR	P.R. SIYAD	SOCIAL DEMOCRATIC PARTY OF INDIA	1406
+Kerala - GURUVAYOOR	K.G.MOHANAN	Welfare Party Of India	1382
+Kerala - GURUVAYOOR	MUHAMMED RASHEED ARAKKAL	Peoples Democratic Party	915
+Kerala - GURUVAYOOR	C.V. PREMRAJ	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	314
+Kerala - GURUVAYOOR	ABDUL KHADER KUMBILAVALAPPIL	Independent	256
+Kerala - GURUVAYOOR	SASI ANJOOR	Independent	204
+Kerala - GURUVAYOOR	None of the Above	None of the Above	605
+Kerala - MANALUR	MURALI PERUNELLY	Communist Party of India (Marxist)	70422
+Kerala - MANALUR	O.ABDU RAHIMANKUTTY	Indian National Congress	51097
+Kerala - MANALUR	A.N.RADHAKRISHNAN	Bharatiya Janata Party	37680
+Kerala - MANALUR	HUSSAIR.K.K	SOCIAL DEMOCRATIC PARTY OF INDIA	1180
+Kerala - MANALUR	ABHAYAN.N.A	Bahujan Samaj Party	588
+Kerala - MANALUR	MOIDUTTY HAJI	Peoples Democratic Party	529
+Kerala - MANALUR	SHAJI KURIYAN. PANANGHAT	Independent	262
+Kerala - MANALUR	SOMAN PILLAI	Independent	132
+Kerala - MANALUR	None of the Above	None of the Above	730
+Kerala - WADAKKANCHERY	ANIL AKKARA	Indian National Congress	65535
+Kerala - WADAKKANCHERY	MARY THOMAS	Communist Party of India (Marxist)	65492
+Kerala - WADAKKANCHERY	ADV. ULLAS BABU	Bharatiya Janata Party	26652
+Kerala - WADAKKANCHERY	GADDAFI A K	SOCIAL DEMOCRATIC PARTY OF INDIA	477
+Kerala - WADAKKANCHERY	P K SUBRAMANIAN	Bahujan Samaj Party	419
+Kerala - WADAKKANCHERY	ANIL	Independent	237
+Kerala - WADAKKANCHERY	None of the Above	None of the Above	969
+Kerala - OLLUR	ADV. K. RAJAN	Communist Party of India	71666
+Kerala - OLLUR	M P VINCENT	Indian National Congress	58418
+Kerala - OLLUR	P.K. SANTHOSH (LALA)	Bharath Dharma Jana Sena	17694
+Kerala - OLLUR	MAJEED MULLAKARA	Peoples Democratic Party	696
+Kerala - OLLUR	SAJIMON MANJAMATTAM	Communist Party of India (Marxist-Leninist) Red Star	334
+Kerala - OLLUR	VINCENT M D. MAROTTIKKAL	Independent	279
+Kerala - OLLUR	K. G. RAJAN	Independent	267
+Kerala - OLLUR	V. N. ASOKAN	Independent	214
+Kerala - OLLUR	None of the Above	None of the Above	1151
+Kerala - THRISSUR	V S SUNILKUMAR	Communist Party of India	53664
+Kerala - THRISSUR	PADMAJA VENUGOPAL	Indian National Congress	46677
+Kerala - THRISSUR	ADV. B GOPALAKRISHNAN	Bharatiya Janata Party	24748
+Kerala - THRISSUR	DR. ANTONY J MALIAKKAL	Independent	256
+Kerala - THRISSUR	UNNIKRISHNAN P S	Samajwadi Party	226
+Kerala - THRISSUR	RAJI	Peoples Democratic Party	154
+Kerala - THRISSUR	S T PARAMASIVAN	Independent	153
+Kerala - THRISSUR	PRADEEPAN M	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	111
+Kerala - THRISSUR	SANTHAKUMARI K V	Indian Gandhiyan Party	74
+Kerala - THRISSUR	None of the Above	None of the Above	1128
+Kerala - NATTIKA	GEETHA GOPI	Communist Party of India	70218
+Kerala - NATTIKA	K.V. DASAN	Indian National Congress	43441
+Kerala - NATTIKA	T.V. BABU	Bharath Dharma Jana Sena	33650
+Kerala - NATTIKA	ARUMUGHAN SNEHATHEERAM	Peoples Democratic Party	534
+Kerala - NATTIKA	A.K. SANTHOSH	Bahujan Samaj Party	530
+Kerala - NATTIKA	T.K.PRASAD	Independent	502
+Kerala - NATTIKA	N.M. PUSHPANGADHAN	Communist Party of India (Marxist-Leninist) Red Star	253
+Kerala - NATTIKA	CHANDRAN VAKEEL	Independent	168
+Kerala - NATTIKA	NINU K. B.	Independent	163
+Kerala - NATTIKA	SIVADAS N	Indian Gandhiyan Party	150
+Kerala - NATTIKA	None of the Above	None of the Above	903
+Kerala - KAIPAMANGALAM	E T TAISON MASTER	Communist Party of India	66824
+Kerala - KAIPAMANGALAM	M T MUHAMMED NAHAS	Revolutionary Socialist Party	33384
+Kerala - KAIPAMANGALAM	UNNIKRISHNAN THASHNATH	Bharath Dharma Jana Sena	30041
+Kerala - KAIPAMANGALAM	K K SHAJAHAN	Welfare Party Of India	2002
+Kerala - KAIPAMANGALAM	ABDUL KAREEM P M	Peoples Democratic Party	624
+Kerala - KAIPAMANGALAM	K H MOHAMMED RAFEEK	Socialistic Democratic Party	564
+Kerala - KAIPAMANGALAM	P A KUTTAPPAN	Independent	257
+Kerala - KAIPAMANGALAM	BIJU ITTITHARA	Independent	238
+Kerala - KAIPAMANGALAM	N D VENU	Communist Party of India (Marxist-Leninist) Red Star	227
+Kerala - KAIPAMANGALAM	None of the Above	None of the Above	565
+Kerala - IRINJALAKKUDA	PROF. K.U. ARUNAN	Communist Party of India (Marxist)	59730
+Kerala - IRINJALAKKUDA	ADV. THOMAS UNNIYADAN	Kerala Congress (M)	57019
+Kerala - IRINJALAKKUDA	SANTHOSH CHERAKULAM	Bharatiya Janata Party	30420
+Kerala - IRINJALAKKUDA	V.C. UNNIKRISHNAN	Bahujan Samaj Party	639
+Kerala - IRINJALAKKUDA	DAVIS CHATHELI	Independent	345
+Kerala - IRINJALAKKUDA	AYYAPPAN MANAYKAL	Communist Party of India (Marxist-Leninist) Red Star	314
+Kerala - IRINJALAKKUDA	None of the Above	None of the Above	857
+Kerala - PUTHUKKAD	PROF.C.RAVEENDRANATH	Communist Party of India (Marxist)	79464
+Kerala - PUTHUKKAD	SUNDARAN KUNNATHULLY	Indian National Congress	40986
+Kerala - PUTHUKKAD	A NAGESH(PARAMESWARAN)	Bharatiya Janata Party	35833
+Kerala - PUTHUKKAD	ASIF NIYAS	Peoples Democratic Party	519
+Kerala - PUTHUKKAD	C.V.VIJAYAN	Independent	431
+Kerala - PUTHUKKAD	SANTHOSH POLAKULATH	Shivsena	239
+Kerala - PUTHUKKAD	JAYAN KONIKKARA	Communist Party of India (Marxist-Leninist) Red Star	237
+Kerala - PUTHUKKAD	SANTHOSH IYTHADAN	Independent	233
+Kerala - PUTHUKKAD	None of the Above	None of the Above	779
+Kerala - CHALAKKUDY	B. D. DEVASSY	Communist Party of India (Marxist)	74251
+Kerala - CHALAKKUDY	T. U. RADHAKRISHNAN	Indian National Congress	47603
+Kerala - CHALAKKUDY	UNNIKRISHNAN. K. A	Bharath Dharma Jana Sena	26229
+Kerala - CHALAKKUDY	AYYAPPAN VAZHAVALAPPIL	Bahujan Samaj Party	561
+Kerala - CHALAKKUDY	JIJO	Independent	367
+Kerala - CHALAKKUDY	SABU CHATHELY	Independent	304
+Kerala - CHALAKKUDY	A. E. SABIRA	Independent	191
+Kerala - CHALAKKUDY	N. A. DEVASSY NELLIPPILLY	Independent	149
+Kerala - CHALAKKUDY	None of the Above	None of the Above	739
+Kerala - KODUNGALLUR	V R SUNILKUMAR	Communist Party of India	67909
+Kerala - KODUNGALLUR	K P DHANAPALAN	Indian National Congress	45118
+Kerala - KODUNGALLUR	SANGEETHA	Bharath Dharma Jana Sena	32793
+Kerala - KODUNGALLUR	MANAF A K	SOCIAL DEMOCRATIC PARTY OF INDIA	558
+Kerala - KODUNGALLUR	RADHAKRISHNAN C K	Independent	411
+Kerala - KODUNGALLUR	SUBRAMANIAN	Bahujan Samaj Party	367
+Kerala - KODUNGALLUR	RAJAN	Independent	210
+Kerala - KODUNGALLUR	C S KRISHNAKUMAR	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	200
+Kerala - KODUNGALLUR	JOSHY KUMAR K V	Independent	125
+Kerala - KODUNGALLUR	None of the Above	None of the Above	886
+Kerala - PERUMBAVOOR	ADV. ELDOSE P KUNNAPPILLY	Indian National Congress	64285
+Kerala - PERUMBAVOOR	SAJU PAUL	Communist Party of India (Marxist)	57197
+Kerala - PERUMBAVOOR	E S BIJU	Bharatiya Janata Party	19731
+Kerala - PERUMBAVOOR	V K SHOUKKATH ALI	SOCIAL DEMOCRATIC PARTY OF INDIA	2061
+Kerala - PERUMBAVOOR	THOMAS K GEORGE	Welfare Party Of India	971
+Kerala - PERUMBAVOOR	JOHN PERUVANTHANAM	Independent	385
+Kerala - PERUMBAVOOR	M M YOOSAF	Independent	134
+Kerala - PERUMBAVOOR	P K SIVAN	Independent	132
+Kerala - PERUMBAVOOR	None of the Above	None of the Above	831
+Kerala - ANGAMALY	ROJI M JOHN	Indian National Congress	66666
+Kerala - ANGAMALY	BENNY MOONJELY	Janata Dal (Secular)	57480
+Kerala - ANGAMALY	P J BABU	Kerala Congress	9014
+Kerala - ANGAMALY	JAYANTHI AVINASH	Bahujan Samaj Party	742
+Kerala - ANGAMALY	M K KANJANAVALLY	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	595
+Kerala - ANGAMALY	P R MANICKYAMANGALAM (P R MOHANAN)	Independent	385
+Kerala - ANGAMALY	SUNNY THOMAS MADASSERY	Independent	245
+Kerala - ANGAMALY	SHAJAN THATTIL	Samajwadi Party	219
+Kerala - ANGAMALY	None of the Above	None of the Above	811
+Kerala - ALUVA	ANWAR SADATH	Indian National Congress	69568
+Kerala - ALUVA	ADV V SALEEM	Communist Party of India (Marxist)	50733
+Kerala - ALUVA	LATHA GANGADHARAN	Bharatiya Janata Party	19349
+Kerala - ALUVA	SAMAD P I	Welfare Party Of India	2031
+Kerala - ALUVA	JOSE MAVELY	Independent	1726
+Kerala - ALUVA	AJMAL ISMAIL	SOCIAL DEMOCRATIC PARTY OF INDIA	1716
+Kerala - ALUVA	NAZAR KODIKUTHUMALA	Peoples Democratic Party	480
+Kerala - ALUVA	SHAMSUDHEEN C A	Independent	138
+Kerala - ALUVA	REJIMON	Independent	114
+Kerala - ALUVA	A BRAHMAKUMAR	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	114
+Kerala - ALUVA	KHALID MUNDAPPILLY	Independent	86
+Kerala - ALUVA	None of the Above	None of the Above	750
+Kerala - KALAMASSERY	V K IBRAHIM KUNJU	Indian Union Muslim League	68726
+Kerala - KALAMASSERY	A M YOUSAF	Communist Party of India (Marxist)	56608
+Kerala - KALAMASSERY	V GOPAKUMAR	Bharath Dharma Jana Sena	24244
+Kerala - KALAMASSERY	SHAFEER MUHAMMED	SOCIAL DEMOCRATIC PARTY OF INDIA	1706
+Kerala - KALAMASSERY	PREMA G PISHARADI	Welfare Party Of India	1391
+Kerala - KALAMASSERY	V M ALIYAR	Peoples Democratic Party	634
+Kerala - KALAMASSERY	UNNIKRISHNAN N A	Independent	182
+Kerala - KALAMASSERY	YUSSUF KODOPPILLY	Independent	155
+Kerala - KALAMASSERY	P K YOUSEF PANTHALAKKODATH	Independent	155
+Kerala - KALAMASSERY	None of the Above	None of the Above	1081
+Kerala - PARAVUR	V D SATHEESAN	Indian National Congress	74985
+Kerala - PARAVUR	SARADA MOHAN	Communist Party of India	54351
+Kerala - PARAVUR	HARI VIJAYAN	Bharath Dharma Jana Sena	28097
+Kerala - PARAVUR	FAIZAL	SOCIAL DEMOCRATIC PARTY OF INDIA	923
+Kerala - PARAVUR	SIJIKUMAR K K	Bahujan Samaj Party	557
+Kerala - PARAVUR	SHINSA SELVARAJ	Independent	302
+Kerala - PARAVUR	SATHYANESAN	Independent	261
+Kerala - PARAVUR	JOSE THOMAS	Marxist Communist Party of India (United)	200
+Kerala - PARAVUR	None of the Above	None of the Above	900
+Kerala - VYPEN	S SARMA	Communist Party of India (Marxist)	68526
+Kerala - VYPEN	K R SUBHASH	Indian National Congress	49173
+Kerala - VYPEN	VAMALOCHANAN K K	Bharath Dharma Jana Sena	10051
+Kerala - VYPEN	JYOTHIVAS PARAVUR	Welfare Party Of India	1406
+Kerala - VYPEN	MANJULADEVI	Communist Party of India (Marxist-Leninist) Red Star	248
+Kerala - VYPEN	RAJEEV NAAGAN	Ambedkarite Party of India	231
+Kerala - VYPEN	SUBHASH K S	Independent	217
+Kerala - VYPEN	K D VISWANATHAN	Peoples Democratic Party	183
+Kerala - VYPEN	KODICKAL SADASIVAN	Independent	136
+Kerala - VYPEN	S D SATHEESH	Independent	88
+Kerala - VYPEN	None of the Above	None of the Above	910
+Kerala - KOCHI	K J MAXY	Communist Party of India (Marxist)	47967
+Kerala - KOCHI	DOMINIC PRESENTATION	Indian National Congress	46881
+Kerala - KOCHI	PRAVEEN DHAMODARA PRABHU	Bharatiya Janata Party	15212
+Kerala - KOCHI	K J LEENUS	Independent	7588
+Kerala - KOCHI	A S MUHAMMED	Welfare Party Of India	2357
+Kerala - KOCHI	SULFIKAR ALI	SOCIAL DEMOCRATIC PARTY OF INDIA	2108
+Kerala - KOCHI	T P ANTONY	Peoples Democratic Party	386
+Kerala - KOCHI	JOHNY STEPHEN	Independent	180
+Kerala - KOCHI	JAYARAJ K S	Independent	172
+Kerala - KOCHI	ABDUL SAMAD	Independent	101
+Kerala - KOCHI	None of the Above	None of the Above	1002
+Kerala - THRIPUNITHURA	ADV. M SWARAJ	Communist Party of India (Marxist)	62697
+Kerala - THRIPUNITHURA	K BABU	Indian National Congress	58230
+Kerala - THRIPUNITHURA	PROF. THURAVOOR VISWAMBHARAN	Bharatiya Janata Party	29843
+Kerala - THRIPUNITHURA	T A KAMARUDHEEN	Bahujan Samaj Party	683
+Kerala - THRIPUNITHURA	SUDHEER YOUSAF	SOCIAL DEMOCRATIC PARTY OF INDIA	594
+Kerala - THRIPUNITHURA	PADMINI D NETTOOR	Peoples Democratic Party	410
+Kerala - THRIPUNITHURA	SWARAJ MANICKATHAN	Independent	394
+Kerala - THRIPUNITHURA	SAJU KOLATTUKUDY	Independent	172
+Kerala - THRIPUNITHURA	SUDHA M P	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	156
+Kerala - THRIPUNITHURA	SONIA JOSE	Independent	128
+Kerala - THRIPUNITHURA	GIREESH BABU	Independent	122
+Kerala - THRIPUNITHURA	K N PRADEEP	Independent	116
+Kerala - THRIPUNITHURA	AYYAPPAN	Independent	112
+Kerala - THRIPUNITHURA	None of the Above	None of the Above	1028
+Kerala - ERANAKULAM	HIBI EDEN	Indian National Congress	57819
+Kerala - ERANAKULAM	M ANIL KUMAR	Communist Party of India (Marxist)	35870
+Kerala - ERANAKULAM	N K MOHANDAS	Bharatiya Janata Party	14878
+Kerala - ERANAKULAM	IQBAL THAMARASSERY	Bahujan Samaj Party	397
+Kerala - ERANAKULAM	RUBESH JIMMY MADATHIPRAMBAN	Samajwadi Party	258
+Kerala - ERANAKULAM	JOSSEY MATHEW	Independent	117
+Kerala - ERANAKULAM	ANILKUMAR ANANTHAPURAM	Independent	115
+Kerala - ERANAKULAM	ANILKUMAR PULIYOTH	Independent	114
+Kerala - ERANAKULAM	None of the Above	None of the Above	940
+Kerala - THRIKKAKARA	ADV.P T THOMAS	Indian National Congress	61451
+Kerala - THRIKKAKARA	DR.SEBASTIAN PAUL	Communist Party of India (Marxist)	49455
+Kerala - THRIKKAKARA	S SAJI	Bharatiya Janata Party	21247
+Kerala - THRIKKAKARA	K M SHAJAHAN	SOCIAL DEMOCRATIC PARTY OF INDIA	956
+Kerala - THRIKKAKARA	ADV. SHIBU P A	Bahujan Samaj Party	346
+Kerala - THRIKKAKARA	VINOD P K	Independent	175
+Kerala - THRIKKAKARA	SILVI SUNIL	Independent	147
+Kerala - THRIKKAKARA	SREEDHARAN	Independent	82
+Kerala - THRIKKAKARA	LAL VISWAN	Independent	60
+Kerala - THRIKKAKARA	RAHUL R	Independent	58
+Kerala - THRIKKAKARA	P H RAMACHANDRAN	Independent	52
+Kerala - THRIKKAKARA	None of the Above	None of the Above	1275
+Kerala - KUNNATHUNAD	V P SAJEENDRAN	Indian National Congress	65445
+Kerala - KUNNATHUNAD	ADV. SHIJI SIVAJI	Communist Party of India (Marxist)	62766
+Kerala - KUNNATHUNAD	THURAVOOR SURESH	Bharath Dharma Jana Sena	16459
+Kerala - KUNNATHUNAD	N O KUTTAPPAN	Samajwadi Party	1263
+Kerala - KUNNATHUNAD	ORNA KRISHNANKUTTY	Peoples Democratic Party	653
+Kerala - KUNNATHUNAD	SAJEENDRAN PARAPPURATH	Independent	436
+Kerala - KUNNATHUNAD	MANOJ	Communist Party of India (Marxist-Leninist) (Liberation)	116
+Kerala - KUNNATHUNAD	None of the Above	None of the Above	1179
+Kerala - PIRAVOM	ANOOP JACOB	Kerala Congress (Jacob)	73770
+Kerala - PIRAVOM	M.J.JACOB	Communist Party of India (Marxist)	67575
+Kerala - PIRAVOM	C.P.SATHYAN	Bharath Dharma Jana Sena	17503
+Kerala - PIRAVOM	GIREESH	Peoples Green Party	485
+Kerala - PIRAVOM	K.O.SUDHEER	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	342
+Kerala - PIRAVOM	ANOOP	Independent	298
+Kerala - PIRAVOM	RAJAN	Independent	233
+Kerala - PIRAVOM	None of the Above	None of the Above	964
+Kerala - MUVATTUPUZHA	ELDHO ABRAHAM	Communist Party of India	70269
+Kerala - MUVATTUPUZHA	JOSEPH VAZHACKAN	Indian National Congress	60894
+Kerala - MUVATTUPUZHA	ADV. P J THOMAS	Bharatiya Janata Party	9759
+Kerala - MUVATTUPUZHA	P K ABOOBACKAR THANGAL (KHAMARUDHEEN THANGAL)	Peoples Democratic Party	513
+Kerala - MUVATTUPUZHA	P P MOIDEENKUNJU	SOCIAL DEMOCRATIC PARTY OF INDIA	428
+Kerala - MUVATTUPUZHA	JUSTIN T D	Independent	120
+Kerala - MUVATTUPUZHA	None of the Above	None of the Above	633
+Kerala - KOTHAMANGALAM	ANTONY JOHN	Communist Party of India (Marxist)	65467
+Kerala - KOTHAMANGALAM	CHEV. T.U.KURUVILLA	Kerala Congress (M)	46185
+Kerala - KOTHAMANGALAM	P C CYRIAC I.A.S.(RETD)	Independent	12926
+Kerala - KOTHAMANGALAM	PROF. ANAS N A	SOCIAL DEMOCRATIC PARTY OF INDIA	1490
+Kerala - KOTHAMANGALAM	YAHIYA THANGAL	Peoples Democratic Party	775
+Kerala - KOTHAMANGALAM	T.K.KURUVILA THOTTATHIL	Independent	357
+Kerala - KOTHAMANGALAM	ADV. CHERIAN ABRAHAM	Independent	261
+Kerala - KOTHAMANGALAM	ANTO JOHNY	Independent	163
+Kerala - KOTHAMANGALAM	None of the Above	None of the Above	803
+Kerala - DEVIKULAM	S RAJENDRAN	Communist Party of India (Marxist)	49510
+Kerala - DEVIKULAM	A K MONY	Indian National Congress	43728
+Kerala - DEVIKULAM	R M DHANALAKSHMY	All India Anna Dravida Munnetra Kazhagam	11613
+Kerala - DEVIKULAM	N CHANDRAN	Bharatiya Janata Party	9592
+Kerala - DEVIKULAM	J RAJESWARY	Independent	650
+Kerala - DEVIKULAM	RAJENDRAN R	Peoples Democratic Party	485
+Kerala - DEVIKULAM	C K GOVINDHAN	Independent	303
+Kerala - DEVIKULAM	K MANIKANDAN	Independent	267
+Kerala - DEVIKULAM	PANDIRAJ	Independent	184
+Kerala - DEVIKULAM	K P AYYAPPAN	Independent	129
+Kerala - DEVIKULAM	None of the Above	None of the Above	921
+Kerala - UDUMBANCHOLA	M.M. MANI	Communist Party of India (Marxist)	50813
+Kerala - UDUMBANCHOLA	ADV.SENAPATHY VENU	Indian National Congress	49704
+Kerala - UDUMBANCHOLA	SAJI PARAMBATH	Bharath Dharma Jana Sena	21799
+Kerala - UDUMBANCHOLA	B.SOMAN	All India Anna Dravida Munnetra Kazhagam	1651
+Kerala - UDUMBANCHOLA	SHANAVAS BAKER	SOCIAL DEMOCRATIC PARTY OF INDIA	831
+Kerala - UDUMBANCHOLA	RAJU MANJAKKUNNEL	Bahujan Samaj Party	486
+Kerala - UDUMBANCHOLA	M J FRANSIS	Independent	132
+Kerala - UDUMBANCHOLA	None of the Above	None of the Above	602
+Kerala - THODUPUZHA	P.J. JOSEPH	Kerala Congress (M)	76564
+Kerala - THODUPUZHA	ADV. ROY VARICATTU	Independent	30977
+Kerala - THODUPUZHA	ADV. S. PRAVEEN	Bharath Dharma Jana Sena	28845
+Kerala - THODUPUZHA	ROY ARACKAL	SOCIAL DEMOCRATIC PARTY OF INDIA	1294
+Kerala - THODUPUZHA	NISHA JIMMY	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	811
+Kerala - THODUPUZHA	NAJEEB KALARICKAL	Peoples Democratic Party	710
+Kerala - THODUPUZHA	P.J. AMBILY	Bahujan Samaj Party	440
+Kerala - THODUPUZHA	SANTHOSH P K	Independent	292
+Kerala - THODUPUZHA	K M VEENAS	Independent	228
+Kerala - THODUPUZHA	PAREETH	Independent	194
+Kerala - THODUPUZHA	None of the Above	None of the Above	1219
+Kerala - IDUKKI	ROSHY AUGUSTINE	Kerala Congress (M)	60556
+Kerala - IDUKKI	ADV. K FRANCIS GEORGE	Independent	51223
+Kerala - IDUKKI	BIJU MADHAVAN	Bharath Dharma Jana Sena	27403
+Kerala - IDUKKI	SABU KOCHUPARAMBIL	Bahujan Samaj Party	566
+Kerala - IDUKKI	P.T POOMKUDY	Independent	436
+Kerala - IDUKKI	BABU KOZHIMALA	SOCIAL DEMOCRATIC PARTY OF INDIA	411
+Kerala - IDUKKI	IDUKKI RAVI	Independent	250
+Kerala - IDUKKI	None of the Above	None of the Above	433
+Kerala - PEERUMADE	E S BIJIMOL	Communist Party of India	56584
+Kerala - PEERUMADE	ADV. SYRIAC THOMAS	Indian National Congress	56270
+Kerala - PEERUMADE	KUMAR	Bharatiya Janata Party	11833
+Kerala - PEERUMADE	ABDUL KHADER	All India Anna Dravida Munnetra Kazhagam	2862
+Kerala - PEERUMADE	BENNY THOMAS	Bahujan Samaj Party	489
+Kerala - PEERUMADE	RAMASWAMY GOVINDAN	Independent	175
+Kerala - PEERUMADE	JOSEPH M T	Independent	107
+Kerala - PEERUMADE	None of the Above	None of the Above	448
+Kerala - PALA	K M MANI	Kerala Congress (M)	58884
+Kerala - PALA	MANI C KAPPEN	Nationalist Congress Party	54181
+Kerala - PALA	N HARI	Bharatiya Janata Party	24821
+Kerala - PALA	ADV. JOSE THOMAS PANDIYAMMAKKAL	Independent	489
+Kerala - PALA	ANTONY	Independent	217
+Kerala - PALA	SHAIJU PONKUNNAM	Independent	103
+Kerala - PALA	HASSAN KUNJU P S	Independent	90
+Kerala - PALA	BABU	Independent	83
+Kerala - PALA	None of the Above	None of the Above	907
+Kerala - KADUTHURUTHY	ADV. MONS JOSEPH	Kerala Congress (M)	73793
+Kerala - KADUTHURUTHY	SCARIA THOMAS	Kerala Congress (Skariah Thomas)	31537
+Kerala - KADUTHURUTHY	STEPHEN CHAZHIKADAN	Kerala Congress	17536
+Kerala - KADUTHURUTHY	GINISH JOHN M	Bahujan Samaj Party	1473
+Kerala - KADUTHURUTHY	T P KUTTAPPAN KURUPPANTHARA	Kerala Janatha Party	968
+Kerala - KADUTHURUTHY	RAJEEV KIDANGOOR	Independent	332
+Kerala - KADUTHURUTHY	None of the Above	None of the Above	1533
+Kerala - VAIKOM	C K ASHA	Communist Party of India	61997
+Kerala - VAIKOM	ADV. A SANEESHKUMAR	Indian National Congress	37413
+Kerala - VAIKOM	N K NEELAKANDAN MASTER	Bharath Dharma Jana Sena	30067
+Kerala - VAIKOM	K C CHANDRASEKHARAN	Bahujan Samaj Party	540
+Kerala - VAIKOM	SUBEESH SURENDRAN	Peoples Democratic Party	489
+Kerala - VAIKOM	ANILA BOSE	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	420
+Kerala - VAIKOM	K C PRAKASH	Communist Party of India (Marxist-Leninist) Red Star	204
+Kerala - VAIKOM	KUTTAN KATTACHIRA	Independent	118
+Kerala - VAIKOM	None of the Above	None of the Above	800
+Kerala - ETTUMANOOR	SURESH KURUP	Communist Party of India (Marxist)	53805
+Kerala - ETTUMANOOR	THOMAS CHAZHIKADAN	Kerala Congress (M)	44906
+Kerala - ETTUMANOOR	A G THANKAPPAN	Bharath Dharma Jana Sena	27540
+Kerala - ETTUMANOOR	JOSEMON MUNDACKAL	Independent	3774
+Kerala - ETTUMANOOR	ABDUL NAZAR	SOCIAL DEMOCRATIC PARTY OF INDIA	706
+Kerala - ETTUMANOOR	ADV. C P RAJESH	Bahujan Samaj Party	453
+Kerala - ETTUMANOOR	M S NOUSHAD	Peoples Democratic Party	338
+Kerala - ETTUMANOOR	ASHARAJ	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	182
+Kerala - ETTUMANOOR	None of the Above	None of the Above	600
+Kerala - KOTTAYAM	THIRUVANCHOOR RADHAKRISHNAN	Indian National Congress	73894
+Kerala - KOTTAYAM	ADV. REJI SAKHARIYA	Communist Party of India (Marxist)	40262
+Kerala - KOTTAYAM	ADV. M S KARUNAKARAN	Bharatiya Janata Party	12582
+Kerala - KOTTAYAM	ADV. P K GEETHA KRISHNAN	Bahujan Samaj Party	651
+Kerala - KOTTAYAM	ROY CHEMMANAM	Samajwadi Party	403
+Kerala - KOTTAYAM	REJITHA JAYARAM	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	182
+Kerala - KOTTAYAM	JOHN JOY	Independent	88
+Kerala - KOTTAYAM	PAYAS C P	Independent	58
+Kerala - KOTTAYAM	None of the Above	None of the Above	483
+Kerala - PUTHUPPALLY	OOMMEN CHANDY	Indian National Congress	71597
+Kerala - PUTHUPPALLY	JAICK C THOMAS	Communist Party of India (Marxist)	44505
+Kerala - PUTHUPPALLY	ADV. GEORGE KURIAN	Bharatiya Janata Party	15993
+Kerala - PUTHUPPALLY	SHIBU PARAKADAVAN	Bahujan Samaj Party	911
+Kerala - PUTHUPPALLY	M V CHERIAN	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	131
+Kerala - PUTHUPPALLY	K M SIVAPRASAD GANDHI	Independent	103
+Kerala - PUTHUPPALLY	A K SHAJI	Independent	64
+Kerala - PUTHUPPALLY	JIJO	Independent	51
+Kerala - PUTHUPPALLY	JOSEPH T M	Independent	49
+Kerala - PUTHUPPALLY	None of the Above	None of the Above	630
+Kerala - CHANGANASSERY	C F THOMAS	Kerala Congress (M)	50371
+Kerala - CHANGANASSERY	DR. K C JOSEPH	Independent	48522
+Kerala - CHANGANASSERY	ETTUMANOOR RADHAKRISHNAN	Bharatiya Janata Party	21455
+Kerala - CHANGANASSERY	ALTHAPH HASSAN	SOCIAL DEMOCRATIC PARTY OF INDIA	1797
+Kerala - CHANGANASSERY	ADV. SOJAN PAVIYANOSE	Independent	1050
+Kerala - CHANGANASSERY	RAJI RAJAN	Bahujan Samaj Party	676
+Kerala - CHANGANASSERY	SURESH K	Independent	596
+Kerala - CHANGANASSERY	K N RAJAN	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	312
+Kerala - CHANGANASSERY	BABU VARGESE	Kerala Congress Secular	292
+Kerala - CHANGANASSERY	KUNJUMON ABRAHAM	Independent	151
+Kerala - CHANGANASSERY	None of the Above	None of the Above	571
+Kerala - KANJIRAPPALLY	DR. N JAYARAJ	Kerala Congress (M)	53126
+Kerala - KANJIRAPPALLY	ADV. V B BINU	Communist Party of India	49236
+Kerala - KANJIRAPPALLY	V N MANOJ	Bharatiya Janata Party	31411
+Kerala - KANJIRAPPALLY	ARUN M JOHN	Bahujan Samaj Party	1113
+Kerala - KANJIRAPPALLY	MUHAMMED SIYAD	SOCIAL DEMOCRATIC PARTY OF INDIA	839
+Kerala - KANJIRAPPALLY	MANOJ ARUVIKKUZHY	Independent	138
+Kerala - KANJIRAPPALLY	ACHUTHAN K P	Independent	137
+Kerala - KANJIRAPPALLY	SAJAN C MADHAVAN	Independent	90
+Kerala - KANJIRAPPALLY	None of the Above	None of the Above	618
+Kerala - POONJAR	P C GEORGE PLATHOTTAM	Independent	63621
+Kerala - POONJAR	GEORGEKUTTY AUGUSTY	Kerala Congress (M)	35800
+Kerala - POONJAR	ADV. P C JOSEPH PONNATTU	Independent	22270
+Kerala - POONJAR	M R ULLAS	Bharath Dharma Jana Sena	19966
+Kerala - POONJAR	P A ABDUL HAKKIM	Welfare Party Of India	804
+Kerala - POONJAR	NISHAD NADAKAL	Peoples Democratic Party	530
+Kerala - POONJAR	SAINULLAUDEEN	Independent	525
+Kerala - POONJAR	ADV. INDULEKHA JOSEPH	Independent	397
+Kerala - POONJAR	GEORGEKUTTY SEBASTIAN	Independent	375
+Kerala - POONJAR	JOSEPH P C PURATHAYIL	Independent	234
+Kerala - POONJAR	SIYAM P ASHRAF	Independent	194
+Kerala - POONJAR	GEORGE CHACKO	Independent	166
+Kerala - POONJAR	RAJU VATTAPPARA	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	148
+Kerala - POONJAR	JAMES JOSEPH	Independent	143
+Kerala - POONJAR	SANTHOSH CHENNADU	Kerala Janatha Party	96
+Kerala - POONJAR	T M SURENDRAN	Communist Party of India (Marxist-Leninist) Red Star	94
+Kerala - POONJAR	ABRAHAM	Independent	77
+Kerala - POONJAR	None of the Above	None of the Above	313
+Kerala - AROOR	ADV.A.M.ARIFF	Communist Party of India (Marxist)	84720
+Kerala - AROOR	ADV.C.R.JAYAPRAKASH	Indian National Congress	46201
+Kerala - AROOR	ANIYAPPAN	Bharath Dharma Jana Sena	27753
+Kerala - AROOR	MOHAN CHACKO	Welfare Party Of India	761
+Kerala - AROOR	K.PRATHAPAN	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	556
+Kerala - AROOR	LIYAKATHALI	SOCIAL DEMOCRATIC PARTY OF INDIA	434
+Kerala - AROOR	FAIZAL	Peoples Democratic Party	433
+Kerala - AROOR	THURAVOOR RAJASEKHARAN	Independent	281
+Kerala - AROOR	None of the Above	None of the Above	736
+Kerala - CHERTHALA	P.THILOTHAMAN	Communist Party of India	81197
+Kerala - CHERTHALA	ADV.S.SARATH	Indian National Congress	74001
+Kerala - CHERTHALA	P.S.RAJEEV	Bharath Dharma Jana Sena	19614
+Kerala - CHERTHALA	C.P.THILAKAN	Bahujan Samaj Party	845
+Kerala - CHERTHALA	S.SARATH	Independent	639
+Kerala - CHERTHALA	SONNYMON K MATHEW	Independent	348
+Kerala - CHERTHALA	VAYALAR RAJEEVAN	Independent	174
+Kerala - CHERTHALA	K.V.JOSEPH	Independent	150
+Kerala - CHERTHALA	None of the Above	None of the Above	687
+Kerala - ALAPPUZHA	DR.T.M.THOMAS ISAAC	Communist Party of India (Marxist)	83211
+Kerala - ALAPPUZHA	ADV.LALY VINCENT	Indian National Congress	52179
+Kerala - ALAPPUZHA	ADV.RANJITH SREENIVAS	Bharatiya Janata Party	18214
+Kerala - ALAPPUZHA	P.A.SULAIMAN KUNJU	SOCIAL DEMOCRATIC PARTY OF INDIA	703
+Kerala - ALAPPUZHA	K.MUJEEB	Peoples Democratic Party	481
+Kerala - ALAPPUZHA	K.A.VINOD	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	244
+Kerala - ALAPPUZHA	PREMJI.K.P	Independent	149
+Kerala - ALAPPUZHA	ADV.PRASANTH	Independent	113
+Kerala - ALAPPUZHA	None of the Above	None of the Above	856
+Kerala - AMBALAPUZHA	G.SUDHAKARAN	Communist Party of India (Marxist)	63069
+Kerala - AMBALAPUZHA	SHAIK.P.HARRIZ	Janata Dal (United)	40448
+Kerala - AMBALAPUZHA	L.P.JAYACHANDRAN	Bharatiya Janata Party	22730
+Kerala - AMBALAPUZHA	K.S.SHAN	SOCIAL DEMOCRATIC PARTY OF INDIA	1622
+Kerala - AMBALAPUZHA	R.ARJUNAN	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	1439
+Kerala - AMBALAPUZHA	ADV.NASSAR.M.PYNGAMADOM	Independent	1053
+Kerala - AMBALAPUZHA	A.ANSARI	Peoples Democratic Party	931
+Kerala - AMBALAPUZHA	NASAR ARATTUPUZHA	Welfare Party Of India	878
+Kerala - AMBALAPUZHA	JOSEPH KUTTIKKADAN	Independent	266
+Kerala - AMBALAPUZHA	P.G.SUGUNAN	Independent	231
+Kerala - AMBALAPUZHA	None of the Above	None of the Above	627
+Kerala - KUTTANAD	THOMAS CHANDY	Nationalist Congress Party	50114
+Kerala - KUTTANAD	ADV.JACOB EBRAHAM	Kerala Congress (M)	45223
+Kerala - KUTTANAD	SUBHASH VASU	Bharath Dharma Jana Sena	33044
+Kerala - KUTTANAD	NANDANAN VALIYAPARAMBU	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	371
+Kerala - KUTTANAD	SANIL.P.M (SUNNY PATHINARIL)	Bahujan Samaj Party	354
+Kerala - KUTTANAD	JOSE KOIPPALLY	Independent	263
+Kerala - KUTTANAD	JACOB ABRAHAM	Independent	262
+Kerala - KUTTANAD	MOHANAN	Independent	105
+Kerala - KUTTANAD	None of the Above	None of the Above	346
+Kerala - HARIPAD	RAMESH CHENNITHALA	Indian National Congress	75980
+Kerala - HARIPAD	P.PRASAD	Communist Party of India	57359
+Kerala - HARIPAD	D.ASWANIDEV	Bharatiya Janata Party	12985
+Kerala - HARIPAD	VARKALA RAJ	Peoples Democratic Party	623
+Kerala - HARIPAD	ASHABUL HAQ	SOCIAL DEMOCRATIC PARTY OF INDIA	512
+Kerala - HARIPAD	C.BALAKRISHNAN	Bahujan Samaj Party	417
+Kerala - HARIPAD	SIDHARTHAN KARUVATTA	Independent	149
+Kerala - HARIPAD	A.MUHAMMED	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	147
+Kerala - HARIPAD	SAMUDAYATHIL RAVI.R.UNNITHAN	Independent	93
+Kerala - HARIPAD	PRADEEP KARIPUZHA	Independent	87
+Kerala - HARIPAD	SATHEESHKUMAR.B	Independent	75
+Kerala - HARIPAD	D.PRASOOL PRAKASH	Independent	46
+Kerala - HARIPAD	PRASAD UNIKKANTHARA	Independent	38
+Kerala - HARIPAD	None of the Above	None of the Above	321
+Kerala - KAYAMKULAM	ADV.U.PRATHIBHA HARI	Communist Party of India (Marxist)	72956
+Kerala - KAYAMKULAM	ADV.M.LIJU	Indian National Congress	61099
+Kerala - KAYAMKULAM	SHAJI.M.PANICKER	Bharath Dharma Jana Sena	20000
+Kerala - KAYAMKULAM	ADV.MUTTAM NAZAR	Peoples Democratic Party	1125
+Kerala - KAYAMKULAM	P.MANIYAPPAN ACHARI	Independent	739
+Kerala - KAYAMKULAM	G.VEENA	Independent	177
+Kerala - KAYAMKULAM	AJITH P	Independent	159
+Kerala - KAYAMKULAM	LIJU.M	Independent	93
+Kerala - KAYAMKULAM	None of the Above	None of the Above	458
+Kerala - MAVELIKARA	R.RAJESH	Communist Party of India (Marxist)	74555
+Kerala - MAVELIKARA	BAIJU KALASALA	Indian National Congress	43013
+Kerala - MAVELIKARA	P.M.VELAYUDHAN	Bharatiya Janata Party	30929
+Kerala - MAVELIKARA	ASHA.T	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	242
+Kerala - MAVELIKARA	KATTANAM SURESH	Bahujan Samaj Party	213
+Kerala - MAVELIKARA	AJEESHKUMAR	Independent	213
+Kerala - MAVELIKARA	None of the Above	None of the Above	523
+Kerala - CHENGANNUR	ADV.K.K.RAMACHANDRAN NAIR	Communist Party of India (Marxist)	52880
+Kerala - CHENGANNUR	P.C.VISHNUNATH	Indian National Congress	44897
+Kerala - CHENGANNUR	ADV.P.S.SREEDHARAN PILLAI	Bharatiya Janata Party	42682
+Kerala - CHENGANNUR	SOBHANA GEORGE	Independent	3966
+Kerala - CHENGANNUR	ALEX	Bahujan Samaj Party	483
+Kerala - CHENGANNUR	E.T.SASI	Independent	247
+Kerala - CHENGANNUR	None of the Above	None of the Above	363
+Kerala - THIRUVALLA	ADV.MATHEW T THOMAS	Janata Dal (Secular)	59660
+Kerala - THIRUVALLA	JOSEPH M PUTHUSSERY	Kerala Congress (M)	51398
+Kerala - THIRUVALLA	AKKERAMAN KALIDASAN BHATTATHIRIPAD	Bharath Dharma Jana Sena	31439
+Kerala - THIRUVALLA	SAJI KADAMPANAD	Bahujan Samaj Party	756
+Kerala - THIRUVALLA	ADV.SIMI M JACOB	SOCIAL DEMOCRATIC PARTY OF INDIA	444
+Kerala - THIRUVALLA	CHERIAN M V	Independent	366
+Kerala - THIRUVALLA	None of the Above	None of the Above	479
+Kerala - RANNI	RAJU ABRAHAM	Communist Party of India (Marxist)	58749
+Kerala - RANNI	MARIAMMA CHERIAN	Indian National Congress	44153
+Kerala - RANNI	PADMAKUMAR K	Bharath Dharma Jana Sena	28201
+Kerala - RANNI	PRASAD UTHIMOODU	Bahujan Samaj Party	1072
+Kerala - RANNI	FAWSEENA THAKBEER	SOCIAL DEMOCRATIC PARTY OF INDIA	862
+Kerala - RANNI	GEETHAMMA MADHAVAN	Independent	298
+Kerala - RANNI	VARUGHESE THOMAS	Independent	154
+Kerala - RANNI	None of the Above	None of the Above	438
+Kerala - ARANMULA	VEENA GEORGE	Communist Party of India (Marxist)	64523
+Kerala - ARANMULA	ADV K SIVADASAN NAIR	Indian National Congress	56877
+Kerala - ARANMULA	M T RAMESH	Bharatiya Janata Party	37906
+Kerala - ARANMULA	T AMRITHAKUMAR	Bahujan Samaj Party	548
+Kerala - ARANMULA	SREEKANTH M VALLAKKOTTU	Samajwadi Party	252
+Kerala - ARANMULA	CHANDRAN	Independent	249
+Kerala - ARANMULA	ANIL KUMAR K G	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	217
+Kerala - ARANMULA	HABEEB RAHMAN	Peoples Democratic Party	187
+Kerala - ARANMULA	SHAJI MEZHUVELI	Independent	104
+Kerala - ARANMULA	None of the Above	None of the Above	569
+Kerala - KONNI	ADOOR PRAKASH	Indian National Congress	72800
+Kerala - KONNI	ADV. R. SANAL KUMAR	Communist Party of India (Marxist)	52052
+Kerala - KONNI	ASOKA KUMAR D	Bharatiya Janata Party	16713
+Kerala - KONNI	REYASH	SOCIAL DEMOCRATIC PARTY OF INDIA	401
+Kerala - KONNI	JOSHY JOSEPH	Welfare Party Of India	365
+Kerala - KONNI	SURESH V	Independent	249
+Kerala - KONNI	BIJU ELAMANNOOR	Independent	133
+Kerala - KONNI	VISHNU S	Shivsena	96
+Kerala - KONNI	None of the Above	None of the Above	474
+Kerala - ADOOR	CHITTAYAM GOPAKUMAR	Communist Party of India	76034
+Kerala - ADOOR	K K SHAJU	Indian National Congress	50574
+Kerala - ADOOR	ADV P SUDHEER	Bharatiya Janata Party	25940
+Kerala - ADOOR	JYOTHISH PERUMPULICKAL	SOCIAL DEMOCRATIC PARTY OF INDIA	673
+Kerala - ADOOR	PLAVINAL SANTHOSH	Bahujan Samaj Party	410
+Kerala - ADOOR	AJITHA P	Independent	408
+Kerala - ADOOR	VISHNU RAJ T	Peoples Democratic Party	307
+Kerala - ADOOR	None of the Above	None of the Above	672
+Kerala - KARUNAGAPPALLY	R.RAMACHANDRAN	Communist Party of India	69902
+Kerala - KARUNAGAPPALLY	C.R.MAHESH	Indian National Congress	68143
+Kerala - KARUNAGAPPALLY	V.SADASIVAN	Bharath Dharma Jana Sena	19115
+Kerala - KARUNAGAPPALLY	A.K.SALAHUDHEEN	SOCIAL DEMOCRATIC PARTY OF INDIA	1738
+Kerala - KARUNAGAPPALLY	MYLAKKADU SHAH	Peoples Democratic Party	1620
+Kerala - KARUNAGAPPALLY	GOPALAKRISHNAN	Bahujan Samaj Party	649
+Kerala - KARUNAGAPPALLY	RAMACHANDRAN	Independent	594
+Kerala - KARUNAGAPPALLY	None of the Above	None of the Above	590
+Kerala - CHAVARA	N.VIJAYAN PILLAI	Communist Marxist Party Kerala State Committee	64666
+Kerala - CHAVARA	SHIBU BABYJOHN	Revolutionary Socialist Party	58477
+Kerala - CHAVARA	M.SUNIL	Bharatiya Janata Party	10276
+Kerala - CHAVARA	SHAHUL THENGUMTHARA	Peoples Democratic Party	1439
+Kerala - CHAVARA	ANSAR THEVALAKKARA	SOCIAL DEMOCRATIC PARTY OF INDIA	1106
+Kerala - CHAVARA	SHIBU	Independent	427
+Kerala - CHAVARA	THEVALAKKARA MANOJ	Bahujan Samaj Party	403
+Kerala - CHAVARA	ABU MUHAMMED	Independent	228
+Kerala - CHAVARA	ANILKUMAR KALLAMBALAM	Independent	162
+Kerala - CHAVARA	CHELLAPPAN	Independent	121
+Kerala - CHAVARA	V.SUBASH	Shivsena	121
+Kerala - CHAVARA	KARAMKODE BALAKRISHNAN	Independent	93
+Kerala - CHAVARA	None of the Above	None of the Above	667
+Kerala - KUNNATHUR	KOVOOR KUNJUMON	Independent	75725
+Kerala - KUNNATHUR	ULLAS KOVUR	Revolutionary Socialist Party	55196
+Kerala - KUNNATHUR	THAZHAVA SAHADEVAN	Bharath Dharma Jana Sena	21742
+Kerala - KUNNATHUR	THULASEEDHARAN PALLICKAL	SOCIAL DEMOCRATIC PARTY OF INDIA	1698
+Kerala - KUNNATHUR	KUNJUMON	Independent	1516
+Kerala - KUNNATHUR	C.K GOPI	Peoples Democratic Party	1422
+Kerala - KUNNATHUR	V. REMADEVI	Bahujan Samaj Party	740
+Kerala - KUNNATHUR	MANILAL M.R	Independent	718
+Kerala - KUNNATHUR	None of the Above	None of the Above	1051
+Kerala - KOTTARAKKARA	ADV. P.AISHA POTTY	Communist Party of India (Marxist)	83443
+Kerala - KOTTARAKKARA	ADV.SAVIN SATHYAN	Indian National Congress	40811
+Kerala - KOTTARAKKARA	RAJESWARY RAJENDRAN	Bharatiya Janata Party	24062
+Kerala - KOTTARAKKARA	MADHU.B	Independent	491
+Kerala - KOTTARAKKARA	R.SUKUMARAN	Bahujan Samaj Party	386
+Kerala - KOTTARAKKARA	VELIYAM SHAJI	Shivsena	325
+Kerala - KOTTARAKKARA	HARIPRASAD	Independent	173
+Kerala - KOTTARAKKARA	AJAYAKUMAR THANKAPPAN	Independent	80
+Kerala - KOTTARAKKARA	None of the Above	None of the Above	742
+Kerala - PATHANAPURAM	K.B. GANESH KUMAR	Kerala Congress (B)	74429
+Kerala - PATHANAPURAM	P.V JAGADISH KUMAR	Indian National Congress	49867
+Kerala - PATHANAPURAM	REGHU DAMODHARAN (BHEEMAN REGHU)	Bharatiya Janata Party	11700
+Kerala - PATHANAPURAM	ADV. FAIZY M PASHA	SOCIAL DEMOCRATIC PARTY OF INDIA	3843
+Kerala - PATHANAPURAM	PERINADU GOPALA KRISHNAN	Bahujan Samaj Party	846
+Kerala - PATHANAPURAM	REKHU.P	Independent	366
+Kerala - PATHANAPURAM	SUDHEER.M.G	Shivsena	254
+Kerala - PATHANAPURAM	CHANDRASEHKARA PILLAI M.G	Independent	194
+Kerala - PATHANAPURAM	MADHU.R	Independent	105
+Kerala - PATHANAPURAM	None of the Above	None of the Above	454
+Kerala - PUNALUR	ADV.K.RAJU	Communist Party of India	82136
+Kerala - PUNALUR	DR.A.YOUNUS KUNJU	Indian Union Muslim League	48554
+Kerala - PUNALUR	ADV.SISIL FERNANDES	Kerala Congress	10558
+Kerala - PUNALUR	K.SASANKAN	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	1117
+Kerala - PUNALUR	NETTAYAM SUJI	Independent	639
+Kerala - PUNALUR	SATHEESHKUMAR.B	Shivsena	415
+Kerala - PUNALUR	NAVAS.M	Independent	164
+Kerala - PUNALUR	None of the Above	None of the Above	888
+Kerala - CHADAYAMANGALAM	RETNAKARAN	Communist Party of India	71262
+Kerala - CHADAYAMANGALAM	HASSAN.M.M	Indian National Congress	49334
+Kerala - CHADAYAMANGALAM	SIVADASAN PILLAI	Bharatiya Janata Party	19259
+Kerala - CHADAYAMANGALAM	P.A. JALEELUDEEN	SOCIAL DEMOCRATIC PARTY OF INDIA	1445
+Kerala - CHADAYAMANGALAM	SAJEED	Welfare Party Of India	1222
+Kerala - CHADAYAMANGALAM	MUHAMMED NAJIM.S	Peoples Democratic Party	1098
+Kerala - CHADAYAMANGALAM	SUNNY	Independent	538
+Kerala - CHADAYAMANGALAM	SREEJITH	Shivsena	284
+Kerala - CHADAYAMANGALAM	None of the Above	None of the Above	699
+Kerala - KUNDARA	J.MERCY KUTTY AMMA	Communist Party of India (Marxist)	79047
+Kerala - KUNDARA	RAJMOHAN UNNITHAN	Indian National Congress	48587
+Kerala - KUNDARA	M S SYAM KUMAR	Bharatiya Janata Party	20257
+Kerala - KUNDARA	SHARAFATH MALLAM	SOCIAL DEMOCRATIC PARTY OF INDIA	1325
+Kerala - KUNDARA	KABEER KUTTY.I.PUTHEZHAM	Peoples Democratic Party	1132
+Kerala - KUNDARA	S.M.JABER	Bahujan Samaj Party	698
+Kerala - KUNDARA	VIJAYAKUMAR	Independent	485
+Kerala - KUNDARA	V.ANTONY	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	340
+Kerala - KUNDARA	None of the Above	None of the Above	687
+Kerala - KOLLAM	M MUKESH	Communist Party of India (Marxist)	63103
+Kerala - KOLLAM	SOORAJ RAVI	Indian National Congress	45492
+Kerala - KOLLAM	PROF. K. SASIKUMAR	Independent	17409
+Kerala - KOLLAM	JOHNSON KANDACHIRA	SOCIAL DEMOCRATIC PARTY OF INDIA	1576
+Kerala - KOLLAM	K. BALAKRISHNAN	Bahujan Samaj Party	431
+Kerala - KOLLAM	NARAYANAN NAIR	Independent	209
+Kerala - KOLLAM	S. CHANDRAN	Independent	174
+Kerala - KOLLAM	None of the Above	None of the Above	889
+Kerala - ERAVIPURAM	M. NOUSHAD	Communist Party of India (Marxist)	65392
+Kerala - ERAVIPURAM	A.A.AZEEZ	Revolutionary Socialist Party	36589
+Kerala - ERAVIPURAM	AKKAVILA SATHEEK	Bharath Dharma Jana Sena	19714
+Kerala - ERAVIPURAM	AYATHIL RAZAK	SOCIAL DEMOCRATIC PARTY OF INDIA	988
+Kerala - ERAVIPURAM	MUHAMMED ISMAIL	Peoples Democratic Party	643
+Kerala - ERAVIPURAM	MANOJ	Independent	463
+Kerala - ERAVIPURAM	VINOD B.	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	232
+Kerala - ERAVIPURAM	None of the Above	None of the Above	950
+Kerala - CHATHANNUR	G.S.JAYALAL	Communist Party of India	67606
+Kerala - CHATHANNUR	B B GOPAKUMAR	Bharatiya Janata Party	33199
+Kerala - CHATHANNUR	DR.SOORANAD RAJASEKHARAN	Indian National Congress	30139
+Kerala - CHATHANNUR	RAJU	Independent	658
+Kerala - CHATHANNUR	SALIMRAJ A	Bahujan Samaj Party	491
+Kerala - CHATHANNUR	VELAYUDHAN PILLAI	Shivsena	290
+Kerala - CHATHANNUR	JAYAKALA L	Ambedkarite Party of India	212
+Kerala - CHATHANNUR	None of the Above	None of the Above	604
+Kerala - VARKALA	ADV.V.JOY	Communist Party of India (Marxist)	53102
+Kerala - VARKALA	VARKALA KAHAR	Indian National Congress	50716
+Kerala - VARKALA	AJI.S.R.M	Bharath Dharma Jana Sena	19872
+Kerala - VARKALA	VARKALA.R. LINEES	Bahujan Samaj Party	1888
+Kerala - VARKALA	ABDUL SALAM	SOCIAL DEMOCRATIC PARTY OF INDIA	466
+Kerala - VARKALA	SUNIL KUMAR.S	Independent	357
+Kerala - VARKALA	SUDEVAN	Independent	351
+Kerala - VARKALA	NADAYARA JABBAR	Peoples Democratic Party	297
+Kerala - VARKALA	BHASIDHARAN NAIR	Independent	138
+Kerala - VARKALA	SALU. R	Independent	135
+Kerala - VARKALA	VARKALA SABESAN	Independent	126
+Kerala - VARKALA	VIVEKANANDAN	Independent	101
+Kerala - VARKALA	None of the Above	None of the Above	628
+Kerala - ATTINGAL	ADV.B.SATYAN	Communist Party of India (Marxist)	72808
+Kerala - ATTINGAL	K.CHANDRABABU	Revolutionary Socialist Party	32425
+Kerala - ATTINGAL	RAJI PRASAD	Bharatiya Janata Party	27602
+Kerala - ATTINGAL	M.K.MANOJKUMAR	SOCIAL DEMOCRATIC PARTY OF INDIA	1437
+Kerala - ATTINGAL	K.SIVANANDAN	Bahujan Samaj Party	789
+Kerala - ATTINGAL	RAJESH.R	Independent	639
+Kerala - ATTINGAL	B.JAYANTHAKUMAR	Shivsena	597
+Kerala - ATTINGAL	C.R.THULASI	Independent	411
+Kerala - ATTINGAL	PRATHEESHKUMAR.P	Independent	162
+Kerala - ATTINGAL	None of the Above	None of the Above	1267
+Kerala - CHIRAYINKEEZHU	V. SASI	Communist Party of India	64692
+Kerala - CHIRAYINKEEZHU	K.S.AJITH KUMAR	Indian National Congress	50370
+Kerala - CHIRAYINKEEZHU	DR. P.P. VAVA	Bharatiya Janata Party	19478
+Kerala - CHIRAYINKEEZHU	SASI PANTHALAM	Welfare Party Of India	955
+Kerala - CHIRAYINKEEZHU	SANTHINI	Independent	639
+Kerala - CHIRAYINKEEZHU	AMBILI.V	Peoples Democratic Party	589
+Kerala - CHIRAYINKEEZHU	AJITH NANDANCODE	Independent	226
+Kerala - CHIRAYINKEEZHU	SHIBU (ROY KORANI)	Independent	206
+Kerala - CHIRAYINKEEZHU	AJITH	Independent	133
+Kerala - CHIRAYINKEEZHU	None of the Above	None of the Above	1092
+Kerala - NEDUMANGAD	C.DIVAKARAN	Communist Party of India	57745
+Kerala - NEDUMANGAD	PALODE RAVI	Indian National Congress	54124
+Kerala - NEDUMANGAD	ADV. V.V.RAJESH	Bharatiya Janata Party	35139
+Kerala - NEDUMANGAD	ABDUL SALAM.A	SOCIAL DEMOCRATIC PARTY OF INDIA	1039
+Kerala - NEDUMANGAD	BIPIN .M.I	Bahujan Samaj Party	910
+Kerala - NEDUMANGAD	ANDOORKONAM SULFI	Peoples Democratic Party	503
+Kerala - NEDUMANGAD	SHIBU. G	Independent	318
+Kerala - NEDUMANGAD	PERINGAMMALA AJI	Shivsena	251
+Kerala - NEDUMANGAD	SOMAN.C	Independent	217
+Kerala - NEDUMANGAD	DIVAKARAN PANI	Independent	143
+Kerala - NEDUMANGAD	PARIYARAM RAVEENDRAN	Independent	80
+Kerala - NEDUMANGAD	RAVEENDRAN NAIR	Independent	63
+Kerala - NEDUMANGAD	None of the Above	None of the Above	807
+Kerala - VAMANAPURAM	ADV. D.K.MURALI	Communist Party of India (Marxist)	65848
+Kerala - VAMANAPURAM	ADV.T.SARATHCHANDRA PRASAD	Indian National Congress	56252
+Kerala - VAMANAPURAM	R.V.NIKHIL	Bharath Dharma Jana Sena	13956
+Kerala - VAMANAPURAM	THACHONAM NISAMUDEEN	SOCIAL DEMOCRATIC PARTY OF INDIA	1774
+Kerala - VAMANAPURAM	ANIL PALODE	Bahujan Samaj Party	901
+Kerala - VAMANAPURAM	SUGATHAN. S	Independent	517
+Kerala - VAMANAPURAM	G. AJITH	Shivsena	515
+Kerala - VAMANAPURAM	IRINCHAYAM SURESH	Independent	286
+Kerala - VAMANAPURAM	O. BINUMON MADATHARA	Independent	246
+Kerala - VAMANAPURAM	ANIL.K.PONGANADU	Ambedkarite Party of India	228
+Kerala - VAMANAPURAM	MANIRAJ BHARATHANNOOR	Independent	123
+Kerala - VAMANAPURAM	None of the Above	None of the Above	789
+Kerala - KAZHAKKOOTTAM	KADAKAMPALLY SURENDRAN	Communist Party of India (Marxist)	50079
+Kerala - KAZHAKKOOTTAM	V.MURALEEDHARAN	Bharatiya Janata Party	42732
+Kerala - KAZHAKKOOTTAM	M.A.VAHEED	Indian National Congress	38602
+Kerala - KAZHAKKOOTTAM	KOCHUMANI	Bahujan Samaj Party	496
+Kerala - KAZHAKKOOTTAM	N.A.VAHID	Independent	412
+Kerala - KAZHAKKOOTTAM	ANEESH	Independent	370
+Kerala - KAZHAKKOOTTAM	SURENDRAN PILLAI	Independent	108
+Kerala - KAZHAKKOOTTAM	MANIMEKHALA	Independent	84
+Kerala - KAZHAKKOOTTAM	SASIKALA	Independent	83
+Kerala - KAZHAKKOOTTAM	MURUKAN.A	Independent	59
+Kerala - KAZHAKKOOTTAM	MURALEEDHARAN	Independent	58
+Kerala - KAZHAKKOOTTAM	PRASAD.P	Independent	54
+Kerala - KAZHAKKOOTTAM	None of the Above	None of the Above	822
+Kerala - VATTIYOORKAVU	K MURALEEDHARAN	Indian National Congress	51322
+Kerala - VATTIYOORKAVU	KUMMANAM RAJASEKHARAN	Bharatiya Janata Party	43700
+Kerala - VATTIYOORKAVU	DR. T.N.SEEMA	Communist Party of India (Marxist)	40441
+Kerala - VATTIYOORKAVU	MEKKANSI.K.JOHN	Bahujan Samaj Party	399
+Kerala - VATTIYOORKAVU	BINU. D	Independent	147
+Kerala - VATTIYOORKAVU	SAHADEVAN	Independent	104
+Kerala - VATTIYOORKAVU	K.G. MOHANAN	Independent	77
+Kerala - VATTIYOORKAVU	BABY. D	Independent	53
+Kerala - VATTIYOORKAVU	SAJU AMEERDAS	Independent	48
+Kerala - VATTIYOORKAVU	None of the Above	None of the Above	817
+Kerala - THIRUVANANTHAPURAM	V.S. SIVAKUMAR	Indian National Congress	46474
+Kerala - THIRUVANANTHAPURAM	ADV.ANTONY RAJU	Independent	35569
+Kerala - THIRUVANANTHAPURAM	SREESANTH	Bharatiya Janata Party	34764
+Kerala - THIRUVANANTHAPURAM	DR. BIJU RAMESH	All India Anna Dravida Munnetra Kazhagam	5762
+Kerala - THIRUVANANTHAPURAM	NANDAVANAM SUSEELAN	Independent	450
+Kerala - THIRUVANANTHAPURAM	ANTONY RAJU NEW COLONY	Independent	424
+Kerala - THIRUVANANTHAPURAM	MOHANAMBIKA. D	Bahujan Samaj Party	398
+Kerala - THIRUVANANTHAPURAM	P.S.GOPAKUMAR	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	344
+Kerala - THIRUVANANTHAPURAM	SIVAKUMAR RAVEENDRAN NAIR	Independent	208
+Kerala - THIRUVANANTHAPURAM	PRAVEEN ARIMBRATHODIYIL	Independent	170
+Kerala - THIRUVANANTHAPURAM	M.S.SUBI	Independent	113
+Kerala - THIRUVANANTHAPURAM	SIVAKUMAR PUSHKARAN	Independent	101
+Kerala - THIRUVANANTHAPURAM	None of the Above	None of the Above	1435
+Kerala - NEMOM	O.RAJAGOPAL	Bharatiya Janata Party	67813
+Kerala - NEMOM	V.SIVANKUTTY	Communist Party of India (Marxist)	59142
+Kerala - NEMOM	V.SURENDRAN PILLAI	Janata Dal (United)	13860
+Kerala - NEMOM	A.NOUSHAD	Akhila Kerala Trinamool Party	406
+Kerala - NEMOM	SHAMLAJA BEEVI.B	Independent	330
+Kerala - NEMOM	J.VIKRAMAN PACHALLOOR	Independent	170
+Kerala - NEMOM	JAIN WILSON	Independent	163
+Kerala - NEMOM	SAILESWARA BABU.N	Independent	114
+Kerala - NEMOM	None of the Above	None of the Above	884
+Kerala - ARUVIKKARA	K.S. SABARINADHAN	Indian National Congress	70910
+Kerala - ARUVIKKARA	ADV. A.A.RASHEED	Communist Party of India (Marxist)	49596
+Kerala - ARUVIKKARA	RAJASENAN	Bharatiya Janata Party	20294
+Kerala - ARUVIKKARA	M.A.JALEEL	SOCIAL DEMOCRATIC PARTY OF INDIA	707
+Kerala - ARUVIKKARA	CHITHRALEKHA.E	Bahujan Samaj Party	673
+Kerala - ARUVIKKARA	SABARINATH	Independent	331
+Kerala - ARUVIKKARA	ADV. CHERAPPALLY VISWANANTHAN	Independent	188
+Kerala - ARUVIKKARA	RASHEED	Independent	162
+Kerala - ARUVIKKARA	A.P.KAKKADU	Independent	134
+Kerala - ARUVIKKARA	AJITHA.B	Independent	130
+Kerala - ARUVIKKARA	None of the Above	None of the Above	636
+Kerala - PARASSALA	C.K.HAREENDRAKUMAR (C.K.HAREENDRAN)	Communist Party of India (Marxist)	70156
+Kerala - PARASSALA	A.T.GEORGE	Indian National Congress	51590
+Kerala - PARASSALA	JAYACHANDRAN NAIR (KARAMANA JAYAN)	Bharatiya Janata Party	33028
+Kerala - PARASSALA	BINOY.S	Bahujan Samaj Party	745
+Kerala - PARASSALA	CHRISTOPHER SHAJU (SHAJU PALIYODU)	Independent	732
+Kerala - PARASSALA	JOHNY THAMPY (DALUMUGHAM JOHNY THAMPY)	Independent	294
+Kerala - PARASSALA	MOHANRAJ.T (VELLARADA MOHANRAJ)	Independent	287
+Kerala - PARASSALA	V.SELVAN	Independent	243
+Kerala - PARASSALA	SHAJAHAN. S (SHAJAHAN KUDAPPANAMOODU)	Independent	163
+Kerala - PARASSALA	None of the Above	None of the Above	742
+Kerala - KATTAKKADA	ADV. I.B. SATHEESH	Communist Party of India (Marxist)	51614
+Kerala - KATTAKKADA	N.SHAKTHAN	Indian National Congress	50765
+Kerala - KATTAKKADA	P.K.KRISHNADAS	Bharatiya Janata Party	38700
+Kerala - KATTAKKADA	BIJU. S.R	Bahujan Samaj Party	709
+Kerala - KATTAKKADA	ASHARAF PRAVACHAMBALAM	SOCIAL DEMOCRATIC PARTY OF INDIA	627
+Kerala - KATTAKKADA	S.MINI	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	295
+Kerala - KATTAKKADA	K. SASIKUMAR	Independent	192
+Kerala - KATTAKKADA	None of the Above	None of the Above	732
+Kerala - KOVALAM	ADV.M.VINCENT	Indian National Congress	60268
+Kerala - KOVALAM	JAMEELA PRAKASAM	Janata Dal (Secular)	57653
+Kerala - KOVALAM	KOVALAM T.N. SURESH	Bharath Dharma Jana Sena	30987
+Kerala - KOVALAM	ADV.K.R.ANISH	Bahujan Samaj Party	996
+Kerala - KOVALAM	M.C.JAYALAL	Independent	933
+Kerala - KOVALAM	PRAMOD KUMAR	Independent	564
+Kerala - KOVALAM	SARASAMMA.T	Indian Gandhiyan Party	558
+Kerala - KOVALAM	S. SHAJI	Akhila Kerala Trinamool Party	400
+Kerala - KOVALAM	M. SUGATHAN	Independent	389
+Kerala - KOVALAM	SILVASTER	Independent	373
+Kerala - KOVALAM	None of the Above	None of the Above	845
+Kerala - NEYYATTINKARA	K.ANSALAN	Communist Party of India (Marxist)	63559
+Kerala - NEYYATTINKARA	R. SELVARAJ	Indian National Congress	54016
+Kerala - NEYYATTINKARA	PUNCHAKKARI SURENDRAN	Bharatiya Janata Party	15531
+Kerala - NEYYATTINKARA	PRABHAKARAN	Bahujan Samaj Party	566
+Kerala - NEYYATTINKARA	ANILKUMAR	Independent	280
+Kerala - NEYYATTINKARA	None of the Above	None of the Above	693
