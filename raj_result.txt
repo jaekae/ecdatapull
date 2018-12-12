@@ -1,0 +1,2474 @@
+Constituency No.	Constituency Name	Candidate Name	Party	Votes Polled	Position	Win/Lose Margin
+1	Rajasthan - Sadulshahar	JAGDISH CHANDER	Indian National Congress	73153	1	9676
+1	Rajasthan - Sadulshahar	GURVEER SINGH BRAR	Bharatiya Janata Party	63477	2	9676
+1	Rajasthan - Sadulshahar	OM BISHNOI	Independent	36767	3	
+1	Rajasthan - Sadulshahar	PALA RAM	Communist Party of India (Marxist)	2602	4	
+1	Rajasthan - Sadulshahar	AVTAR SINGH	Communist Party of India	1764	5	
+1	Rajasthan - Sadulshahar	BALWANT NIMIWAL	Abhinav Rajasthan Party	1744	6	
+1	Rajasthan - Sadulshahar	None of the Above	None of the Above	1641	7	
+1	Rajasthan - Sadulshahar	VINOD KHICHAR	Bahujan Samaj Party	1097	8	
+1	Rajasthan - Sadulshahar	ANKIT BHAMBHU	Aam Aadmi Party	1072	9	
+1	Rajasthan - Sadulshahar	MAJOR SINGH	Independent	783	10	
+1	Rajasthan - Sadulshahar	NIRANJAN SINGH	Shiromani Akali Dal (Amritsar)(Simranjit Singh Mann)	347	11	
+1	Rajasthan - Sadulshahar	KRISHAN GOSWAMI	Republican Party of India (A)	309	12	
+2	Rajasthan - Ganganagar	RAJ KUMAR GAUR	Independent	44998	1	9180
+2	Rajasthan - Ganganagar	ASHOK CHANDAK	Indian National Congress	35818	2	9180
+2	Rajasthan - Ganganagar	VINITA AHUJA	Bharatiya Janata Party	29686	3	
+2	Rajasthan - Ganganagar	JAIDEEP BIHANI	Independent	29206	4	
+2	Rajasthan - Ganganagar	PRAHALAD RAI TAK	Bahujan Samaj Party	14834	5	
+2	Rajasthan - Ganganagar	KAMINI JINDAL	National Unionist Zamindara Party	4887	6	
+2	Rajasthan - Ganganagar	RADHESHYAM GANGANAGAR	Independent	2318	7	
+2	Rajasthan - Ganganagar	None of the Above	None of the Above	1170	8	
+2	Rajasthan - Ganganagar	DHIR SINGH	Independent	994	9	
+2	Rajasthan - Ganganagar	NAND KISHORE BIHANI	Independent	981	10	
+2	Rajasthan - Ganganagar	KRISHAN KUMAR	Independent	848	11	
+2	Rajasthan - Ganganagar	AMIT KARGWAL	Aam Aadmi Party	836	12	
+2	Rajasthan - Ganganagar	PREET KALRA	Independent	457	13	
+2	Rajasthan - Ganganagar	RAHUL MAHASHAYA	Lok Jan Shakti Party	419	14	
+2	Rajasthan - Ganganagar	RAJESH BHART	Independent	387	15	
+2	Rajasthan - Ganganagar	AMIT KHARIWAL	Independent	293	16	
+2	Rajasthan - Ganganagar	JASWANT SINGH	Maharana Kranti Party	281	17	
+2	Rajasthan - Ganganagar	ASHOK KUMAR	Independent	275	18	
+2	Rajasthan - Ganganagar	KARISHMA	Dalit Kranti Dal	233	19	
+2	Rajasthan - Ganganagar	DAYA RAM	Bharat Lok Sewak Party	219	20	
+2	Rajasthan - Ganganagar	SHYAM SUNDER	Independent	177	21	
+2	Rajasthan - Ganganagar	JAKIR HUSAIN	Jantawadi Congress Party	174	22	
+2	Rajasthan - Ganganagar	MANJEET SINGH	Abhinav Rajasthan Party	162	23	
+3	Rajasthan - Karanpur	GURMEET SINGH KOONER	Indian National Congress	73896	1	28376
+3	Rajasthan - Karanpur	PRITHIPAL SINGH	Independent	45520	2	28376
+3	Rajasthan - Karanpur	SURENDERPAL SINGH	Bharatiya Janata Party	44099	3	
+3	Rajasthan - Karanpur	MAHENDER KUMAR RASSEWAT	Independent	15782	4	
+3	Rajasthan - Karanpur	RANJEET	Bahujan Samaj Party	1474	5	
+3	Rajasthan - Karanpur	MAMTA	Independent	1370	6	
+3	Rajasthan - Karanpur	None of the Above	None of the Above	1300	7	
+3	Rajasthan - Karanpur	SUKHRAM	Independent	1260	8	
+3	Rajasthan - Karanpur	HARIRAM RAMGARIA	Independent	1233	9	
+3	Rajasthan - Karanpur	PRAHLAD RAI	Aam Aadmi Party	900	10	
+3	Rajasthan - Karanpur	TITAR SINGH	Independent	653	11	
+3	Rajasthan - Karanpur	SHIV LAL	Independent	523	12	
+3	Rajasthan - Karanpur	JAIPARKASH	Independent	487	13	
+3	Rajasthan - Karanpur	PRITHVI RAJ	Independent	422	14	
+3	Rajasthan - Karanpur	CHUKI DEVI	Independent	298	15	
+3	Rajasthan - Karanpur	RAISAHAB	Republican Party of India (A)	249	16	
+3	Rajasthan - Karanpur	SUNIL KUMAR MEGHWAL	Bharatiya Republican Paksha	131	17	
+4	Rajasthan - Suratgarh	RAMPRATAP KASNIYAN	Bharatiya Janata Party	69032	1	10235
+4	Rajasthan - Suratgarh	HANUMAN MEEL	Indian National Congress	58797	2	10235
+4	Rajasthan - Suratgarh	DUNGAR RAM GEDAR	Bahujan Samaj Party	55543	3	
+4	Rajasthan - Suratgarh	None of the Above	None of the Above	1591	4	
+4	Rajasthan - Suratgarh	OM RAJPUROHIT	Independent	1346	5	
+4	Rajasthan - Suratgarh	SHRAWAN RAM	Independent	822	6	
+4	Rajasthan - Suratgarh	SATYA PAL MEGHWAL	Independent	779	7	
+4	Rajasthan - Suratgarh	SATYA PRAKASH	Aam Aadmi Party	747	8	
+4	Rajasthan - Suratgarh	NAND KISHOR	All India Hindustan Congress Party	697	9	
+4	Rajasthan - Suratgarh	KRISHAN KUMAR	Bharatiya Yuva Shakti	544	10	
+4	Rajasthan - Suratgarh	MAHAVIR PRASAD PAREEK URF TIWARI	Independent	289	11	
+4	Rajasthan - Suratgarh	PITAMBER DUTT SHARMA	Independent	277	12	
+4	Rajasthan - Suratgarh	GOPIRAM	Maharana Kranti Party	233	13	
+4	Rajasthan - Suratgarh	PAWAN KUMAR MISHAR (P K MISHAR)	Independent	192	14	
+4	Rajasthan - Suratgarh	BHAWANI SHANKAR	Independent	171	15	
+4	Rajasthan - Suratgarh	DHARAM PAL	Independent	137	16	
+5	Rajasthan - Raisingh Nagar	BALVEER SINGH LUTHRA	Bharatiya Janata Party	76935	1	33671
+5	Rajasthan - Raisingh Nagar	SHYOPAT RAM	Communist Party of India (Marxist)	43264	2	33671
+5	Rajasthan - Raisingh Nagar	SOHAN LAL NAYAK	Independent	38234	3	
+5	Rajasthan - Raisingh Nagar	SONA DEVI	Indian National Congress	31294	4	
+5	Rajasthan - Raisingh Nagar	SUCHCHA SINGH	Aam Aadmi Party	3541	5	
+5	Rajasthan - Raisingh Nagar	None of the Above	None of the Above	1842	6	
+5	Rajasthan - Raisingh Nagar	KUMBHARAM	Bahujan Samaj Party	1357	7	
+5	Rajasthan - Raisingh Nagar	YODESH RAJ BOKOLIYA	Independent	1302	8	
+5	Rajasthan - Raisingh Nagar	HARJI RAM	Independent	1058	9	
+5	Rajasthan - Raisingh Nagar	RAJESH KUMAR SIKARWAL	National Unionist Zamindara Party	1036	10	
+5	Rajasthan - Raisingh Nagar	RAJPAL LOTIA	Bharatiya Rashtravadi Samanta Party	752	11	
+5	Rajasthan - Raisingh Nagar	SONA SINGH	Shiromani Akali Dal (Amritsar)(Simranjit Singh Mann)	562	12	
+5	Rajasthan - Raisingh Nagar	MAHAVIR PRASAD	Independent	448	13	
+5	Rajasthan - Raisingh Nagar	DURGARAM	Independent	359	14	
+5	Rajasthan - Raisingh Nagar	KRISHAN LAL	Independent	313	15	
+5	Rajasthan - Raisingh Nagar	RAJESH KUMAR	Maharana Kranti Party	295	16	
+6	Rajasthan - Anupgarh	SANTOSH	Bharatiya Janata Party	79383	1	21124
+6	Rajasthan - Anupgarh	KULDEEP INDORA	Indian National Congress	58259	2	21124
+6	Rajasthan - Anupgarh	SHIMLA DEVI NAYAK	Independent	21666	3	
+6	Rajasthan - Anupgarh	PAWAN KUMAR DUGGAL	Communist Party of India (Marxist)	17688	4	
+6	Rajasthan - Anupgarh	None of the Above	None of the Above	3009	5	
+6	Rajasthan - Anupgarh	SHANKAR LAL	Bahujan Samaj Party	1522	6	
+6	Rajasthan - Anupgarh	JAGDISH	Aam Aadmi Party	1070	7	
+6	Rajasthan - Anupgarh	BANWARI	Maharana Kranti Party	726	8	
+7	Rajasthan - Sangaria	GURDEEP SINGH	Bharatiya Janata Party	99064	1	6538
+7	Rajasthan - Sangaria	SHABNAM GODARA	Indian National Congress	92526	2	6538
+7	Rajasthan - Sangaria	BALVIR SINGH	Bahujan Samaj Party	2863	3	
+7	Rajasthan - Sangaria	RUPENDRA SINGH	Independent	2063	4	
+7	Rajasthan - Sangaria	None of the Above	None of the Above	1891	5	
+7	Rajasthan - Sangaria	ANIL KUMAR	Aam Aadmi Party	995	6	
+7	Rajasthan - Sangaria	VEDPRAKASH	Independent	392	7	
+7	Rajasthan - Sangaria	BALJINDER SINGH	Shiromani Akali Dal (Amritsar)(Simranjit Singh Mann)	364	8	
+7	Rajasthan - Sangaria	RADHE SHYAM	Independent	304	9	
+7	Rajasthan - Sangaria	RAJENDER KUMAR	Dalit Kranti Dal	188	10	
+8	Rajasthan - Hanumangarh	VINOD KUMAR	Indian National Congress	111207	1	15522
+8	Rajasthan - Hanumangarh	RAMPRATAP	Bharatiya Janata Party	95685	2	15522
+8	Rajasthan - Hanumangarh	RAGHUVER SINGH	Communist Party of India (Marxist)	4347	3	
+8	Rajasthan - Hanumangarh	JETHA RAM	Bahujan Samaj Party	2529	4	
+8	Rajasthan - Hanumangarh	None of the Above	None of the Above	2215	5	
+8	Rajasthan - Hanumangarh	RAMKUMAR	Communist Party of India	1708	6	
+8	Rajasthan - Hanumangarh	SURENDRAPAL	Aam Aadmi Party	1421	7	
+8	Rajasthan - Hanumangarh	KULDEEP SINGH	Bahujan Mukti Party	962	8	
+8	Rajasthan - Hanumangarh	VINOD KUMAR	Independent	806	9	
+8	Rajasthan - Hanumangarh	VINOD KUMAR	Independent	736	10	
+8	Rajasthan - Hanumangarh	RAMPRATAP	Independent	698	11	
+8	Rajasthan - Hanumangarh	VINOD KUMAR	Rashtriya Loktantrik Party	515	12	
+8	Rajasthan - Hanumangarh	CHIRANJI LAL	Independent	473	13	
+8	Rajasthan - Hanumangarh	VINOD KUMAR MEGHWAL	Bharatiya Republican Paksha	322	14	
+8	Rajasthan - Hanumangarh	SALMA BANO	Dalit Kranti Dal	195	15	
+9	Rajasthan - Pilibanga	DHARMENDRA KUMAR	Bharatiya Janata Party	106414	1	278
+9	Rajasthan - Pilibanga	VINOD KUMAR	Indian National Congress	106136	2	278
+9	Rajasthan - Pilibanga	SUSHIL KUMAR	Bahujan Samaj Party	3523	3	
+9	Rajasthan - Pilibanga	MANI RAM	Communist Party of India (Marxist)	2659	4	
+9	Rajasthan - Pilibanga	None of the Above	None of the Above	2441	5	
+9	Rajasthan - Pilibanga	SUBHASH CHANDRA	Independent	1801	6	
+9	Rajasthan - Pilibanga	NEHA MEGHWAL	Rashtriya Loktantrik Party	1635	7	
+9	Rajasthan - Pilibanga	ROOPRAM	Independent	768	8	
+9	Rajasthan - Pilibanga	PEERA RAM	Aam Aadmi Party	454	9	
+9	Rajasthan - Pilibanga	JASVINDER SINGH	Bahujan Mukti Party	386	10	
+10	Rajasthan - Nohar	AMIT CHACHAN	Indian National Congress	93851	1	13727
+10	Rajasthan - Nohar	ABHISHEK MATORIA	Bharatiya Janata Party	80124	2	13727
+10	Rajasthan - Nohar	RAM KISHAN BHAKAR	Independent	13312	3	
+10	Rajasthan - Nohar	MANGEJ CHOUDHARY	Communist Party of India (Marxist)	9870	4	
+10	Rajasthan - Nohar	RADHESYAM MEGWAL	Bahujan Samaj Party	2065	5	
+10	Rajasthan - Nohar	None of the Above	None of the Above	2065	6	
+10	Rajasthan - Nohar	RAM SWAROOP	Independent	1240	7	
+10	Rajasthan - Nohar	JASWANT SIHAG	Bharat Vahini Party	607	8	
+10	Rajasthan - Nohar	OM PRAKASH SANGWAL	Independent	458	9	
+10	Rajasthan - Nohar	MUKESH SANSI	Dalit Kranti Dal	227	10	
+11	Rajasthan - Bhadra	BALWAN POONIA	Communist Party of India (Marxist)	82204	1	23153
+11	Rajasthan - Bhadra	SANJEEV KUMAR	Bharatiya Janata Party	59051	2	23153
+11	Rajasthan - Bhadra	DR. SURESH CHOUDHARI	Indian National Congress	37574	3	
+11	Rajasthan - Bhadra	ROOP NATH	Bahujan Samaj Party	15581	4	
+11	Rajasthan - Bhadra	None of the Above	None of the Above	2300	5	
+11	Rajasthan - Bhadra	PREM SINGH POONIA	Independent	1465	6	
+11	Rajasthan - Bhadra	PRATAP SINGH	Independent	1162	7	
+11	Rajasthan - Bhadra	RAMSWAROOP	Independent	711	8	
+11	Rajasthan - Bhadra	VISHVAJEET SINGH	Independent	624	9	
+11	Rajasthan - Bhadra	RAJESH KUMAR	Independent	524	10	
+11	Rajasthan - Bhadra	BHAGIRATH	Independent	348	11	
+11	Rajasthan - Bhadra	MANOJ KUMAR	Independent	297	12	
+11	Rajasthan - Bhadra	BALWAN SINGH	Independent	295	13	
+12	Rajasthan - Khajuwala	GOVIND RAM	Indian National Congress	82994	1	31089
+12	Rajasthan - Khajuwala	DR. VISHWANATH	Bharatiya Janata Party	51905	2	31089
+12	Rajasthan - Khajuwala	MITHU SINGH	Rashtriya Loktantrik Party	9779	3	
+12	Rajasthan - Khajuwala	None of the Above	None of the Above	2130	4	
+12	Rajasthan - Khajuwala	GORDHAN RAM	Bahujan Samaj Party	1945	5	
+12	Rajasthan - Khajuwala	LALIT MOHAN	Independent	1639	6	
+12	Rajasthan - Khajuwala	TARACHAND	Independent	1206	7	
+12	Rajasthan - Khajuwala	MANGILAL	Bharat Vahini Party	1158	8	
+12	Rajasthan - Khajuwala	SATYANARAYAN	Aam Aadmi Party	679	9	
+13	Rajasthan - Bikaner West	BULAKI DAS KALLA	Indian National Congress	75128	1	6190
+13	Rajasthan - Bikaner West	GOPAL KRISHN	Bharatiya Janata Party	68938	2	6190
+13	Rajasthan - Bikaner West	GOPAL GAHLOT	Independent	6563	3	
+13	Rajasthan - Bikaner West	None of the Above	None of the Above	1780	4	
+13	Rajasthan - Bikaner West	NARAYAN HARI	Bahujan Samaj Party	1462	5	
+13	Rajasthan - Bikaner West	NARAYAN	Independent	1007	6	
+13	Rajasthan - Bikaner West	SHABNAM BANO	Independent	900	7	
+13	Rajasthan - Bikaner West	CHETAN PRAKASH PANIA	Abhinav Rajasthan Party	884	8	
+13	Rajasthan - Bikaner West	SURENDRA SINGH	Independent	389	9	
+13	Rajasthan - Bikaner West	PUKHRAJ	Shiv Sena	306	10	
+13	Rajasthan - Bikaner West	SHIV SHANKAR OJHA	Anarakshit Samaj Party	216	11	
+13	Rajasthan - Bikaner West	RITESH KUMAR	Aam Aadmi Party	205	12	
+13	Rajasthan - Bikaner West	HAJI MO.	Dalit Kranti Dal	116	13	
+14	Rajasthan - Bikaner East	SIDDHI KUMARI	Bharatiya Janata Party	73174	1	7061
+14	Rajasthan - Bikaner East	KANHAIYA LAL JHANWAR	Indian National Congress	66113	2	7061
+14	Rajasthan - Bikaner East	GOPAL GAHLOT	Independent	4969	3	
+14	Rajasthan - Bikaner East	RAPHIK SHAH	Bahujan Samaj Party	1617	4	
+14	Rajasthan - Bikaner East	YUDHISTHAR SINGH BHATI	Independent	1266	5	
+14	Rajasthan - Bikaner East	ANKUR SHUKLA	Abhinav Rajasthan Party	1122	6	
+14	Rajasthan - Bikaner East	None of the Above	None of the Above	895	7	
+14	Rajasthan - Bikaner East	MANJU LATA GAHLOT	Independent	855	8	
+14	Rajasthan - Bikaner East	YAKUB ALI	Independent	534	9	
+14	Rajasthan - Bikaner East	MOOLCHAND NAYAK	Ambedkarite Party of India	385	10	
+14	Rajasthan - Bikaner East	ADARSH SHARMA	Independent	321	11	
+14	Rajasthan - Bikaner East	RAJKUMAR KALOD	Independent	300	12	
+14	Rajasthan - Bikaner East	ADVOCATE HANUMAN SINGH	Aam Aadmi Party	300	13	
+14	Rajasthan - Bikaner East	ARIF HUSSAIN	Independent	293	14	
+14	Rajasthan - Bikaner East	PRIYANKA	Independent	280	15	
+14	Rajasthan - Bikaner East	VIVEK MACHRA	Rashtriya Loktantrik Party	273	16	
+14	Rajasthan - Bikaner East	PHOOSA RAM BHADOO	Independent	156	17	
+14	Rajasthan - Bikaner East	PRADEEP SHARMA	Independent	153	18	
+14	Rajasthan - Bikaner East	RAJENDRA KUMAR PUROHIT	Independent	107	19	
+14	Rajasthan - Bikaner East	HARISINGH RASISAR	Shiv Sena	106	20	
+14	Rajasthan - Bikaner East	MADHU BALA	Dalit Kranti Dal	95	21	
+14	Rajasthan - Bikaner East	SAWROOPCHAND GAHLOT	Independent	52	22	
+14	Rajasthan - Bikaner East	HAJI MOHAMMAD	Independent	36	23	
+15	Rajasthan - Kolayat	BHANWAR SINGH BHATI	Indian National Congress	89505	1	11016
+15	Rajasthan - Kolayat	POONAM KANWAR BHATI	Bharatiya Janata Party	78489	2	11016
+15	Rajasthan - Kolayat	None of the Above	None of the Above	3332	3	
+15	Rajasthan - Kolayat	DR. SURESH KUMAR BISHNOI	Rashtriya Loktantrik Party	2915	4	
+15	Rajasthan - Kolayat	HANUTARAM MEGHWAL	Independent	1977	5	
+15	Rajasthan - Kolayat	RUGHANATH RAM	Bahujan Samaj Party	1350	6	
+15	Rajasthan - Kolayat	BHARTA RAM	Independent	361	7	
+15	Rajasthan - Kolayat	OM PRAKASH BISHNOI	Naya Bharat Party	223	8	
+15	Rajasthan - Kolayat	BHANWAR SINGH S/O SADUL SINGH	Independent	174	9	
+15	Rajasthan - Kolayat	BHANWAR SINGH S/O NARAYAN SINGH	Independent	174	10	
+15	Rajasthan - Kolayat	PUNAM CHAND	Aam Aadmi Party	168	11	
+15	Rajasthan - Kolayat	LIKHAMARAM	Bahujan Mukti Party	148	12	
+15	Rajasthan - Kolayat	ARJUN SINGH	Independent	145	13	
+15	Rajasthan - Kolayat	NARSINGH	Dalit Kranti Dal	92	14	
+16	Rajasthan - Lunkaransar	SUMIT GODARA	Bharatiya Janata Party	72822	1	10853
+16	Rajasthan - Lunkaransar	VIRENDRA BENIWAL	Indian National Congress	61969	2	10853
+16	Rajasthan - Lunkaransar	PRABHUDAYAL	Independent	23892	3	
+16	Rajasthan - Lunkaransar	PAWAN KUMAR OJHA	Bahujan Samaj Party	2720	4	
+16	Rajasthan - Lunkaransar	LALCHAND BHADU	Communist Party of India (Marxist)	2600	5	
+16	Rajasthan - Lunkaransar	VIJAYPAL BENIWAL	Rashtriya Loktantrik Party	2321	6	
+16	Rajasthan - Lunkaransar	None of the Above	None of the Above	2075	7	
+16	Rajasthan - Lunkaransar	GHANSHYAM MEGHWAL	Dalit Kranti Dal	1403	8	
+16	Rajasthan - Lunkaransar	BINDU PANWAR	Independent	1028	9	
+16	Rajasthan - Lunkaransar	BHARATARAM	Independent	824	10	
+16	Rajasthan - Lunkaransar	HARBAKSH KOUR	National Unionist Zamindara Party	815	11	
+16	Rajasthan - Lunkaransar	BHANWAR LAL	Aam Aadmi Party	426	12	
+17	Rajasthan - SHREE DUNGARGARH	GIRDHARILAL	Communist Party of India (Marxist)	72376	1	23896
+17	Rajasthan - SHREE DUNGARGARH	MANGALARAM	Indian National Congress	48480	2	23896
+17	Rajasthan - SHREE DUNGARGARH	TARACHAND	Bharatiya Janata Party	42973	3	
+17	Rajasthan - SHREE DUNGARGARH	KISHANARAM NAI	Bharat Vahini Party	4101	4	
+17	Rajasthan - SHREE DUNGARGARH	None of the Above	None of the Above	3894	5	
+17	Rajasthan - SHREE DUNGARGARH	BHERA RAM	Bahujan Samaj Party	2120	6	
+17	Rajasthan - SHREE DUNGARGARH	KALUDAS	Dalit Kranti Dal	1182	7	
+17	Rajasthan - SHREE DUNGARGARH	DANARAM	Rashtriya Loktantrik Party	1033	8	
+17	Rajasthan - SHREE DUNGARGARH	SHARWANRAM	Aam Aadmi Party	1017	9	
+17	Rajasthan - SHREE DUNGARGARH	DHANNARAM	Asankhya Samaj Party	850	10	
+17	Rajasthan - SHREE DUNGARGARH	BALWANT	Abhinav Rajasthan Party	699	11	
+18	Rajasthan - Nokha	BIHARILAL	Bharatiya Janata Party	86917	1	8663
+18	Rajasthan - Nokha	RAMESHWAR DUDI	Indian National Congress	78254	2	8663
+18	Rajasthan - Nokha	MANGANARAM	Independent	8305	3	
+18	Rajasthan - Nokha	MEGHSINGH	Independent	5969	4	
+18	Rajasthan - Nokha	INDU DEVI	Rashtriya Loktantrik Party	4546	5	
+18	Rajasthan - Nokha	None of the Above	None of the Above	3188	6	
+18	Rajasthan - Nokha	VASUDEV	Independent	1705	7	
+18	Rajasthan - Nokha	NARAYAN	Independent	865	8	
+18	Rajasthan - Nokha	RAMESHWAR	Independent	641	9	
+18	Rajasthan - Nokha	KISHORE SINGH	Abhinav Rajasthan Party	476	10	
+18	Rajasthan - Nokha	JAGDISH	Bhartiya Panchyat Party	429	11	
+18	Rajasthan - Nokha	BHANWAR LAL MEGHWAL	Bahujan Mukti Party	298	12	
+18	Rajasthan - Nokha	BAHNWAR LAL	Aam Aadmi Party	275	13	
+19	Rajasthan - Sadulpur	KRISHNA POONIA	Indian National Congress	70020	1	18084
+19	Rajasthan - Sadulpur	MANOJ NYANGALI	Bahujan Samaj Party	51936	2	18084
+19	Rajasthan - Sadulpur	RAM SINGH KASWAN	Bharatiya Janata Party	50492	3	
+19	Rajasthan - Sadulpur	None of the Above	None of the Above	1111	4	
+19	Rajasthan - Sadulpur	BHAGAT SINGH	Communist Party of India (Marxist)	1095	5	
+19	Rajasthan - Sadulpur	RAJPAL	Aam Aadmi Party	588	6	
+19	Rajasthan - Sadulpur	NARENDRA SINGH TANWAR	Independent	561	7	
+19	Rajasthan - Sadulpur	KRISHANA	Independent	504	8	
+19	Rajasthan - Sadulpur	MANOJ KUMAR S/O KESHAR DEV	Independent	482	9	
+19	Rajasthan - Sadulpur	VIMAL	Abhinav Rajasthan Party	267	10	
+19	Rajasthan - Sadulpur	MANOJ KUMAR S/O SHER SINGH	Independent	217	11	
+19	Rajasthan - Sadulpur	RAJENDRA SINGH	Bharat Vahini Party	129	12	
+19	Rajasthan - Sadulpur	AJEET SINGH	Independent	96	13	
+20	Rajasthan - Taranagar	NARENDRA BUDANIYA	Indian National Congress	56968	1	12555
+20	Rajasthan - Taranagar	RAKESH JANGIR	Bharatiya Janata Party	44413	2	12555
+20	Rajasthan - Taranagar	DR. CHANDRASHEKHAR BAID	Independent	41296	3	
+20	Rajasthan - Taranagar	COMRADE NIRMAL KUMAR	Communist Party of India (Marxist)	13416	4	
+20	Rajasthan - Taranagar	TILOKA RAM KASWAN	Independent	12570	5	
+20	Rajasthan - Taranagar	ANUPAL SINGH	Kranti Janshakti Party	1625	6	
+20	Rajasthan - Taranagar	ALISHER KHAN	Bahujan Samaj Party	1333	7	
+20	Rajasthan - Taranagar	RAMESH KUMAR	Independent	1251	8	
+20	Rajasthan - Taranagar	VIRENDRA SINGH	Independent	1179	9	
+20	Rajasthan - Taranagar	NATTHU SINGH	Independent	911	10	
+20	Rajasthan - Taranagar	DR. RAHUL KASWAN	Independent	769	11	
+20	Rajasthan - Taranagar	None of the Above	None of the Above	663	12	
+20	Rajasthan - Taranagar	AMARJEET	Independent	600	13	
+20	Rajasthan - Taranagar	BISHANARAM	Bahujan Sangharshh Dal	420	14	
+20	Rajasthan - Taranagar	BHOJRAJ	Aam Aadmi Party	384	15	
+20	Rajasthan - Taranagar	BUDDHRAM	Bahujan Mukti Party	266	16	
+20	Rajasthan - Taranagar	HOSHIYAR SINGH	Dalit Kranti Dal	240	17	
+21	Rajasthan - Sardarshahar	BHANWARLAL SHARMA	Indian National Congress	95282	1	16816
+21	Rajasthan - Sardarshahar	ASHOK KUMAR	Bharatiya Janata Party	78466	2	16816
+21	Rajasthan - Sardarshahar	BALDEV	Rashtriya Loktantrik Party	10273	3	
+21	Rajasthan - Sardarshahar	OMAKAR	Bahujan Samaj Party	6762	4	
+21	Rajasthan - Sardarshahar	COMRADE CHHAGAN LAL CHOUDHARY	Communist Party of India (Marxist)	3516	5	
+21	Rajasthan - Sardarshahar	HIRA LAL	Communist Party of India	3327	6	
+21	Rajasthan - Sardarshahar	None of the Above	None of the Above	2943	7	
+21	Rajasthan - Sardarshahar	BHUPENDRA SINGH	Independent	1865	8	
+21	Rajasthan - Sardarshahar	HARISH KUMAR JANGIR	Independent	971	9	
+21	Rajasthan - Sardarshahar	SANWARMAL	Independent	650	10	
+21	Rajasthan - Sardarshahar	IMRAN KHAN	Independent	524	11	
+21	Rajasthan - Sardarshahar	KARANI SINGH	Independent	462	12	
+21	Rajasthan - Sardarshahar	RAJENDRA PRASAD	Nationalist People's Front	360	13	
+21	Rajasthan - Sardarshahar	VINOD	Abhinav Rajasthan Party	346	14	
+22	Rajasthan - Churu	RAJENDRA RATHORE	Bharatiya Janata Party	87233	1	1850
+22	Rajasthan - Churu	RAFIQUE MANDELIA	Indian National Congress	85383	2	1850
+22	Rajasthan - Churu	None of the Above	None of the Above	1816	3	
+22	Rajasthan - Churu	SALIM GUJAR	Independent	1347	4	
+22	Rajasthan - Churu	YUNAS KHAN	Independent	1209	5	
+22	Rajasthan - Churu	USHA RATHORE	Bharat Vahini Party	1078	6	
+22	Rajasthan - Churu	ASGAR KHAN	Bahujan Samaj Party	1053	7	
+22	Rajasthan - Churu	DEVENDRA JOSHI	Abhinav Rajasthan Party	573	8	
+22	Rajasthan - Churu	MAHENDRA NARAYAN PANDEY	Independent	371	9	
+22	Rajasthan - Churu	RAMCHANDRA RAJOTIA	Aam Aadmi Party	241	10	
+22	Rajasthan - Churu	KAMAL KUMAR SONI	Independent	160	11	
+22	Rajasthan - Churu	BANWARI LAL	Bahujan Sangharshh Dal	113	12	
+22	Rajasthan - Churu	ARVIND	Independent	110	13	
+23	Rajasthan - Ratangarh	ABHINESH MAHARSHI	Bharatiya Janata Party	71201	1	11881
+23	Rajasthan - Ratangarh	POOSARAM GODARA	Independent	59320	2	11881
+23	Rajasthan - Ratangarh	BHANWARLAL PUJARI	Indian National Congress	22791	3	
+23	Rajasthan - Ratangarh	RAJ KUMAR RINWA	Independent	18789	4	
+23	Rajasthan - Ratangarh	DAULAT RAM PENSIA	Janata Dal (United)	3387	5	
+23	Rajasthan - Ratangarh	ROHTASH KUMAR	Independent	2231	6	
+23	Rajasthan - Ratangarh	ASHOK SINGH RATHORE (RAVANA RAJPUT)	Independent	1375	7	
+23	Rajasthan - Ratangarh	HEMANT KUMAR	Bahujan Samaj Party	820	8	
+23	Rajasthan - Ratangarh	SANJAY KUMAR	Independent	802	9	
+23	Rajasthan - Ratangarh	BANSHILAL	Abhinav Rajasthan Party	714	10	
+23	Rajasthan - Ratangarh	AMARCHAND	Aam Aadmi Party	647	11	
+23	Rajasthan - Ratangarh	PAVITRA DEVI	Rashtriya Loktantrik Party	556	12	
+23	Rajasthan - Ratangarh	None of the Above	None of the Above	533	13	
+23	Rajasthan - Ratangarh	OM PRAKASH	Ambedkarite Party of India	392	14	
+23	Rajasthan - Ratangarh	ASHOKKUMAR	Independent	350	15	
+23	Rajasthan - Ratangarh	SAMSHER SINGH	Bharat Vahini Party	317	16	
+23	Rajasthan - Ratangarh	PANKAJ KUMAR	Bahujan Mukti Party	214	17	
+23	Rajasthan - Ratangarh	JEETENDRA BHARGAV	Republican Party of India (A)	199	18	
+24	Rajasthan - Sujangarh	MASTER BHANWARLAL MEGHWAL	Indian National Congress	83632	1	38749
+24	Rajasthan - Sujangarh	KHEMARAM	Bharatiya Janata Party	44883	2	38749
+24	Rajasthan - Sujangarh	SANTOSH MEGHWAL	Independent	38603	3	
+24	Rajasthan - Sujangarh	SITARAM	Bahujan Samaj Party	4802	4	
+24	Rajasthan - Sujangarh	RAMESHWARLAL	Independent	4353	5	
+24	Rajasthan - Sujangarh	None of the Above	None of the Above	3201	6	
+24	Rajasthan - Sujangarh	HEERALAL	Independent	2359	7	
+24	Rajasthan - Sujangarh	DOULATRAM	Abhinav Rajasthan Party	840	8	
+24	Rajasthan - Sujangarh	VINOD KUMAR KHATEEK	Rashtriya Sarvjan Vikas Party	645	9	
+25	Rajasthan - Pilani	J.P. CHANDELIA	Indian National Congress	84715	1	13539
+25	Rajasthan - Pilani	KAILASH CHAND	Bharatiya Janata Party	71176	2	13539
+25	Rajasthan - Pilani	None of the Above	None of the Above	1704	3	
+25	Rajasthan - Pilani	JAYA KUMARI	Bahujan Samaj Party	1049	4	
+25	Rajasthan - Pilani	SUMER SINGH	Ambedkarite Party of India	566	5	
+25	Rajasthan - Pilani	SATYANARAYAN	Independent	535	6	
+25	Rajasthan - Pilani	GOVINDRAM	Independent	530	7	
+25	Rajasthan - Pilani	RAJENDRA MAVAR	Aam Aadmi Party	303	8	
+25	Rajasthan - Pilani	SHISH RAM	Communist Party of India (Marxist-Leninist) (Liberation)	284	9	
+25	Rajasthan - Pilani	KAVINDRA	Abhinav Rajasthan Party	248	10	
+25	Rajasthan - Pilani	AJAYPAL	Bahujan Mukti Party	179	11	
+25	Rajasthan - Pilani	ATMARAM BADETIA	Independent	165	12	
+25	Rajasthan - Pilani	RANVEER SINGH	Bharatiya Bahujan Party	115	13	
+26	Rajasthan - Surajgarh	SUBHASH POONIA S/O LOKRAM POONIA	Bharatiya Janata Party	79913	1	3425
+26	Rajasthan - Surajgarh	SHARWAN KUMAR S/O GOKAL RAM	Indian National Congress	76488	2	3425
+26	Rajasthan - Surajgarh	KARMVEER YADAV	Bahujan Samaj Party	30948	3	
+26	Rajasthan - Surajgarh	SHRAWAN KUMAR S/O RAMJILAL	Independent	722	4	
+26	Rajasthan - Surajgarh	SHRAVAN KUMAR S/O MADU RAM	Independent	609	5	
+26	Rajasthan - Surajgarh	SUBHASH PUNIA S/O BHURARAM	Independent	559	6	
+26	Rajasthan - Surajgarh	SANDEEP KUMAR DADHICH	Independent	552	7	
+26	Rajasthan - Surajgarh	OMPRAKASH	Communist Party of India (Marxist-Leninist) (Liberation)	533	8	
+26	Rajasthan - Surajgarh	RAJVEER	Independent	520	9	
+26	Rajasthan - Surajgarh	ANOOP YADAV	Rashtriya Atulya Yuva Party	509	10	
+26	Rajasthan - Surajgarh	SURENDER KUMAR	Independent	420	11	
+26	Rajasthan - Surajgarh	None of the Above	None of the Above	392	12	
+26	Rajasthan - Surajgarh	SATYVEER SINGH DHANKAR	Republican Party of India (A)	296	13	
+26	Rajasthan - Surajgarh	BANESHWARI ARYA	Independent	292	14	
+26	Rajasthan - Surajgarh	MANRUP SINGH	Independent	246	15	
+26	Rajasthan - Surajgarh	PRAMOD KUMAR	Abhinav Rajasthan Party	188	16	
+26	Rajasthan - Surajgarh	DURGAPRASAD YADAV	Aam Aadmi Party	169	17	
+26	Rajasthan - Surajgarh	DHARAMPAL SINGH	Bharat Vahini Party	112	18	
+26	Rajasthan - Surajgarh	JALDEEP KUMAR	Bhartiya Panchyat Party	107	19	
+26	Rajasthan - Surajgarh	JASRAM	Dalit Soshit Pichhara Varg Adhikar Dal	106	20	
+27	Rajasthan - Jhunjhunu	BRIJENDRA SINGH OLA	Indian National Congress	76177	1	40565
+27	Rajasthan - Jhunjhunu	RAJENDRA SINGH BHAMBOO	Bharatiya Janata Party	35612	2	40565
+27	Rajasthan - Jhunjhunu	NISHEET KUMAR ALIAS BABLU CHOUDHARY	Independent	29410	3	
+27	Rajasthan - Jhunjhunu	YASHWARDHAN SINGH	Independent	12007	4	
+27	Rajasthan - Jhunjhunu	RAJESH	Bahujan Samaj Party	5933	5	
+27	Rajasthan - Jhunjhunu	DALIP	Independent	2006	6	
+27	Rajasthan - Jhunjhunu	RAJKUMAR MOOND	Aam Aadmi Party	1900	7	
+27	Rajasthan - Jhunjhunu	RAJENDRA FAUJI	Rashtriya Loktantrik Party	1598	8	
+27	Rajasthan - Jhunjhunu	None of the Above	None of the Above	1580	9	
+27	Rajasthan - Jhunjhunu	MAHESH KUMAR	Abhinav Rajasthan Party	621	10	
+27	Rajasthan - Jhunjhunu	VIJENDRA SINGH	Independent	570	11	
+27	Rajasthan - Jhunjhunu	SANJAY	Independent	529	12	
+27	Rajasthan - Jhunjhunu	BHIM SINGH	Independent	412	13	
+27	Rajasthan - Jhunjhunu	TEJA RAM	Independent	299	14	
+27	Rajasthan - Jhunjhunu	GURU GOKUL CHAND RASHTARWADI	Independent	296	15	
+27	Rajasthan - Jhunjhunu	RAMESH KUMAR	Independent	246	16	
+28	Rajasthan - Mandawa	NARENDRA KUMAR	Bharatiya Janata Party	80599	1	2346
+28	Rajasthan - Mandawa	KUM. RITA CHOUDHARY	Indian National Congress	78253	2	2346
+28	Rajasthan - Mandawa	ANWAR ALI KHAN	Bahujan Samaj Party	3228	3	
+28	Rajasthan - Mandawa	None of the Above	None of the Above	908	4	
+28	Rajasthan - Mandawa	MAHENDRA KUMAR DHAYAL	Abhinav Rajasthan Party	720	5	
+28	Rajasthan - Mandawa	JAGDEEP	Independent	642	6	
+28	Rajasthan - Mandawa	SHUBHAKARAN SINGH	Aam Aadmi Party	577	7	
+28	Rajasthan - Mandawa	NARENDRA SINGH	Independent	517	8	
+29	Rajasthan - Nawalgarh	DR. RAJKUMAR SHARMA	Indian National Congress	79570	1	36500
+29	Rajasthan - Nawalgarh	RAVI SAINI	Bharatiya Janata Party	43070	2	36500
+29	Rajasthan - Nawalgarh	VIKRAM SINGH JAKHAL	Independent	39259	3	
+29	Rajasthan - Nawalgarh	PRATIBHA SINGH	Rashtriya Loktantrik Party	9610	4	
+29	Rajasthan - Nawalgarh	RAM AVTAR NARNOLIA	Bahujan Samaj Party	5382	5	
+29	Rajasthan - Nawalgarh	SANJAY BASOTIA	Independent	1761	6	
+29	Rajasthan - Nawalgarh	None of the Above	None of the Above	1475	7	
+29	Rajasthan - Nawalgarh	HEM KANWAR	Independent	1190	8	
+29	Rajasthan - Nawalgarh	SANJAY KUMAR POONIA	Bahujan Mukti Party	1144	9	
+29	Rajasthan - Nawalgarh	VIJENDRA SINGH	Aam Aadmi Party	1118	10	
+29	Rajasthan - Nawalgarh	MOHAMMAD ASLAM NAGORI	Independent	936	11	
+29	Rajasthan - Nawalgarh	VIJENDRA KUMAR SONKARIA	Ambedkarite Party of India	502	12	
+29	Rajasthan - Nawalgarh	ARUN KUMAR	Independent	499	13	
+29	Rajasthan - Nawalgarh	RASHID KHAN	Bharatiya Yuva Shakti	410	14	
+29	Rajasthan - Nawalgarh	ASHOK KUMAR	Independent	246	15	
+29	Rajasthan - Nawalgarh	MUKESH KUMAR	Independent	205	16	
+30	Rajasthan - Udaipurwati	RAJENDRASINGH GUDHA	Bahujan Samaj Party	59362	1	5534
+30	Rajasthan - Udaipurwati	SHUBHKARAN CHOUDHARY	Bharatiya Janata Party	53828	2	5534
+30	Rajasthan - Udaipurwati	BHAGWANARAM SAINI	Indian National Congress	52633	3	
+30	Rajasthan - Udaipurwati	MOOLCHAND	Communist Party of India (Marxist)	1771	4	
+30	Rajasthan - Udaipurwati	SANDEEP	Independent	1694	5	
+30	Rajasthan - Udaipurwati	None of the Above	None of the Above	1650	6	
+30	Rajasthan - Udaipurwati	KRISHAN KUMAR	Loktantrik Janta Dal	970	7	
+30	Rajasthan - Udaipurwati	DR. SUMAN KULHARI	Rashtriya Loktantrik Party	573	8	
+30	Rajasthan - Udaipurwati	BHIMA SINGH	Independent	471	9	
+30	Rajasthan - Udaipurwati	SUBHASH	Independent	345	10	
+30	Rajasthan - Udaipurwati	HARI SINGH BHUPESH	Bahujan Mukti Party	241	11	
+30	Rajasthan - Udaipurwati	BAL RAM	Independent	174	12	
+30	Rajasthan - Udaipurwati	NISHA KANWAR	Independent	114	13	
+31	Rajasthan - Khetri	JITENDRA SINGH	Indian National Congress	57153	1	957
+31	Rajasthan - Khetri	DHARMPAL	Bharatiya Janata Party	56196	2	957
+31	Rajasthan - Khetri	POORANMAL SAINI	Bahujan Samaj Party	35166	3	
+31	Rajasthan - Khetri	None of the Above	None of the Above	1373	4	
+31	Rajasthan - Khetri	AMAR SINGH	Rashtriya Loktantrik Party	1314	5	
+31	Rajasthan - Khetri	RISHAL SINGH	Independent	610	6	
+31	Rajasthan - Khetri	RAJESH	Independent	507	7	
+31	Rajasthan - Khetri	TARACHAND	Bharat Vahini Party	178	8	
+31	Rajasthan - Khetri	BAJRANG	Independent	171	9	
+31	Rajasthan - Khetri	UMRAO SINGH KADYAN	Aam Aadmi Party	165	10	
+31	Rajasthan - Khetri	PRIYANKA	Abhinav Rajasthan Party	154	11	
+31	Rajasthan - Khetri	RAMSWROOP	Bharatiya Yuva Shakti	149	12	
+32	Rajasthan - Fatehpur	HAKAM ALI KHAN	Indian National Congress	80354	1	860
+32	Rajasthan - Fatehpur	SUNITA KUMARI	Bharatiya Janata Party	79494	2	860
+32	Rajasthan - Fatehpur	ABID HUSSAIN	Communist Party of India (Marxist)	3931	3	
+32	Rajasthan - Fatehpur	ZARINA BANU	Bahujan Samaj Party	1965	4	
+32	Rajasthan - Fatehpur	None of the Above	None of the Above	1165	5	
+32	Rajasthan - Fatehpur	YAKUB	Independent	1052	6	
+32	Rajasthan - Fatehpur	GULAB ALBELA KUMHAR	Independent	726	7	
+32	Rajasthan - Fatehpur	CHOTHMAL	Bahujan Sangharshh Dal	721	8	
+32	Rajasthan - Fatehpur	TAYAB KHAN	Aam Aadmi Party	475	9	
+32	Rajasthan - Fatehpur	SAMPAT KUMAR CHAUMAL	Independent	413	10	
+32	Rajasthan - Fatehpur	MUKESH KUMAR	Dalit Soshit Pichhara Varg Adhikar Dal	233	11	
+32	Rajasthan - Fatehpur	NARESH KUMAR	Bharatiya Yuva Shakti	98	12	
+33	Rajasthan - Lachhmangarh	GOVIND SINGH DOTASARA	Indian National Congress	98227	1	22052
+33	Rajasthan - Lachhmangarh	DINESH JOSHI	Bharatiya Janata Party	76175	2	22052
+33	Rajasthan - Lachhmangarh	BRIJENDRA SINGH	Communist Party of India (Marxist)	8617	3	
+33	Rajasthan - Lachhmangarh	LIYAKAT	Independent	1225	4	
+33	Rajasthan - Lachhmangarh	None of the Above	None of the Above	1206	5	
+33	Rajasthan - Lachhmangarh	GANESH JOSHI	Bahujan Samaj Party	1071	6	
+33	Rajasthan - Lachhmangarh	RAINA KUMARI	Independent	1066	7	
+33	Rajasthan - Lachhmangarh	MAHAVEER PRASAD	Dalit Soshit Pichhara Varg Adhikar Dal	443	8	
+33	Rajasthan - Lachhmangarh	BHAWANI SINGH	Independent	425	9	
+33	Rajasthan - Lachhmangarh	CHHOTELAL	Bahujan Mukti Party	269	10	
+33	Rajasthan - Lachhmangarh	OM PRAKASH	Aam Aadmi Party	265	11	
+33	Rajasthan - Lachhmangarh	SUBHKARAN BIWAL	Dalit Kranti Dal	247	12	
+33	Rajasthan - Lachhmangarh	DINESH KUMAR	Independent	224	13	
+33	Rajasthan - Lachhmangarh	NEMI CHAND	Independent	150	14	
+33	Rajasthan - Lachhmangarh	NEMICHAND	Maharana Kranti Party	106	15	
+34	Rajasthan - DHOD	PARASRAM MORDIA	Indian National Congress	75142	1	14053
+34	Rajasthan - DHOD	PEMA RAM	Communist Party of India (Marxist)	61089	2	14053
+34	Rajasthan - DHOD	GORDHAN	Bharatiya Janata Party	46667	3	
+34	Rajasthan - DHOD	None of the Above	None of the Above	1775	4	
+34	Rajasthan - DHOD	PEMARAM	Independent	1702	5	
+34	Rajasthan - DHOD	BHAGIRATH	Independent	1323	6	
+34	Rajasthan - DHOD	BHARAT SINGH	Bahujan Samaj Party	916	7	
+34	Rajasthan - DHOD	PARSARAM	Independent	770	8	
+34	Rajasthan - DHOD	BAJRANG LAL	Ambedkarite Party of India	498	9	
+34	Rajasthan - DHOD	MAHENDRA	Aam Aadmi Party	196	10	
+34	Rajasthan - DHOD	OMPRAKASH	Independent	161	11	
+35	Rajasthan - Sikar	RAJENDRA PAREEK	Indian National Congress	83472	1	15180
+35	Rajasthan - Sikar	RATANLAL JALDHARI	Bharatiya Janata Party	68292	2	15180
+35	Rajasthan - Sikar	WAHID CHOWHAN	Rashtriya Loktantrik Party	28906	3	
+35	Rajasthan - Sikar	None of the Above	None of the Above	2031	4	
+35	Rajasthan - Sikar	ABDUL QAIYOOM QURESHI	Communist Party of India (Marxist)	1676	5	
+35	Rajasthan - Sikar	BAL KISHAN JOSHI	Independent	1022	6	
+35	Rajasthan - Sikar	RAJENDRA KUMAR	Independent	953	7	
+35	Rajasthan - Sikar	BHAGIRATH SINGH KHARRANTE MAHAN	Independent	775	8	
+35	Rajasthan - Sikar	MUKESH RAD	Bahujan Samaj Party	759	9	
+35	Rajasthan - Sikar	CHANDAN SINGH PALAWAT	Bharat Lok Sewak Party	730	10	
+35	Rajasthan - Sikar	LOVE KUMAR	Aam Aadmi Party	691	11	
+35	Rajasthan - Sikar	ARUN	Independent	667	12	
+35	Rajasthan - Sikar	MOHMMED KASIM KHILJI	Indian Peoples Green Party	337	13	
+36	Rajasthan - DANTARAMGARH	VIRENDRA SINGH	Indian National Congress	64931	1	920
+36	Rajasthan - DANTARAMGARH	HARISH CHAND KUMAWAT	Bharatiya Janata Party	64011	2	920
+36	Rajasthan - DANTARAMGARH	AMRARAM	Communist Party of India (Marxist)	45186	3	
+36	Rajasthan - DANTARAMGARH	KALU RAM	Bahujan Samaj Party	3661	4	
+36	Rajasthan - DANTARAMGARH	VIJENDRA	Independent	2782	5	
+36	Rajasthan - DANTARAMGARH	HANUMAN SINGH	Independent	1750	6	
+36	Rajasthan - DANTARAMGARH	PRAHLAD BARWAR	Ambedkarite Party of India	1625	7	
+36	Rajasthan - DANTARAMGARH	RAM SINGH	Independent	1414	8	
+36	Rajasthan - DANTARAMGARH	None of the Above	None of the Above	1188	9	
+36	Rajasthan - DANTARAMGARH	MUKESH KUMAR	Rashtriya Loktantrik Party	397	10	
+36	Rajasthan - DANTARAMGARH	SANWARMAL	Independent	383	11	
+36	Rajasthan - DANTARAMGARH	BANSHILAL KATARIA	Independent	301	12	
+36	Rajasthan - DANTARAMGARH	ASHOK KUMAR VERMA	Independent	265	13	
+36	Rajasthan - DANTARAMGARH	MAHAVIR PRASAD KUMAWAT	Bharat Vahini Party	246	14	
+36	Rajasthan - DANTARAMGARH	KAMAL KISHOR	Independent	239	15	
+36	Rajasthan - DANTARAMGARH	RAMCHANDRA	Indian Peoples Green Party	175	16	
+36	Rajasthan - DANTARAMGARH	RAMESHWAR LAL	Abhinav Rajasthan Party	147	17	
+37	Rajasthan - Khandela	MAHADEO SINGH	Independent	53864	1	4348
+37	Rajasthan - Khandela	BANSHIDHAR BAJIYA	Bharatiya Janata Party	49516	2	4348
+37	Rajasthan - Khandela	SUBHASH MEEL	Indian National Congress	44772	3	
+37	Rajasthan - Khandela	SUBHASH NEHARA	Communist Party of India (Marxist)	16378	4	
+37	Rajasthan - Khandela	None of the Above	None of the Above	2306	5	
+37	Rajasthan - Khandela	HARI RAM	Independent	1439	6	
+37	Rajasthan - Khandela	GOKUL CHAND	Aam Aadmi Party	998	7	
+37	Rajasthan - Khandela	SHISH RAM	Independent	764	8	
+37	Rajasthan - Khandela	SHIVDAYAL PALIWAL	Independent	691	9	
+37	Rajasthan - Khandela	PHOOLCHAND	Independent	466	10	
+37	Rajasthan - Khandela	RANVEER SINGH	Independent	393	11	
+37	Rajasthan - Khandela	DOOL CHAND KUMAWAT	Independent	347	12	
+37	Rajasthan - Khandela	DEEPAK	Nationalist People's Front	228	13	
+37	Rajasthan - Khandela	TEJPAL	Independent	225	14	
+37	Rajasthan - Khandela	VIKARM SINGH	Independent	188	15	
+38	Rajasthan - Neem ka Thana	SURESH MODI	Indian National Congress	66287	1	12615
+38	Rajasthan - Neem ka Thana	PREM SINGH BAJORE	Bharatiya Janata Party	53672	2	12615
+38	Rajasthan - Neem ka Thana	RAMESH KHANDELWAL	Rashtriya Loktantrik Party	25620	3	
+38	Rajasthan - Neem ka Thana	RAJESH BHAIDA	Bahujan Samaj Party	13211	4	
+38	Rajasthan - Neem ka Thana	MANJU SAINI	Independent	9140	5	
+38	Rajasthan - Neem ka Thana	JAIRAM SINGH DABLA	Swaraj India	3347	6	
+38	Rajasthan - Neem ka Thana	MOHAN YADAV	Bharatiya Yuva Shakti	1373	7	
+38	Rajasthan - Neem ka Thana	NANDARAM	Independent	1192	8	
+38	Rajasthan - Neem ka Thana	PREM SINGH	Independent	877	9	
+38	Rajasthan - Neem ka Thana	None of the Above	None of the Above	861	10	
+38	Rajasthan - Neem ka Thana	BHAWANI SHANKAR	Aam Aadmi Party	572	11	
+38	Rajasthan - Neem ka Thana	SATISH INSHA	Independent	565	12	
+38	Rajasthan - Neem ka Thana	SUSHIL KUMAR	Independent	330	13	
+38	Rajasthan - Neem ka Thana	DASHRATH KUMAR SAIN	Independent	316	14	
+38	Rajasthan - Neem ka Thana	INDRAPAL	Independent	304	15	
+38	Rajasthan - Neem ka Thana	GAJANAND SAINI	Independent	251	16	
+38	Rajasthan - Neem ka Thana	RAMESH SHARMA	Bhartiya Party	246	17	
+38	Rajasthan - Neem ka Thana	BHOPAL SINGH	Loktantrik Janta Dal	208	18	
+38	Rajasthan - Neem ka Thana	NARENDRA MOGA	Shiv Sena	207	19	
+39	Rajasthan - Srimadhopur	DEEPENDRA SINGH	Indian National Congress	90941	1	11810
+39	Rajasthan - Srimadhopur	JHABAR SINGH KHARRA	Bharatiya Janata Party	79131	2	11810
+39	Rajasthan - Srimadhopur	NARENDRA MAHAROLI	Independent	6285	3	
+39	Rajasthan - Srimadhopur	DURGA PRASAD KHARRA	Independent	3092	4	
+39	Rajasthan - Srimadhopur	None of the Above	None of the Above	1796	5	
+39	Rajasthan - Srimadhopur	RAM KISHOR	Bahujan Samaj Party	1736	6	
+39	Rajasthan - Srimadhopur	SANWAR MAL	Independent	1308	7	
+39	Rajasthan - Srimadhopur	MAKKHAN LAL SHARMA	Bharat Vahini Party	574	8	
+39	Rajasthan - Srimadhopur	KAMLESH KUMAR SAIN SAIN	Aam Aadmi Party	287	9	
+39	Rajasthan - Srimadhopur	BHARAT YADAV	Independent	259	10	
+39	Rajasthan - Srimadhopur	RAMAVATAR	Loktantrik Janta Dal	193	11	
+39	Rajasthan - Srimadhopur	AD. GOVIND NARAYAN TANWAR	Independent	105	12	
+40	Rajasthan - Kotputli	RAJENDRA SINGH YADAV	Indian National Congress	57114	1	13876
+40	Rajasthan - Kotputli	MUKESH GOYAL	Bharatiya Janata Party	43238	2	13876
+40	Rajasthan - Kotputli	RAMSWAROOP	Rashtriya Loktantrik Party	28353	3	
+40	Rajasthan - Kotputli	HANSRAJ	Independent	24960	4	
+40	Rajasthan - Kotputli	None of the Above	None of the Above	1666	5	
+40	Rajasthan - Kotputli	HEMRAJ	Independent	1064	6	
+40	Rajasthan - Kotputli	SATYANARAYAN AGARWAL	Aam Aadmi Party	839	7	
+40	Rajasthan - Kotputli	SUGAN BHAI	Bahujan Samaj Party	728	8	
+40	Rajasthan - Kotputli	BABULAL GURJAR	Bharatiya Yuva Shakti	718	9	
+40	Rajasthan - Kotputli	PRADEEP KUMAR YADAV	Bhartiya Panchyat Party	624	10	
+40	Rajasthan - Kotputli	MAHESH KUMAR GURJAR	Abhinav Rajasthan Party	384	11	
+41	Rajasthan - Viratnagar	INDRAJ SINGH GURJAR	Indian National Congress	59427	1	19367
+41	Rajasthan - Viratnagar	KULDEEP DHANKAD	Independent	40060	2	19367
+41	Rajasthan - Viratnagar	DR. PHOOLCHAND BHINDA	Bharatiya Janata Party	23058	3	
+41	Rajasthan - Viratnagar	RATNA KUMARI	Independent	9026	4	
+41	Rajasthan - Viratnagar	RAGHUVEER PRASAD MEENA	Independent	5690	5	
+41	Rajasthan - Viratnagar	SACHIN VERMA	Bahujan Samaj Party	5139	6	
+41	Rajasthan - Viratnagar	VIKRAM SINGH PURUSHARTHI	Bharat Vahini Party	3543	7	
+41	Rajasthan - Viratnagar	HARIDAS	Independent	1633	8	
+41	Rajasthan - Viratnagar	SUBHASH CHANDRA SHARMA	Independent	1183	9	
+41	Rajasthan - Viratnagar	KANHAIYA LAL	Independent	1138	10	
+41	Rajasthan - Viratnagar	PUSKAR KUMAR SHARMA	Aam Aadmi Party	930	11	
+41	Rajasthan - Viratnagar	HARISINGH SHEKHAWAT	Independent	786	12	
+41	Rajasthan - Viratnagar	CHANDRA PRAKASH TANWAR	Ambedkarite Party of India	720	13	
+41	Rajasthan - Viratnagar	SANNILATA	Rashtriya Loktantrik Party	638	14	
+41	Rajasthan - Viratnagar	None of the Above	None of the Above	501	15	
+41	Rajasthan - Viratnagar	RATAN SINGH TEJASI	Abhinav Rajasthan Party	479	16	
+41	Rajasthan - Viratnagar	PAPPU RAM	Nationalist People's Front	399	17	
+41	Rajasthan - Viratnagar	ROHITASH SAINI	Republican Party of India (A)	268	18	
+42	Rajasthan - Shahpura	ALOK BENIWAL	Independent	66538	1	3855
+42	Rajasthan - Shahpura	MANISH YADAV	Indian National Congress	62683	2	3855
+42	Rajasthan - Shahpura	RAO RAJENDRA SINGH	Bharatiya Janata Party	40215	3	
+42	Rajasthan - Shahpura	None of the Above	None of the Above	1432	4	
+42	Rajasthan - Shahpura	KALU RAM	Independent	975	5	
+42	Rajasthan - Shahpura	RAMAVATAR VERMA	Bahujan Samaj Party	747	6	
+42	Rajasthan - Shahpura	SHIVANI KUMAWAT	Independent	614	7	
+42	Rajasthan - Shahpura	RAJENDRA SINGH BIKA	Bharatiya Yuva Shakti	401	8	
+42	Rajasthan - Shahpura	MAHENDRA KUMAR ATAL	Independent	199	9	
+42	Rajasthan - Shahpura	RAJENDRA SAINI	Independent	197	10	
+43	Rajasthan - Chomu	RAMLAL SHARMA	Bharatiya Janata Party	70183	1	1288
+43	Rajasthan - Chomu	BHAGWAN SAHAI SAINI	Indian National Congress	68895	2	1288
+43	Rajasthan - Chomu	CHHUTTAN LAL YADAV	Rashtriya Loktantrik Party	39042	3	
+43	Rajasthan - Chomu	None of the Above	None of the Above	1859	4	
+43	Rajasthan - Chomu	RAVIKANT SHARMA	Independent	1401	5	
+43	Rajasthan - Chomu	PAWAN KUMAR	Aam Aadmi Party	1104	6	
+43	Rajasthan - Chomu	RAMGOPAL	Bahujan Samaj Party	1079	7	
+43	Rajasthan - Chomu	SITARAM YADAV	Independent	931	8	
+43	Rajasthan - Chomu	HARIRAM SONKARIA	Ambedkarite Party of India	419	9	
+43	Rajasthan - Chomu	BABU LAL BARALA	Bhartiya Panchyat Party	397	10	
+43	Rajasthan - Chomu	TRIBHUWAN SINGH	Independent	371	11	
+43	Rajasthan - Chomu	MOHAMMAD RAFIK	Independent	256	12	
+43	Rajasthan - Chomu	DR. MAHESH KUMAR GANGWAL	Lok Jan Shakti Party	138	13	
+43	Rajasthan - Chomu	BASANT LAL MEEL	Independent	134	14	
+43	Rajasthan - Chomu	PAWAN KUMAR SHARMA	Independent	102	15	
+43	Rajasthan - Chomu	AADIL KHAN	Independent	91	16	
+44	Rajasthan - Phulera	NIRMAL KUMAWAT	Bharatiya Janata Party	73530	1	1132
+44	Rajasthan - Phulera	VIDHYADHAR SINGH	Indian National Congress	72398	2	1132
+44	Rajasthan - Phulera	SPURDHA CHOUDHARY	Rashtriya Loktantrik Party	9946	3	
+44	Rajasthan - Phulera	DEEN DAYAL KUMAWAT ALIAS D.D.	Independent	8716	4	
+44	Rajasthan - Phulera	PRAKASH CHAND	Bahujan Samaj Party	5777	5	
+44	Rajasthan - Phulera	BANWARI LAL JAT	Communist Party of India (Marxist)	3711	6	
+44	Rajasthan - Phulera	SURENDRA KUMAR PRAJAPAT	Bharat Vahini Party	1210	7	
+44	Rajasthan - Phulera	PAWAN KUMAR MODI	Independent	1163	8	
+44	Rajasthan - Phulera	GANGA RAM KUMAWAT	Nationalist People's Front	762	9	
+44	Rajasthan - Phulera	BHAGWAN SAHAY VERMA	Ambedkarite Party of India	740	10	
+44	Rajasthan - Phulera	None of the Above	None of the Above	652	11	
+44	Rajasthan - Phulera	SURENDRA SINGH	Naya Bharat Party	642	12	
+44	Rajasthan - Phulera	KANARAM KUMAWAT	Independent	583	13	
+44	Rajasthan - Phulera	RAMCHANDRA JAT	Bharatiya Yuva Shakti	349	14	
+44	Rajasthan - Phulera	SITARAM SAINI	Republican Party of India (A)	257	15	
+44	Rajasthan - Phulera	SANWAR MAL	Independent	236	16	
+44	Rajasthan - Phulera	DILIP AGARWAL	Aam Aadmi Party	234	17	
+44	Rajasthan - Phulera	GIRDHARI LAL	Abhinav Rajasthan Party	210	18	
+44	Rajasthan - Phulera	LAXMAN SINGH JADETA	Jago Party	143	19	
+45	Rajasthan - Dudu	BABULAL NAGAR	Independent	68769	1	14779
+45	Rajasthan - Dudu	DR. PREM CHAND BAIRWA	Bharatiya Janata Party	53990	2	14779
+45	Rajasthan - Dudu	RITESH BAIRWA	Indian National Congress	28798	3	
+45	Rajasthan - Dudu	SHANKAR LAL NAROLIA	Rashtriya Loktantrik Party	18948	4	
+45	Rajasthan - Dudu	None of the Above	None of the Above	1496	5	
+45	Rajasthan - Dudu	RAMESH KUMAR	Independent	1443	6	
+45	Rajasthan - Dudu	GOPAL LAL BAIRWA	Bharatiya Yuva Shakti	1393	7	
+45	Rajasthan - Dudu	JITENDRA KUMAR SURYAWANSHI (BAIRWA)	Bahujan Samaj Party	1297	8	
+45	Rajasthan - Dudu	NANAK RAM KHATEEK	Aam Aadmi Party	605	9	
+45	Rajasthan - Dudu	RAMLAL	Akhil Bhartiya Aamjan Party	429	10	
+45	Rajasthan - Dudu	MANOJ KUMAR JATOLIA	Khushhal Kisan Party	285	11	
+46	Rajasthan - Jhotwara	LALCHAND KATARIA	Indian National Congress	127185	1	10747
+46	Rajasthan - Jhotwara	RAJPAL SINGH SHEKHAWAT	Bharatiya Janata Party	116438	2	10747
+46	Rajasthan - Jhotwara	CHHOTU RAM KUMAWAT	Bharat Vahini Party	5733	3	
+46	Rajasthan - Jhotwara	None of the Above	None of the Above	1770	4	
+46	Rajasthan - Jhotwara	JUGAL KISHORE SHARMA	Aam Aadmi Party	1335	5	
+46	Rajasthan - Jhotwara	KISHAN GOUR	Independent	1285	6	
+46	Rajasthan - Jhotwara	YOGESH JADOUN	Bahujan Samaj Party	1177	7	
+46	Rajasthan - Jhotwara	DILEEP KUMAR SHARMA (SIRSI)	Independent	992	8	
+46	Rajasthan - Jhotwara	ASHISH KUMAR SHARMA	Bharat Lok Sewak Party	798	9	
+46	Rajasthan - Jhotwara	LAV KUMAR KUMAWAT	Independent	726	10	
+46	Rajasthan - Jhotwara	JITENDRA SINGH	Independent	662	11	
+46	Rajasthan - Jhotwara	RAJESH KUMAR MINA	Independent	631	12	
+46	Rajasthan - Jhotwara	MADAN SINGH TANWAR	Rajasthan Janta Party	428	13	
+46	Rajasthan - Jhotwara	MOHAN LAL KUMHAR	Nationalist People's Front	400	14	
+46	Rajasthan - Jhotwara	ASEEM VERMA	Independent	342	15	
+46	Rajasthan - Jhotwara	PRAHALAD CHOUDHARY	Independent	341	16	
+46	Rajasthan - Jhotwara	SNEH LATA	Independent	277	17	
+46	Rajasthan - Jhotwara	KHEM SINGH CHOUHAN	Indian Peoples Green Party	211	18	
+46	Rajasthan - Jhotwara	ROOP NARAYAN KUMAWAT	Bharatiya Jan Kranti Dal (Democratic)	200	19	
+46	Rajasthan - Jhotwara	NATWAR LAL SHARMA	Janata Dal (United)	199	20	
+46	Rajasthan - Jhotwara	DEEPENDRA SINGH NARUKA	Jago Party	189	21	
+47	Rajasthan - Amber	SATISH POONIA	Bharatiya Janata Party	93132	1	13276
+47	Rajasthan - Amber	PRASHANT SHARMA	Indian National Congress	79856	2	13276
+47	Rajasthan - Amber	NAVIN PILANIYA	Bahujan Samaj Party	15994	3	
+47	Rajasthan - Amber	None of the Above	None of the Above	1678	4	
+47	Rajasthan - Amber	RAMJI LAL YADAV	Communist Party of India (Marxist)	1547	5	
+47	Rajasthan - Amber	LAL CHAND SHARMA	Independent	1537	6	
+47	Rajasthan - Amber	POORAN CHAND VERMA	Ambedkarite Party of India	1470	7	
+47	Rajasthan - Amber	NATWAR SINGH	Independent	1401	8	
+47	Rajasthan - Amber	MOHAN LAL SHARMA	Independent	687	9	
+47	Rajasthan - Amber	GAURU SINGH DEVAL	Independent	579	10	
+47	Rajasthan - Amber	VINOD MEENA	Shiv Sena	383	11	
+47	Rajasthan - Amber	AFZAL KHAN	Independent	361	12	
+47	Rajasthan - Amber	HEM CHAND SAINI	Aam Aadmi Party	271	13	
+47	Rajasthan - Amber	KARISHAN KUMAR CHOUDHARY	Independent	231	14	
+47	Rajasthan - Amber	RAMESH KUMAR SHARMA	Bharatiya Yuva Shakti	196	15	
+47	Rajasthan - Amber	RAMESH CHAND MEENA	Panch Party	161	16	
+48	Rajasthan - Jamwa ramgarh	GOPAL LAL MEENA	Indian National Congress	89165	1	21684
+48	Rajasthan - Jamwa ramgarh	MAHENDRA PAL MEENA	Bharatiya Janata Party	67481	2	21684
+48	Rajasthan - Jamwa ramgarh	None of the Above	None of the Above	2195	3	
+48	Rajasthan - Jamwa ramgarh	MEERA DEVI	Independent	1042	4	
+48	Rajasthan - Jamwa ramgarh	KISHAN LAL MEENA	Aam Aadmi Party	908	5	
+48	Rajasthan - Jamwa ramgarh	MALIRAM NAYAKA	Independent	331	6	
+48	Rajasthan - Jamwa ramgarh	LEELADHAR MEENA	Rashtriya Loktantrik Party	155	7	
+48	Rajasthan - Jamwa ramgarh	MADAN LAL VERMA	Bharat Vahini Party	147	8	
+48	Rajasthan - Jamwa ramgarh	HANUMAN SAHAYA DHANKA	Bhartiya Panchyat Party	128	9	
+48	Rajasthan - Jamwa ramgarh	RAMESH CHAND DHANKA	Indian Peoples Green Party	125	10	
+48	Rajasthan - Jamwa ramgarh	RIDDHI CHAND MEENA	Bharatiya Yuva Shakti	95	11	
+48	Rajasthan - Jamwa ramgarh	RAM PRVESH DABLA	Bharatiya Rashtravadi Samanta Party	95	12	
+49	Rajasthan - Hawa mahal	DR. MAHESH JOSHI	Indian National Congress	85474	1	9282
+49	Rajasthan - Hawa mahal	SURENDRA PAREEK	Bharatiya Janata Party	76192	2	9282
+49	Rajasthan - Hawa mahal	VIMAL AGRAWAL	Bharat Vahini Party	1437	3	
+49	Rajasthan - Hawa mahal	YAKUB KHAN	Independent	1348	4	
+49	Rajasthan - Hawa mahal	SAHIDA TARIK	Bahujan Samaj Party	898	5	
+49	Rajasthan - Hawa mahal	None of the Above	None of the Above	796	6	
+49	Rajasthan - Hawa mahal	RAFIK	Independent	743	7	
+49	Rajasthan - Hawa mahal	PURUSHOTTAM SHARMA	Independent	390	8	
+49	Rajasthan - Hawa mahal	ASHA DEVI SHARMA	Bharatiya Jan Kranti Dal (Democratic)	381	9	
+49	Rajasthan - Hawa mahal	SIRAJUDDIN	Independent	347	10	
+49	Rajasthan - Hawa mahal	KAYUM IBRAHIM ABBAS	Aam Aadmi Party	341	11	
+49	Rajasthan - Hawa mahal	MEERA DEVI	Independent	248	12	
+49	Rajasthan - Hawa mahal	BAHADUR KHAN	All India Hindustan Congress Party	209	13	
+49	Rajasthan - Hawa mahal	VINOD	Independent	174	14	
+49	Rajasthan - Hawa mahal	KAPIL KAUSHIK	Jago Party	144	15	
+49	Rajasthan - Hawa mahal	GIRRAJ GUJAR	Independent	141	16	
+49	Rajasthan - Hawa mahal	NOUSHAD	Independent	137	17	
+49	Rajasthan - Hawa mahal	SMT. KAMLESH SHARMA	Nationalist People's Front	113	18	
+49	Rajasthan - Hawa mahal	MOHAMMED PARAWEZ	Janata Dal (Secular)	84	19	
+49	Rajasthan - Hawa mahal	GIRISH SHARMA	Bharatiya Yuva Shakti	69	20	
+50	Rajasthan - Vidhyadhar Nagar	NARPAT SINGH RAJVI	Bharatiya Janata Party	95599	1	31232
+50	Rajasthan - Vidhyadhar Nagar	SITARAM AGARWAL	Indian National Congress	64367	2	31232
+50	Rajasthan - Vidhyadhar Nagar	VIKRAM SINGH SHEKHAWAT	Independent	50382	3	
+50	Rajasthan - Vidhyadhar Nagar	PAWAN KUMAR GOYAL	Bharat Vahini Party	3504	4	
+50	Rajasthan - Vidhyadhar Nagar	MADAN LAL BENIWAL	Bahujan Samaj Party	2601	5	
+50	Rajasthan - Vidhyadhar Nagar	None of the Above	None of the Above	1774	6	
+50	Rajasthan - Vidhyadhar Nagar	KAMAL KISHORE GUPTA	Aam Aadmi Party	1061	7	
+50	Rajasthan - Vidhyadhar Nagar	GAURAV SHARMA	Jago Party	822	8	
+50	Rajasthan - Vidhyadhar Nagar	INDER SINGH CHOUHAAN	Independent	790	9	
+50	Rajasthan - Vidhyadhar Nagar	ANITA SHEORAN	Rashtriya Atulya Yuva Party	667	10	
+50	Rajasthan - Vidhyadhar Nagar	SUSHIL KUMAR SINHA	Janata Dal (United)	588	11	
+50	Rajasthan - Vidhyadhar Nagar	SONU SINGH RATHORE	Bharatiya Yuva Shakti	522	12	
+50	Rajasthan - Vidhyadhar Nagar	DEVENDRA SINGH SAINI	Independent	482	13	
+50	Rajasthan - Vidhyadhar Nagar	VINOD KUMAR JANGID	Proutist Sarva Samaj	476	14	
+50	Rajasthan - Vidhyadhar Nagar	RAVI CHARAN	Independent	413	15	
+50	Rajasthan - Vidhyadhar Nagar	SHANKER LAL KUMAWAT	Bharatiya Jan Kranti Dal (Democratic)	397	16	
+50	Rajasthan - Vidhyadhar Nagar	GIRDHARI LAL RAIGAR	Ambedkarite Party of India	379	17	
+50	Rajasthan - Vidhyadhar Nagar	ANIL KUMAR SHARMA	Republican Party of India (A)	292	18	
+50	Rajasthan - Vidhyadhar Nagar	SANDEEP ROHILLA	Independent	255	19	
+50	Rajasthan - Vidhyadhar Nagar	BHAGWAN SINGH	Abhinav Rajasthan Party	212	20	
+50	Rajasthan - Vidhyadhar Nagar	KADAMBARI AGARWAL	Bhartiya Panchyat Party	132	21	
+50	Rajasthan - Vidhyadhar Nagar	MOIN KHAN	Independent	128	22	
+51	Rajasthan - Civil lines	PRATAP SINGH KHACHARIYAWAS	Indian National Congress	87937	1	18078
+51	Rajasthan - Civil lines	ARUN CHATURVEDI	Bharatiya Janata Party	69859	2	18078
+51	Rajasthan - Civil lines	None of the Above	None of the Above	1744	3	
+51	Rajasthan - Civil lines	GULAB CHAND	Bahujan Samaj Party	944	4	
+51	Rajasthan - Civil lines	JAY PRAKASH BUNAKAR	Independent	648	5	
+51	Rajasthan - Civil lines	RAHIS AHMAD	Independent	626	6	
+51	Rajasthan - Civil lines	DEVENDRA SHASTRI	Aam Aadmi Party	468	7	
+51	Rajasthan - Civil lines	SALIM	Independent	386	8	
+51	Rajasthan - Civil lines	KAILASH CHAND	Hindustan Janta Party	360	9	
+51	Rajasthan - Civil lines	SWETA SHARMA	Bharat Vahini Party	217	10	
+51	Rajasthan - Civil lines	KAILASH PALAWAT	Independent	150	11	
+51	Rajasthan - Civil lines	BHARAT LAL	Independent	148	12	
+51	Rajasthan - Civil lines	BHUPENDRA KUMAR GAUTAM	Ambedkarite Party of India	130	13	
+51	Rajasthan - Civil lines	MOH. SABIR	Independent	130	14	
+51	Rajasthan - Civil lines	RAJESH SHARMA	Bhartiya Panchyat Party	119	15	
+51	Rajasthan - Civil lines	ANITA SAXENA	Independent	116	16	
+51	Rajasthan - Civil lines	HIMANSHU SAINI	Republican Party of India (A)	114	17	
+51	Rajasthan - Civil lines	SANJEEV KUMAR GURJAR	Abhinav Rajasthan Party	107	18	
+51	Rajasthan - Civil lines	RAJENDRA MITTAL	Jago Party	68	19	
+52	Rajasthan - Kishan pole	AMIN KAGZI	Indian National Congress	71189	1	8770
+52	Rajasthan - Kishan pole	MOHAN LAL GUPTA	Bharatiya Janata Party	62419	2	8770
+52	Rajasthan - Kishan pole	LALCHAND (LALU) SARASAR	Independent	1104	3	
+52	Rajasthan - Kishan pole	SUDEEP JAIN BAGDA	Aam Aadmi Party	929	4	
+52	Rajasthan - Kishan pole	BHARAT SHARMA	Independent	914	5	
+52	Rajasthan - Kishan pole	None of the Above	None of the Above	754	6	
+52	Rajasthan - Kishan pole	MO. UMAR	Independent	688	7	
+52	Rajasthan - Kishan pole	SANJIV VERMA (SONI)	Communist Party of India	579	8	
+52	Rajasthan - Kishan pole	VISHNU JAISWAL	Bharat Vahini Party	557	9	
+52	Rajasthan - Kishan pole	KRISHAN KUMAR MAHARSHI	Independent	282	10	
+52	Rajasthan - Kishan pole	MOHAMMAD JAHANGIR	Independent	255	11	
+52	Rajasthan - Kishan pole	AZAM ALI KHAN	Independent	250	12	
+52	Rajasthan - Kishan pole	MOHAMMAD APHAROJ	Independent	224	13	
+52	Rajasthan - Kishan pole	CHARU GUPTA	National Unionist Zamindara Party	205	14	
+52	Rajasthan - Kishan pole	AABID HUSSAIN	Independent	201	15	
+52	Rajasthan - Kishan pole	NEETA MATHUR	Bharatiya Jan Kranti Dal (Democratic)	181	16	
+52	Rajasthan - Kishan pole	GAURAV JAIN	Independent	165	17	
+52	Rajasthan - Kishan pole	NARESH JAYSWAL	Independent	121	18	
+52	Rajasthan - Kishan pole	PAWAN	Independent	98	19	
+52	Rajasthan - Kishan pole	ALIMUDIN	Independent	97	20	
+52	Rajasthan - Kishan pole	SUNIL KUMAR	Dalit Soshit Pichhara Varg Adhikar Dal	91	21	
+52	Rajasthan - Kishan pole	RAFIK BHATI	Independent	91	22	
+52	Rajasthan - Kishan pole	HARISH BARI	Independent	90	23	
+52	Rajasthan - Kishan pole	PHAJAL AHMAD	Independent	88	24	
+52	Rajasthan - Kishan pole	RAKESH PAREEK	Independent	88	25	
+52	Rajasthan - Kishan pole	NAMAN SHARMA	Jago Party	73	26	
+52	Rajasthan - Kishan pole	MUKESH KUMAR SHARMA	Independent	71	27	
+52	Rajasthan - Kishan pole	ABDUL HAMEED AKRAM	Panch Party	70	28	
+52	Rajasthan - Kishan pole	SHANKAR LAL TIKKIWAL	Independent	60	29	
+52	Rajasthan - Kishan pole	BHAGCHAND	Independent	54	30	
+52	Rajasthan - Kishan pole	MANJU KHAN	Independent	52	31	
+52	Rajasthan - Kishan pole	CHAND	Independent	47	32	
+52	Rajasthan - Kishan pole	ARUN PARASHAR	Bharatiya Yuva Shakti	47	33	
+52	Rajasthan - Kishan pole	MO. AKRAM	Independent	43	34	
+52	Rajasthan - Kishan pole	RAJESH GUPTA	Independent	41	35	
+52	Rajasthan - Kishan pole	JAMIL AHAMAD	Independent	39	36	
+52	Rajasthan - Kishan pole	SATYAJIT SINHA	Independent	35	37	
+52	Rajasthan - Kishan pole	MANISH KUMAR CHAWARIYA	Independent	32	38	
+52	Rajasthan - Kishan pole	NAFEES KHAN	Independent	30	39	
+52	Rajasthan - Kishan pole	VINOD SHARMA	Independent	27	40	
+52	Rajasthan - Kishan pole	DEEPAK LALWANI	Independent	26	41	
+52	Rajasthan - Kishan pole	HARISH KUMAR	Independent	24	42	
+52	Rajasthan - Kishan pole	SHAKIL QURESHI	Independent	23	43	
+52	Rajasthan - Kishan pole	BABU KHAN MANYAR	Independent	21	44	
+52	Rajasthan - Kishan pole	RAMSWARUP	Independent	17	45	
+52	Rajasthan - Kishan pole	SADIK	Independent	10	46	
+52	Rajasthan - Kishan pole	SHAMIM KHAN	Independent	7	47	
+53	Rajasthan - Adarsh Nagar	RAFEEK KHAN	Indian National Congress	88541	1	12553
+53	Rajasthan - Adarsh Nagar	ASHOK PARNAMI	Bharatiya Janata Party	75988	2	12553
+53	Rajasthan - Adarsh Nagar	None of the Above	None of the Above	1493	3	
+53	Rajasthan - Adarsh Nagar	SANDEEP SHARMA	Independent	1280	4	
+53	Rajasthan - Adarsh Nagar	JITENDRA KUMAR HATWAL	Aam Aadmi Party	1247	5	
+53	Rajasthan - Adarsh Nagar	KRISHAN KISHORE	Independent	1067	6	
+53	Rajasthan - Adarsh Nagar	PAWAN GAUR	Independent	865	7	
+53	Rajasthan - Adarsh Nagar	BABA ASHFAKUDDIN QURESHI	Independent	670	8	
+53	Rajasthan - Adarsh Nagar	FARMIDA BANO	Independent	634	9	
+53	Rajasthan - Adarsh Nagar	SANWAR LAL SHARMA	Bahujan Samaj Party	618	10	
+53	Rajasthan - Adarsh Nagar	INDER KUMAR CHOPRA	Bharat Vahini Party	174	11	
+53	Rajasthan - Adarsh Nagar	AMIT VYAS	Independent	165	12	
+53	Rajasthan - Adarsh Nagar	MOHASIN QURESHI	Independent	163	13	
+53	Rajasthan - Adarsh Nagar	LALCHAND SAINI	Independent	120	14	
+53	Rajasthan - Adarsh Nagar	MOHAMMAD NADEEM	Independent	114	15	
+53	Rajasthan - Adarsh Nagar	SHAKIL	Independent	113	16	
+53	Rajasthan - Adarsh Nagar	BADAMI DEVI	Independent	94	17	
+53	Rajasthan - Adarsh Nagar	MO. ABDULLA	Independent	88	18	
+53	Rajasthan - Adarsh Nagar	ABDUL SAEED	Indian Peoples Green Party	86	19	
+53	Rajasthan - Adarsh Nagar	AHSAN AHMAD ANSARI	Rashtriya Loktantrik Party	86	20	
+53	Rajasthan - Adarsh Nagar	ABDUL AZIZ (BABBIE)	Independent	85	21	
+53	Rajasthan - Adarsh Nagar	INDERJEET KAUL	Shiv Sena	82	22	
+53	Rajasthan - Adarsh Nagar	YOGESH SHARMA	Independent	82	23	
+53	Rajasthan - Adarsh Nagar	NRASINGH PANDEY	Bharatiya Yuva Shakti	68	24	
+53	Rajasthan - Adarsh Nagar	SHAHABUDDIN	Bhartiya Panchyat Party	65	25	
+53	Rajasthan - Adarsh Nagar	MOINUDIN	Independent	65	26	
+53	Rajasthan - Adarsh Nagar	RIAZUDDIN	Independent	63	27	
+53	Rajasthan - Adarsh Nagar	MUJEEB KHAN	Jago Party	60	28	
+53	Rajasthan - Adarsh Nagar	WASIM AHMAD	Independent	59	29	
+53	Rajasthan - Adarsh Nagar	BADRI SINGH	Independent	46	30	
+53	Rajasthan - Adarsh Nagar	RAJNEESH GAUR	Independent	45	31	
+53	Rajasthan - Adarsh Nagar	RAJENDRA KUMAR BASWALA	Independent	45	32	
+54	Rajasthan - Malviya Nagar	KALICHARAN SARAF	Bharatiya Janata Party	70221	1	1704
+54	Rajasthan - Malviya Nagar	DR. ARCHANA SHARMA	Indian National Congress	68517	2	1704
+54	Rajasthan - Malviya Nagar	None of the Above	None of the Above	2371	3	
+54	Rajasthan - Malviya Nagar	DR. BHARAT LAL GUPTA	Aam Aadmi Party	888	4	
+54	Rajasthan - Malviya Nagar	SAROJ BAIRWA	Bahujan Samaj Party	619	5	
+54	Rajasthan - Malviya Nagar	DINESH MITTAL	Independent	485	6	
+54	Rajasthan - Malviya Nagar	RAJESH KUMAR SHARMA	Independent	471	7	
+54	Rajasthan - Malviya Nagar	ABHISHEK SANGHI ALIAS BITTU JAIN	Independent	295	8	
+54	Rajasthan - Malviya Nagar	PRADEEP KUMAR	Republican Party of India (A)	211	9	
+54	Rajasthan - Malviya Nagar	SHANKAR LAL AGARWAL	Independent	211	10	
+54	Rajasthan - Malviya Nagar	KAPUR CHANDRA	Independent	191	11	
+54	Rajasthan - Malviya Nagar	KAPOOR CHAND BAIRWA	Independent	176	12	
+54	Rajasthan - Malviya Nagar	ALOK GUPTA	Bharat Vahini Party	173	13	
+54	Rajasthan - Malviya Nagar	BHAGWAN DAS ALIAS NARESH SARSOP	Janata Dal (United)	161	14	
+54	Rajasthan - Malviya Nagar	SANGRAM SINGH NATHAWAT	Independent	130	15	
+54	Rajasthan - Malviya Nagar	TRILOK TIWARI	Jago Party	124	16	
+54	Rajasthan - Malviya Nagar	RAVI KUMAR VERMA (MEGHWAL)	Ambedkarite Party of India	112	17	
+54	Rajasthan - Malviya Nagar	SAMAY SINGH	Bhartiya Kisan Party	93	18	
+54	Rajasthan - Malviya Nagar	HARISH BAIRWA	Independent	84	19	
+54	Rajasthan - Malviya Nagar	SUKHDEV SHARMA	Independent	78	20	
+54	Rajasthan - Malviya Nagar	KANHAIYA LAKHERA	Bharatiya Yuva Shakti	66	21	
+54	Rajasthan - Malviya Nagar	SHILA CHOUDHARY	Peoples Party of India (Democratic)	62	22	
+54	Rajasthan - Malviya Nagar	DR. SANTOSH KUMAR AGARWAL	Independent	42	23	
+55	Rajasthan - Sanganer	ASHOK LAHOTY	Bharatiya Janata Party	107947	1	35405
+55	Rajasthan - Sanganer	PUSHPENDRA BHARDWAJ	Indian National Congress	72542	2	35405
+55	Rajasthan - Sanganer	GHANSHYAM TIWARI	Bharat Vahini Party	17371	3	
+55	Rajasthan - Sanganer	None of the Above	None of the Above	2325	4	
+55	Rajasthan - Sanganer	RAMESH PRAJAPAT	Dalit Soshit Pichhara Varg Adhikar Dal	1081	5	
+55	Rajasthan - Sanganer	JAWAHAR SHARMA	Aam Aadmi Party	1010	6	
+55	Rajasthan - Sanganer	RAVI PRAKASH	Hindustan Shakti Sena	1009	7	
+55	Rajasthan - Sanganer	RAMESH CHANDRA MATHUR	Independent	794	8	
+55	Rajasthan - Sanganer	SITARAM SIGHADIA	Bahujan Samaj Party	779	9	
+55	Rajasthan - Sanganer	DR. M.P. GOYAL	Bharatiya Rashtravadi Samanta Party	773	10	
+55	Rajasthan - Sanganer	GAJANAND GUPTA	Abhinav Rajasthan Party	584	11	
+55	Rajasthan - Sanganer	MUKESH KUMAR SHARMA	Indian Peoples Green Party	365	12	
+55	Rajasthan - Sanganer	SURESH SAINI	Independent	349	13	
+55	Rajasthan - Sanganer	RAMAVTAR SAINI	Bhartiya Jan Satta Party	303	14	
+55	Rajasthan - Sanganer	SUNIL SHARMA	Jago Party	213	15	
+55	Rajasthan - Sanganer	BADRI PRASAD DHAKA	Swaraj India	209	16	
+55	Rajasthan - Sanganer	KRISHANDEEP	Sarvshakti Dal	191	17	
+55	Rajasthan - Sanganer	DR.LILA VYAS	Independent	170	18	
+55	Rajasthan - Sanganer	PARVEEN BANO	Communist Party of India (Marxist-Leninist) (Liberation)	169	19	
+55	Rajasthan - Sanganer	ABHINAV CHATURVEDI	Naya Bharat Party	157	20	
+55	Rajasthan - Sanganer	GULSHAN BAGHLA	Bhartiya Panchyat Party	153	21	
+55	Rajasthan - Sanganer	VISHRAM SINGH MEENA	Peoples Party of India (Democratic)	152	22	
+55	Rajasthan - Sanganer	KALU RAM SAHU	Shiv Sena	152	23	
+55	Rajasthan - Sanganer	RAMLAL DHANKA	Independent	144	24	
+55	Rajasthan - Sanganer	AMAR SINGH CHOUDHARY	Bhartiya Jan Hitkari Party	134	25	
+55	Rajasthan - Sanganer	CHANDRAVEER SINGH RAJAWAT	Independent	122	26	
+55	Rajasthan - Sanganer	SURENDRA KUMAWAT	Independent	121	27	
+55	Rajasthan - Sanganer	GYANENDRA TIWARI	Nationalist People's Front	100	28	
+55	Rajasthan - Sanganer	BABITA WADHWANI	Independent	88	29	
+55	Rajasthan - Sanganer	KAILASH KHANDELWAL	Independent	65	30	
+56	Rajasthan - Bagru	GANGA DEVI	Indian National Congress	96635	1	5343
+56	Rajasthan - Bagru	KAILASH CHAND VERMA	Bharatiya Janata Party	91292	2	5343
+56	Rajasthan - Bagru	DINESH RAI BHATI	Rashtriya Loktantrik Party	15796	3	
+56	Rajasthan - Bagru	None of the Above	None of the Above	4203	4	
+56	Rajasthan - Bagru	K.L.PANWAR	Bahujan Samaj Party	1590	5	
+56	Rajasthan - Bagru	MAHESH NARANIA	Independent	1202	6	
+56	Rajasthan - Bagru	JAGDISH PRASAD NAINAWAT	Aam Aadmi Party	971	7	
+56	Rajasthan - Bagru	TEEKAM CHAND	Bharatiya Yuva Shakti	715	8	
+56	Rajasthan - Bagru	DOLAT RAM	Janata Dal (United)	671	9	
+56	Rajasthan - Bagru	GOMA SAGAR RAIGAR	Independent	612	10	
+56	Rajasthan - Bagru	MUKESH KUMAR MAHARDA	Bharat Vahini Party	571	11	
+56	Rajasthan - Bagru	YOGESH	Bharatiya Rashtravadi Samanta Party	455	12	
+56	Rajasthan - Bagru	HIMANSHU VERMA	Abhinav Rajasthan Party	331	13	
+56	Rajasthan - Bagru	RAVI VEDWAL	Peoples Party of India (Democratic)	313	14	
+56	Rajasthan - Bagru	MEGH LAL	Republican Party of India (A)	302	15	
+56	Rajasthan - Bagru	BHANU KHORWAL	Indian Peoples Green Party	186	16	
+57	Rajasthan - Bassi	LAXMAN MEENA	Independent	79878	1	42764
+57	Rajasthan - Bassi	KANHAIYALAL	Bharatiya Janata Party	37114	2	42764
+57	Rajasthan - Bassi	ANJU DEVI DHANKA	Independent	25207	3	
+57	Rajasthan - Bassi	DAULAT SINGH MEENA	Indian National Congress	15626	4	
+57	Rajasthan - Bassi	AVANTI MEENA	Independent	2197	5	
+57	Rajasthan - Bassi	RAKESH KUMAR	Bahujan Samaj Party	1994	6	
+57	Rajasthan - Bassi	None of the Above	None of the Above	1558	7	
+57	Rajasthan - Bassi	RAMSWAROOP MEENA	Independent	1310	8	
+57	Rajasthan - Bassi	RAJENDRA KUMAR MEENA	Rashtriya Loktantrik Party	902	9	
+57	Rajasthan - Bassi	LADU RAM HOTALA	Independent	810	10	
+57	Rajasthan - Bassi	DHAN SINGH	Jan Adhikar Party	682	11	
+57	Rajasthan - Bassi	SANGRAM SINGH BHEEL	Bharatiya Rashtravadi Samanta Party	447	12	
+57	Rajasthan - Bassi	PREM DEVI	Ambedkarite Party of India	380	13	
+57	Rajasthan - Bassi	SHEELA MEENA	Bharat Vahini Party	314	14	
+57	Rajasthan - Bassi	RAJESH KUMAR MEENA	Nationalist People's Front	197	15	
+57	Rajasthan - Bassi	RAMPRAKASH MEENA	Aam Aadmi Party	142	16	
+58	Rajasthan - Chaksu	VED PRAKASH SOLANKI	Indian National Congress	70007	1	3431
+58	Rajasthan - Chaksu	RAMAVATAR BAIRWA	Bharatiya Janata Party	66576	2	3431
+58	Rajasthan - Chaksu	HEMANT VIJAY	Rashtriya Loktantrik Party	16706	3	
+58	Rajasthan - Chaksu	None of the Above	None of the Above	1893	4	
+58	Rajasthan - Chaksu	JEETRAM BAIRWA	Ambedkarite Party of India	1695	5	
+58	Rajasthan - Chaksu	SHRIKANT KAUSHAL	Bharatiya Yuva Shakti	1252	6	
+58	Rajasthan - Chaksu	RAJESH KUMAR BAIRWA	Aam Aadmi Party	748	7	
+59	Rajasthan - Tijara	SANDEEP KUMAR	Bahujan Samaj Party	59468	1	4457
+59	Rajasthan - Tijara	AIMADUDDIN AHMAD KHAN URF DURRU MIAN	Indian National Congress	55011	2	4457
+59	Rajasthan - Tijara	SANDEEP DAYMA	Bharatiya Janata Party	41345	3	
+59	Rajasthan - Tijara	FAZAL HUSSAIN	Samajwadi Party	22189	4	
+59	Rajasthan - Tijara	RAMVIR AHIRWAL	Independent	1977	5	
+59	Rajasthan - Tijara	None of the Above	None of the Above	856	6	
+59	Rajasthan - Tijara	MUKESH KUMAR	Aam Aadmi Party	616	7	
+59	Rajasthan - Tijara	HOSIYAR	Independent	519	8	
+59	Rajasthan - Tijara	AMEEN	Bharatiya Yuva Shakti	315	9	
+59	Rajasthan - Tijara	SURENDRA	Loktantrik Janta Dal	270	10	
+59	Rajasthan - Tijara	SARITA SINGH	Akhand Samta Party	256	11	
+59	Rajasthan - Tijara	JAGMAL SINGH	Independent	248	12	
+59	Rajasthan - Tijara	RAMKRIPAL YADAV	Independent	195	13	
+59	Rajasthan - Tijara	LAXMI	Rashtriya Loktantrik Party	179	14	
+59	Rajasthan - Tijara	SAHID HUSSAIN	Abhinav Rajasthan Party	84	15	
+60	Rajasthan - Kishangarh bas	DEEPCHAND	Bahujan Samaj Party	73799	1	9916
+60	Rajasthan - Kishangarh bas	RAMHET SINGH YADAV	Bharatiya Janata Party	63883	2	9916
+60	Rajasthan - Kishangarh bas	DR. KARAN SINGH YADAV	Indian National Congress	39033	3	
+60	Rajasthan - Kishangarh bas	None of the Above	None of the Above	980	4	
+60	Rajasthan - Kishangarh bas	JAGDISH CHANDRA	Abhinav Rajasthan Party	691	5	
+60	Rajasthan - Kishangarh bas	SUBEDIN	Aam Aadmi Party	680	6	
+60	Rajasthan - Kishangarh bas	SAHABUDDIN KHAN	Bharatiya Yuva Shakti	424	7	
+61	Rajasthan - Mundawar	MANJEET DHARAMPAL CHOUDHARY	Bharatiya Janata Party	73191	1	17602
+61	Rajasthan - Mundawar	LALIT YADAV	Bahujan Samaj Party	55589	2	17602
+61	Rajasthan - Mundawar	BHARAT YADAV	Loktantrik Janta Dal	21852	3	
+61	Rajasthan - Mundawar	ROHITASH	Independent	1608	4	
+61	Rajasthan - Mundawar	SHISHRAM CHHAWDY	Independent	1392	5	
+61	Rajasthan - Mundawar	SANJAY SINGH	Akhand Samta Party	1392	6	
+61	Rajasthan - Mundawar	DR. RAKESH KUMAR JAT	Independent	828	7	
+61	Rajasthan - Mundawar	JAYVEER SINGH CHOUHAN	Independent	598	8	
+61	Rajasthan - Mundawar	ARUN KUMAR	Bhartiya Panchyat Party	579	9	
+61	Rajasthan - Mundawar	RAJU	Independent	561	10	
+61	Rajasthan - Mundawar	SURESH KUMAR	Independent	549	11	
+61	Rajasthan - Mundawar	None of the Above	None of the Above	400	12	
+61	Rajasthan - Mundawar	RAMNATH MEGHWAL	Ambedkarite Party of India	328	13	
+61	Rajasthan - Mundawar	AMAR PAL SINGH	Independent	326	14	
+61	Rajasthan - Mundawar	SURAJBHAN YADAV	Independent	265	15	
+61	Rajasthan - Mundawar	BHUPENDRA SINGH	Nationalist People's Front	264	16	
+61	Rajasthan - Mundawar	HARISINGH SHARMA	Independent	258	17	
+61	Rajasthan - Mundawar	KAMALJEET	Aam Aadmi Party	241	18	
+61	Rajasthan - Mundawar	VIJAY KUMAR	Republican Party of India (A)	180	19	
+61	Rajasthan - Mundawar	JAKIR HUSAIN	Bharatiya Yuva Shakti	164	20	
+61	Rajasthan - Mundawar	ANAND YADAV	Independent	145	21	
+61	Rajasthan - Mundawar	ANIL KUMAR SINDHI	Independent	144	22	
+61	Rajasthan - Mundawar	SHANTANU KUMAR	Bharat Vahini Party	64	23	
+62	Rajasthan - Behror	BALJEET YADAV	Independent	55160	1	3836
+62	Rajasthan - Behror	RAMCHANDRA YADAV	Indian National Congress	51324	2	3836
+62	Rajasthan - Behror	MOHIT YADAV	Bharatiya Janata Party	37755	3	
+62	Rajasthan - Behror	JASRAM	Bahujan Samaj Party	12433	4	
+62	Rajasthan - Behror	None of the Above	None of the Above	1246	5	
+62	Rajasthan - Behror	ASHA	Aam Aadmi Party	842	6	
+62	Rajasthan - Behror	KHAMOSH DEVI	Independent	823	7	
+62	Rajasthan - Behror	MUKESH KUMAR SHARMA	Bharat Vahini Party	724	8	
+62	Rajasthan - Behror	MAHENDRA SINGH	Janata Dal (United)	378	9	
+62	Rajasthan - Behror	GAJRAJ SINGH YADAV	Abhinav Rajasthan Party	252	10	
+63	Rajasthan - Bansur	SHAKUNTALA RAWAT	Indian National Congress	65656	1	17920
+63	Rajasthan - Bansur	DEVI SINGH SHEKHAWAT	Independent	47736	2	17920
+63	Rajasthan - Bansur	MAHENDRA KUMAR YADAV	Bharatiya Janata Party	44226	3	
+63	Rajasthan - Bansur	MUKESH	Samajwadi Party	3122	4	
+63	Rajasthan - Bansur	None of the Above	None of the Above	1966	5	
+63	Rajasthan - Bansur	OMPRAKASH	Bahujan Samaj Party	1442	6	
+63	Rajasthan - Bansur	JALE SINGH	Independent	1426	7	
+63	Rajasthan - Bansur	OMPRAKASH GURJAR	Abhinav Rajasthan Party	992	8	
+63	Rajasthan - Bansur	MEERA BAI	Rashtriya Loktantrik Party	556	9	
+63	Rajasthan - Bansur	ASHOK SINGH CHAUHAN	Independent	457	10	
+63	Rajasthan - Bansur	KULDEEP SHARMA	Bharat Vahini Party	312	11	
+63	Rajasthan - Bansur	POORAN MAL GURJAR	Nationalist People's Front	305	12	
+63	Rajasthan - Bansur	GHANSHYAM	Loktantrik Janta Dal	255	13	
+64	Rajasthan - Thanagazi	KANTI PRASAD	Independent	64079	1	29350
+64	Rajasthan - Thanagazi	HEM SINGH	Independent	34729	2	29350
+64	Rajasthan - Thanagazi	ROHITASH KUMAR	Bharatiya Janata Party	22735	3	
+64	Rajasthan - Thanagazi	SUNIL KUMAR	Indian National Congress	22637	4	
+64	Rajasthan - Thanagazi	KULDEEP SHARMA	Independent	4702	5	
+64	Rajasthan - Thanagazi	RAM CHARAN KOLI	Independent	1565	6	
+64	Rajasthan - Thanagazi	KAILASH	Bahujan Samaj Party	1309	7	
+64	Rajasthan - Thanagazi	None of the Above	None of the Above	1278	8	
+64	Rajasthan - Thanagazi	MANISH JAIN	Aam Aadmi Party	1033	9	
+64	Rajasthan - Thanagazi	DR. MADAN RAJORIA	Bahujan Mukti Party	975	10	
+64	Rajasthan - Thanagazi	NIRMAL PRASHAD	Bharat Vahini Party	530	11	
+64	Rajasthan - Thanagazi	BABULAL MEENA	Bharatiya Yuva Shakti	366	12	
+65	Rajasthan - Alwar Rural	TIKA RAM JULLY	Indian National Congress	85752	1	26477
+65	Rajasthan - Alwar Rural	MASTER RAMKISHAN	Bharatiya Janata Party	59275	2	26477
+65	Rajasthan - Alwar Rural	RINKY VERMA	Bahujan Samaj Party	25379	3	
+65	Rajasthan - Alwar Rural	None of the Above	None of the Above	1236	4	
+65	Rajasthan - Alwar Rural	BISHAN LAL	Independent	491	5	
+65	Rajasthan - Alwar Rural	SAWAINATH SAPERA	Bharatiya Rashtravadi Samanta Party	470	6	
+65	Rajasthan - Alwar Rural	RAJENDRA PRASAD DOCHANIA	Independent	439	7	
+65	Rajasthan - Alwar Rural	MANISH	Aam Aadmi Party	313	8	
+65	Rajasthan - Alwar Rural	RAMBABU BASWAL (KHATIK)	Bharatiya Yuva Shakti	275	9	
+65	Rajasthan - Alwar Rural	KANHAIYA LAL JATAV	Bharat Vahini Party	249	10	
+65	Rajasthan - Alwar Rural	MASTER SHYAM LAL	Samajwadi Party	208	11	
+65	Rajasthan - Alwar Rural	JEETU JATAV	Lok Jan Shakti Party	159	12	
+65	Rajasthan - Alwar Rural	PREM CHAND JATAV	Shiv Sena	157	13	
+65	Rajasthan - Alwar Rural	DIPENDRA ARYA	Abhinav Rajasthan Party	103	14	
+66	Rajasthan - Alwar Urban	SANJAY SHARMA	Bharatiya Janata Party	85041	1	22008
+66	Rajasthan - Alwar Urban	SHWETA SAINI	Indian National Congress	63033	2	22008
+66	Rajasthan - Alwar Urban	TARA SINGH	Bahujan Samaj Party	6370	3	
+66	Rajasthan - Alwar Urban	AJAY KUMAR PUNIYA	Aam Aadmi Party	3507	4	
+66	Rajasthan - Alwar Urban	NAVJOT SINGH BHAMLOT	Abhinav Rajasthan Party	2706	5	
+66	Rajasthan - Alwar Urban	C.A. SHRIKISHAN GUPTA	Shiv Sena	1727	6	
+66	Rajasthan - Alwar Urban	None of the Above	None of the Above	1081	7	
+66	Rajasthan - Alwar Urban	TEJPAL SAINI	Communist Party of India	738	8	
+66	Rajasthan - Alwar Urban	KAPIL JASAIWAL	Independent	513	9	
+66	Rajasthan - Alwar Urban	BHAGCHAND	Akhil Bharat Hindu Mahasabha	490	10	
+66	Rajasthan - Alwar Urban	AMAR CHAND MINA	Independent	478	11	
+66	Rajasthan - Alwar Urban	RAMESH CHAND SINGHAL	National Unionist Zamindara Party	341	12	
+66	Rajasthan - Alwar Urban	ANAND KUMAR SAIN	Independent	259	13	
+66	Rajasthan - Alwar Urban	RAJAN GUPTA	Bharat Vahini Party	243	14	
+66	Rajasthan - Alwar Urban	RAHUL KUMAR GUPTA	Independent	167	15	
+66	Rajasthan - Alwar Urban	PREM KUMAR VERMA	Ambedkarite Party of India	160	16	
+66	Rajasthan - Alwar Urban	SHOBHARAM	Bharatiya Yuva Shakti	120	17	
+66	Rajasthan - Alwar Urban	MAHESH CHAND SHARMA	Jago Party	74	18	
+68	Rajasthan - Rajgarh laxmangarh	JOHARI LAL MEENA	Indian National Congress	82876	1	30298
+68	Rajasthan - Rajgarh laxmangarh	VIJAY SAMARTH LAL	Bharatiya Janata Party	52578	2	30298
+68	Rajasthan - Rajgarh laxmangarh	BANNA RAM MEENA	Bahujan Samaj Party	28199	3	
+68	Rajasthan - Rajgarh laxmangarh	SURAJ BHAN DHANKA	Samajwadi Party	2464	4	
+68	Rajasthan - Rajgarh laxmangarh	None of the Above	None of the Above	1222	5	
+68	Rajasthan - Rajgarh laxmangarh	LAXMINARAYAN	Independent	1173	6	
+68	Rajasthan - Rajgarh laxmangarh	MEENAKSHI MEENA	Bharatiya Rashtravadi Samanta Party	544	7	
+68	Rajasthan - Rajgarh laxmangarh	JASRAM MEENA JHALATALA	Bharatiya Yuva Shakti	492	8	
+68	Rajasthan - Rajgarh laxmangarh	MAHENDER MEENA	Aam Aadmi Party	390	9	
+68	Rajasthan - Rajgarh laxmangarh	RAMOTAR MEENA	Independent	386	10	
+68	Rajasthan - Rajgarh laxmangarh	BEENA DEVI	Nationalist People's Front	173	11	
+68	Rajasthan - Rajgarh laxmangarh	DHARM SINGH DHANKA	Gondvana Gantantra Party	151	12	
+69	Rajasthan - Kathumar	BABULAL	Indian National Congress	54110	1	14168
+69	Rajasthan - Kathumar	BABULAL MANAGER	Bharatiya Janata Party	39942	2	14168
+69	Rajasthan - Kathumar	RAMESH KHINCHI	Independent	32916	3	
+69	Rajasthan - Kathumar	NARSEE KUMAR KIRAD	Rashtriya Loktantrik Party	10846	4	
+69	Rajasthan - Kathumar	ISWAR SINGH	Bahujan Samaj Party	2332	5	
+69	Rajasthan - Kathumar	ROOP NARAIN NAGAR	Independent	1626	6	
+69	Rajasthan - Kathumar	BABULAL	Independent	1304	7	
+69	Rajasthan - Kathumar	None of the Above	None of the Above	1071	8	
+69	Rajasthan - Kathumar	MONU RAM KOLI	Bharatiya Rashtravadi Samanta Party	628	9	
+69	Rajasthan - Kathumar	GIRVAR SINGH	Bharatiya Yuva Shakti	615	10	
+69	Rajasthan - Kathumar	VINOD	Ambedkarite Party of India	232	11	
+70	Rajasthan - Kaman	ZAHIDA KHAN	Indian National Congress	110789	1	39621
+70	Rajasthan - Kaman	JAWAHAR SINGH BEADHAM	Bharatiya Janata Party	71168	2	39621
+70	Rajasthan - Kaman	ISHWARI DAYAL	Bahujan Samaj Party	3808	3	
+70	Rajasthan - Kaman	MAKSOOD KHAN	Independent	1907	4	
+70	Rajasthan - Kaman	None of the Above	None of the Above	1127	5	
+70	Rajasthan - Kaman	BAL KISHAN	Aam Aadmi Party	897	6	
+70	Rajasthan - Kaman	RAMESH CHAND KHURANA	Independent	503	7	
+70	Rajasthan - Kaman	JAIKAM ALI	Independent	258	8	
+70	Rajasthan - Kaman	RAKESH KUMAR	Loktantrik Janta Dal	187	9	
+70	Rajasthan - Kaman	ANAAND SWAROOP	Independent	132	10	
+70	Rajasthan - Kaman	SHYAM SUNDAR URF SHYAM	Bharatiya Yuva Shakti	102	11	
+71	Rajasthan - Nagar	WAJIB ALI	Bahujan Samaj Party	62644	1	25467
+71	Rajasthan - Nagar	NEM SINGH	Samajwadi Party	37177	2	25467
+71	Rajasthan - Nagar	ANITA SINGH	Bharatiya Janata Party	34946	3	
+71	Rajasthan - Nagar	MURARI LAL	Indian National Congress	31678	4	
+71	Rajasthan - Nagar	TEK CHAND	Loktantrik Janta Dal	1274	5	
+71	Rajasthan - Nagar	None of the Above	None of the Above	1034	6	
+71	Rajasthan - Nagar	MAHAVEER	Ambedkarite Party of India	780	7	
+71	Rajasthan - Nagar	RAVI KUMAR	Independent	723	8	
+71	Rajasthan - Nagar	RAMESHWAR SINGH	Independent	273	9	
+71	Rajasthan - Nagar	PREM CHAND	Abhinav Rajasthan Party	250	10	
+71	Rajasthan - Nagar	BISHAMBAR DAYAL	Independent	214	11	
+71	Rajasthan - Nagar	SANTRAM	Bharatiya Yuva Shakti	170	12	
+72	Rajasthan - Deeg-kumher	VISHVENDRA SINGH	Indian National Congress	73730	1	8218
+72	Rajasthan - Deeg-kumher	DR. SHAILESH SINGH	Bharatiya Janata Party	65512	2	8218
+72	Rajasthan - Deeg-kumher	PRATAP SINGH SINSINWAR MAHARAWAR	Bahujan Samaj Party	20026	3	
+72	Rajasthan - Deeg-kumher	None of the Above	None of the Above	1081	4	
+72	Rajasthan - Deeg-kumher	SURENDRA SINGH	Independent	622	5	
+72	Rajasthan - Deeg-kumher	CHANDRAPAL	Aam Aadmi Party	472	6	
+72	Rajasthan - Deeg-kumher	OMVATI	Independent	416	7	
+72	Rajasthan - Deeg-kumher	OMPRKASH	Independent	158	8	
+72	Rajasthan - Deeg-kumher	VIKRAM SINGH HAVALDAR	Khushhal Kisan Party	140	9	
+72	Rajasthan - Deeg-kumher	LOKENDRA KUMAR	Bharatiya Rashtravadi Samanta Party	128	10	
+72	Rajasthan - Deeg-kumher	HARIOM	Bharatiya Yuva Shakti	90	11	
+73	Rajasthan - Bharatpur	DR. SUBHASH GARG	Rashtriya Lok Dal	52869	1	15710
+73	Rajasthan - Bharatpur	VIJAY BANSAL(PAPPU BANDA)	Bharatiya Janata Party	37159	2	15710
+73	Rajasthan - Bharatpur	GIRDHARI TIWARI	Bharat Vahini Party	35407	3	
+73	Rajasthan - Bharatpur	DALVEER SINGH	Independent	24258	4	
+73	Rajasthan - Bharatpur	JASVEER SINGH	Bahujan Samaj Party	15018	5	
+73	Rajasthan - Bharatpur	SANJEEV GUPTA	Aam Aadmi Party	2169	6	
+73	Rajasthan - Bharatpur	UDAI SINGH	Shiv Sena	1296	7	
+73	Rajasthan - Bharatpur	DR. RITU CHOUDHARY	Independent	962	8	
+73	Rajasthan - Bharatpur	DINESH	Independent	829	9	
+73	Rajasthan - Bharatpur	None of the Above	None of the Above	686	10	
+73	Rajasthan - Bharatpur	SHEETAL PRASHAD SHARMA	Independent	576	11	
+73	Rajasthan - Bharatpur	MAHENDRA SINGH	Ambedkarite Party of India	352	12	
+73	Rajasthan - Bharatpur	TRILOK CHAND	Independent	333	13	
+73	Rajasthan - Bharatpur	JAILAL VARMA	Independent	328	14	
+73	Rajasthan - Bharatpur	TEJ SINGH	Dalit Kranti Dal	326	15	
+73	Rajasthan - Bharatpur	POORAN SINGH	Independent	325	16	
+73	Rajasthan - Bharatpur	PRIYANKA	Bharatiya Yuva Shakti	301	17	
+73	Rajasthan - Bharatpur	YOGESH	Loktantrik Janta Dal	248	18	
+73	Rajasthan - Bharatpur	SANJAY KASHMIRIYA	Independent	209	19	
+73	Rajasthan - Bharatpur	HAJARI LAL SHARMA	Independent	101	20	
+74	Rajasthan - Nadbai	JOGINDER SINGH AWANA	Bahujan Samaj Party	50976	1	4094
+74	Rajasthan - Nadbai	KRISHNENDRA KAUR (DEEPA)	Bharatiya Janata Party	46882	2	4094
+74	Rajasthan - Nadbai	DR. HIMANSHU KATARA	Indian National Congress	38136	3	
+74	Rajasthan - Nadbai	KHAIM KARAN SINGH TOULI	Independent	29529	4	
+74	Rajasthan - Nadbai	AJAY KATARA	Independent	6399	5	
+74	Rajasthan - Nadbai	VIJENDRA SINGH DESHWAL	Rashtriya Loktantrik Party	4845	6	
+74	Rajasthan - Nadbai	None of the Above	None of the Above	1214	7	
+74	Rajasthan - Nadbai	RAJVEER SINGH	Khushhal Kisan Party	1113	8	
+74	Rajasthan - Nadbai	MANPAL SINGH	Independent	675	9	
+74	Rajasthan - Nadbai	DHEERAJ PARASHAR	Independent	631	10	
+74	Rajasthan - Nadbai	SURJEET SINGH (CHHUTTAN DON)	Shiv Sena	301	11	
+74	Rajasthan - Nadbai	RADHA DEVI	Bharatiya Yuva Shakti	284	12	
+75	Rajasthan - Weir	BHAJAN LAL JATAV	Indian National Congress	78716	1	15283
+75	Rajasthan - Weir	RAMSWAROOP KOLI	Bharatiya Janata Party	63433	2	15283
+75	Rajasthan - Weir	ATARSINGH PAGARIA	Bahujan Samaj Party	21985	3	
+75	Rajasthan - Weir	None of the Above	None of the Above	1356	4	
+75	Rajasthan - Weir	DR. BHUPAL CHAND KOLI	Bharatiya Rashtravadi Samanta Party	1140	5	
+75	Rajasthan - Weir	RAMCHARAN	Independent	579	6	
+76	Rajasthan - Bayana	AMAR SINGH	Indian National Congress	86962	1	6695
+76	Rajasthan - Bayana	DR. RITU BANAWAT	Bharatiya Janata Party	80267	2	6695
+76	Rajasthan - Bayana	SUNIL KUMAR	Bahujan Samaj Party	3054	3	
+76	Rajasthan - Bayana	None of the Above	None of the Above	1253	4	
+76	Rajasthan - Bayana	MISHRI PRASAD KOLI	Independent	582	5	
+76	Rajasthan - Bayana	MAHESH CHANDRA VALMEKI	Bharatiya Rashtravadi Samanta Party	215	6	
+76	Rajasthan - Bayana	PREM SINGH	Bharatiya Yuva Shakti	195	7	
+76	Rajasthan - Bayana	VISHNU KUMAR	Dalit Kranti Dal	192	8	
+76	Rajasthan - Bayana	LOKENDRA	Aam Aadmi Party	165	9	
+77	Rajasthan - Baseri	KHILADI LAL BAIRWA	Indian National Congress	54297	1	17556
+77	Rajasthan - Baseri	CHHITRIYA LAL JATAV	Bharatiya Janata Party	36741	2	17556
+77	Rajasthan - Baseri	SUKHRAM KOLI	Independent	18593	3	
+77	Rajasthan - Baseri	UDAYVEER SINGH	Bahujan Samaj Party	2840	4	
+77	Rajasthan - Baseri	DEEPAK KAIN	Bharat Vahini Party	2356	5	
+77	Rajasthan - Baseri	INDRAJEET SINGH NAGAR	Independent	1829	6	
+77	Rajasthan - Baseri	None of the Above	None of the Above	1672	7	
+77	Rajasthan - Baseri	SUNIL KUMAR	Ambedkarite Party of India	762	8	
+77	Rajasthan - Baseri	AJAY KUMAR VALMIKI	Aam Aadmi Party	710	9	
+77	Rajasthan - Baseri	RAMDAS KHATEK	Bharatiya Rashtravadi Samanta Party	466	10	
+77	Rajasthan - Baseri	MUNNI	Bharatiya Yuva Shakti	277	11	
+78	Rajasthan - Bari	GIRRAJ SINGH	Indian National Congress	79712	1	19683
+78	Rajasthan - Bari	JASVANT SINGH	Bharatiya Janata Party	60029	2	19683
+78	Rajasthan - Bari	RAMHET	Bahujan Samaj Party	36798	3	
+78	Rajasthan - Bari	None of the Above	None of the Above	1698	4	
+78	Rajasthan - Bari	RAMHET	Independent	892	5	
+78	Rajasthan - Bari	BRIJMOHAN	Independent	889	6	
+78	Rajasthan - Bari	BAHADURSINGH	Independent	731	7	
+78	Rajasthan - Bari	IMAMUDDEEN	Independent	465	8	
+78	Rajasthan - Bari	GIRRAJ SINGH	Independent	324	9	
+78	Rajasthan - Bari	JEETENDRA	Independent	141	10	
+79	Rajasthan - Dholpur	SHOBHARANI KUSHWAH	Bharatiya Janata Party	67349	1	19360
+79	Rajasthan - Dholpur	DR. SHIV CHARAN SINGH KUSHAWAH	Indian National Congress	47989	2	19360
+79	Rajasthan - Dholpur	KISHAN CHAND SHARMA	Bahujan Samaj Party	21253	3	
+79	Rajasthan - Dholpur	CHAND PRAKASH SHARMA URF C.P. SHARMA	Independent	6244	4	
+79	Rajasthan - Dholpur	None of the Above	None of the Above	1335	5	
+79	Rajasthan - Dholpur	RAMKHILADI	Independent	875	6	
+79	Rajasthan - Dholpur	SURESH	Independent	577	7	
+79	Rajasthan - Dholpur	AMIT KUMAR SISONDIYA	Bharatiya Yuva Shakti	471	8	
+79	Rajasthan - Dholpur	MUKESH CHAND SHARMA	Independent	363	9	
+79	Rajasthan - Dholpur	DRONACHARYA	Independent	209	10	
+79	Rajasthan - Dholpur	PRAMOD KUMAR	Independent	202	11	
+79	Rajasthan - Dholpur	GAFFAR UDDIN	Independent	121	12	
+79	Rajasthan - Dholpur	ANUP KUMAR SHARMA	Independent	104	13	
+80	Rajasthan - Rajakhera	ROHIT BOHRA	Indian National Congress	76278	1	14991
+80	Rajasthan - Rajakhera	ASHOK SHARMA	Bharatiya Janata Party	61287	2	14991
+80	Rajasthan - Rajakhera	None of the Above	None of the Above	1683	3	
+80	Rajasthan - Rajakhera	PRIYANKA DEVI	Bahujan Samaj Party	1511	4	
+80	Rajasthan - Rajakhera	NARAYANSINGH	Independent	852	5	
+80	Rajasthan - Rajakhera	RAGHUVANSH	Bharatiya Yuva Shakti	801	6	
+80	Rajasthan - Rajakhera	DEVI SINGH	Independent	663	7	
+80	Rajasthan - Rajakhera	RAVINDRA SINGH	Independent	346	8	
+80	Rajasthan - Rajakhera	KAUSHAL PARASHAR	Independent	204	9	
+81	Rajasthan - Todabhim	PRITHVIRAJ	Indian National Congress	107691	1	73306
+81	Rajasthan - Todabhim	RAMESH CHAND	Bharatiya Janata Party	34385	2	73306
+81	Rajasthan - Todabhim	SHIV DAYAL	Bahujan Samaj Party	14857	3	
+81	Rajasthan - Todabhim	KAMLA MEENA	Independent	2118	4	
+81	Rajasthan - Todabhim	MAHENDRA SINGH	Bharat Vahini Party	1550	5	
+81	Rajasthan - Todabhim	None of the Above	None of the Above	1474	6	
+81	Rajasthan - Todabhim	SHARMILA DHANKA	Independent	539	7	
+81	Rajasthan - Todabhim	REKHA MEENA	Independent	509	8	
+81	Rajasthan - Todabhim	JAI PRAKASH MEENA	Bhartiya Kisan Party	412	9	
+81	Rajasthan - Todabhim	HARKESH MEENA	Indian Peoples Green Party	272	10	
+81	Rajasthan - Todabhim	RAKESH KUMAR MEENA	Bharatiya Rashtravadi Samanta Party	218	11	
+81	Rajasthan - Todabhim	NAHARA SINGH MEENA	Aam Aadmi Party	199	12	
+81	Rajasthan - Todabhim	RAJMOHAN MEENA	Ambedkarite Party of India	155	13	
+82	Rajasthan - Hindaun	BHAROSI LAL	Indian National Congress	104694	1	26780
+82	Rajasthan - Hindaun	MANJU KHAIRWAL	Bharatiya Janata Party	77914	2	26780
+82	Rajasthan - Hindaun	None of the Above	None of the Above	1761	3	
+82	Rajasthan - Hindaun	SHASHI DUTTA	Rashtriya Loktantrik Party	878	4	
+82	Rajasthan - Hindaun	SHIVNARAYAN	Bharatiya Yuva Shakti	751	5	
+83	Rajasthan - Karauli	LAKHAN SINGH	Bahujan Samaj Party	61163	1	9562
+83	Rajasthan - Karauli	DARSHAN SINGH	Indian National Congress	51601	2	9562
+83	Rajasthan - Karauli	OM PRAKASH SAINI URF O.P.SAINI	Bharatiya Janata Party	47022	3	
+83	Rajasthan - Karauli	VEDPRAKASH URF BANTU NETA	Independent	4986	4	
+83	Rajasthan - Karauli	KULDEEP PAL	Rashtriya Loktantrik Party	2331	5	
+83	Rajasthan - Karauli	None of the Above	None of the Above	1144	6	
+83	Rajasthan - Karauli	MADANLAL	Independent	977	7	
+83	Rajasthan - Karauli	NARESH PAL	Independent	396	8	
+83	Rajasthan - Karauli	GAJRAJ SINGH	Peoples Party of India (Democratic)	376	9	
+83	Rajasthan - Karauli	KAMLESH	Independent	242	10	
+83	Rajasthan - Karauli	AMARSINGH JATAV	Independent	198	11	
+83	Rajasthan - Karauli	AKHLESH KUMAR	Independent	193	12	
+83	Rajasthan - Karauli	SAHAB SINGH	Shiv Sena	140	13	
+83	Rajasthan - Karauli	CHANDRAKALA	Abhinav Rajasthan Party	123	14	
+83	Rajasthan - Karauli	VIKRAM	Bharatiya Yuva Shakti	96	15	
+83	Rajasthan - Karauli	JASWANT SINGH	Jago Party	82	16	
+84	Rajasthan - Sapotra	RAMESH CHAND MEENA	Indian National Congress	76399	1	14104
+84	Rajasthan - Sapotra	GOLMA	Bharatiya Janata Party	62295	2	14104
+84	Rajasthan - Sapotra	HANSRAJ MEENA	Bahujan Samaj Party	22831	3	
+84	Rajasthan - Sapotra	None of the Above	None of the Above	2260	4	
+84	Rajasthan - Sapotra	JAGDISH	Ambedkarite Party of India	2063	5	
+84	Rajasthan - Sapotra	SHIVRAJ MEENA	Independent	1359	6	
+84	Rajasthan - Sapotra	RAMESH CHAND MEENA	Independent	730	7	
+84	Rajasthan - Sapotra	LAKHAN LAL MEENA (ADVOCATE)	Rajasthan Janta Party	579	8	
+84	Rajasthan - Sapotra	JAMPHAL	Independent	527	9	
+84	Rajasthan - Sapotra	MOHAN	Peoples Party of India (Democratic)	458	10	
+84	Rajasthan - Sapotra	MUNESH	Bharatiya Yuva Shakti	370	11	
+84	Rajasthan - Sapotra	MAHESH CHAND	Independent	353	12	
+84	Rajasthan - Sapotra	TEJRAM MEENA	Independent	276	13	
+84	Rajasthan - Sapotra	BAVLU KUMAR MEENA	Independent	263	14	
+85	Rajasthan - Bandikui	GAJRAJ KHATANA	Indian National Congress	56433	1	4764
+85	Rajasthan - Bandikui	RAM KISHOR SAINI	Bharatiya Janata Party	51669	2	4764
+85	Rajasthan - Bandikui	BHAGCHAND SAINI	Bahujan Samaj Party	44992	3	
+85	Rajasthan - Bandikui	None of the Above	None of the Above	1021	4	
+85	Rajasthan - Bandikui	VED PRAKASH SHARMA	Independent	810	5	
+85	Rajasthan - Bandikui	SHAILAJA SIKARWAR	Independent	760	6	
+85	Rajasthan - Bandikui	SURESH KUMAR ASHIWAL	Independent	759	7	
+85	Rajasthan - Bandikui	KAILASH SHARMA SOMADA	Hindustan Janta Party	614	8	
+85	Rajasthan - Bandikui	RAMPHOOL MEENA	Independent	581	9	
+85	Rajasthan - Bandikui	DHARAMRAM SAINI	Bharatiya Yuva Shakti	564	10	
+85	Rajasthan - Bandikui	SHRI CHAND	Republican Party of India (A)	347	11	
+85	Rajasthan - Bandikui	HARINARAYAN BANSHIWAL	Aam Aadmi Party	271	12	
+85	Rajasthan - Bandikui	MANEESH JOSHI	Independent	204	13	
+85	Rajasthan - Bandikui	RAMKARAN SAINI	Independent	170	14	
+85	Rajasthan - Bandikui	JAGDISH	Independent	152	15	
+85	Rajasthan - Bandikui	DAULAT RAM	Bharat Vahini Party	148	16	
+85	Rajasthan - Bandikui	MAHAVEER PRASAD SAIN	Independent	108	17	
+86	Rajasthan - Mahuwa	OM PRAKASH HUDLA	Independent	51310	1	9985
+86	Rajasthan - Mahuwa	RAJENDRA	Bharatiya Janata Party	41325	2	9985
+86	Rajasthan - Mahuwa	AJEET SINGH	Independent	19624	3	
+86	Rajasthan - Mahuwa	AJAY KUMAR	Indian National Congress	16452	4	
+86	Rajasthan - Mahuwa	VIJAY KUMAR	Bahujan Samaj Party	9423	5	
+86	Rajasthan - Mahuwa	CHANDRA PRAKASH MEENA	Nationalist People's Front	3964	6	
+86	Rajasthan - Mahuwa	None of the Above	None of the Above	1109	7	
+86	Rajasthan - Mahuwa	OM PRAKASH	Independent	1029	8	
+86	Rajasthan - Mahuwa	DAN SINGH MEENA	Independent	833	9	
+86	Rajasthan - Mahuwa	MOHAN LAL	Independent	807	10	
+86	Rajasthan - Mahuwa	RAJESH	Independent	636	11	
+86	Rajasthan - Mahuwa	BHAGWAN SAHAY	Aam Aadmi Party	448	12	
+86	Rajasthan - Mahuwa	DHARMENDRA	Independent	300	13	
+87	Rajasthan - Sikrai	MAMTA BHUPESH	Indian National Congress	96454	1	33783
+87	Rajasthan - Sikrai	VIKRAM BANSIWAL	Bharatiya Janata Party	62671	2	33783
+87	Rajasthan - Sikrai	PHAILI RAM	Bahujan Samaj Party	5670	3	
+87	Rajasthan - Sikrai	GEETA VERMA	Bharat Vahini Party	2236	4	
+87	Rajasthan - Sikrai	None of the Above	None of the Above	2075	5	
+88	Rajasthan - Dausa	MURARI LAL	Indian National Congress	99004	1	50948
+88	Rajasthan - Dausa	SHANKAR LAL SHARMA	Bharatiya Janata Party	48056	2	50948
+88	Rajasthan - Dausa	NAND LAL BANSIWAL	Independent	18847	3	
+88	Rajasthan - Dausa	None of the Above	None of the Above	1529	4	
+88	Rajasthan - Dausa	VIRENDRA KUMAR SHARMA (CHHOTYA)	Aam Aadmi Party	1260	5	
+88	Rajasthan - Dausa	GOPAL LAL MEENA	Bahujan Samaj Party	1192	6	
+88	Rajasthan - Dausa	DEVI SINGH	Bharat Vahini Party	1087	7	
+88	Rajasthan - Dausa	DINESH KUMAR MEENA	Independent	734	8	
+88	Rajasthan - Dausa	JAGRAM SAINI	Independent	326	9	
+88	Rajasthan - Dausa	GOPI RAMAN SHARMA	Independent	212	10	
+89	Rajasthan - Lalsot	PARSADI LAL	Indian National Congress	88828	1	9074
+89	Rajasthan - Lalsot	RAMBILAS	Bharatiya Janata Party	79754	2	9074
+89	Rajasthan - Lalsot	None of the Above	None of the Above	1987	3	
+89	Rajasthan - Lalsot	SODAN MEENA	Bahujan Samaj Party	1470	4	
+89	Rajasthan - Lalsot	HANSRAJ MEENA	Aam Aadmi Party	858	5	
+89	Rajasthan - Lalsot	BABU LAL DHANKA	Rashtriya Loktantrik Party	605	6	
+90	Rajasthan - Gangapur	RAMKESH	Independent	58744	1	10066
+90	Rajasthan - Gangapur	MANSINGH GURJAR	Bharatiya Janata Party	48678	2	10066
+90	Rajasthan - Gangapur	RAJESH	Indian National Congress	39861	3	
+90	Rajasthan - Gangapur	RAMKHILARI MEENA	Bahujan Samaj Party	5295	4	
+90	Rajasthan - Gangapur	None of the Above	None of the Above	2186	5	
+90	Rajasthan - Gangapur	DASHARATH SINGH	Independent	944	6	
+90	Rajasthan - Gangapur	RAHMAT KHAN	Independent	855	7	
+90	Rajasthan - Gangapur	MANOJ KUMAR BAIRWA	Independent	803	8	
+90	Rajasthan - Gangapur	PANKAJ KUMAR	Abhinav Rajasthan Party	662	9	
+90	Rajasthan - Gangapur	KAUSHAL TANWAR	Independent	440	10	
+90	Rajasthan - Gangapur	RAM SAHAY MEENA KALKY	Peoples Party of India (Democratic)	245	11	
+90	Rajasthan - Gangapur	KRISHNA KANT	Independent	174	12	
+90	Rajasthan - Gangapur	OMPRAKASH	Independent	150	13	
+90	Rajasthan - Gangapur	MUKESH CHAND	Aam Aadmi Party	130	14	
+90	Rajasthan - Gangapur	SAIYAD JAKIR HUSAIN	Nationalist People's Front	129	15	
+91	Rajasthan - Bamanwas	INDRA	Indian National Congress	73656	1	38513
+91	Rajasthan - Bamanwas	NAWAL KISHORE MEENA	Independent	35143	2	38513
+91	Rajasthan - Bamanwas	RAJENDRA	Bharatiya Janata Party	25076	3	
+91	Rajasthan - Bamanwas	None of the Above	None of the Above	1937	4	
+91	Rajasthan - Bamanwas	MANTURI	Bahujan Samaj Party	1853	5	
+91	Rajasthan - Bamanwas	RAJESH	Aam Aadmi Party	1751	6	
+91	Rajasthan - Bamanwas	ANTIMA	Bharatiya Rashtravadi Samanta Party	726	7	
+91	Rajasthan - Bamanwas	MAKKHAN	Independent	639	8	
+91	Rajasthan - Bamanwas	SHYAM LAL	Independent	527	9	
+92	Rajasthan - Sawai madhopur	DANISH ABRAR	Indian National Congress	85655	1	25199
+92	Rajasthan - Sawai madhopur	ASHA MEENA	Bharatiya Janata Party	60456	2	25199
+92	Rajasthan - Sawai madhopur	RAJESH GOYAL	Independent	5941	3	
+92	Rajasthan - Sawai madhopur	KALU RAM MEENA	Communist Party of India	2909	4	
+92	Rajasthan - Sawai madhopur	HANS RAJ	Bahujan Samaj Party	2489	5	
+92	Rajasthan - Sawai madhopur	BANSI LAL	Independent	1181	6	
+92	Rajasthan - Sawai madhopur	RAM RAJ MALI	Independent	799	7	
+92	Rajasthan - Sawai madhopur	None of the Above	None of the Above	794	8	
+92	Rajasthan - Sawai madhopur	RAMBAL MEENA	Ambedkarite Party of India	713	9	
+92	Rajasthan - Sawai madhopur	SHIVDAYAL	Bhartiya Panchyat Party	579	10	
+92	Rajasthan - Sawai madhopur	RAMRAJ MEENA	National Unionist Zamindara Party	445	11	
+92	Rajasthan - Sawai madhopur	RAGHUVEER SINGH RAJAWAT	Independent	365	12	
+92	Rajasthan - Sawai madhopur	SATISH JAIN	Aam Aadmi Party	321	13	
+92	Rajasthan - Sawai madhopur	JAGDISH MEENA ADVOCATE	Independent	244	14	
+92	Rajasthan - Sawai madhopur	BHAGWATI SINGH KUSTALA	Bharat Vahini Party	213	15	
+92	Rajasthan - Sawai madhopur	CHAETAN KUMAR RANA	Independent	176	16	
+92	Rajasthan - Sawai madhopur	ABDUL SALAM	Independent	173	17	
+92	Rajasthan - Sawai madhopur	ASALAM KHAN	Bharatiya Yuva Shakti	131	18	
+93	Rajasthan - Khandar	ASHOK	Indian National Congress	89028	1	27949
+93	Rajasthan - Khandar	JITENDRA KUMAR GOTHWAL	Bharatiya Janata Party	61079	2	27949
+93	Rajasthan - Khandar	None of the Above	None of the Above	2736	3	
+93	Rajasthan - Khandar	RAMPRAKASH RAIGAR	Bahujan Samaj Party	2460	4	
+93	Rajasthan - Khandar	BALRAM BAIRWA	Independent	1009	5	
+93	Rajasthan - Khandar	RAMJILAL	Bharatiya Rashtravadi Samanta Party	442	6	
+93	Rajasthan - Khandar	CHIRANJILAL BAIRWA	Independent	441	7	
+93	Rajasthan - Khandar	SHAMBHOO	Aam Aadmi Party	390	8	
+93	Rajasthan - Khandar	HARIPRASAD RAIGAR	Bharatiya Yuva Shakti	359	9	
+94	Rajasthan - Malpura	KANHIYA LAL	Bharatiya Janata Party	93237	1	29786
+94	Rajasthan - Malpura	RANVEER PHALWAN	Rashtriya Lok Dal	63451	2	29786
+94	Rajasthan - Malpura	NARENDRA SINGH AAMLI	Bahujan Samaj Party	9836	3	
+94	Rajasthan - Malpura	JEETRAM	Independent	2722	4	
+94	Rajasthan - Malpura	None of the Above	None of the Above	1801	5	
+94	Rajasthan - Malpura	RADHEYSHYAM VAISHNAV	Shiv Sena	1309	6	
+94	Rajasthan - Malpura	KALYAN SINGH KURTHAL	Jago Party	1260	7	
+94	Rajasthan - Malpura	SHASHIPAL JHAROTIYA	Ambedkarite Party of India	888	8	
+94	Rajasthan - Malpura	PANKAJ DADHEECH	Independent	832	9	
+94	Rajasthan - Malpura	SOURABH DIXIT	Janata Dal (Secular)	770	10	
+94	Rajasthan - Malpura	PRAHLAD GUJAR	Bharatiya Yuva Shakti	678	11	
+94	Rajasthan - Malpura	DR. RAM NARESH SANADHYA	Independent	509	12	
+94	Rajasthan - Malpura	GIRIRAJ SINGH KHANGAROT	Aam Aadmi Party	481	13	
+94	Rajasthan - Malpura	POOJA JANGID	Indian Peoples Green Party	465	14	
+94	Rajasthan - Malpura	DR. SHIVDUTT SHARMA	Bharat Vahini Party	410	15	
+94	Rajasthan - Malpura	DURGA LAL	Indian New Congress Party	321	16	
+95	Rajasthan - Niwai	PRASHANT BAIRWA	Indian National Congress	105784	1	43889
+95	Rajasthan - Niwai	RAM SAHAY VERMA	Bharatiya Janata Party	61895	2	43889
+95	Rajasthan - Niwai	None of the Above	None of the Above	2253	3	
+95	Rajasthan - Niwai	BANWARI LAL BAIRWA	Bahujan Samaj Party	1534	4	
+95	Rajasthan - Niwai	NARESH KUMAR ATAL	Ambedkarite Party of India	1345	5	
+95	Rajasthan - Niwai	BABU LAL BAIRWA	Bhartiya Jan Hitkari Party	596	6	
+95	Rajasthan - Niwai	PAWAN KUMAR NAWAL	Independent	521	7	
+96	Rajasthan - Tonk	SACHIN PILOT	Indian National Congress	109040	1	54179
+96	Rajasthan - Tonk	YOONUS KHAN	Bharatiya Janata Party	54861	2	54179
+96	Rajasthan - Tonk	MO ALI	Bahujan Samaj Party	1785	3	
+96	Rajasthan - Tonk	None of the Above	None of the Above	1485	4	
+96	Rajasthan - Tonk	PANCHU	Shiv Sena	1221	5	
+96	Rajasthan - Tonk	AMAR SINGH CHOUDHARY	Bhartiya Jan Hitkari Party	1052	6	
+96	Rajasthan - Tonk	NEELIMA AMERA	Independent	735	7	
+96	Rajasthan - Tonk	RAMPAL	Aam Aadmi Party	628	8	
+96	Rajasthan - Tonk	RASHEDA MAJEED	Independent	552	9	
+96	Rajasthan - Tonk	MUKESH CHOUDHARY	Abhinav Rajasthan Party	207	10	
+97	Rajasthan - Deoli - uniara	HARISH CHANDRA MEENA	Indian National Congress	95540	1	21476
+97	Rajasthan - Deoli - uniara	RAJENDRA GURJAR	Bharatiya Janata Party	74064	2	21476
+97	Rajasthan - Deoli - uniara	UDAY LAL GURJAR	Independent	8876	3	
+97	Rajasthan - Deoli - uniara	OM PRAKASH BAIRWA	Bahujan Samaj Party	3724	4	
+97	Rajasthan - Deoli - uniara	None of the Above	None of the Above	2605	5	
+97	Rajasthan - Deoli - uniara	BADRILAL SHARMA	Abhinav Rajasthan Party	1088	6	
+97	Rajasthan - Deoli - uniara	RAJU	Independent	894	7	
+97	Rajasthan - Deoli - uniara	SURENDRA	National Unionist Zamindara Party	673	8	
+97	Rajasthan - Deoli - uniara	LADDU LAL MEENA	Aam Aadmi Party	366	9	
+97	Rajasthan - Deoli - uniara	BANWARI	Bharatiya Yuva Shakti	334	10	
+98	Rajasthan - Kishangarh	SURESH TAK	Independent	82678	1	17452
+98	Rajasthan - Kishangarh	VIKASH CHOUDHARY	Bharatiya Janata Party	65226	2	17452
+98	Rajasthan - Kishangarh	NATHU RAM SINODIYA	Independent	22851	3	
+98	Rajasthan - Kishangarh	NANDA RAM	Indian National Congress	15157	4	
+98	Rajasthan - Kishangarh	MATADEEN	Independent	2955	5	
+98	Rajasthan - Kishangarh	UMRAV CHOUDHARY	Aam Aadmi Party	1369	6	
+98	Rajasthan - Kishangarh	SUNIL LAKHOTIYA	Independent	933	7	
+98	Rajasthan - Kishangarh	SATYANARAYAN SAIN	Independent	887	8	
+98	Rajasthan - Kishangarh	RAMDAYAL	Bahujan Samaj Party	842	9	
+98	Rajasthan - Kishangarh	None of the Above	None of the Above	674	10	
+98	Rajasthan - Kishangarh	GOPAL SHARMA	Hindustan Shakti Sena	646	11	
+98	Rajasthan - Kishangarh	SAJJAN KANWAR	Bharatiya Yuva Shakti	450	12	
+98	Rajasthan - Kishangarh	RAMDEV GURJAR	Independent	358	13	
+98	Rajasthan - Kishangarh	TARUNA SHARMA	Bharat Lok Sewak Party	341	14	
+98	Rajasthan - Kishangarh	DR. MAHESH KUMBHAJ	Independent	287	15	
+98	Rajasthan - Kishangarh	BHAWANI SINGH KHANGAROT	Independent	253	16	
+98	Rajasthan - Kishangarh	GOPAL MAHESHWARI	Abhinav Rajasthan Party	215	17	
+99	Rajasthan - Pushkar	SURESH SINGH RAWAT	Bharatiya Janata Party	84860	1	9389
+99	Rajasthan - Pushkar	NASIM AKHTAR INSAF	Indian National Congress	75471	2	9389
+99	Rajasthan - Pushkar	SHAHABUDDIN(PAPPU QURESHI)	Rashtriya Loktantrik Party	4073	3	
+99	Rajasthan - Pushkar	None of the Above	None of the Above	2288	4	
+99	Rajasthan - Pushkar	RADHESHYAM BAWARI	Independent	2057	5	
+99	Rajasthan - Pushkar	ANANDI PRASAD	Shiv Sena	1096	6	
+99	Rajasthan - Pushkar	NARAYAN NATH	Bahujan Samaj Party	1084	7	
+99	Rajasthan - Pushkar	HANUMAN	Independent	753	8	
+99	Rajasthan - Pushkar	BHANWARLAL SONI	Independent	424	9	
+99	Rajasthan - Pushkar	MOHAMMAD NAFIS KHATRI	Independent	379	10	
+99	Rajasthan - Pushkar	RIYAJ AHMAD	Aam Aadmi Party	253	11	
+99	Rajasthan - Pushkar	ADVOCATE RANJEETA RAWAT	Akhil Bhartiya Aamjan Party	206	12	
+100	Rajasthan - Ajmer North	VASUDEV DEVNANI	Bharatiya Janata Party	67881	1	8630
+100	Rajasthan - Ajmer North	MAHENDRA SINGH RALAWATA	Indian National Congress	59251	2	8630
+100	Rajasthan - Ajmer North	AMAD	Bahujan Samaj Party	1940	3	
+100	Rajasthan - Ajmer North	None of the Above	None of the Above	1591	4	
+100	Rajasthan - Ajmer North	SANDEEP TANWAR	Independent	430	5	
+100	Rajasthan - Ajmer North	SHWETA SHARMA	Independent	396	6	
+100	Rajasthan - Ajmer North	NEERAJ PAREEK	Bharatiya Rashtravadi Samanta Party	387	7	
+100	Rajasthan - Ajmer North	TRIVENDRA KUMAR PATHAK	Bharat Vahini Party	345	8	
+100	Rajasthan - Ajmer North	VIRENDRA SINGH	Aam Aadmi Party	253	9	
+100	Rajasthan - Ajmer North	MANOJ SHARMA	National Future Party	155	10	
+100	Rajasthan - Ajmer North	GHISU SINGH	Independent	117	11	
+100	Rajasthan - Ajmer North	PEERDAN SINGH	Independent	105	12	
+100	Rajasthan - Ajmer North	DURGADAS TULSIANI	Independent	96	13	
+101	Rajasthan - Ajmer South	ANITA BHADEL	Bharatiya Janata Party	69064	1	5700
+101	Rajasthan - Ajmer South	HEMANT BHATI	Indian National Congress	63364	2	5700
+101	Rajasthan - Ajmer South	None of the Above	None of the Above	1779	3	
+101	Rajasthan - Ajmer South	DR RAKESH SHIVASHIYA	Independent	1065	4	
+101	Rajasthan - Ajmer South	GANPAT LAL	Bahujan Samaj Party	793	5	
+101	Rajasthan - Ajmer South	VIJAY KUMAR	National Future Party	564	6	
+101	Rajasthan - Ajmer South	AMIT LAHIRI	Bharatiya Yuva Shakti	358	7	
+101	Rajasthan - Ajmer South	PANKAJ	Aam Aadmi Party	191	8	
+101	Rajasthan - Ajmer South	ASHOK KUMAR NOGIYA	Republican Party of India (A)	135	9	
+101	Rajasthan - Ajmer South	BEENA SUKRIYA	Bhartiya Public Labour Party	131	10	
+101	Rajasthan - Ajmer South	JAGDISH BHAMBI	Bharatiya Rashtravadi Samanta Party	129	11	
+101	Rajasthan - Ajmer South	PRAMENDRA CHOUHAN	Shiv Sena	110	12	
+102	Rajasthan - Nasirabad	RAMSWAROOP LAMBA	Bharatiya Janata Party	89409	1	16684
+102	Rajasthan - Nasirabad	RAMNARAIN	Indian National Congress	72725	2	16684
+102	Rajasthan - Nasirabad	None of the Above	None of the Above	1513	3	
+102	Rajasthan - Nasirabad	MO. ILIYAS	Bahujan Samaj Party	1250	4	
+102	Rajasthan - Nasirabad	SHAKIL	Independent	1038	5	
+102	Rajasthan - Nasirabad	SHABUDIN	Independent	1025	6	
+102	Rajasthan - Nasirabad	ADITYA CHOUDHARY	Abhinav Rajasthan Party	738	7	
+102	Rajasthan - Nasirabad	DINESH KUMAR SHARMA	Independent	477	8	
+102	Rajasthan - Nasirabad	PRAMOD KUMAR	Independent	347	9	
+102	Rajasthan - Nasirabad	JITENDRA SINGH	Independent	316	10	
+102	Rajasthan - Nasirabad	AMIT BIDAWAT	Independent	306	11	
+102	Rajasthan - Nasirabad	NASIM	Independent	184	12	
+102	Rajasthan - Nasirabad	GAJENDRA SIROYA	Aam Aadmi Party	167	13	
+102	Rajasthan - Nasirabad	DILEEP	Independent	157	14	
+103	Rajasthan - Beawar	SHANKAR SINGH RAWAT	Bharatiya Janata Party	69932	1	4502
+103	Rajasthan - Beawar	PARASMAL JAIN	Indian National Congress	65430	2	4502
+103	Rajasthan - Beawar	DEVENDRA SINGH CHOUHAN	Independent	18674	3	
+103	Rajasthan - Beawar	ABHISHEK SINGH	Independent	2828	4	
+103	Rajasthan - Beawar	None of the Above	None of the Above	2114	5	
+103	Rajasthan - Beawar	DHANNARAM KHORWAL	Bahujan Samaj Party	1443	6	
+103	Rajasthan - Beawar	MANJEET SINGH	Aam Aadmi Party	1114	7	
+103	Rajasthan - Beawar	VIJAY KUMAR KUMAWAT	Independent	742	8	
+103	Rajasthan - Beawar	SURENDRA KUMAR	Independent	703	9	
+103	Rajasthan - Beawar	PRAKASH PARIHAR	Independent	462	10	
+103	Rajasthan - Beawar	GOPAL SINGH CHOUHAN	Independent	458	11	
+103	Rajasthan - Beawar	RAHUL RAWAT	Nationalist People's Front	387	12	
+103	Rajasthan - Beawar	MISHRI KATHAT	Indian Peoples Green Party	306	13	
+104	Rajasthan - Masuda	RAKESH PAREEK	Indian National Congress	86008	1	3374
+104	Rajasthan - Masuda	SUSHIL KANWAR	Bharatiya Janata Party	82634	2	3374
+104	Rajasthan - Masuda	HAZI KAYUM KHAN	Rashtriya Loktantrik Party	6983	3	
+104	Rajasthan - Masuda	DURGA LAL	Bahujan Samaj Party	4173	4	
+104	Rajasthan - Masuda	None of the Above	None of the Above	1752	5	
+104	Rajasthan - Masuda	RAKESH PAREEK	Independent	967	6	
+104	Rajasthan - Masuda	MAHAVEER PRASAD	Independent	792	7	
+104	Rajasthan - Masuda	MO. YAKUB	Aam Aadmi Party	608	8	
+104	Rajasthan - Masuda	SHIVRAM SINGH	Rajasthan Janta Party	574	9	
+104	Rajasthan - Masuda	AJAMAL KATHAT	Independent	400	10	
+105	Rajasthan - Kekri	RAGHU SHARMA	Indian National Congress	95795	1	19461
+105	Rajasthan - Kekri	RAJENDRA VINAYAKA	Bharatiya Janata Party	76334	2	19461
+105	Rajasthan - Kekri	DEVKARAN SINGH KHAROL	Bahujan Samaj Party	1903	3	
+105	Rajasthan - Kekri	None of the Above	None of the Above	1763	4	
+105	Rajasthan - Kekri	SURENDAR SINGH RANAWAT	Independent	1143	5	
+105	Rajasthan - Kekri	RAJESH SAINI	Independent	1041	6	
+105	Rajasthan - Kekri	ABDUL RAJJAK	Aam Aadmi Party	929	7	
+105	Rajasthan - Kekri	JAGDISH PILANIYA	Independent	343	8	
+105	Rajasthan - Kekri	KAILASH OJHA	Independent	261	9	
+105	Rajasthan - Kekri	BALURAM JAT	Bahujan Sangharshh Dal	224	10	
+105	Rajasthan - Kekri	ASHOK SINGH RAO	Bharatiya Yuva Shakti	197	11	
+106	Rajasthan - Ladnun	MUKESH KUMAR BHAKAR	Indian National Congress	65041	1	12947
+106	Rajasthan - Ladnun	MANOHAR SINGH	Bharatiya Janata Party	52094	2	12947
+106	Rajasthan - Ladnun	JAGANNATH BURDAK	Rashtriya Loktantrik Party	20063	3	
+106	Rajasthan - Ladnun	OMPRAKASH BAGRA	Independent	7568	4	
+106	Rajasthan - Ladnun	TSLEEM AAREF	Independent	6777	5	
+106	Rajasthan - Ladnun	NARENDRA SINGH	Bahujan Samaj Party	3876	6	
+106	Rajasthan - Ladnun	SAGAR MAL NAHATA	Independent	2696	7	
+106	Rajasthan - Ladnun	None of the Above	None of the Above	1356	8	
+106	Rajasthan - Ladnun	SUDHIR PAREEK	Independent	1237	9	
+106	Rajasthan - Ladnun	MAHESH PRAKASH SANKHALA	Independent	1016	10	
+106	Rajasthan - Ladnun	PUSHPA KANWAR	Aam Aadmi Party	847	11	
+106	Rajasthan - Ladnun	BALMIK	Bharatiya Yuva Shakti	845	12	
+106	Rajasthan - Ladnun	JIWAN MAL GURJAR	Independent	705	13	
+106	Rajasthan - Ladnun	UMED KHAN	Independent	658	14	
+106	Rajasthan - Ladnun	KALURAM	Independent	374	15	
+106	Rajasthan - Ladnun	MAHAVEER PRASAD PAREEK	Abhinav Rajasthan Party	326	16	
+107	Rajasthan - Deedwana	CHETAN SINGH CHOUDHARY	Indian National Congress	92981	1	40602
+107	Rajasthan - Deedwana	JITENDRA SINGH	Bharatiya Janata Party	52379	2	40602
+107	Rajasthan - Deedwana	HAKEEM KHAN	Aam Aadmi Party	7177	3	
+107	Rajasthan - Deedwana	RAJU RAM	Independent	3339	4	
+107	Rajasthan - Deedwana	MANGEJ SINGH	Independent	3101	5	
+107	Rajasthan - Deedwana	GANESHA RAM	Bahujan Samaj Party	2748	6	
+107	Rajasthan - Deedwana	None of the Above	None of the Above	1506	7	
+107	Rajasthan - Deedwana	SHER SINGH	Independent	1499	8	
+107	Rajasthan - Deedwana	LAXMINIWAS	Dalit Soshit Pichhara Varg Adhikar Dal	984	9	
+107	Rajasthan - Deedwana	GOPAL RAM	Independent	297	10	
+108	Rajasthan - Jayal	MANJU DEVI	Indian National Congress	68415	1	18604
+108	Rajasthan - Jayal	ANIL	Rashtriya Loktantrik Party	49811	2	18604
+108	Rajasthan - Jayal	DR. MANJU BAGHMAR	Bharatiya Janata Party	32261	3	
+108	Rajasthan - Jayal	ANNU DEVI	National Unionist Zamindara Party	4675	4	
+108	Rajasthan - Jayal	None of the Above	None of the Above	2401	5	
+108	Rajasthan - Jayal	JITENDRA	Bharatiya Yuva Shakti	2232	6	
+108	Rajasthan - Jayal	MEGARAM	Independent	985	7	
+108	Rajasthan - Jayal	SOHANA RAM RATHI	Independent	825	8	
+108	Rajasthan - Jayal	PREMRAJ	Bahujan Sangharshh Dal	643	9	
+109	Rajasthan - NAGAUR	MOHAN RAM CHOUDHARY	Bharatiya Janata Party	86315	1	13008
+109	Rajasthan - NAGAUR	HABIBUR REHMAN ASHRAFI LAMBA	Indian National Congress	73307	2	13008
+109	Rajasthan - NAGAUR	SAMSHER KHAN	Rashtriya Loktantrik Party	5372	3	
+109	Rajasthan - NAGAUR	BAJRANG RAM	Bahujan Samaj Party	2158	4	
+109	Rajasthan - NAGAUR	NARENDRA	Independent	2089	5	
+109	Rajasthan - NAGAUR	GOUTAM NAYAK	Dalit Kranti Dal	1613	6	
+109	Rajasthan - NAGAUR	None of the Above	None of the Above	1453	7	
+109	Rajasthan - NAGAUR	BHANWARLAL	Independent	1263	8	
+109	Rajasthan - NAGAUR	JITENDRA	Independent	587	9	
+109	Rajasthan - NAGAUR	REWANT RAM	Abhinav Rajasthan Party	416	10	
+109	Rajasthan - NAGAUR	GOVINDLAL	Independent	353	11	
+109	Rajasthan - NAGAUR	SIYARAM	Bahujan Sangharshh Dal	276	12	
+109	Rajasthan - NAGAUR	SANTOSH SONI	Shiv Sena	274	13	
+109	Rajasthan - NAGAUR	CHHOTURAM	Sarvadharam Party (Madhya Pradesh)	272	14	
+109	Rajasthan - NAGAUR	ROOPSINGH	Janata Dal (United)	173	15	
+109	Rajasthan - NAGAUR	RAMPRASAD KHATEEK	Indian Peoples Green Party	171	16	
+110	Rajasthan - Khinwsar	HANUMAN BENIWAL	Rashtriya Loktantrik Party	83096	1	16948
+110	Rajasthan - Khinwsar	SAVAI SINGH CHAUDHARY	Indian National Congress	66148	2	16948
+110	Rajasthan - Khinwsar	RAMCHANDRA UTTA	Bharatiya Janata Party	26809	3	
+110	Rajasthan - Khinwsar	None of the Above	None of the Above	2344	4	
+110	Rajasthan - Khinwsar	DR. ANITA	Independent	2279	5	
+110	Rajasthan - Khinwsar	INDARAM	Bahujan Sangharshh Dal	2230	6	
+110	Rajasthan - Khinwsar	KISHAN LAL DADHICH	Independent	1262	7	
+110	Rajasthan - Khinwsar	RAMPAL MEGHWANSHI	Bahujan Samaj Party	1181	8	
+110	Rajasthan - Khinwsar	REKHA BERA	Independent	769	9	
+111	Rajasthan - Merta	INDIRA DEVI	Rashtriya Loktantrik Party	57662	1	12835
+111	Rajasthan - Merta	LAXMAN RAM MEGHWAL	Independent	44827	2	12835
+111	Rajasthan - Merta	BHANWRARAM RITHADIYA	Bharatiya Janata Party	41860	3	
+111	Rajasthan - Merta	SONU CHITARA CHOUDHARY	Indian National Congress	24018	4	
+111	Rajasthan - Merta	JAGDISH KUMAR NAYAK	Aam Aadmi Party	3180	5	
+111	Rajasthan - Merta	None of the Above	None of the Above	2970	6	
+111	Rajasthan - Merta	TARACHAND	Bahujan Samaj Party	1557	7	
+111	Rajasthan - Merta	RAMOO RAM	Bharat Vahini Party	1143	8	
+111	Rajasthan - Merta	KAPIL DEV	Abhinav Rajasthan Party	1059	9	
+111	Rajasthan - Merta	BHIKHA RAM	Lok Jan Shakti Party	995	10	
+111	Rajasthan - Merta	OM PRAKASH	Indian Peoples Green Party	821	11	
+112	Rajasthan - Degana	VIJAYPAL MIRDHA	Indian National Congress	75362	1	21538
+112	Rajasthan - Degana	AJAY SINGH KILAK	Bharatiya Janata Party	53824	2	21538
+112	Rajasthan - Degana	MANGILAL KALA	Independent	17173	3	
+112	Rajasthan - Degana	MOHAN SINGH SAANJU	Independent	13205	4	
+112	Rajasthan - Degana	BAJRANG SINGH	Independent	3476	5	
+112	Rajasthan - Degana	None of the Above	None of the Above	2495	6	
+112	Rajasthan - Degana	SHIV DESWAL	Bahujan Samaj Party	2472	7	
+112	Rajasthan - Degana	BHANWAR LAL	Communist Party of India	1940	8	
+112	Rajasthan - Degana	RANVEERSINGH	Janata Dal (United)	1737	9	
+112	Rajasthan - Degana	DEVARAM THOLIYA	Abhinav Rajasthan Party	1161	10	
+112	Rajasthan - Degana	MANJU DEVI SONI	Anjuman Party	305	11	
+113	Rajasthan - Makrana	ROOPA RAM	Bharatiya Janata Party	87201	1	1488
+113	Rajasthan - Makrana	JAKIR HUSSAIN GESAWAT	Indian National Congress	85713	2	1488
+113	Rajasthan - Makrana	GANGARAM	Independent	2588	3	
+113	Rajasthan - Makrana	NARAYAN RAM	Communist Party of India (Marxist)	2126	4	
+113	Rajasthan - Makrana	None of the Above	None of the Above	1550	5	
+113	Rajasthan - Makrana	ABDUL AZIZ	Bahujan Samaj Party	1183	6	
+113	Rajasthan - Makrana	SAROJ KANWAR	Independent	1177	7	
+113	Rajasthan - Makrana	MANNWAR ALI	Independent	1108	8	
+113	Rajasthan - Makrana	PRADEEP KUMAR	Shiv Sena	1023	9	
+113	Rajasthan - Makrana	SHAKTI DAN SINGH	Independent	754	10	
+113	Rajasthan - Makrana	DEEPARAM	Independent	477	11	
+113	Rajasthan - Makrana	LAXMAN RAM	Abhinav Rajasthan Party	467	12	
+113	Rajasthan - Makrana	SAYIDA NAZNEEN	Aam Aadmi Party	202	13	
+113	Rajasthan - Makrana	JAGDISH SINGH	Independent	194	14	
+113	Rajasthan - Makrana	JAGDEESH PRASHAD	Independent	164	15	
+114	Rajasthan - Parbatsar	RAMNIWAS GAWRIYA	Indian National Congress	76373	1	14485
+114	Rajasthan - Parbatsar	MAN SINGH KINSARIYA	Bharatiya Janata Party	61888	2	14485
+114	Rajasthan - Parbatsar	RAKESH MEGHWAL	Independent	26006	3	
+114	Rajasthan - Parbatsar	None of the Above	None of the Above	2485	4	
+114	Rajasthan - Parbatsar	SHIVNARAYAN	Bahujan Samaj Party	1289	5	
+114	Rajasthan - Parbatsar	GANPAT RAM	Independent	1067	6	
+114	Rajasthan - Parbatsar	PEERDAN SINGH	Independent	746	7	
+114	Rajasthan - Parbatsar	KAILASH GODARA	Indian Peoples Green Party	313	8	
+114	Rajasthan - Parbatsar	KISHANLAL	Janata Dal (United)	281	9	
+114	Rajasthan - Parbatsar	PREMARAM BADARDA	Hindustan Shakti Sena	175	10	
+115	Rajasthan - Nawan	MAHENDRA CHOUDHARY	Indian National Congress	72168	1	2256
+115	Rajasthan - Nawan	VIJAY SINGH	Bharatiya Janata Party	69912	2	2256
+115	Rajasthan - Nawan	SHIMBHUDAYAL	Independent	12218	3	
+115	Rajasthan - Nawan	KANARAM	Communist Party of India (Marxist)	6717	4	
+115	Rajasthan - Nawan	GOVIND RAM	Independent	5424	5	
+115	Rajasthan - Nawan	PRAMOD KUMAR	Bahujan Samaj Party	3029	6	
+115	Rajasthan - Nawan	None of the Above	None of the Above	2077	7	
+115	Rajasthan - Nawan	HEM RAJ	Aam Aadmi Party	1233	8	
+115	Rajasthan - Nawan	GOPAL	Independent	896	9	
+115	Rajasthan - Nawan	ANITA	Bharatiya Yuva Shakti	728	10	
+115	Rajasthan - Nawan	KAILASH CHANDRA VERMA	Independent	645	11	
+115	Rajasthan - Nawan	PURNMAL	Bahujan Sangharshh Dal	530	12	
+115	Rajasthan - Nawan	BHANWAR LAL BABEL	Bharat Vahini Party	203	13	
+116	Rajasthan - Jaitaran	AVINASH	Bharatiya Janata Party	65607	1	12188
+116	Rajasthan - Jaitaran	DILIP CHOUDHARY	Indian National Congress	53419	2	12188
+116	Rajasthan - Jaitaran	KRISHAN SINGH GURJAR	Independent	19112	3	
+116	Rajasthan - Jaitaran	SURENDRA GOYAL	Independent	17684	4	
+116	Rajasthan - Jaitaran	MUKUT SINGH	Independent	11198	5	
+116	Rajasthan - Jaitaran	PUKH RAJ	Dalit Kranti Dal	10203	6	
+116	Rajasthan - Jaitaran	RAJESH KUMAR KUMAWAT	Independent	5931	7	
+116	Rajasthan - Jaitaran	VISHNU KUMAR DADHICH	Independent	1774	8	
+116	Rajasthan - Jaitaran	SHANKAR LAL	Bahujan Samaj Party	1391	9	
+116	Rajasthan - Jaitaran	MANISH KUMAR CHOUDHARY	Independent	1313	10	
+116	Rajasthan - Jaitaran	SHANKAR LAL	Independent	1265	11	
+116	Rajasthan - Jaitaran	MOHAN SINGH	Hindustan Shakti Sena	966	12	
+116	Rajasthan - Jaitaran	KALURAM	Independent	966	13	
+116	Rajasthan - Jaitaran	HARISH CHAND	Hind Congress Party	850	14	
+116	Rajasthan - Jaitaran	None of the Above	None of the Above	809	15	
+116	Rajasthan - Jaitaran	BHAGWATI SINGH	Bharat Vahini Party	753	16	
+116	Rajasthan - Jaitaran	SUVA LAL	Independent	533	17	
+116	Rajasthan - Jaitaran	GOPAL SINGH	Abhinav Rajasthan Party	490	18	
+116	Rajasthan - Jaitaran	DHARAM CHAND	Independent	463	19	
+116	Rajasthan - Jaitaran	BHAGIRATH	Aam Aadmi Party	281	20	
+116	Rajasthan - Jaitaran	LADUSINGH	Bharatiya Yuva Shakti	265	21	
+117	Rajasthan - Sojat	SHOBHA CHAUHAN	Bharatiya Janata Party	80645	1	32398
+117	Rajasthan - Sojat	SHOBHA SOLANKI	Indian National Congress	48247	2	32398
+117	Rajasthan - Sojat	DILEEP KUMAR	Abhinav Rajasthan Party	3616	3	
+117	Rajasthan - Sojat	KANHAIYALAL PARIHAR	Bahujan Samaj Party	3196	4	
+117	Rajasthan - Sojat	MANAK RAM SOLANKI	Rashtriya Loktantrik Party	2638	5	
+117	Rajasthan - Sojat	RAMESHWAR CHOUHAN	Independent	2203	6	
+117	Rajasthan - Sojat	RAJESH KUMAR	Independent	1965	7	
+117	Rajasthan - Sojat	MANJU DEVI	Independent	1422	8	
+117	Rajasthan - Sojat	None of the Above	None of the Above	1387	9	
+117	Rajasthan - Sojat	AMBALAL	Bharat Vahini Party	859	10	
+117	Rajasthan - Sojat	BUDDHARAM	Independent	604	11	
+117	Rajasthan - Sojat	KAMAL KUMAR	Independent	451	12	
+117	Rajasthan - Sojat	JAGDISH	Indian Peoples Green Party	367	13	
+117	Rajasthan - Sojat	JEETARAM	Independent	322	14	
+117	Rajasthan - Sojat	DR. RAMLAL MOHBARSHA	Indian Indira Congress (R)	312	15	
+117	Rajasthan - Sojat	KISHOR MEGHWAL	Independent	263	16	
+117	Rajasthan - Sojat	ANNRAJ BHATI	Independent	173	17	
+118	Rajasthan - Pali	GYANCHAND PARAKH	Bharatiya Janata Party	75480	1	19386
+118	Rajasthan - Pali	BHEEMRAJ BHATI	Independent	56094	2	19386
+118	Rajasthan - Pali	MAHAVEER SINGH SUKARLAI	Indian National Congress	33143	3	
+118	Rajasthan - Pali	None of the Above	None of the Above	2026	4	
+118	Rajasthan - Pali	VISHAL	Independent	1938	5	
+118	Rajasthan - Pali	RAMESHWAR LAL	Bahujan Samaj Party	1141	6	
+118	Rajasthan - Pali	JAGDISH	Bhartiya Panchyat Party	964	7	
+118	Rajasthan - Pali	N. K. RAJA	Aam Aadmi Party	630	8	
+118	Rajasthan - Pali	SUBHASH GARG	Independent	549	9	
+118	Rajasthan - Pali	MOHAMMED ALI	Dalit Kranti Dal	383	10	
+119	Rajasthan - Marwar junction	KHUSHVEER SINGH	Independent	58921	1	251
+119	Rajasthan - Marwar junction	KESARAM CHOUDHARY	Bharatiya Janata Party	58670	2	251
+119	Rajasthan - Marwar junction	JASARAM RATHORE	Indian National Congress	21037	3	
+119	Rajasthan - Marwar junction	DR. RAMHARI MEENA	Bahujan Samaj Party	10242	4	
+119	Rajasthan - Marwar junction	LAXMINARAYAN DAVE	Independent	7946	5	
+119	Rajasthan - Marwar junction	None of the Above	None of the Above	2719	6	
+119	Rajasthan - Marwar junction	AMARSINGH	Shiv Sena	1103	7	
+119	Rajasthan - Marwar junction	GAVARI	Independent	984	8	
+119	Rajasthan - Marwar junction	DUNGARAM	Independent	881	9	
+119	Rajasthan - Marwar junction	KESA RAM	Independent	853	10	
+119	Rajasthan - Marwar junction	GANPAT SINGH RAJPUROHIT	AARAKSHAN VIRODHI PARTY	424	11	
+119	Rajasthan - Marwar junction	DEVARAM	Abhinav Rajasthan Party	389	12	
+119	Rajasthan - Marwar junction	DEEPAK JAIN	Aam Aadmi Party	354	13	
+120	Rajasthan - Bali	PUSHPENDRA SINGH	Bharatiya Janata Party	96238	1	28187
+120	Rajasthan - Bali	UMMED SINGH	Nationalist Congress Party	68051	2	28187
+120	Rajasthan - Bali	RAJUGIRI JI	Bharat Vahini Party	5616	3	
+120	Rajasthan - Bali	INDU CHOUDHARY	Independent	5414	4	
+120	Rajasthan - Bali	None of the Above	None of the Above	5334	5	
+120	Rajasthan - Bali	SHAILESH KUMAR MOUSALPURIYA	Independent	3479	6	
+120	Rajasthan - Bali	JAIPAL SINGH	Independent	3270	7	
+120	Rajasthan - Bali	MAHENDRA KUMAR	Abhinav Rajasthan Party	2920	8	
+120	Rajasthan - Bali	DANARAM MEENA	Bahujan Samaj Party	2796	9	
+120	Rajasthan - Bali	SURENDRA SINGH	Independent	1723	10	
+120	Rajasthan - Bali	KHARTARAM	Independent	783	11	
+120	Rajasthan - Bali	HARIRAM	Rashtriya Samaj Paksha	775	12	
+121	Rajasthan - Sumerpur	JORARAM KUMAWAT	Bharatiya Janata Party	96617	1	32932
+121	Rajasthan - Sumerpur	RANJU RAMAWAT	Indian National Congress	63685	2	32932
+121	Rajasthan - Sumerpur	NONJI	Independent	2766	3	
+121	Rajasthan - Sumerpur	SURENDRA PARMAR	Bahujan Samaj Party	2178	4	
+121	Rajasthan - Sumerpur	BHANWAR SINGH JODHA	Independent	1797	5	
+121	Rajasthan - Sumerpur	HEMRAJ MALI	Janata Dal (United)	1319	6	
+121	Rajasthan - Sumerpur	SOHAN SINGH	Independent	1004	7	
+121	Rajasthan - Sumerpur	SANTOSH	Shiv Sena	722	8	
+121	Rajasthan - Sumerpur	None of the Above	None of the Above	613	9	
+121	Rajasthan - Sumerpur	SOHANSINGH	Proutist Sarva Samaj	493	10	
+121	Rajasthan - Sumerpur	TEJ SINGH	Rashtriya Samaj Paksha	473	11	
+121	Rajasthan - Sumerpur	JABBAR SINGH	Aam Aadmi Party	469	12	
+121	Rajasthan - Sumerpur	VIKRAM	All India Hindustan Congress Party	449	13	
+121	Rajasthan - Sumerpur	RUPESH KUMAR	Bahujan Mukti Party	308	14	
+121	Rajasthan - Sumerpur	SHANKARSINGH	Bharat Vahini Party	276	15	
+121	Rajasthan - Sumerpur	IMRAN	Dalit Kranti Dal	225	16	
+121	Rajasthan - Sumerpur	KISHOR KUMAR	Naya Bharat Party	189	17	
+121	Rajasthan - Sumerpur	KAPURA RAM	Bharatiya Yuva Shakti	166	18	
+121	Rajasthan - Sumerpur	GANPATSINGH RAJPUROHIT	AARAKSHAN VIRODHI PARTY	104	19	
+122	Rajasthan - Phalodi	PABBA RAM	Bharatiya Janata Party	60735	1	8737
+122	Rajasthan - Phalodi	MAHESH KUMAR	Indian National Congress	51998	2	8737
+122	Rajasthan - Phalodi	KUMBH SINGH	Independent	48306	3	
+122	Rajasthan - Phalodi	KISHANA RAM URF KISHAN MEGHWAL	Communist Party of India (Marxist)	4318	4	
+122	Rajasthan - Phalodi	None of the Above	None of the Above	2598	5	
+122	Rajasthan - Phalodi	RAMESH CHAND SAHU	Aam Aadmi Party	2037	6	
+122	Rajasthan - Phalodi	KAMLA	Bahujan Samaj Party	1978	7	
+122	Rajasthan - Phalodi	GOPAL URF GOPALRAM	Independent	1906	8	
+122	Rajasthan - Phalodi	SUBODH URF S. L. VYAS	Independent	1180	9	
+123	Rajasthan - Lohawat	KISANA RAM VISHNOI	Indian National Congress	106084	1	40876
+123	Rajasthan - Lohawat	GAJENDRA SINGH	Bharatiya Janata Party	65208	2	40876
+123	Rajasthan - Lohawat	DR. MAGHARAM MEGHWAL	Independent	5206	3	
+123	Rajasthan - Lohawat	None of the Above	None of the Above	3574	4	
+123	Rajasthan - Lohawat	HARI RAM	Bahujan Samaj Party	1646	5	
+123	Rajasthan - Lohawat	KEWALRAM	Independent	863	6	
+123	Rajasthan - Lohawat	INDRA SINGH	Abhinav Rajasthan Party	529	7	
+123	Rajasthan - Lohawat	OMARAM	Independent	351	8	
+123	Rajasthan - Lohawat	NATHU RAM	Aam Aadmi Party	267	9	
+124	Rajasthan - Shergarh	MEENA KANWAR	Indian National Congress	99916	1	24696
+124	Rajasthan - Shergarh	BABU SINGH RATHORE	Bharatiya Janata Party	75220	2	24696
+124	Rajasthan - Shergarh	TAGA RAM BHILL	Rashtriya Loktantrik Party	11187	3	
+124	Rajasthan - Shergarh	None of the Above	None of the Above	3506	4	
+124	Rajasthan - Shergarh	PURAN PRAKASH	Independent	2855	5	
+124	Rajasthan - Shergarh	SHIVA RAM	Bahujan Samaj Party	1853	6	
+124	Rajasthan - Shergarh	KHEM SINGH	Independent	917	7	
+124	Rajasthan - Shergarh	RAJA RAM	Bharatiya Yuva Shakti	788	8	
+124	Rajasthan - Shergarh	TEJPRAKASH SINGH RAWAL	Abhinav Rajasthan Party	615	9	
+124	Rajasthan - Shergarh	JABARA RAM	Dalit Kranti Dal	462	10	
+125	Rajasthan - Osian	DIVYA MADERNA	Indian National Congress	83629	1	27590
+125	Rajasthan - Osian	BHERA RAM CHOUDHARY	Bharatiya Janata Party	56039	2	27590
+125	Rajasthan - Osian	MAHENDRASINGH BHATI	Independent	37746	3	
+125	Rajasthan - Osian	JYOTIKA	Bahujan Samaj Party	3054	4	
+125	Rajasthan - Osian	VISHEK VISHNOI	Independent	2312	5	
+125	Rajasthan - Osian	None of the Above	None of the Above	1862	6	
+126	Rajasthan - Bhopalgarh	PUKHRAJ	Rashtriya Loktantrik Party	68386	1	4962
+126	Rajasthan - Bhopalgarh	BHANWARLAL BALAI	Indian National Congress	63424	2	4962
+126	Rajasthan - Bhopalgarh	KAMSA	Bharatiya Janata Party	45802	3	
+126	Rajasthan - Bhopalgarh	GUMANRAM	Abhinav Rajasthan Party	5560	4	
+126	Rajasthan - Bhopalgarh	None of the Above	None of the Above	2632	5	
+126	Rajasthan - Bhopalgarh	SETHARAM	Independent	2285	6	
+126	Rajasthan - Bhopalgarh	RAMSUKH	Bahujan Samaj Party	2281	7	
+126	Rajasthan - Bhopalgarh	RAMPAL PARIHAR	Independent	1088	8	
+127	Rajasthan - Sardarpura	ASHOK GEHLOT	Indian National Congress	97081	1	45597
+127	Rajasthan - Sardarpura	SHAMBHU SINGH	Bharatiya Janata Party	51484	2	45597
+127	Rajasthan - Sardarpura	SHYAM LAL	Bahujan Samaj Party	927	3	
+127	Rajasthan - Sardarpura	SHAHNAJ BANO	Independent	911	4	
+127	Rajasthan - Sardarpura	None of the Above	None of the Above	753	5	
+127	Rajasthan - Sardarpura	SEMBHU RAM	Independent	622	6	
+127	Rajasthan - Sardarpura	MUKESH JANGID	Aam Aadmi Party	271	7	
+127	Rajasthan - Sardarpura	LUNARAM	Independent	231	8	
+127	Rajasthan - Sardarpura	BALDEV	Independent	160	9	
+127	Rajasthan - Sardarpura	GIRDHARI	Nationalist People's Front	156	10	
+127	Rajasthan - Sardarpura	KHERUN SOLANKI	Independent	137	11	
+127	Rajasthan - Sardarpura	BHANWAR SINGH	Bharat Vahini Party	132	12	
+127	Rajasthan - Sardarpura	MADANLAL	Independent	123	13	
+127	Rajasthan - Sardarpura	PRADEEP KUMAR GEHLOT	Independent	83	14	
+127	Rajasthan - Sardarpura	ARUN CHOUDHARY	Independent	76	15	
+127	Rajasthan - Sardarpura	PRADEEP RAM CHOUDHARY	Independent	75	16	
+127	Rajasthan - Sardarpura	NILOFAR KHAN	Dalit Kranti Dal	74	17	
+127	Rajasthan - Sardarpura	PAWAN KUMAR MEHTA	Independent	54	18	
+128	Rajasthan - Jodhpur	MANISHA PANWAR	Indian National Congress	64172	1	5849
+128	Rajasthan - Jodhpur	ATUL BHANSALI	Bharatiya Janata Party	58323	2	5849
+128	Rajasthan - Jodhpur	RAVINDRA SINGH RANAWAT	Independent	1282	3	
+128	Rajasthan - Jodhpur	None of the Above	None of the Above	1107	4	
+128	Rajasthan - Jodhpur	ANIL PANWAR	Independent	452	5	
+128	Rajasthan - Jodhpur	ANIL ACHARYA	Abhinav Rajasthan Party	391	6	
+128	Rajasthan - Jodhpur	VIJAY RAO	Independent	369	7	
+128	Rajasthan - Jodhpur	DR. ANIL UPADHYAY	Bahujan Samaj Party	347	8	
+128	Rajasthan - Jodhpur	ANIL KOTHARI	Shiv Sena	209	9	
+128	Rajasthan - Jodhpur	JABAR SINGH	Aam Aadmi Party	208	10	
+128	Rajasthan - Jodhpur	LAKHAN	Independent	162	11	
+128	Rajasthan - Jodhpur	SOHAN LAL CHOUDHARY	Bharat Vahini Party	147	12	
+128	Rajasthan - Jodhpur	VIRENDRA	Dalit Kranti Dal	147	13	
+128	Rajasthan - Jodhpur	MOHAMMED ARIF	Independent	99	14	
+128	Rajasthan - Jodhpur	GHANSHYAM MEWARA	Independent	66	15	
+128	Rajasthan - Jodhpur	ASHRAF KHAN	Independent	65	16	
+128	Rajasthan - Jodhpur	LAXMI DEVI	People’s Liberal Party	40	17	
+129	Rajasthan - Soorsagar	SURYAKANTA VYAS	Bharatiya Janata Party	86885	1	5763
+129	Rajasthan - Soorsagar	PROFESSOR AYYUB KHAN	Indian National Congress	81122	2	5763
+129	Rajasthan - Soorsagar	None of the Above	None of the Above	2294	3	
+129	Rajasthan - Soorsagar	GHASIRAM BHATI	Bahujan Samaj Party	1676	4	
+129	Rajasthan - Soorsagar	VIKAS SHARMA	Bharat Vahini Party	1009	5	
+129	Rajasthan - Soorsagar	SAMPAT PUNIYA	Independent	919	6	
+129	Rajasthan - Soorsagar	ALKA SHARMA	Aam Aadmi Party	899	7	
+129	Rajasthan - Soorsagar	JANAK SONI	Independent	580	8	
+129	Rajasthan - Soorsagar	VIRENDRA PURI	Independent	515	9	
+129	Rajasthan - Soorsagar	SAMPAT RAJ MEGHWAL	Independent	395	10	
+129	Rajasthan - Soorsagar	YOGESH	Independent	377	11	
+129	Rajasthan - Soorsagar	RAMESH	Independent	337	12	
+129	Rajasthan - Soorsagar	GANESH SINGH JODHA	Independent	186	13	
+129	Rajasthan - Soorsagar	SANDEEP GODARA	Abhinav Rajasthan Party	156	14	
+129	Rajasthan - Soorsagar	SATYANARAYAN PRAJAPAT	Republican Party of India (Reformist)	125	15	
+129	Rajasthan - Soorsagar	ANAND PRAKASH	Independent	118	16	
+130	Rajasthan - Luni	MAHENDRA VISHNOI	Indian National Congress	84979	1	9157
+130	Rajasthan - Luni	JOGARAM PATEL	Bharatiya Janata Party	75822	2	9157
+130	Rajasthan - Luni	BHANWAR LAL	Rashtriya Loktantrik Party	30662	3	
+130	Rajasthan - Luni	PAPPU SINGH	Bahujan Samaj Party	23750	4	
+130	Rajasthan - Luni	None of the Above	None of the Above	2315	5	
+130	Rajasthan - Luni	ANAND SINGH	Nationalist People's Front	1514	6	
+130	Rajasthan - Luni	MADAN DAS	Naya Bharat Party	1224	7	
+130	Rajasthan - Luni	BHALLA RAM	Independent	973	8	
+130	Rajasthan - Luni	KAILASH KUMAR	Independent	934	9	
+130	Rajasthan - Luni	PREM SINGH	Aam Aadmi Party	898	10	
+131	Rajasthan - Bilara	HEERARAM	Indian National Congress	75671	1	9618
+131	Rajasthan - Bilara	ARJUN LAL	Bharatiya Janata Party	66053	2	9618
+131	Rajasthan - Bilara	VIJENDRA JHALA	Rashtriya Loktantrik Party	37796	3	
+131	Rajasthan - Bilara	None of the Above	None of the Above	2387	4	
+131	Rajasthan - Bilara	MANGILAL	Abhinav Rajasthan Party	1952	5	
+131	Rajasthan - Bilara	PUKHRAJ SONEL	Independent	1265	6	
+132	Rajasthan - Jaisalmer	ROOPARAM	Indian National Congress	106531	1	29778
+132	Rajasthan - Jaisalmer	SANGSINGH BHATI	Bharatiya Janata Party	76753	2	29778
+132	Rajasthan - Jaisalmer	None of the Above	None of the Above	1484	3	
+132	Rajasthan - Jaisalmer	VEER SINGH BHATI	Bharat Vahini Party	1429	4	
+132	Rajasthan - Jaisalmer	RENWATA RAM	Independent	767	5	
+132	Rajasthan - Jaisalmer	BAHADUR KHAN	Independent	738	6	
+133	Rajasthan - Pokaran	SHALE MOHAMMAD	Indian National Congress	82964	1	872
+133	Rajasthan - Pokaran	PRATAPPURI	Bharatiya Janata Party	82092	2	872
+133	Rajasthan - Pokaran	PARAMARAM	Independent	2748	3	
+133	Rajasthan - Pokaran	TULCHHARAM	Bahujan Samaj Party	2187	4	
+133	Rajasthan - Pokaran	None of the Above	None of the Above	1122	5	
+133	Rajasthan - Pokaran	PUKHRAJ	Independent	956	6	
+134	Rajasthan - Sheo	AMEEN KHAN	Indian National Congress	84338	1	23554
+134	Rajasthan - Sheo	KHANGAR SINGH SODHA	Bharatiya Janata Party	60784	2	23554
+134	Rajasthan - Sheo	UDARAM MEGHWAL	Rashtriya Loktantrik Party	50944	3	
+134	Rajasthan - Sheo	NARANARAM	Bahujan Samaj Party	3316	4	
+134	Rajasthan - Sheo	None of the Above	None of the Above	3059	5	
+134	Rajasthan - Sheo	TOGA RAM	Bahujan Sangharshh Dal	2035	6	
+135	Rajasthan - Barmer	MEWARAM JAIN	Indian National Congress	97874	1	33047
+135	Rajasthan - Barmer	COL. SONARAM CHOUDHARY (RETD)	Bharatiya Janata Party	64827	2	33047
+135	Rajasthan - Barmer	RAHUL KUMAR	Independent	13678	3	
+135	Rajasthan - Barmer	NANAK DAS DHARIWAL	Communist Party of India	2488	4	
+135	Rajasthan - Barmer	RAJENDRA KUMAR	Bahujan Samaj Party	2325	5	
+135	Rajasthan - Barmer	None of the Above	None of the Above	2048	6	
+135	Rajasthan - Barmer	SHANKAR LAL	Independent	1969	7	
+135	Rajasthan - Barmer	KHARTHARAM CHOUDHARY	Abhinav Rajasthan Party	1743	8	
+135	Rajasthan - Barmer	JUGTA RAM	Independent	1462	9	
+136	Rajasthan - Baytu	HARISH CHOUDHARY	Indian National Congress	57703	1	13803
+136	Rajasthan - Baytu	UMMEDA RAM	Rashtriya Loktantrik Party	43900	2	13803
+136	Rajasthan - Baytu	KAILASH CHOUDHARY	Bharatiya Janata Party	39392	3	
+136	Rajasthan - Baytu	KISHORE SINGH	Bahujan Samaj Party	27677	4	
+136	Rajasthan - Baytu	None of the Above	None of the Above	2754	5	
+136	Rajasthan - Baytu	UMEEDA RAM AKA AMIT NAYAK	Independent	2613	6	
+136	Rajasthan - Baytu	MAGA RAM	Dalit Soshit Pichhara Varg Adhikar Dal	2259	7	
+136	Rajasthan - Baytu	PEMA RAM	Independent	1697	8	
+136	Rajasthan - Baytu	KARNARAM	Abhinav Rajasthan Party	1268	9	
+136	Rajasthan - Baytu	JOGA RAM	Aam Aadmi Party	714	10	
+136	Rajasthan - Baytu	BHANA RAM	Rashtriya Jankranti Party	701	11	
+137	Rajasthan - Pachpadra	MADAN PRAJAPAT	Indian National Congress	69393	1	2395
+137	Rajasthan - Pachpadra	AMARA RAM	Bharatiya Janata Party	66998	2	2395
+137	Rajasthan - Pachpadra	NARAYANRAM CHOUDHARY	Rashtriya Loktantrik Party	6882	3	
+137	Rajasthan - Pachpadra	SHYAMLAL	Bahujan Samaj Party	6370	4	
+137	Rajasthan - Pachpadra	HUKAM SINGH	Independent	3284	5	
+137	Rajasthan - Pachpadra	None of the Above	None of the Above	3260	6	
+137	Rajasthan - Pachpadra	PANNALAL	Shiv Sena	2698	7	
+137	Rajasthan - Pachpadra	NATHU RAM	Bharat Vahini Party	1073	8	
+137	Rajasthan - Pachpadra	MADANPURI	Independent	788	9	
+137	Rajasthan - Pachpadra	SURESH PAL	Bharatiya Yuva Shakti	640	10	
+137	Rajasthan - Pachpadra	MANGILAL	Aam Aadmi Party	400	11	
+137	Rajasthan - Pachpadra	BASANT SHARMA	Independent	314	12	
+138	Rajasthan - Siwana	HAMEER SINGH BHAYAL	Bharatiya Janata Party	50657	1	957
+138	Rajasthan - Siwana	BALARAM	Independent	49700	2	957
+138	Rajasthan - Siwana	PANKAJ PRATAP SINGH	Indian National Congress	20145	3	
+138	Rajasthan - Siwana	SATARAM	Rashtriya Loktantrik Party	19124	4	
+138	Rajasthan - Siwana	SHEITAN SINGH	Independent	2806	5	
+138	Rajasthan - Siwana	SUJARAM	Bahujan Samaj Party	2625	6	
+138	Rajasthan - Siwana	KISHAN LAL	Shiv Sena	2555	7	
+138	Rajasthan - Siwana	JABARA RAM PRAJAPAT	Aam Aadmi Party	2045	8	
+138	Rajasthan - Siwana	PRAKASH	Independent	1985	9	
+138	Rajasthan - Siwana	MOTI RAM MEGHWAL	Bahujan Mukti Party	1566	10	
+138	Rajasthan - Siwana	KANTILAL	Independent	1513	11	
+138	Rajasthan - Siwana	REWAT KUMAR	Independent	1108	12	
+138	Rajasthan - Siwana	POPAT LAL	Independent	953	13	
+138	Rajasthan - Siwana	None of the Above	None of the Above	816	14	
+138	Rajasthan - Siwana	DUNGAR SINGH ARTHANDI	Abhinav Rajasthan Party	775	15	
+138	Rajasthan - Siwana	PARAS MAL	Independent	710	16	
+138	Rajasthan - Siwana	MANOHAR SINGH	Rashtriya Samaj Paksha	564	17	
+139	Rajasthan - Gudhamalani	HEMARAM CHOUDHARY	Indian National Congress	93433	1	13564
+139	Rajasthan - Gudhamalani	LADU RAM	Bharatiya Janata Party	79869	2	13564
+139	Rajasthan - Gudhamalani	VIJAY SINGH	Rashtriya Loktantrik Party	4461	3	
+139	Rajasthan - Gudhamalani	HANUMAN CHOUDHARY	Aam Aadmi Party	3031	4	
+139	Rajasthan - Gudhamalani	PAWAN KUMAR	Bahujan Samaj Party	2920	5	
+139	Rajasthan - Gudhamalani	ADARAM MEGHWAL	Bahujan Mukti Party	2343	6	
+139	Rajasthan - Gudhamalani	None of the Above	None of the Above	2012	7	
+139	Rajasthan - Gudhamalani	BHIKHARAM PRAJAPAT	Independent	1896	8	
+139	Rajasthan - Gudhamalani	RAMARAM PRAJAPAT	Dalit Soshit Pichhara Varg Adhikar Dal	534	9	
+139	Rajasthan - Gudhamalani	LADHURAM BISHNOI	Naya Bharat Party	492	10	
+140	Rajasthan - Chohtan	PADMARAM	Indian National Congress	83601	1	4262
+140	Rajasthan - Chohtan	ADU RAM MEGHWAL	Bharatiya Janata Party	79339	2	4262
+140	Rajasthan - Chohtan	SURTA RAM MEGHWAL	Rashtriya Loktantrik Party	24036	3	
+140	Rajasthan - Chohtan	None of the Above	None of the Above	5391	4	
+140	Rajasthan - Chohtan	DHOORA RAM	Bharatiya Yuva Shakti	3625	5	
+140	Rajasthan - Chohtan	RAVINDRA KUMAR MEGHWAL	Bahujan Samaj Party	3314	6	
+140	Rajasthan - Chohtan	NAINARAM	Aam Aadmi Party	1810	7	
+141	Rajasthan - Ahore	CHHAGANSINGH	Bharatiya Janata Party	74928	1	31048
+141	Rajasthan - Ahore	SAVARAM PATEL	Indian National Congress	43880	2	31048
+141	Rajasthan - Ahore	PANKAJ	Bahujan Samaj Party	22808	3	
+141	Rajasthan - Ahore	None of the Above	None of the Above	3111	4	
+141	Rajasthan - Ahore	JAGDISH CHOUDHARY	Independent	2684	5	
+141	Rajasthan - Ahore	CHHAGNARAM	Hindustan Janta Party	1204	6	
+141	Rajasthan - Ahore	MILAP CHAND JAIN	Independent	1091	7	
+141	Rajasthan - Ahore	LAL CHAND	Independent	1021	8	
+141	Rajasthan - Ahore	NIMBARAM	Independent	644	9	
+141	Rajasthan - Ahore	BALWANT SINGH	Shiv Sena	311	10	
+141	Rajasthan - Ahore	DINESH KUMAR	Aam Aadmi Party	255	11	
+141	Rajasthan - Ahore	PRAKASH SINGH	Abhinav Rajasthan Party	189	12	
+142	Rajasthan - Jalore	JOGESHWAR GARG	Bharatiya Janata Party	95086	1	35234
+142	Rajasthan - Jalore	MANJU MEGHWAL	Indian National Congress	59852	2	35234
+142	Rajasthan - Jalore	None of the Above	None of the Above	4130	3	
+142	Rajasthan - Jalore	OM PRAKASH CHOUHAN	Bharat Vahini Party	2190	4	
+142	Rajasthan - Jalore	BHEEMARAM	Bahujan Mukti Party	1842	5	
+143	Rajasthan - Bhinmal	POORARAM CHOUDHARY	Bharatiya Janata Party	78893	1	9646
+143	Rajasthan - Bhinmal	SAMARJIT SINGH	Indian National Congress	69247	2	9646
+143	Rajasthan - Bhinmal	RAMESH	Independent	13564	3	
+143	Rajasthan - Bhinmal	KRISHAN KUMAR	Bahujan Samaj Party	6434	4	
+143	Rajasthan - Bhinmal	NANDA DEVI	Aam Aadmi Party	5535	5	
+143	Rajasthan - Bhinmal	None of the Above	None of the Above	3492	6	
+143	Rajasthan - Bhinmal	REKHARAM	Independent	2055	7	
+143	Rajasthan - Bhinmal	BHABHOOTA RAM CHOUDHARY	Independent	1297	8	
+143	Rajasthan - Bhinmal	TEEKMA RAM BHATI	Independent	710	9	
+143	Rajasthan - Bhinmal	FOJARAM	Bahujan Mukti Party	656	10	
+143	Rajasthan - Bhinmal	POORAN SINGH	Abhinav Rajasthan Party	555	11	
+143	Rajasthan - Bhinmal	KRISHAN KUMAR RAJPUROHIT	Independent	454	12	
+144	Rajasthan - Sanchore	SUKHRAM VISHNOI	Indian National Congress	84689	1	25918
+144	Rajasthan - Sanchore	DANA RAM CHOUDHARY	Bharatiya Janata Party	58771	2	25918
+144	Rajasthan - Sanchore	JIVARAM CHOUDHARY	Independent	49693	3	
+144	Rajasthan - Sanchore	RAMESH KUMAR	Bahujan Samaj Party	22496	4	
+144	Rajasthan - Sanchore	None of the Above	None of the Above	3209	5	
+144	Rajasthan - Sanchore	AMBARAM	Bahujan Mukti Party	1862	6	
+144	Rajasthan - Sanchore	MASARARAM	Independent	1703	7	
+144	Rajasthan - Sanchore	SHANKAR LAL DARJI	Independent	1617	8	
+144	Rajasthan - Sanchore	DINESH SINGH	Independent	1217	9	
+144	Rajasthan - Sanchore	SAWAI SINGH	Aam Aadmi Party	706	10	
+144	Rajasthan - Sanchore	BHARAT KUMAR	Shiv Sena	575	11	
+144	Rajasthan - Sanchore	GAJENDRA SINGH	Bharat Vahini Party	457	12	
+144	Rajasthan - Sanchore	PURARAM SUTHAR	Rashtriya Sarvjan Vikas Party	373	13	
+144	Rajasthan - Sanchore	DR. BUDHARAM VISHNOI	Abhinav Rajasthan Party	372	14	
+145	Rajasthan - Raniwara	NARAYAN SINGH DEWAL	Bharatiya Janata Party	88887	1	3405
+145	Rajasthan - Raniwara	RATAN	Indian National Congress	85482	2	3405
+145	Rajasthan - Raniwara	None of the Above	None of the Above	3148	3	
+145	Rajasthan - Raniwara	POPAT LAL MEGHWAL	Bahujan Samaj Party	2675	4	
+145	Rajasthan - Raniwara	BABU LAL	Aam Aadmi Party	2195	5	
+145	Rajasthan - Raniwara	BHARAT KUMAR MEGHWAL	Independent	1876	6	
+145	Rajasthan - Raniwara	LAKHARAM	Independent	869	7	
+145	Rajasthan - Raniwara	AMARA RAM DEWASI	Independent	630	8	
+146	Rajasthan - Sirohi	SANYAM LODHA	Independent	81272	1	10253
+146	Rajasthan - Sirohi	OTARAM DEVASI	Bharatiya Janata Party	71019	2	10253
+146	Rajasthan - Sirohi	JIVA RAM ARYA	Indian National Congress	14656	3	
+146	Rajasthan - Sirohi	None of the Above	None of the Above	2621	4	
+146	Rajasthan - Sirohi	TEJRAJ SOLANKI	Independent	1966	5	
+146	Rajasthan - Sirohi	DEEPA RAJGURU	Hindusthan Nirman Dal	1790	6	
+146	Rajasthan - Sirohi	BHERA RAM BARAR (MEGHWAL)	Independent	1184	7	
+146	Rajasthan - Sirohi	HAJA RAM MEGHWAL	Independent	1176	8	
+146	Rajasthan - Sirohi	SHANKAR SINGH	Bahujan Samaj Party	899	9	
+146	Rajasthan - Sirohi	ASLAMKHAN	Independent	449	10	
+146	Rajasthan - Sirohi	PRABHU SINGH	Abhinav Rajasthan Party	446	11	
+146	Rajasthan - Sirohi	TRIKMA RAM	Independent	261	12	
+146	Rajasthan - Sirohi	HIMMAT MAL SOLANKI	Shiv Sena	237	13	
+146	Rajasthan - Sirohi	KALU RAM	Independent	235	14	
+146	Rajasthan - Sirohi	PINTU KUMAR	Aam Aadmi Party	166	15	
+146	Rajasthan - Sirohi	PAPI DAVI	Bharatiya Yuva Shakti	107	16	
+147	Rajasthan - Pindwara abu	SAMA RAM GRASIYA	Bharatiya Janata Party	69360	1	26974
+147	Rajasthan - Pindwara abu	LALA RAM GRASIYA	Indian National Congress	42386	2	26974
+147	Rajasthan - Pindwara abu	MAGAN LAL	Shiv Sena	6658	3	
+147	Rajasthan - Pindwara abu	GOURI SHANKAR	Bhartiya Tribal Party	5137	4	
+147	Rajasthan - Pindwara abu	None of the Above	None of the Above	4702	5	
+147	Rajasthan - Pindwara abu	RATARAM	Independent	3983	6	
+147	Rajasthan - Pindwara abu	REVAT KUMAR	Independent	2650	7	
+147	Rajasthan - Pindwara abu	DALPATRAM	Bahujan Samaj Party	2208	8	
+147	Rajasthan - Pindwara abu	KESARMAL	Independent	1549	9	
+147	Rajasthan - Pindwara abu	KAPOORA RAM MEENA	Independent	918	10	
+148	Rajasthan - Reodar	JAGASI RAM	Bharatiya Janata Party	87861	1	14604
+148	Rajasthan - Reodar	NEERAJ DANGI	Indian National Congress	73257	2	14604
+148	Rajasthan - Reodar	None of the Above	None of the Above	6108	3	
+148	Rajasthan - Reodar	NARAYAN LAL	Independent	3328	4	
+148	Rajasthan - Reodar	RADHESHYAM	Bahujan Samaj Party	2395	5	
+148	Rajasthan - Reodar	SUKHRAJ	Aam Aadmi Party	1817	6	
+148	Rajasthan - Reodar	HEERA LAL	Shiv Sena	1342	7	
+148	Rajasthan - Reodar	SHIVLAL JEENGAR	Bharatiya Yuva Shakti	712	8	
+149	Rajasthan - Gogunda	PRATAP LAL BHEEL (GAMETI)	Bharatiya Janata Party	82307	1	4411
+149	Rajasthan - Gogunda	DR. MANGI LAL GARASIYA	Indian National Congress	77896	2	4411
+149	Rajasthan - Gogunda	LAHARA BHIL	Communist Party of India	4364	3	
+149	Rajasthan - Gogunda	None of the Above	None of the Above	4169	4	
+149	Rajasthan - Gogunda	CHAMPARAM	Bahujan Samaj Party	3700	5	
+149	Rajasthan - Gogunda	BATTI LAL MEENA	Independent	3272	6	
+149	Rajasthan - Gogunda	BIRDHI LAL CHHANWAL	Independent	2405	7	
+149	Rajasthan - Gogunda	PRAKASH KUMAR	Janta Sena Rajasthan	1457	8	
+149	Rajasthan - Gogunda	REKHA BHEEL	Aam Aadmi Party	877	9	
+150	Rajasthan - Jhadol	BABU LAL	Bharatiya Janata Party	87527	1	12947
+150	Rajasthan - Jhadol	SUNIL KUMAR BHAJAT	Indian National Congress	74580	2	12947
+150	Rajasthan - Jhadol	SHANKAR LAL PARGI	Communist Party of India (Marxist)	10498	3	
+150	Rajasthan - Jhadol	None of the Above	None of the Above	7457	4	
+150	Rajasthan - Jhadol	SOHAN LAL	Independent	6209	5	
+150	Rajasthan - Jhadol	NIMA LAL	Bahujan Samaj Party	5757	6	
+150	Rajasthan - Jhadol	LADURAM	Aam Aadmi Party	4584	7	
+151	Rajasthan - Kherwara	DAYARAM PARMAR	Indian National Congress	93155	1	24991
+151	Rajasthan - Kherwara	NANALAL AHARI	Bharatiya Janata Party	68164	2	24991
+151	Rajasthan - Kherwara	PRAVEEN KUMAR PARMAR	Bhartiya Tribal Party	20383	3	
+151	Rajasthan - Kherwara	None of the Above	None of the Above	5899	4	
+151	Rajasthan - Kherwara	SAVITA	Bahujan Samaj Party	2470	5	
+151	Rajasthan - Kherwara	SAVITA PARMAR	Aam Aadmi Party	2206	6	
+152	Rajasthan - Udaipur Rural	PHOOL SINGH MEENA	Bharatiya Janata Party	97382	1	18707
+152	Rajasthan - Udaipur Rural	VIVEK KATARA	Indian National Congress	78675	2	18707
+152	Rajasthan - Udaipur Rural	None of the Above	None of the Above	4108	3	
+152	Rajasthan - Udaipur Rural	GHANSHYAM SINGH TAWAR	Communist Party of India	4055	4	
+152	Rajasthan - Udaipur Rural	PRABHU LAL MEENA	Bahujan Mukti Party	2092	5	
+152	Rajasthan - Udaipur Rural	LAXMAN	Bahujan Samaj Party	1737	6	
+152	Rajasthan - Udaipur Rural	SOMESHWER MEENA	Janta Sena Rajasthan	1521	7	
+153	Rajasthan - Udaipur	GULAB CHAND KATARIA	Bharatiya Janata Party	74660	1	9307
+153	Rajasthan - Udaipur	GIRIJA VYAS	Indian National Congress	65353	2	9307
+153	Rajasthan - Udaipur	PRAVEEN RATLIA	Independent	10890	3	
+153	Rajasthan - Udaipur	DALPAT SINGH SURANA	Janta Sena Rajasthan	3741	4	
+153	Rajasthan - Udaipur	None of the Above	None of the Above	2051	5	
+153	Rajasthan - Udaipur	BHARAT KUMAWAT	Aam Aadmi Party	531	6	
+153	Rajasthan - Udaipur	PUSHKAR LAL	Bahujan Samaj Party	465	7	
+153	Rajasthan - Udaipur	RAJESH VAISHNAV	Independent	385	8	
+153	Rajasthan - Udaipur	DIMPLE RATHORE	Shiv Sena	220	9	
+153	Rajasthan - Udaipur	RAMCHANDRA SALVI	Janata Dal (Secular)	137	10	
+153	Rajasthan - Udaipur	DAULAT RAM SAHU	Independent	132	11	
+153	Rajasthan - Udaipur	KALU LAL SALVI	Independent	106	12	
+154	Rajasthan - Mavli	DHARMNARAYAN JOSHI	Bharatiya Janata Party	99723	1	26978
+154	Rajasthan - Mavli	PUSHKAR LAL DANGI	Indian National Congress	72745	2	26978
+154	Rajasthan - Mavli	None of the Above	None of the Above	2919	3	
+154	Rajasthan - Mavli	JEEVRAJ	Communist Party of India	2167	4	
+154	Rajasthan - Mavli	CHUNNILAL	Bahujan Samaj Party	2086	5	
+154	Rajasthan - Mavli	TULSIRAM BHIL	Rajasthan Janta Party	1843	6	
+154	Rajasthan - Mavli	VIJAY SHARMA	Bharat Vahini Party	1750	7	
+154	Rajasthan - Mavli	MADAN LAL	Shiv Sena	1291	8	
+154	Rajasthan - Mavli	DEVI LAL GAYRI	Independent	861	9	
+154	Rajasthan - Mavli	PREM SHANKAR	Aam Aadmi Party	621	10	
+155	Rajasthan - Vallabh Nagar	GAJENDRA SINGH SHAKTAWAT	Indian National Congress	66306	1	3719
+155	Rajasthan - Vallabh Nagar	M. RANDHIR SINGH BHINDER	Janta Sena Rajasthan	62587	2	3719
+155	Rajasthan - Vallabh Nagar	UDAI LAL DANGI	Bharatiya Janata Party	46667	3	
+155	Rajasthan - Vallabh Nagar	BABARU MEENA	Independent	4538	4	
+155	Rajasthan - Vallabh Nagar	None of the Above	None of the Above	2813	5	
+155	Rajasthan - Vallabh Nagar	MUKESH	Bahujan Samaj Party	2366	6	
+155	Rajasthan - Vallabh Nagar	DUDA DANGI	Independent	1406	7	
+155	Rajasthan - Vallabh Nagar	PANNA LAL	Shiv Sena	1366	8	
+156	Rajasthan - Salumber	AMRIT LAL MEENA	Bharatiya Janata Party	87472	1	21918
+156	Rajasthan - Salumber	RAGUVIR SINGH	Indian National Congress	65554	2	21918
+156	Rajasthan - Salumber	RESHMA MEENA	Independent	14329	3	
+156	Rajasthan - Salumber	None of the Above	None of the Above	5561	4	
+156	Rajasthan - Salumber	GOVIND KALASUYA	Communist Party of India	3562	5	
+156	Rajasthan - Salumber	LALURAM BHIL	All India Hindustan Congress Party	2891	6	
+156	Rajasthan - Salumber	SOMA LAL MEENA	Bahujan Samaj Party	2495	7	
+156	Rajasthan - Salumber	LAL CHAND MEENA	Bharatiya Yuva Shakti	628	8	
+156	Rajasthan - Salumber	GANGA DEVI	Janta Sena Rajasthan	606	9	
+156	Rajasthan - Salumber	LAXMAN LAL	Shiv Sena	586	10	
+156	Rajasthan - Salumber	DEVI LAL MEENA	Communist Party of India (Marxist-Leninist) (Liberation)	535	11	
+157	Rajasthan - Dhariyawad	GOTAM LAL	Bharatiya Janata Party	96457	1	23842
+157	Rajasthan - Dhariyawad	NAGRAJ	Indian National Congress	72615	2	23842
+157	Rajasthan - Dhariyawad	None of the Above	None of the Above	5769	3	
+157	Rajasthan - Dhariyawad	BHAGWAN LAL	Communist Party of India	5280	4	
+157	Rajasthan - Dhariyawad	KESULAL	Bahujan Samaj Party	4465	5	
+157	Rajasthan - Dhariyawad	BHERU LAL	Bhartiya Tribal Party	4406	6	
+157	Rajasthan - Dhariyawad	GAUTAMA LAL MEENA	Communist Party of India (Marxist-Leninist) (Liberation)	2124	7	
+157	Rajasthan - Dhariyawad	SHANKER LAL	Bharatiya Yuva Shakti	2117	8	
+157	Rajasthan - Dhariyawad	NAGENDRA	Janta Sena Rajasthan	1044	9	
+158	Rajasthan - Dungarpur	GANESH GHOGRA	Indian National Congress	75482	1	27898
+158	Rajasthan - Dungarpur	MADHAVLAL VARAHAT	Bharatiya Janata Party	47584	2	27898
+158	Rajasthan - Dungarpur	VELARAM	Bhartiya Tribal Party	13004	3	
+158	Rajasthan - Dungarpur	DEVENDRA KATARA	Independent	8633	4	
+158	Rajasthan - Dungarpur	GOTAMLAL	Communist Party of India (Marxist)	7644	5	
+158	Rajasthan - Dungarpur	None of the Above	None of the Above	4720	6	
+158	Rajasthan - Dungarpur	AMRUTLAL	Bahujan Samaj Party	3464	7	
+158	Rajasthan - Dungarpur	MAYA	All India Hindustan Congress Party	2367	8	
+159	Rajasthan - Aspur	GOPICHAND MEENA	Bharatiya Janata Party	57062	1	5330
+159	Rajasthan - Aspur	UMESH	Bhartiya Tribal Party	51732	2	5330
+159	Rajasthan - Aspur	RAIYA MEENA	Indian National Congress	42185	3	
+159	Rajasthan - Aspur	None of the Above	None of the Above	4426	4	
+159	Rajasthan - Aspur	SHANTA KALASUA	Bahujan Samaj Party	2996	5	
+159	Rajasthan - Aspur	SHIVLAL MAIDA	Independent	2121	6	
+159	Rajasthan - Aspur	DEVILAL MEENA	Bharatiya Yuva Shakti	1942	7	
+160	Rajasthan - Sagwara	RAMPRASAD	Bhartiya Tribal Party	58406	1	4582
+160	Rajasthan - Sagwara	SHANKARLAL	Bharatiya Janata Party	53824	2	4582
+160	Rajasthan - Sagwara	SURENDRA KUMAR	Indian National Congress	41852	3	
+160	Rajasthan - Sagwara	ANITA	Independent	10140	4	
+160	Rajasthan - Sagwara	DALJI	Bahujan Samaj Party	4173	5	
+160	Rajasthan - Sagwara	None of the Above	None of the Above	3313	6	
+160	Rajasthan - Sagwara	MAN SINGH	Independent	2181	7	
+161	Rajasthan - Chorasi	RAJKUMAR ROAT	Bhartiya Tribal Party	64119	1	12934
+161	Rajasthan - Chorasi	SUSHIL KATARA	Bharatiya Janata Party	51185	2	12934
+161	Rajasthan - Chorasi	MANJULA DEVI ROAT	Indian National Congress	35915	3	
+161	Rajasthan - Chorasi	None of the Above	None of the Above	4692	4	
+161	Rajasthan - Chorasi	JAYPRAKASH ROAT	Independent	2314	5	
+161	Rajasthan - Chorasi	KANHAIYALAL KALASUA	Bahujan Mukti Party	2180	6	
+161	Rajasthan - Chorasi	VIJAYAPAL ROAT	Bahujan Samaj Party	2047	7	
+161	Rajasthan - Chorasi	NITESH PARMAR	Naya Bharat Party	1800	8	
+161	Rajasthan - Chorasi	KANTILAL BHAMAT	Independent	1796	9	
+161	Rajasthan - Chorasi	LAXMAN DAMOR	Independent	1733	10	
+162	Rajasthan - Ghatol	HARENDRA NINAMA	Bharatiya Janata Party	101121	1	4449
+162	Rajasthan - Ghatol	NANALAL NINAMA	Indian National Congress	96672	2	4449
+162	Rajasthan - Ghatol	None of the Above	None of the Above	4857	3	
+162	Rajasthan - Ghatol	NARESH KUMAR	Bhartiya Tribal Party	4660	4	
+162	Rajasthan - Ghatol	NAVNEET LAL NINAMA	Independent	3899	5	
+162	Rajasthan - Ghatol	LAKSHAMAN	Bahujan Samaj Party	3135	6	
+162	Rajasthan - Ghatol	BAPUDA NINAMA	Independent	1636	7	
+162	Rajasthan - Ghatol	MADAN LAL	Independent	1371	8	
+162	Rajasthan - Ghatol	NATHU LAL	Janata Dal (United)	912	9	
+163	Rajasthan - Garhi	KAILASH CHANDRA MEENA	Bharatiya Janata Party	99350	1	24401
+163	Rajasthan - Garhi	KANTA BHIL	Indian National Congress	74949	2	24401
+163	Rajasthan - Garhi	RAJU	Bhartiya Tribal Party	23093	3	
+163	Rajasthan - Garhi	None of the Above	None of the Above	4619	4	
+163	Rajasthan - Garhi	CHETAN	Bahujan Samaj Party	2618	5	
+163	Rajasthan - Garhi	DEVILAL DAMOR	Aam Aadmi Party	1159	6	
+164	Rajasthan - Banswara	ARJUN SINGH BAMNIYA	Indian National Congress	88447	1	18366
+164	Rajasthan - Banswara	HAKRU MAIDA	Bharatiya Janata Party	70081	2	18366
+164	Rajasthan - Banswara	DHAN SINGH RAWAT	Independent	32950	3	
+164	Rajasthan - Banswara	DHIRAJMAL DINDOR	Janata Dal (United)	5009	4	
+164	Rajasthan - Banswara	None of the Above	None of the Above	3910	5	
+164	Rajasthan - Banswara	SHANTA	Bahujan Samaj Party	2223	6	
+164	Rajasthan - Banswara	RUPCHAND RAWAT	Independent	1258	7	
+165	Rajasthan - Bagidora	MAHENDRAJEET SINGH MALVIYA	Indian National Congress	97638	1	21310
+165	Rajasthan - Bagidora	KHEMRAJ GARASIYA	Bharatiya Janata Party	76328	2	21310
+165	Rajasthan - Bagidora	KAMALKANT KATARA	Bhartiya Tribal Party	9538	3	
+165	Rajasthan - Bagidora	None of the Above	None of the Above	5581	4	
+165	Rajasthan - Bagidora	RATAN	Bahujan Samaj Party	3309	5	
+165	Rajasthan - Bagidora	JAHU	Independent	2837	6	
+165	Rajasthan - Bagidora	KAMALKISHOR PARGI	Independent	1364	7	
+165	Rajasthan - Bagidora	VALARAM	Janata Dal (United)	1267	8	
+166	Rajasthan - Kushalgarh	RAMILA KHADIYA	Independent	94344	1	18950
+166	Rajasthan - Kushalgarh	BHIMA BHAI	Bharatiya Janata Party	75394	2	18950
+166	Rajasthan - Kushalgarh	None of the Above	None of the Above	11002	3	
+166	Rajasthan - Kushalgarh	CHAGAN	Bahujan Samaj Party	6016	4	
+166	Rajasthan - Kushalgarh	DEVCHAND MAVI	Independent	3011	5	
+166	Rajasthan - Kushalgarh	DINESH	Abhinav Rajasthan Party	2527	6	
+166	Rajasthan - Kushalgarh	FATEH SINGH	Loktantrik Janta Dal	2281	7	
+166	Rajasthan - Kushalgarh	NARESH	Independent	1709	8	
+166	Rajasthan - Kushalgarh	ASHOK	Independent	1616	9	
+167	Rajasthan - Kapasan	ARJUN LAL JINGAR	Bharatiya Janata Party	81470	1	7002
+167	Rajasthan - Kapasan	ANANDI RAM	Indian National Congress	74468	2	7002
+167	Rajasthan - Kapasan	SHANTI LAL	Rashtriya Loktantrik Party	27464	3	
+167	Rajasthan - Kapasan	None of the Above	None of the Above	3329	4	
+167	Rajasthan - Kapasan	CHUNNI LAL	Bahujan Samaj Party	1833	5	
+167	Rajasthan - Kapasan	DEVI LAL	Independent	1706	6	
+167	Rajasthan - Kapasan	SANTOSH KUMAR	Bharatiya Yuva Shakti	1349	7	
+167	Rajasthan - Kapasan	MADU	Aam Aadmi Party	698	8	
+167	Rajasthan - Kapasan	BADRI LAL	Shiv Sena	613	9	
+167	Rajasthan - Kapasan	SURESH CHANDRA	Communist Party of India (Marxist)	586	10	
+167	Rajasthan - Kapasan	PANNALAL	Janta Sena Rajasthan	395	11	
+168	Rajasthan - Begun	BIDHURI RAJENDRA SINGH	Indian National Congress	99259	1	1661
+168	Rajasthan - Begun	DR. SURESH DHAKER	Bharatiya Janata Party	97598	2	1661
+168	Rajasthan - Begun	GOPALLAL BHIL	Independent	10919	3	
+168	Rajasthan - Begun	None of the Above	None of the Above	3165	4	
+168	Rajasthan - Begun	RAMESHVAR LAL BAIRVA	Bahujan Samaj Party	2050	5	
+168	Rajasthan - Begun	GOPAL LAL GURJAR	Lok Jan Shakti Party	1497	6	
+168	Rajasthan - Begun	LAL SINGH CHOUHAN	Janta Sena Rajasthan	1426	7	
+168	Rajasthan - Begun	DEVI LAL JANGAM	Aam Aadmi Party	551	8	
+168	Rajasthan - Begun	PRABHU LAL GURJAR	Bharatiya Yuva Shakti	479	9	
+169	Rajasthan - Chittorgarh	CHANDRABHAN SINGH AAKYA	Bharatiya Janata Party	106563	1	23894
+169	Rajasthan - Chittorgarh	SURENDRA SINGH JADAWAT	Indian National Congress	82669	2	23894
+169	Rajasthan - Chittorgarh	MANGI LAL BAIRWA	Communist Party of India	2281	3	
+169	Rajasthan - Chittorgarh	None of the Above	None of the Above	2012	4	
+169	Rajasthan - Chittorgarh	ALAUDDIN	Bahujan Samaj Party	1730	5	
+169	Rajasthan - Chittorgarh	GOPAL SINGH RATHORE	Aam Aadmi Party	1574	6	
+169	Rajasthan - Chittorgarh	VISHNU SEN	Independent	1284	7	
+169	Rajasthan - Chittorgarh	JABBAR KHAN	Independent	909	8	
+169	Rajasthan - Chittorgarh	FARUK HUSAIN	Independent	493	9	
+170	Rajasthan - Nimbahera	ANJANA UDAILAL	Indian National Congress	110037	1	11908
+170	Rajasthan - Nimbahera	SHRICHAND KRIPLANI	Bharatiya Janata Party	98129	2	11908
+170	Rajasthan - Nimbahera	None of the Above	None of the Above	3701	3	
+170	Rajasthan - Nimbahera	SHAKIR MIYAN	Independent	2635	4	
+170	Rajasthan - Nimbahera	RAMESHCHANDRA KUMAWAT	Bahujan Samaj Party	1508	5	
+170	Rajasthan - Nimbahera	ISHWAR PRATAP SINGH	Bharat Vahini Party	1059	6	
+170	Rajasthan - Nimbahera	SAGARMAL	Independent	667	7	
+170	Rajasthan - Nimbahera	GULABCHAND SAHLOT	Independent	371	8	
+170	Rajasthan - Nimbahera	MEGHRAJ JAT	Rashtriya Loktantrik Party	282	9	
+170	Rajasthan - Nimbahera	KANHAIYA LAL MALI	Maharana Kranti Party	177	10	
+170	Rajasthan - Nimbahera	KANHAIYALAL MEGHWAL	Independent	151	11	
+170	Rajasthan - Nimbahera	SATYANARAYAN SHARMA	Aam Aadmi Party	137	12	
+170	Rajasthan - Nimbahera	MD. RAFIK	Lok Jan Shakti Party	130	13	
+170	Rajasthan - Nimbahera	ER. RAM KUMAR CHAWALA	Bahujan Mukti Party	125	14	
+171	Rajasthan - Bari sadri	LALIT KUMAR OSTWAL	Bharatiya Janata Party	97111	1	8810
+171	Rajasthan - Bari sadri	PRAKASH CHOUDHARY	Indian National Congress	88301	2	8810
+171	Rajasthan - Bari sadri	CHAMAN PAL SINGH	Bahujan Samaj Party	3704	3	
+171	Rajasthan - Bari sadri	None of the Above	None of the Above	3563	4	
+171	Rajasthan - Bari sadri	MAHENDRA SINGH	Independent	2951	5	
+171	Rajasthan - Bari sadri	VINOD KUMAR BHOI	Independent	2181	6	
+171	Rajasthan - Bari sadri	DILIP KUMAR SONI	Anjuman Party	1901	7	
+171	Rajasthan - Bari sadri	GOVIND KUMAR TELI	Independent	646	8	
+171	Rajasthan - Bari sadri	DORAN KHAN	Indian New Congress Party	430	9	
+171	Rajasthan - Bari sadri	GULAB CHAND SEHLOT	Independent	313	10	
+171	Rajasthan - Bari sadri	RAMESH CHANDRA SETHIYA	United National Party	239	11	
+171	Rajasthan - Bari sadri	NEPAL SINGH RATHORE	Janta Sena Rajasthan	238	12	
+172	Rajasthan - Pratapgarh	RAMLAL	Indian National Congress	100625	1	16680
+172	Rajasthan - Pratapgarh	HEMANT	Bharatiya Janata Party	83945	2	16680
+172	Rajasthan - Pratapgarh	None of the Above	None of the Above	2665	3	
+172	Rajasthan - Pratapgarh	GANESH LAL	Bahujan Samaj Party	2378	4	
+172	Rajasthan - Pratapgarh	DHARAM CHAND	Bharatiya Yuva Shakti	1943	5	
+172	Rajasthan - Pratapgarh	NARAYAN LAL	Independent	1864	6	
+172	Rajasthan - Pratapgarh	JAGDISH CHANDRA MEENA	Independent	1259	7	
+173	Rajasthan - Bhim	SUDARSHAN SINGH RAWAT	Indian National Congress	49355	1	3714
+173	Rajasthan - Bhim	HARI SINGH CHOUHAN (RAWAT)	Bharatiya Janata Party	45641	2	3714
+173	Rajasthan - Bhim	AJAY SONI	Independent	35722	3	
+173	Rajasthan - Bhim	None of the Above	None of the Above	1904	4	
+173	Rajasthan - Bhim	HARI SINGH S/O PANNA SINGH	Independent	1414	5	
+173	Rajasthan - Bhim	DEVI LAL NAGODA	Bahujan Samaj Party	1215	6	
+173	Rajasthan - Bhim	NAINA SINGH CHAUHAN ADVOCATE	Bharat Vahini Party	1071	7	
+173	Rajasthan - Bhim	HARI SINGH S/O SOHAN SINGH	Independent	964	8	
+173	Rajasthan - Bhim	KHEEMARAM SALVI	Independent	542	9	
+173	Rajasthan - Bhim	FATEH SINGH CHAUHAN	Aam Aadmi Party	528	10	
+173	Rajasthan - Bhim	LAXMAN LAL SALVI	Independent	519	11	
+173	Rajasthan - Bhim	YASHWANTSINGH	Independent	463	12	
+173	Rajasthan - Bhim	BALUSINGH RAWAT	Janata Dal (United)	417	13	
+173	Rajasthan - Bhim	BABU SINGH	Independent	309	14	
+174	Rajasthan - Kumbhalgarh	SURENDRA SINGH RATHORE	Bharatiya Janata Party	70803	1	18443
+174	Rajasthan - Kumbhalgarh	GANESH SINGH	Indian National Congress	52360	2	18443
+174	Rajasthan - Kumbhalgarh	NARSINGH BHIL	Independent	5652	3	
+174	Rajasthan - Kumbhalgarh	None of the Above	None of the Above	3307	4	
+174	Rajasthan - Kumbhalgarh	NARAYAN LAL BALAI	Bahujan Samaj Party	2436	5	
+174	Rajasthan - Kumbhalgarh	BHANWAR LAL GURJAR	Aam Aadmi Party	1688	6	
+174	Rajasthan - Kumbhalgarh	MOHAN SINGH RAWAT	Independent	947	7	
+174	Rajasthan - Kumbhalgarh	JAGDISH DAS	Independent	862	8	
+174	Rajasthan - Kumbhalgarh	ROSHAN LAL BHIL	Bhartiya Tribal Party	622	9	
+174	Rajasthan - Kumbhalgarh	GAJENDRA SINGH SISODIA	Independent	364	10	
+174	Rajasthan - Kumbhalgarh	SHYAM PRASAD JAIN	Bharat Vahini Party	348	11	
+174	Rajasthan - Kumbhalgarh	SATTU GURJAR	Bharatiya Yuva Shakti	211	12	
+175	Rajasthan - Rajsamand	KIRAN MAHESHWARI	Bharatiya Janata Party	89709	1	24623
+175	Rajasthan - Rajsamand	NARAYAN SINGH BHATI	Indian National Congress	65086	2	24623
+175	Rajasthan - Rajsamand	None of the Above	None of the Above	3109	3	
+175	Rajasthan - Rajsamand	HARISH SINGH THAKUR	Independent	1408	4	
+175	Rajasthan - Rajsamand	LAXMAN LAL SANWARIYA	Bahujan Samaj Party	1355	5	
+175	Rajasthan - Rajsamand	PANKAJ KUMAR VYAS	Rashtriya Loktantrik Party	703	6	
+175	Rajasthan - Rajsamand	DINESH CHANDRA KUMAWAT	Independent	398	7	
+175	Rajasthan - Rajsamand	JITENDRA KUMAR KHATIK	Independent	263	8	
+175	Rajasthan - Rajsamand	MANOJ KUMAR	Shiv Sena	229	9	
+175	Rajasthan - Rajsamand	SHAMBU PRAJAPAT	Bharatiya Jan Kranti Dal (Democratic)	200	10	
+175	Rajasthan - Rajsamand	PRAKASH CHANDRA JAIN	Aam Aadmi Party	199	11	
+175	Rajasthan - Rajsamand	MUKESH KUMAR KUMAWAT	Bharat Vahini Party	153	12	
+176	Rajasthan - Nathdwara	C. P. JOSHI	Indian National Congress	88384	1	16940
+176	Rajasthan - Nathdwara	MAHESH PRATAP SINGH	Bharatiya Janata Party	71444	2	16940
+176	Rajasthan - Nathdwara	None of the Above	None of the Above	4248	3	
+176	Rajasthan - Nathdwara	LAXMI LAL MALI	Independent	2531	4	
+176	Rajasthan - Nathdwara	BABU LAL SALVI	Bahujan Samaj Party	2235	5	
+176	Rajasthan - Nathdwara	RAGHUNANDAN	Communist Party of India	2015	6	
+176	Rajasthan - Nathdwara	SURYAPRAKASH	Independent	934	7	
+176	Rajasthan - Nathdwara	JITENDRA KUMAR KHATIK	Independent	587	8	
+176	Rajasthan - Nathdwara	ARJUN LAL NAYAK	Bharatiya Yuva Shakti	267	9	
+176	Rajasthan - Nathdwara	VIKAS SANADHYA	Manvadhikar National Party	192	10	
+176	Rajasthan - Nathdwara	PRAKASH BHARTI	Aam Aadmi Party	187	11	
+176	Rajasthan - Nathdwara	MANOJ MENARIYA	Bharatiya Jan Kranti Dal (Democratic)	164	12	
+176	Rajasthan - Nathdwara	MAHIPAL SINGH	Bharat Vahini Party	148	13	
+177	Rajasthan - Asind	JABBAR SINGH SANKHALA	Bharatiya Janata Party	70249	1	154
+177	Rajasthan - Asind	MANISH MEWARA	Indian National Congress	70095	2	154
+177	Rajasthan - Asind	MANSUKH SINGH	Rashtriya Loktantrik Party	42070	3	
+177	Rajasthan - Asind	DHANNA LAL SALVI	Bahujan Samaj Party	6092	4	
+177	Rajasthan - Asind	None of the Above	None of the Above	2943	5	
+177	Rajasthan - Asind	RAM KUMAR MALI	Bharatiya Yuva Shakti	2597	6	
+177	Rajasthan - Asind	JAGDISH	Aam Aadmi Party	2001	7	
+177	Rajasthan - Asind	DEVI SINGH	Rashtriya Krantikari Samajwadi Party	880	8	
+177	Rajasthan - Asind	RADHESHYAM VAISHNAV	Ambedkar Samaj Party	853	9	
+177	Rajasthan - Asind	MAHVEER PRASAD	Independent	792	10	
+177	Rajasthan - Asind	JAGDISH SHARMA	Bharat Vahini Party	664	11	
+178	Rajasthan - Mandal	RAMLAL JAT	Indian National Congress	59645	1	8065
+178	Rajasthan - Mandal	PRADHYUMAN SINGH (HAPPY BANNA)	Independent	51580	2	8065
+178	Rajasthan - Mandal	KALULAL GURJAR	Bharatiya Janata Party	47726	3	
+178	Rajasthan - Mandal	UDAILAL BHADANA	Independent	23147	4	
+178	Rajasthan - Mandal	None of the Above	None of the Above	3161	5	
+178	Rajasthan - Mandal	SUA LAL	Independent	1924	6	
+178	Rajasthan - Mandal	SHIVLAL GURJAR	Bahujan Samaj Party	1735	7	
+178	Rajasthan - Mandal	FIRDOSH KHAN	Independent	1082	8	
+178	Rajasthan - Mandal	BALU LAL GADRI	Independent	792	9	
+179	Rajasthan - Sahara	KAILASH CHANDRA TRIVEDI	Indian National Congress	65420	1	7006
+179	Rajasthan - Sahara	ROOP LAL JAT	Bharatiya Janata Party	58414	2	7006
+179	Rajasthan - Sahara	LADU LAL PITLIA	Independent	30573	3	
+179	Rajasthan - Sahara	BHAGWATI LAL	Independent	5101	4	
+179	Rajasthan - Sahara	KAILASH GEHLOT	Communist Party of India	3642	5	
+179	Rajasthan - Sahara	None of the Above	None of the Above	3055	6	
+179	Rajasthan - Sahara	HIRALAL KHAROL	Independent	2478	7	
+179	Rajasthan - Sahara	GOVIND KUMAR BAIRWA	Bahujan Samaj Party	2231	8	
+179	Rajasthan - Sahara	RAMESHWAR LAL JOSHI	Independent	1740	9	
+179	Rajasthan - Sahara	KISHANDAS VAISHNAV	Shiv Sena	1408	10	
+179	Rajasthan - Sahara	GAJRAJ MEENA	Bharatiya Yuva Shakti	559	11	
+180	Rajasthan - Bhilwara	VITTHAL SHANKAR AWASTHI	Bharatiya Janata Party	93198	1	49578
+180	Rajasthan - Bhilwara	OM PRAKASH NARANIWAL	Independent	43620	2	49578
+180	Rajasthan - Bhilwara	ANIL DANGI	Indian National Congress	18941	3	
+180	Rajasthan - Bhilwara	ABDUL SALAM ANSARI	SOCIAL DEMOCRATIC PARTY OF INDIA	8468	4	
+180	Rajasthan - Bhilwara	JASPAL SINGH BHATI	Independent	3762	5	
+180	Rajasthan - Bhilwara	SUNIL AGIWAL	Aam Aadmi Party	1388	6	
+180	Rajasthan - Bhilwara	None of the Above	None of the Above	1198	7	
+180	Rajasthan - Bhilwara	SANGRAM SINGH ANCHLIA	Independent	714	8	
+180	Rajasthan - Bhilwara	PAWAN KUMAR SHARMA	Independent	607	9	
+180	Rajasthan - Bhilwara	CHITRANJAN PANDEY	Independent	564	10	
+180	Rajasthan - Bhilwara	SHANKAR LAL SEN	Bahujan Samaj Party	529	11	
+180	Rajasthan - Bhilwara	SUSHIL KUMAR NUWAL	Independent	488	12	
+180	Rajasthan - Bhilwara	GOPAL LAL TELI	Independent	439	13	
+180	Rajasthan - Bhilwara	MANJU MASIHI	Ambedkarite Party of India	422	14	
+180	Rajasthan - Bhilwara	ASHISH JOSHI	Shiv Sena	228	15	
+180	Rajasthan - Bhilwara	KISHAN LAL VYAS	Independent	207	16	
+180	Rajasthan - Bhilwara	IRFAN SHAIKH	Lok Jan Shakti Party	154	17	
+180	Rajasthan - Bhilwara	MANISH KUMAR	Naya Bharat Party	152	18	
+181	Rajasthan - Shahpura	KAILASH CHANDRA MEGHWAL	Bharatiya Janata Party	101451	1	74542
+181	Rajasthan - Shahpura	MAHAVEER PRASAD	Indian National Congress	26909	2	74542
+181	Rajasthan - Shahpura	RAJKUMAR BAIRWA	Independent	24482	3	
+181	Rajasthan - Shahpura	DEBI LAL MEGHVNSHI	Rashtriya Loktantrik Party	5376	4	
+181	Rajasthan - Shahpura	None of the Above	None of the Above	4756	5	
+181	Rajasthan - Shahpura	RAMDAYAL REGAR	Bahujan Samaj Party	1610	6	
+181	Rajasthan - Shahpura	SHANKAR	Independent	1552	7	
+181	Rajasthan - Shahpura	GOKUL CHANDRA KHATIK	Independent	971	8	
+181	Rajasthan - Shahpura	OM PRAKASH	Independent	938	9	
+181	Rajasthan - Shahpura	MAHAVEER	Independent	784	10	
+181	Rajasthan - Shahpura	GOPAL KAISHAWAT	Aam Aadmi Party	606	11	
+181	Rajasthan - Shahpura	PRAVEEN KUMAR BAIRWA	Bharatiya Yuva Shakti	492	12	
+182	Rajasthan - Jahazpur	GOPI CHAND MEENA	Bharatiya Janata Party	94970	1	13253
+182	Rajasthan - Jahazpur	DHEERAJ GURJAR	Indian National Congress	81717	2	13253
+182	Rajasthan - Jahazpur	None of the Above	None of the Above	2984	3	
+182	Rajasthan - Jahazpur	NAND LAL KHATIK	Bahujan Samaj Party	1551	4	
+182	Rajasthan - Jahazpur	RATAN SINGH	Independent	1551	5	
+182	Rajasthan - Jahazpur	KAJOD MAL	Independent	623	6	
+182	Rajasthan - Jahazpur	RAM KARAN MEENA	National Future Party	483	7	
+183	Rajasthan - Mandalgarh	GOPAL LAL SHARMA	Bharatiya Janata Party	68481	1	10333
+183	Rajasthan - Mandalgarh	VIVEK DHAKAR	Indian National Congress	58148	2	10333
+183	Rajasthan - Mandalgarh	GOPAL MALVIYA	Independent	42163	3	
+183	Rajasthan - Mandalgarh	None of the Above	None of the Above	3459	4	
+183	Rajasthan - Mandalgarh	PYARALAL REGAR	Bahujan Samaj Party	2062	5	
+183	Rajasthan - Mandalgarh	SUNILA KUMAR	Independent	1647	6	
+183	Rajasthan - Mandalgarh	BRIJRAJ KRISHNA UPADHYAY	Independent	1567	7	
+183	Rajasthan - Mandalgarh	KAILASH SODANI	Aam Aadmi Party	1566	8	
+183	Rajasthan - Mandalgarh	LAXMINARAYAN SUWALKA	Independent	1494	9	
+183	Rajasthan - Mandalgarh	JAMEEL KHAN	Independent	1313	10	
+183	Rajasthan - Mandalgarh	MANGILAL BHIL	Independent	1115	11	
+183	Rajasthan - Mandalgarh	KALYAN MAL SEN	Independent	722	12	
+183	Rajasthan - Mandalgarh	JAILAL REBARI	Independent	618	13	
+183	Rajasthan - Mandalgarh	RAMSAHAY GURJAR	Bharatiya Yuva Shakti	579	14	
+184	Rajasthan - Hindoli	ASHOK	Indian National Congress	109958	1	30541
+184	Rajasthan - Hindoli	OMENDRA SINGH HADA	Bharatiya Janata Party	79417	2	30541
+184	Rajasthan - Hindoli	None of the Above	None of the Above	3937	3	
+184	Rajasthan - Hindoli	MANJU MEENA	Independent	1344	4	
+184	Rajasthan - Hindoli	KESARI LAL	Bahujan Samaj Party	1291	5	
+184	Rajasthan - Hindoli	VISHNU SHARMA	Loktantrik Janta Dal	627	6	
+184	Rajasthan - Hindoli	KAILASH	Independent	537	7	
+184	Rajasthan - Hindoli	UDAI LAL	Inqalab Vikas Dal	337	8	
+184	Rajasthan - Hindoli	MUKESH KUMAR	Bharatiya Yuva Shakti	323	9	
+184	Rajasthan - Hindoli	DHARMARAJ	Rashtriya Mazdoor Kisan Party	317	10	
+184	Rajasthan - Hindoli	DAYAL DAS	Hindusthan Nirman Dal	304	11	
+184	Rajasthan - Hindoli	KANHAIYA LAL	Aam Aadmi Party	229	12	
+185	Rajasthan - Keshoraipatan	CHANDRAKANTA MEGHWAL	Bharatiya Janata Party	72596	1	7119
+185	Rajasthan - Keshoraipatan	RAKESH BOYAT	Indian National Congress	65477	2	7119
+185	Rajasthan - Keshoraipatan	CHUNNILAL PREMI	Independent	35115	3	
+185	Rajasthan - Keshoraipatan	None of the Above	None of the Above	4253	4	
+185	Rajasthan - Keshoraipatan	SHANKAR BAIRWA	Independent	2343	5	
+185	Rajasthan - Keshoraipatan	SHARWAN KUMAR	Bahujan Samaj Party	1683	6	
+185	Rajasthan - Keshoraipatan	YOGESH KUMAR VERMA	Independent	1454	7	
+185	Rajasthan - Keshoraipatan	RAJESH KUMAR MEGHWAL	Bharatiya Yuva Shakti	668	8	
+185	Rajasthan - Keshoraipatan	MAHAVEER PRASAD	Bharatiya Rashtravadi Samanta Party	662	9	
+185	Rajasthan - Keshoraipatan	ARVIND SINGH	Aam Aadmi Party	572	10	
+185	Rajasthan - Keshoraipatan	PRAHLAD	Rashtriya Mazdoor Kisan Party	335	11	
+186	Rajasthan - Bundi	ASHOK DOGRA	Bharatiya Janata Party	97370	1	713
+186	Rajasthan - Bundi	HARIMOHAN SHARMA	Indian National Congress	96657	2	713
+186	Rajasthan - Bundi	SITA	Bahujan Samaj Party	3556	3	
+186	Rajasthan - Bundi	ABDUL ANIS ANSARI	SOCIAL DEMOCRATIC PARTY OF INDIA	3456	4	
+186	Rajasthan - Bundi	SANTOSH KUMARI	Independent	3002	5	
+186	Rajasthan - Bundi	MANGILAL BHEEL	Independent	2483	6	
+186	Rajasthan - Bundi	HEMRAJ	Independent	2102	7	
+186	Rajasthan - Bundi	LAKHAN	Independent	2006	8	
+186	Rajasthan - Bundi	None of the Above	None of the Above	1692	9	
+186	Rajasthan - Bundi	RUKHSANA	Independent	1497	10	
+186	Rajasthan - Bundi	RAKESH KUMAR	Independent	976	11	
+186	Rajasthan - Bundi	GYARSI LAL GURJAR	Independent	751	12	
+186	Rajasthan - Bundi	PREM SHANKAR	Independent	500	13	
+186	Rajasthan - Bundi	OM PRAKASH MEENA	Bhartiya Kisan Party	466	14	
+186	Rajasthan - Bundi	MANOJ KUMAR	Independent	438	15	
+186	Rajasthan - Bundi	RAM KUWAR	Bharatiya Yuva Shakti	327	16	
+186	Rajasthan - Bundi	GHANSHYAM	Naya Bharat Party	270	17	
+186	Rajasthan - Bundi	KAMLESH CHAUHAN	Rashtriya Mazdoor Kisan Party	259	18	
+187	Rajasthan - Pipalda	RAMNARAIN MEENA	Indian National Congress	72690	1	14905
+187	Rajasthan - Pipalda	MAMTA SHARMA	Bharatiya Janata Party	57785	2	14905
+187	Rajasthan - Pipalda	RAJENDRA	Bahujan Samaj Party	5076	3	
+187	Rajasthan - Pipalda	DULICHAND BORDA	Communist Party of India (Marxist)	2778	4	
+187	Rajasthan - Pipalda	None of the Above	None of the Above	2158	5	
+187	Rajasthan - Pipalda	GORDHAN	Rashtriya Krantikari Samajwadi Party	1291	6	
+187	Rajasthan - Pipalda	SHAMBHUDAYAL SUMAN	Independent	888	7	
+187	Rajasthan - Pipalda	SARITA DEVI	Aam Aadmi Party	647	8	
+187	Rajasthan - Pipalda	NARESH JANGID	Rashtriya Jankranti Party	567	9	
+187	Rajasthan - Pipalda	MAHAVEER SHARMA	Bharat Vahini Party	541	10	
+188	Rajasthan - Sangod	BHARAT SINGH KUNDANPUR	Indian National Congress	74154	1	1868
+188	Rajasthan - Sangod	HEERA LAL NAGAR	Bharatiya Janata Party	72286	2	1868
+188	Rajasthan - Sangod	SURESH KUMAR	Independent	2774	3	
+188	Rajasthan - Sangod	None of the Above	None of the Above	1556	4	
+188	Rajasthan - Sangod	PRABHULAL	Bahujan Samaj Party	1371	5	
+188	Rajasthan - Sangod	DHANRAJ SEN	Bhartiya Kisan Party	925	6	
+188	Rajasthan - Sangod	RAMESH CHAND	Independent	905	7	
+188	Rajasthan - Sangod	YOGENDRA KUMAR	Aam Aadmi Party	596	8	
+188	Rajasthan - Sangod	BHAIRULAL MALAV	Bharatiya Yuva Shakti	339	9	
+189	Rajasthan - Kota North	SHANTI KUMAR DHARIWAL	Indian National Congress	94728	1	17945
+189	Rajasthan - Kota North	PRAHLAD GUNJAL	Bharatiya Janata Party	76783	2	17945
+189	Rajasthan - Kota North	None of the Above	None of the Above	2363	3	
+189	Rajasthan - Kota North	NAEEM AZAD	Welfare Party Of India	771	4	
+189	Rajasthan - Kota North	RAJ SURYA KUMAR BHATT	Independent	761	5	
+189	Rajasthan - Kota North	RAJENDRA SUMAN	Bahujan Samaj Party	732	6	
+189	Rajasthan - Kota North	MOHAMMAD HUSAIN	Aam Aadmi Party	568	7	
+189	Rajasthan - Kota North	RAJESH RAIPRIA	Independent	298	8	
+189	Rajasthan - Kota North	BABULAL MEGHWAL ADVOCATE	Independent	199	9	
+189	Rajasthan - Kota North	NEERAJ AGARWAL	Independent	126	10	
+189	Rajasthan - Kota North	BHANWAR SINGH	Bharatiya Yuva Shakti	120	11	
+189	Rajasthan - Kota North	SHAMBHU DAYAL KHANDELWAL "CHASHME WALE"	Naya Bharat Party	92	12	
+190	Rajasthan - Kota South	SANDEEP SHARMA	Bharatiya Janata Party	82739	1	7534
+190	Rajasthan - Kota South	RAKHI GAUTAM	Indian National Congress	75205	2	7534
+190	Rajasthan - Kota South	MANMOHAN JOSHI	Independent	2180	3	
+190	Rajasthan - Kota South	RAVINDRA SINGH (SINTU BANA)	Bharatiya Yuva Shakti	1960	4	
+190	Rajasthan - Kota South	None of the Above	None of the Above	1915	5	
+190	Rajasthan - Kota South	KUNJ BIHARI SINGHAL (K.B.)	Aam Aadmi Party	1639	6	
+190	Rajasthan - Kota South	NAVED AKHTAR	SOCIAL DEMOCRATIC PARTY OF INDIA	983	7	
+190	Rajasthan - Kota South	RAM CHARAN	Bahujan Samaj Party	718	8	
+190	Rajasthan - Kota South	YUGAL KISHOR	Independent	683	9	
+190	Rajasthan - Kota South	NAYAN KALRA	Bharatiya Rashtravadi Samanta Party	439	10	
+190	Rajasthan - Kota South	MANISH SHARMA	Bharat Vahini Party	400	11	
+190	Rajasthan - Kota South	ACHARYA DHANRAJ SHARMA	Independent	347	12	
+190	Rajasthan - Kota South	TEJPAL	Independent	309	13	
+190	Rajasthan - Kota South	SHARAD KUMAR DIXIT	Independent	254	14	
+190	Rajasthan - Kota South	ASHUTOSH SHARMA	Independent	142	15	
+190	Rajasthan - Kota South	RAMESH SINGH TANWAR	Naya Bharat Party	129	16	
+190	Rajasthan - Kota South	RAJAN RAJGURU	Abhinav Rajasthan Party	123	17	
+190	Rajasthan - Kota South	ANIL KUMAR GUPTA	Independent	94	18	
+190	Rajasthan - Kota South	ABDUL AZIZ PATHAN	Independent	81	19	
+191	Rajasthan - Ladpura	KALPANA DEVI	Bharatiya Janata Party	104912	1	21656
+191	Rajasthan - Ladpura	GULANAJ GUDDU	Indian National Congress	83256	2	21656
+191	Rajasthan - Ladpura	AMPI CHATTER	Aam Aadmi Party	3451	3	
+191	Rajasthan - Ladpura	None of the Above	None of the Above	2919	4	
+191	Rajasthan - Ladpura	RAJA RAM MEGHWAL	Bahujan Samaj Party	1167	5	
+191	Rajasthan - Ladpura	MUKUT BIHARI MEENA	Independent	1149	6	
+191	Rajasthan - Ladpura	DAMYANTI GOCHER	Independent	447	7	
+191	Rajasthan - Ladpura	JASWANT SUMAN	Rashtriya Loktantrik Party	391	8	
+191	Rajasthan - Ladpura	DAMODAR PRASAD	Shiv Sena	325	9	
+191	Rajasthan - Ladpura	RAJESH GURJAR (BOAD)	Bharatiya Yuva Shakti	295	10	
+191	Rajasthan - Ladpura	CHIRONJI LAL SAMARIYA	Bharatiya Republican Paksha	225	11	
+191	Rajasthan - Ladpura	AVADESH YADAV	Naya Bharat Party	175	12	
+192	Rajasthan - Ramganj mandi	MADAN DILAWAR	Bharatiya Janata Party	90817	1	12879
+192	Rajasthan - Ramganj mandi	RAMGOPAL	Indian National Congress	77938	2	12879
+192	Rajasthan - Ramganj mandi	KAILASH CHAND	Bahujan Samaj Party	2521	3	
+192	Rajasthan - Ramganj mandi	None of the Above	None of the Above	2196	4	
+192	Rajasthan - Ramganj mandi	NIRMAL MEHRA	Aam Aadmi Party	2115	5	
+192	Rajasthan - Ramganj mandi	BHANWAR KUMAR RAWAL	Bharatiya Yuva Shakti	936	6	
+193	Rajasthan - Anta	PRAMOD BHAYA	Indian National Congress	97160	1	34063
+193	Rajasthan - Anta	PRABHU LAL SAINI	Bharatiya Janata Party	63097	2	34063
+193	Rajasthan - Anta	ASHOK KUMAR JAIN	Aam Aadmi Party	1739	3	
+193	Rajasthan - Anta	RAVIKANT MEENA	Independent	1447	4	
+193	Rajasthan - Anta	DEENBANDHU DHAKAD	Bahujan Samaj Party	1335	5	
+193	Rajasthan - Anta	None of the Above	None of the Above	1301	6	
+193	Rajasthan - Anta	BHUVNESH NAGAR	Independent	796	7	
+193	Rajasthan - Anta	DINESH KUMAR	Independent	374	8	
+194	Rajasthan - Kishanganj	NIRMALA SAHARIYA	Indian National Congress	87765	1	14136
+194	Rajasthan - Kishanganj	LALIT MEENA	Bharatiya Janata Party	73629	2	14136
+194	Rajasthan - Kishanganj	None of the Above	None of the Above	3034	3	
+194	Rajasthan - Kishanganj	RADHAKISHAN MEENA	Bahujan Samaj Party	2193	4	
+194	Rajasthan - Kishanganj	KALULAL BHEEL	Bharatiya Rashtravadi Samanta Party	1484	5	
+194	Rajasthan - Kishanganj	LEELADHAR MEENA	Bharatiya Yuva Shakti	923	6	
+194	Rajasthan - Kishanganj	BALVEER URF BEERBAL	Independent	922	7	
+195	Rajasthan - Baran-atru	PANA CHAND MEGHWAL	Indian National Congress	86986	1	12248
+195	Rajasthan - Baran-atru	BABOO LAL VERMA	Bharatiya Janata Party	74738	2	12248
+195	Rajasthan - Baran-atru	DHARMRAJ MEHRA	Independent	3778	3	
+195	Rajasthan - Baran-atru	None of the Above	None of the Above	3063	4	
+195	Rajasthan - Baran-atru	LALIT SHAKYAWAL	Independent	1069	5	
+195	Rajasthan - Baran-atru	RAM BHAROSH NARWALA	Bahujan Samaj Party	960	6	
+195	Rajasthan - Baran-atru	RAMSINGH AIRWAL	Shiv Sena	655	7	
+195	Rajasthan - Baran-atru	BHARAT PRAKASH	Aam Aadmi Party	321	8	
+195	Rajasthan - Baran-atru	HEMRAJ MEHRA	Bharatiya Yuva Shakti	264	9	
+195	Rajasthan - Baran-atru	LAKSHMAN KUMAR BAIRWA	Bharat Vahini Party	197	10	
+195	Rajasthan - Baran-atru	RAJENDRA KUMAR	Bahujan Mukti Party	183	11	
+196	Rajasthan - Chhabra	PRATAP SINGH	Bharatiya Janata Party	79707	1	3744
+196	Rajasthan - Chhabra	KARAN SINGH	Indian National Congress	75963	2	3744
+196	Rajasthan - Chhabra	VEERBHADRA SINGH	Independent	14252	3	
+196	Rajasthan - Chhabra	None of the Above	None of the Above	3343	4	
+196	Rajasthan - Chhabra	REKHA RANI	Bahujan Samaj Party	2796	5	
+196	Rajasthan - Chhabra	BHAGWAN SAWROOP	Bhartiya Kisan Party	1550	6	
+196	Rajasthan - Chhabra	RAM SWAROOP NAGAR	Independent	796	7	
+196	Rajasthan - Chhabra	KALAN	Asankhya Samaj Party	779	8	
+196	Rajasthan - Chhabra	HEMANT KUMAR	Aam Aadmi Party	540	9	
+196	Rajasthan - Chhabra	RAMESH MEENA	Bharat Vahini Party	414	10	
+196	Rajasthan - Chhabra	JITENDRA	Bharatiya Yuva Shakti	346	11	
+197	Rajasthan - Dag	KALURAM	Bharatiya Janata Party	103665	1	19513
+197	Rajasthan - Dag	MADAN LAL	Indian National Congress	84152	2	19513
+197	Rajasthan - Dag	None of the Above	None of the Above	4247	3	
+197	Rajasthan - Dag	VIKRAM LAL DASAURIYA	Ambedkarite Party of India	2875	4	
+197	Rajasthan - Dag	RAMSWAROOP	Bahujan Samaj Party	2078	5	
+197	Rajasthan - Dag	JAY PRAKASH	Bharatiya Yuva Shakti	1071	6	
+198	Rajasthan - Jhalrapatan	VASUNDHARA RAJE	Bharatiya Janata Party	116484	1	34980
+198	Rajasthan - Jhalrapatan	MANVENDRA SINGH	Indian National Congress	81504	2	34980
+198	Rajasthan - Jhalrapatan	SHREELAL	Independent	7490	3	
+198	Rajasthan - Jhalrapatan	None of the Above	None of the Above	3125	4	
+198	Rajasthan - Jhalrapatan	GAYAS AHMED KHAN	Bahujan Samaj Party	2684	5	
+198	Rajasthan - Jhalrapatan	GOVERDHAN DANGI	Aam Aadmi Party	1602	6	
+198	Rajasthan - Jhalrapatan	VIRAM LAL	Independent	1215	7	
+198	Rajasthan - Jhalrapatan	MOHAMMAD NASIR	Independent	567	8	
+198	Rajasthan - Jhalrapatan	KARAN SHARMA	Independent	497	9	
+199	Rajasthan - Khanpur	NARENDRA NAGAR	Bharatiya Janata Party	85984	1	2265
+199	Rajasthan - Khanpur	SURESH	Indian National Congress	83719	2	2265
+199	Rajasthan - Khanpur	ARJUN SINGH GAUR	Independent	5534	3	
+199	Rajasthan - Khanpur	None of the Above	None of the Above	2415	4	
+199	Rajasthan - Khanpur	MOHAN LAL	Bahujan Samaj Party	1756	5	
+199	Rajasthan - Khanpur	PRAMOD KUMAR TIWARI	Independent	1334	6	
+199	Rajasthan - Khanpur	NANDKISHOR SHARMA	Aam Aadmi Party	1334	7	
+199	Rajasthan - Khanpur	RATANLAL	Independent	715	8	
+199	Rajasthan - Khanpur	KANHAIYALAL	Independent	463	9	
+200	Rajasthan - Manohar thana	GOVIND PRASAD	Bharatiya Janata Party	110215	1	21869
+200	Rajasthan - Manohar thana	KAILASH CHAND	Indian National Congress	88346	2	21869
+200	Rajasthan - Manohar thana	None of the Above	None of the Above	3117	3	
+200	Rajasthan - Manohar thana	CHANDR SINGH	Bahujan Samaj Party	1793	4	
+200	Rajasthan - Manohar thana	MANISHA MEENA	Independent	1479	5	
+200	Rajasthan - Manohar thana	ABID AHMED	Rashtriya Jankranti Party	749	6	
+200	Rajasthan - Manohar thana	HARISHANKAR	Bharatiya Rashtravadi Samanta Party	675	7	

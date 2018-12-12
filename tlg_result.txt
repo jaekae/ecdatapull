@@ -1,0 +1,1941 @@
+Constituency No.	Constituency Name	Candidate Name	Party	Votes Polled	Position	Win/Lose Margin
+1	Telangana - Sirpur	KONERU KONAPPA	Telangana Rashtra Samithi	83088	1	24036
+1	Telangana - Sirpur	DR. PALVAI HARISH BABU	Indian National Congress	59052	2	24036
+1	Telangana - Sirpur	DR.KOTTAPELLI SRINIVAS	Bharatiya Janata Party	6279	3	
+1	Telangana - Sirpur	RRAAVI SRINWASS	Bahujan Samaj Party	5379	4	
+1	Telangana - Sirpur	TALLAPALLI THIRUPATHI	Independent	4039	5	
+1	Telangana - Sirpur	None of the Above	None of the Above	1579	6	
+1	Telangana - Sirpur	DASARI VENKATESH	Independent	1079	7	
+1	Telangana - Sirpur	CHILAKAMMA EDLA	Pyramid Party of India	1013	8	
+1	Telangana - Sirpur	KUDAKA KISHORE	Ambedkarite Party of India	733	9	
+1	Telangana - Sirpur	GANTA PENTANNA	Independent	595	10	
+1	Telangana - Sirpur	JADI DILEEP	Bahujan Mukti Party	512	11	
+1	Telangana - Sirpur	KOTA VENKANNA	Bahujana Left Party	511	12	
+1	Telangana - Sirpur	RAMCHANDER	Peoples Republican Party	429	13	
+2	Telangana - Chennur	BALKA SUMAN	Telangana Rashtra Samithi	71980	1	28132
+2	Telangana - Chennur	VENKATESH NETHA BORLAKUNTA	Indian National Congress	43848	2	28132
+2	Telangana - Chennur	SOGALA SANJEEV	Republican Party of India (Khobragade)	6274	3	
+2	Telangana - Chennur	None of the Above	None of the Above	2135	4	
+2	Telangana - Chennur	ANDUGULA SRINIVAS	Bharatiya Janata Party	2026	5	
+2	Telangana - Chennur	DAMUKA SURESH BABU	Independent	1492	6	
+2	Telangana - Chennur	BOJJA RAMANA KUMARI	Pyramid Party of India	1335	7	
+2	Telangana - Chennur	SUJATHA SUREPALLY	Bahujan Samaj Party	1200	8	
+2	Telangana - Chennur	RAKESH REGUNTA	Nava Praja Rajyam Party	1035	9	
+2	Telangana - Chennur	BODA JANARDHAN	Bahujana Left Party	983	10	
+2	Telangana - Chennur	CHEEPELLI KIRAN	Independent	937	11	
+2	Telangana - Chennur	THUNGAPINDI RAMESH	Republican Party of India (A)	830	12	
+2	Telangana - Chennur	BOJJA DASARATHAM	Independent	589	13	
+2	Telangana - Chennur	NEELAM SURENDER	Nationalist Congress Party	516	14	
+2	Telangana - Chennur	RAMAGIRI VIKRAM SINGH	New India Party	484	15	
+3	Telangana - Bellampalli	DURGAM CHINNAIAH	Telangana Rashtra Samithi	55026	1	11276
+3	Telangana - Bellampalli	GADDAM VINOD	Bahujan Samaj Party	43750	2	11276
+3	Telangana - Bellampalli	KONDAGURLA VEDA PRAKASH	Independent	10684	3	
+3	Telangana - Bellampalli	GUNDA MALLESH	Communist Party of India	3905	4	
+3	Telangana - Bellampalli	KOYYALA EMAJI	Bharatiya Janata Party	3031	5	
+3	Telangana - Bellampalli	None of the Above	None of the Above	2598	6	
+3	Telangana - Bellampalli	KRISHNA SABBANI	Bahujana Left Party	1812	7	
+3	Telangana - Bellampalli	DAGAM VISHWANATH	Independent	1801	8	
+3	Telangana - Bellampalli	DURGE MAHENDAR	Nava Praja Rajyam Party	1202	9	
+3	Telangana - Bellampalli	SAKINALA NARAYANA	Independent	1120	10	
+3	Telangana - Bellampalli	PAGIDI VENKATI	Independent	721	11	
+3	Telangana - Bellampalli	AMBALA MAHENDAR	Independent	706	12	
+3	Telangana - Bellampalli	MITTAPALLI KUMARA SWAMY	New India Party	695	13	
+3	Telangana - Bellampalli	PAGIDI RAJENDER	Aam Aadmi Party	450	14	
+4	Telangana - Mancherial	NADIPELLI DIWAKAR RAO	Telangana Rashtra Samithi	75360	1	4848
+4	Telangana - Mancherial	KOKKIRALA PREMSAGAR RAO	Indian National Congress	70512	2	4848
+4	Telangana - Mancherial	RAGHUNATH VERABELLI	Bharatiya Janata Party	5018	3	
+4	Telangana - Mancherial	ARE SRINIVAS	Bahujana Left Party	2190	4	
+4	Telangana - Mancherial	BERA SATHYANARAYANA	Bahujan Samaj Party	2174	5	
+4	Telangana - Mancherial	NAHEEMPASHA	Independent	2123	6	
+4	Telangana - Mancherial	CHALLAGULLA VIJAYASREE	Independent	1672	7	
+4	Telangana - Mancherial	DOMMATI RAVI KUMAR	Independent	1638	8	
+4	Telangana - Mancherial	None of the Above	None of the Above	1394	9	
+4	Telangana - Mancherial	CHEERLA SATYAM	Independent	1065	10	
+4	Telangana - Mancherial	PAYYAVULA LAXMINARAYANA	Independent	717	11	
+4	Telangana - Mancherial	AGGI BHEEMAIAH	Pyramid Party of India	560	12	
+4	Telangana - Mancherial	RANGU MALLESHAM	Independent	468	13	
+4	Telangana - Mancherial	AJMEERA LAL	Independent	343	14	
+4	Telangana - Mancherial	RASAMALLA KUMAR	Independent	250	15	
+4	Telangana - Mancherial	ALPULA BHARATHI	India Praja Bandhu Party	241	16	
+4	Telangana - Mancherial	KUAKATLA THIRUPATHI YADAV	Shiv Sena	229	17	
+4	Telangana - Mancherial	SYED AFRATH AHMED	Aam Aadmi Party	201	18	
+4	Telangana - Mancherial	KAMERA KRANTHI KUMAR	Republican Party of India (Khobragade)	158	19	
+4	Telangana - Mancherial	TOGARI BANESH	New India Party	149	20	
+4	Telangana - Mancherial	MEDI NARSAIAH	Telangana Pragati Samithi	141	21	
+4	Telangana - Mancherial	MENGANI VENKATASWAMY	Independent	121	22	
+5	Telangana - Asifabad	ATHRAM SAKKU	Indian National Congress	65788	1	171
+5	Telangana - Asifabad	KOVA LAXMI	Telangana Rashtra Samithi	65617	2	171
+5	Telangana - Asifabad	AZMERA ATHMA RAO	Bharatiya Janata Party	6711	3	
+5	Telangana - Asifabad	KOTNAKA VIJAY KUMAR	Telangana Jana Samithi	6183	4	
+5	Telangana - Asifabad	AJMERA RAMNAIK	Bahujan Samaj Party	3629	5	
+5	Telangana - Asifabad	ADE BALAJI	BhartiyaBahujanKranti Dal	3039	6	
+5	Telangana - Asifabad	MUKADE VISHNU	Ambedkarite Party of India	2972	7	
+5	Telangana - Asifabad	None of the Above	None of the Above	2715	8	
+5	Telangana - Asifabad	KURSENGA VASANTH RAO	Nava Praja Rajyam Party	1721	9	
+5	Telangana - Asifabad	BANOVATH JAGAN	Bahujana Raajyam Party (Phule Ambedkar)	1240	10	
+5	Telangana - Asifabad	BHUKYA INDAL RAO	Independent	1175	11	
+6	Telangana - Khanapur	AJMERA REKHA	Telangana Rashtra Samithi	67138	1	20710
+6	Telangana - Khanapur	RAMESH RATHOD	Indian National Congress	46428	2	20710
+6	Telangana - Khanapur	ASHOK SATLA	Bharatiya Janata Party	23779	3	
+6	Telangana - Khanapur	AJMEERA HARI NAIK	Bahujan Samaj Party	3553	4	
+6	Telangana - Khanapur	None of the Above	None of the Above	2776	5	
+6	Telangana - Khanapur	THATRA BHEEMRAO	Telangana Jana Samithi	2412	6	
+6	Telangana - Khanapur	NETHAWATH RAJENDAR	Independent	1436	7	
+6	Telangana - Khanapur	ATHRAM BHEEM RAO	Peoples Republican Party	1251	8	
+6	Telangana - Khanapur	THODASAM BHEEM RAO	Communist Party of India (Marxist)	863	9	
+6	Telangana - Khanapur	PENDUR PRABHAKAR	Independent	841	10	
+6	Telangana - Khanapur	KURSENGA ANITHA	Nava Praja Rajyam Party	685	11	
+6	Telangana - Khanapur	TODASAM NAGORAO	Prem Janata Dal	548	12	
+6	Telangana - Khanapur	LAVUDYA SUDHAN LAL	Telangana Prajala Party	446	13	
+7	Telangana - Adilabad	JOGU RAMANNA	Telangana Rashtra Samithi	74050	1	26606
+7	Telangana - Adilabad	PAYAL SHANKER	Bharatiya Janata Party	47444	2	26606
+7	Telangana - Adilabad	GANDRATH SUJATHA	Indian National Congress	32200	3	
+7	Telangana - Adilabad	KOTHAPELLY NARAYANA	Rajyadhikara Party	4125	4	
+7	Telangana - Adilabad	EERLA SATYANARAYANA	Bahujan Samaj Party	1352	5	
+7	Telangana - Adilabad	None of the Above	None of the Above	1149	6	
+7	Telangana - Adilabad	KASTALA ARUN KUMAR	Independent	954	7	
+7	Telangana - Adilabad	ANNAM DEVENDAR	Independent	838	8	
+7	Telangana - Adilabad	DATTATRI ELCHALA	Nationalist Congress Party	659	9	
+7	Telangana - Adilabad	AVULA YATHEENDRA NATH YADAV	Shiv Sena	616	10	
+7	Telangana - Adilabad	DANDE SANDEEP	Ambedkarite Party of India	573	11	
+7	Telangana - Adilabad	THOGARI RAMULU	Independent	553	12	
+7	Telangana - Adilabad	Y. SANJAY REDDY	Aam Aadmi Party	490	13	
+7	Telangana - Adilabad	KAMLE BHAGAVAN	Nava Praja Rajyam Party	454	14	
+7	Telangana - Adilabad	PENDUR MANOHAR	Gondvana Gantantra Party	336	15	
+8	Telangana - Boath	BAPU RAO RATHOD	Telangana Rashtra Samithi	61125	1	6486
+8	Telangana - Boath	BAPU RAO SOYAM	Indian National Congress	54639	2	6486
+8	Telangana - Boath	ANIL JADHAV	Independent	28206	3	
+8	Telangana - Boath	MADAVI RAJU	Bharatiya Janata Party	4840	4	
+8	Telangana - Boath	GAJENDER AADE	Bahujan Samaj Party	2658	5	
+8	Telangana - Boath	None of the Above	None of the Above	2275	6	
+8	Telangana - Boath	KUMRAM KOTESHWAR	Nationalist Congress Party	1915	7	
+8	Telangana - Boath	RAM CHOWHAN	Independent	1104	8	
+9	Telangana - Nirmal	ALLOLA INDRAKARAN REDDY	Telangana Rashtra Samithi	79985	1	9271
+9	Telangana - Nirmal	ALLETI MAHESHWAR REDDY	Indian National Congress	70714	2	9271
+9	Telangana - Nirmal	AINDLA SWARNA REDDY	Bharatiya Janata Party	16900	3	
+9	Telangana - Nirmal	SOUDANI BHUMANNA YADAV	Bahujan Samaj Party	1845	4	
+9	Telangana - Nirmal	None of the Above	None of the Above	1367	5	
+9	Telangana - Nirmal	VADLA KONDA ALIVENI	Bahujana Left Party	769	6	
+9	Telangana - Nirmal	GUMIDYALA VENKATA RAMANA	Independent	745	7	
+9	Telangana - Nirmal	MARRIPEDDA BALARAJU	Prem Janata Dal	390	8	
+9	Telangana - Nirmal	MUKHRAM ALI MOHAMMAD	Aam Aadmi Party	369	9	
+10	Telangana - Mudhole	GADDIGARI VITTAL REDDY	Telangana Rashtra Samithi	83933	1	43331
+10	Telangana - Mudhole	PADAKANTI RAMADEVI	Bharatiya Janata Party	40602	2	43331
+10	Telangana - Mudhole	RAMA RAO PATEL PAWAR	Indian National Congress	36580	3	
+10	Telangana - Mudhole	BHOSLE NARAYAN RAO PATIL	Nationalist Congress Party	6011	4	
+10	Telangana - Mudhole	ARMOOR NARSIMHA REDDY	Independent	5626	5	
+10	Telangana - Mudhole	RATHOD SUREKHA	Bahujan Samaj Party	3659	6	
+10	Telangana - Mudhole	None of the Above	None of the Above	2267	7	
+10	Telangana - Mudhole	CHELIMALWAR MAHESH	Independent	1543	8	
+10	Telangana - Mudhole	VADNAM GOVINDARAJU	Independent	1108	9	
+10	Telangana - Mudhole	KAMBLE VITTAL	Independent	918	10	
+10	Telangana - Mudhole	SHARATH SURYA VAMSHI	Independent	701	11	
+10	Telangana - Mudhole	ODNALA GANGADHAR	Prem Janata Dal	682	12	
+10	Telangana - Mudhole	PANDITRAO TAKBIDE	Shiv Sena	333	13	
+11	Telangana - Armur	ASHANNAGARI JEEVAN REDDY	Telangana Rashtra Samithi	72125	1	28795
+11	Telangana - Armur	AKULA LALITHA	Indian National Congress	43330	2	28795
+11	Telangana - Armur	VINAY KUMAR REDDY PRODDUTURI	Bharatiya Janata Party	19599	3	
+11	Telangana - Armur	KOMIREY SUDHAKAR	Bahujan Samaj Party	1724	4	
+11	Telangana - Armur	None of the Above	None of the Above	1657	5	
+11	Telangana - Armur	SUNKE SRINIVAS	Independent	728	6	
+11	Telangana - Armur	MASTHA DAYANAND	Republican Party of India (A)	524	7	
+11	Telangana - Armur	SINDUKAR CHARAN KUMAR	Ambedkar National Congress	388	8	
+11	Telangana - Armur	GUNTI RAJA GANGARAM	Independent	322	9	
+12	Telangana - Bodhan	SHAKIL AAMIR MOHAMMED	Telangana Rashtra Samithi	74895	1	8101
+12	Telangana - Bodhan	SUDARSHAN REDDY PODDUTURI	Indian National Congress	66794	2	8101
+12	Telangana - Bodhan	ALJAPUR SRINIVAS	Bharatiya Janata Party	8434	3	
+12	Telangana - Bodhan	GOPI KISHAN	Shiv Sena	2425	4	
+12	Telangana - Bodhan	None of the Above	None of the Above	1862	5	
+12	Telangana - Bodhan	SINGADE PANDU	Bahujan Samaj Party	1365	6	
+12	Telangana - Bodhan	MD.NAWAZ PASHA	Independent	796	7	
+12	Telangana - Bodhan	BANJA VEERAPPA	Pyramid Party of India	677	8	
+12	Telangana - Bodhan	MOHAMMED SHARJEEL PARVEZ	Independent	615	9	
+12	Telangana - Bodhan	BANAVATH JEEVAN NAYAK	Bahujana Left Party	385	10	
+12	Telangana - Bodhan	GADDAM VIKRAM REDDY	Independent	344	11	
+12	Telangana - Bodhan	M.D.YOUSUF	Samajwadi Party	278	12	
+13	Telangana - Jukkal	HANMANTH SHINDE	Telangana Rashtra Samithi	77584	1	35625
+13	Telangana - Jukkal	GANGARAM SOUDAGAR	Indian National Congress	41959	2	35625
+13	Telangana - Jukkal	T. ARUNA THARA	Bharatiya Janata Party	18840	3	
+13	Telangana - Jukkal	KARROLLA MOHAN	Independent	7727	4	
+13	Telangana - Jukkal	None of the Above	None of the Above	1976	5	
+13	Telangana - Jukkal	LAXMAN	Bahujan Samaj Party	1764	6	
+13	Telangana - Jukkal	BHARATH WAGHMARE	Bahujana Left Party	1102	7	
+13	Telangana - Jukkal	G. SRINIVAS	India Praja Bandhu Party	570	8	
+14	Telangana - Banswada	POCHARAM SRINIVAS REDDY (PARIGE)	Telangana Rashtra Samithi	77943	1	18485
+14	Telangana - Banswada	KASULA BALARAJU	Indian National Congress	59458	2	18485
+14	Telangana - Banswada	PRAKASH NAIDU	Bharatiya Janata Party	2998	3	
+14	Telangana - Banswada	KONDANI ANJAIAH	Pyramid Party of India	2409	4	
+14	Telangana - Banswada	None of the Above	None of the Above	1555	5	
+14	Telangana - Banswada	DR.BHEEM RAO GAIKWAD	Bahujan Samaj Party	871	6	
+14	Telangana - Banswada	M RAMESH	Independent	563	7	
+15	Telangana - Yellareddy	JAJALA SURENDER	Indian National Congress	91510	1	35148
+15	Telangana - Yellareddy	EANUGU RAVINDER REDDY	Telangana Rashtra Samithi	56362	2	35148
+15	Telangana - Yellareddy	TALARI BALARAJU	Independent	9684	3	
+15	Telangana - Yellareddy	BANALA LAXMA REDDY	Bharatiya Janata Party	6357	4	
+15	Telangana - Yellareddy	None of the Above	None of the Above	2218	5	
+15	Telangana - Yellareddy	FAZAL RAHMAN	Independent	947	6	
+15	Telangana - Yellareddy	YELLANNA YADAV PEDDA GOLLA	Samajwadi Party	537	7	
+15	Telangana - Yellareddy	VAADIKARI BALVANTH RAO	Nava Samaj Party	490	8	
+15	Telangana - Yellareddy	KAPPA SATHYAM SIDHARTH RAJ	Bahujana Left Party	376	9	
+16	Telangana - Kamareddy	GAMPA GOVARDHAN	Telangana Rashtra Samithi	68167	1	4557
+16	Telangana - Kamareddy	MOHD. ALI SHABBIR	Indian National Congress	63610	2	4557
+16	Telangana - Kamareddy	KATIPALLY VENKATA RAMANA REDDY	Bharatiya Janata Party	15439	3	
+16	Telangana - Kamareddy	GOVARDAN M	Samajwadi Forward Bloc	10537	4	
+16	Telangana - Kamareddy	None of the Above	None of the Above	1471	5	
+16	Telangana - Kamareddy	KOTHAPALLI MALLAIAH	Bahujan Samaj Party	791	6	
+16	Telangana - Kamareddy	PUTTA MALLIKARJUN	Bahujana Left Party	699	7	
+16	Telangana - Kamareddy	ARROLA NAVEEN	Independent	601	8	
+16	Telangana - Kamareddy	DUDUGU PANDURANGAM	Aam Aadmi Party	562	9	
+16	Telangana - Kamareddy	K KISHAN	Independent	351	10	
+17	Telangana - Nizamabad (Urban)	BIGALA GANESH	Telangana Rashtra Samithi	71896	1	25841
+17	Telangana - Nizamabad (Urban)	TAHER BIN HAMDAN	Indian National Congress	46055	2	25841
+17	Telangana - Nizamabad (Urban)	LAXMI NARAYANA YENDALA	Bharatiya Janata Party	24192	3	
+17	Telangana - Nizamabad (Urban)	RATNAKAR NARALA	All India Forward Bloc	2827	4	
+17	Telangana - Nizamabad (Urban)	RAMESH RASHAMALLU	Bahujan Samaj Party	1546	5	
+17	Telangana - Nizamabad (Urban)	None of the Above	None of the Above	855	6	
+17	Telangana - Nizamabad (Urban)	K.V.LAXMA REDDY	Independent	754	7	
+17	Telangana - Nizamabad (Urban)	BALLA SRINIVAS	Independent	625	8	
+17	Telangana - Nizamabad (Urban)	PRASHANTHI G.	Independent	512	9	
+17	Telangana - Nizamabad (Urban)	MOHAMMED SIRAJUDDIN	Aam Aadmi Party	451	10	
+17	Telangana - Nizamabad (Urban)	MOHAMMED KHAJA MOINUDDIN	Independent	304	11	
+17	Telangana - Nizamabad (Urban)	PADAKANTI RAMU	Independent	198	12	
+17	Telangana - Nizamabad (Urban)	ABDUL RAHEEM	Samajwadi Party	175	13	
+17	Telangana - Nizamabad (Urban)	M. PRADEEP	Independent	146	14	
+17	Telangana - Nizamabad (Urban)	H.M.ISMAIL MOHAMMED	Bahujana Left Party	135	15	
+17	Telangana - Nizamabad (Urban)	PUPPALA RAVINDHAR	Independent	108	16	
+17	Telangana - Nizamabad (Urban)	SYED MUJEEBUDDIN	Ambedkar National Congress	103	17	
+17	Telangana - Nizamabad (Urban)	G SHANKAR	Independent	93	18	
+17	Telangana - Nizamabad (Urban)	VOJJA RAMESH	Pyramid Party of India	90	19	
+17	Telangana - Nizamabad (Urban)	MANCHIRALA RAGHUNATH	Telangana Prajala Party	80	20	
+17	Telangana - Nizamabad (Urban)	SHIVA PRASAD MAHAJAN	Independent	77	21	
+17	Telangana - Nizamabad (Urban)	SYED KHAISER	Independent	57	22	
+18	Telangana - Nizamabad (Rural)	BAJI REDDY GOVERDHAN	Telangana Rashtra Samithi	87976	1	29646
+18	Telangana - Nizamabad (Rural)	REKULAPALLY BHOOPATHI REDDY	Indian National Congress	58330	2	29646
+18	Telangana - Nizamabad (Rural)	ANAND REDDY GADDAM	Bharatiya Janata Party	16467	3	
+18	Telangana - Nizamabad (Rural)	None of the Above	None of the Above	2203	4	
+18	Telangana - Nizamabad (Rural)	KASALA SRINIVAS	Pyramid Party of India	1652	5	
+18	Telangana - Nizamabad (Rural)	GUGLOTH BALARAJU	All India Jaihind Party	1199	6	
+18	Telangana - Nizamabad (Rural)	BAISA RAMADASU	Independent	1121	7	
+18	Telangana - Nizamabad (Rural)	DHAMMAREDDY PRADEEP REDDY	Independent	1058	8	
+18	Telangana - Nizamabad (Rural)	BB NAYAK	Independent	997	9	
+18	Telangana - Nizamabad (Rural)	MALAVATH VITHAL	Nationalist Congress Party	991	10	
+18	Telangana - Nizamabad (Rural)	NOORJAHAN	Bahujana Left Party	374	11	
+18	Telangana - Nizamabad (Rural)	GANGADHAR MACHA	Independent	301	12	
+18	Telangana - Nizamabad (Rural)	MALLE MANOJ	India Praja Bandhu Party	300	13	
+19	Telangana - Balkonda	VEMULA PRASHANTH REDDY	Telangana Rashtra Samithi	73662	1	32408
+19	Telangana - Balkonda	SUNIL KUMAR MUTHYALA	Bahujan Samaj Party	41254	2	32408
+19	Telangana - Balkonda	ANIL KUMAR ERAVATRI	Indian National Congress	30433	3	
+19	Telangana - Balkonda	RUYYADI RAJESHWAR	Bharatiya Janata Party	3097	4	
+19	Telangana - Balkonda	None of the Above	None of the Above	1886	5	
+19	Telangana - Balkonda	GUNTI BENARJI	Independent	1171	6	
+19	Telangana - Balkonda	ABDUL NAYEEM	Independent	1026	7	
+19	Telangana - Balkonda	YELIGETI MADHUKAR	Bahujana Left Party	859	8	
+19	Telangana - Balkonda	BINGIWAR RAVI	Telangana Praja Samithi (Kishore, Rao and Kishan)	852	9	
+19	Telangana - Balkonda	SUDDAPALLY SUDHAKAR	Independent	611	10	
+20	Telangana - Koratla	KALVAKUNTLA VIDYASAGAR RAO	Telangana Rashtra Samithi	84605	1	31220
+20	Telangana - Koratla	JUVVADI NARSINGA RAO	Indian National Congress	53385	2	31220
+20	Telangana - Koratla	DR. J N VENKAT	Bharatiya Janata Party	16046	3	
+20	Telangana - Koratla	MD. RASHEED KHAN	Samajwadi Party	3540	4	
+20	Telangana - Koratla	None of the Above	None of the Above	2426	5	
+20	Telangana - Koratla	PUPPALA LIMBADRI	Bahujan Samaj Party	939	6	
+20	Telangana - Koratla	MADDENAPELLI RAMULU	Independent	892	7	
+20	Telangana - Koratla	VEMULAA VIKRAM REDDY	Independent	601	8	
+20	Telangana - Koratla	DAYYA RAGHU VEER	Bahujan Mukti Party	489	9	
+20	Telangana - Koratla	RAJ PAL ERRA	Bahujana Rashtra Samithi	290	10	
+20	Telangana - Koratla	JAGILAM RAMESH	Independent	259	11	
+20	Telangana - Koratla	GANNARAPU BHUMAIAH	Independent	205	12	
+20	Telangana - Koratla	AKULA HANMANDLU	Independent	189	13	
+21	Telangana - Jagtial	M.SANJAY KUMAR	Telangana Rashtra Samithi	104247	1	61185
+21	Telangana - Jagtial	THATIPARTHI JEEVAN REDDY	Indian National Congress	43062	2	61185
+21	Telangana - Jagtial	RAVINDER REDDY MUDUGANTI	Bharatiya Janata Party	4817	3	
+21	Telangana - Jagtial	None of the Above	None of the Above	1710	4	
+21	Telangana - Jagtial	VADLAMANI SATHYANARAYANA MURTHY	Pyramid Party of India	1640	5	
+21	Telangana - Jagtial	KAITHI SHANKAR	Bahujan Samaj Party	1276	6	
+21	Telangana - Jagtial	KURMACHALAM UMA MAHESHWAR	All India Forward Bloc	760	7	
+21	Telangana - Jagtial	SIRIKONDA RAVI SHANKAR	Independent	593	8	
+21	Telangana - Jagtial	INDURI SULOCHANA	Bahujana Left Party	486	9	
+21	Telangana - Jagtial	SABBU JAGAN	Independent	413	10	
+21	Telangana - Jagtial	AKULA SRIKANTH KUMAR	Independent	364	11	
+21	Telangana - Jagtial	VEMULA KARNAKAR REDDY	Independent	352	12	
+22	Telangana - Dharmapuri	ESHWAR KOPPULA	Telangana Rashtra Samithi	70579	1	441
+22	Telangana - Dharmapuri	ADLURI LAXMAN KUMAR	Indian National Congress	70138	2	441
+22	Telangana - Dharmapuri	KUNTALA NARSAIAH	Independent	13114	3	
+22	Telangana - Dharmapuri	KANNAM ANJAIAH	Bharatiya Janata Party	5272	4	
+22	Telangana - Dharmapuri	None of the Above	None of the Above	2600	5	
+22	Telangana - Dharmapuri	BURADAGUNTA SANGHA MITHRA	Independent	1259	6	
+22	Telangana - Dharmapuri	THADAGONDA NAGARAJU	Bahujan Samaj Party	1063	7	
+22	Telangana - Dharmapuri	SATHPADI PRANAY KUMAR	Jai Swaraj Party	535	8	
+22	Telangana - Dharmapuri	MADDELA RAVINDAR	Bahujana Left Party	302	9	
+22	Telangana - Dharmapuri	MOTHE NARESH	New India Party	300	10	
+22	Telangana - Dharmapuri	SANDRUGU VIJAYA KUMAR	India Praja Bandhu Party	294	11	
+22	Telangana - Dharmapuri	DUDA MAHIPAL	Naya Bharat Party	291	12	
+23	Telangana - Ramagundam	KORUKANTI CHANDAR PATEL	All India Forward Bloc	61400	1	26419
+23	Telangana - Ramagundam	SOMARAPU SATYANARAYANA	Telangana Rashtra Samithi	34981	2	26419
+23	Telangana - Ramagundam	MAKKAN SINGH RAJ THAKUR	Indian National Congress	27181	3	
+23	Telangana - Ramagundam	VENKATESH MUTHYALU	Samajwadi Forward Bloc	3531	4	
+23	Telangana - Ramagundam	MERUGU SHANKAR	Bahujan Samaj Party	1797	5	
+23	Telangana - Ramagundam	VANITHA BALMURI	Bharatiya Janata Party	1553	6	
+23	Telangana - Ramagundam	None of the Above	None of the Above	1078	7	
+23	Telangana - Ramagundam	LANKA ABHISHEK	Independent	826	8	
+23	Telangana - Ramagundam	MARKA VENKATESHWARLU	Independent	622	9	
+23	Telangana - Ramagundam	BURRA THIRUPATHI	Communist Party of India (Marxist)	543	10	
+23	Telangana - Ramagundam	KAMANI SAROJA	Pyramid Party of India	499	11	
+23	Telangana - Ramagundam	KAMMAGIRI KESHAIAH	Independent	465	12	
+23	Telangana - Ramagundam	JANAGAMA VENKATA RAJAM	New India Party	454	13	
+23	Telangana - Ramagundam	THOTA VENU	Telangana Prajala Party	367	14	
+23	Telangana - Ramagundam	ERIKILLA RAJESH	Independent	299	15	
+23	Telangana - Ramagundam	GAJELLI VENKATESHWARLU	Independent	294	16	
+23	Telangana - Ramagundam	BARLA RAJESH	Independent	250	17	
+24	Telangana - Manthani	DUDDILLA SRIDHAR BABU	Indian National Congress	89045	1	16230
+24	Telangana - Manthani	PUTTA MADHUKAR	Telangana Rashtra Samithi	72815	2	16230
+24	Telangana - Manthani	T.NAGARJUN	Samajwadi Forward Bloc	5457	3	
+24	Telangana - Manthani	None of the Above	None of the Above	2083	4	
+24	Telangana - Manthani	ETUKALA. MAHESH KUMAR	Bahujan Samaj Party	1876	5	
+24	Telangana - Manthani	RENDLA SANATH KUMAR	Bharatiya Janata Party	1618	6	
+24	Telangana - Manthani	CHALLA LAXMAN	Independent	1168	7	
+24	Telangana - Manthani	BOMMA BAPU.	Independent	904	8	
+24	Telangana - Manthani	MADE KUMAR SWAMY	Nationalist Congress Party	774	9	
+24	Telangana - Manthani	POLAM. RAJENDER	Bahujana Left Party	552	10	
+24	Telangana - Manthani	BOODIDHA THIRUPATHI	Telangana Praja Samithi (Kishore, Rao and Kishan)	354	11	
+25	Telangana - Peddapalle	MANOHAR REDDY DASARI	Telangana Rashtra Samithi	82765	1	8466
+25	Telangana - Peddapalle	CHINTHAKUNTA VIJAYA RAMANA RAO	Indian National Congress	74299	2	8466
+25	Telangana - Peddapalle	GUJJULA RAMAKRISHNA REDDY	Bharatiya Janata Party	9375	3	
+25	Telangana - Peddapalle	REDDY VENUGOPAL	Samajwadi Forward Bloc	8499	4	
+25	Telangana - Peddapalle	PONNALA SATHISH	Telangana Karmika Raithu Rajyam Party	2085	5	
+25	Telangana - Peddapalle	None of the Above	None of the Above	1853	6	
+25	Telangana - Peddapalle	RAVADI KANTHA RAO	Independent	1600	7	
+25	Telangana - Peddapalle	MANDALA KRISHNA REDDY	Independent	1038	8	
+25	Telangana - Peddapalle	MAMIDIPELLI BAPAIAH	Bahujan Samaj Party	876	9	
+25	Telangana - Peddapalle	DURGAM RAJKUMAR	Independent	870	10	
+25	Telangana - Peddapalle	SHAIK ABDUL BARI	Independent	709	11	
+25	Telangana - Peddapalle	BABAR MOHAMMED	Nationalist Congress Party	648	12	
+25	Telangana - Peddapalle	NAMPELLI SWAMY	Independent	623	13	
+25	Telangana - Peddapalle	RAJU BOMMANAVENI	All India Forward Bloc	406	14	
+25	Telangana - Peddapalle	THIRUPATHI MARAM	Samajwadi Party	283	15	
+25	Telangana - Peddapalle	NIMMALA ASHOK	India Praja Bandhu Party	277	16	
+25	Telangana - Peddapalle	SAMMAIAH GUNTIPALLI	Bahujana Left Party	265	17	
+25	Telangana - Peddapalle	AKULA SWAMY	Telangana Prajala Party	247	18	
+26	Telangana - Karimnagar	GANGULA KAMALAKAR	Telangana Rashtra Samithi	80983	1	14974
+26	Telangana - Karimnagar	BANDI SANJAY KUMAR	Bharatiya Janata Party	66009	2	14974
+26	Telangana - Karimnagar	PONNAM PRABHAKAR	Indian National Congress	39500	3	
+26	Telangana - Karimnagar	K. NAGESH	Independent	3009	4	
+26	Telangana - Karimnagar	EDAVELLY RAMESH	Telangana Karmika Raithu Rajyam Party	1562	5	
+26	Telangana - Karimnagar	DURVASA REDDY PAKALA	Independent	1058	6	
+26	Telangana - Karimnagar	None of the Above	None of the Above	982	7	
+26	Telangana - Karimnagar	NAGUNOORI YELLAIAH	Independent	951	8	
+26	Telangana - Karimnagar	T. ARUNA JYOTHI	Pyramid Party of India	724	9	
+26	Telangana - Karimnagar	ANAGANDULA VENKANNA	Bahujan Samaj Party	709	10	
+26	Telangana - Karimnagar	PULIKOTA RAMESH	Independent	445	11	
+26	Telangana - Karimnagar	CHEEKOTI RAMESH	Independent	430	12	
+26	Telangana - Karimnagar	WASEEMUDDIN AHMED	Bahujana Left Party	333	13	
+26	Telangana - Karimnagar	SOMIDI VENU PRASAD	Shiv Sena	283	14	
+26	Telangana - Karimnagar	KOTA SHYAM KUMAR	Independent	259	15	
+26	Telangana - Karimnagar	BANDI SRINIVAS	Independent	246	16	
+26	Telangana - Karimnagar	MUSKU MAHENDER REDDY	Independent	204	17	
+26	Telangana - Karimnagar	DURGAM MOHAN	Republican Party of India	185	18	
+26	Telangana - Karimnagar	P. SANTOSH	Independent	177	19	
+26	Telangana - Karimnagar	MOLUMOORI DEENA DESHAI	India Praja Bandhu Party	152	20	
+26	Telangana - Karimnagar	TEJ DEEP REDDY KOMATIREDDY	All India Forward Bloc	149	21	
+26	Telangana - Karimnagar	KANUGULA NAVEEN KUMAR	Bahujana Rashtra Samithi	144	22	
+26	Telangana - Karimnagar	MAMINDLA SANDEEP KUMAR	Independent	128	23	
+26	Telangana - Karimnagar	YANAMALA MANJULA	Dalita Bahujana Party	108	24	
+26	Telangana - Karimnagar	VURUMALLA VISHWAM	Independent	100	25	
+26	Telangana - Karimnagar	MANETI RAJU	Independent	96	26	
+27	Telangana - Choppadandi	RAVI SHANKAR SUNKE	Telangana Rashtra Samithi	91090	1	42127
+27	Telangana - Choppadandi	MEDIPALLY SATHYAM	Indian National Congress	48963	2	42127
+27	Telangana - Choppadandi	BODIGA SHOBHA GALANNA	Bharatiya Janata Party	15835	3	
+27	Telangana - Choppadandi	DASARI VIDYASAGAR	Independent	2222	4	
+27	Telangana - Choppadandi	None of the Above	None of the Above	2220	5	
+27	Telangana - Choppadandi	BODDU NARSAIAH	Independent	2215	6	
+27	Telangana - Choppadandi	BOLLAMPELLY AILAIAH	Independent	1860	7	
+27	Telangana - Choppadandi	MANDA RAVINDAR	Bahujan Samaj Party	1848	8	
+27	Telangana - Choppadandi	AKKENAPALLY YESURATNAM	Bahujana Raajyam Party (Phule Ambedkar)	861	9	
+27	Telangana - Choppadandi	KANAKAM VAMSHI	Bahujana Left Party	551	10	
+27	Telangana - Choppadandi	CHILUKA LINGAIAH	Marxist Communist Party of India (United)	506	11	
+27	Telangana - Choppadandi	UPPULETI LAXMAN	Independent	503	12	
+27	Telangana - Choppadandi	BOLLI KISHAN	Bahujana Rashtra Samithi	356	13	
+27	Telangana - Choppadandi	KANUKA RAMESH	Jai Swaraj Party	304	14	
+28	Telangana - Vemulawada	RAMESH CHENNAMANENI	Telangana Rashtra Samithi	84050	1	28186
+28	Telangana - Vemulawada	SRINIVAS AADI	Indian National Congress	55864	2	28186
+28	Telangana - Vemulawada	PRATAPA RAMAKRISHAN	Bharatiya Janata Party	6592	3	
+28	Telangana - Vemulawada	BHOOMESH PITTALA	Bahujan Samaj Party	2119	4	
+28	Telangana - Vemulawada	None of the Above	None of the Above	1729	5	
+28	Telangana - Vemulawada	MANDA THIRUPATHI GOUD	Independent	1399	6	
+28	Telangana - Vemulawada	NARESH JUMBARTHI	Independent	681	7	
+28	Telangana - Vemulawada	NALLA MAHIPAL REDDY	Independent	637	8	
+28	Telangana - Vemulawada	BURRA RAVITHEJA	Independent	586	9	
+28	Telangana - Vemulawada	GUDISE PRABHAKAR	Bahujana Raajyam Party (Phule Ambedkar)	267	10	
+28	Telangana - Vemulawada	SRIRAMULA VENKATESHWARLU	Bahujana Left Party	258	11	
+28	Telangana - Vemulawada	JINKA SRINIVAS	Independent	254	12	
+28	Telangana - Vemulawada	BOLISHETTI MOSHEH	India Praja Bandhu Party	244	13	
+28	Telangana - Vemulawada	CHEEKOTI VARUN KUMAR GUPTA	Telugu Congress Party	244	14	
+28	Telangana - Vemulawada	PALLERLA SHEKAR	Shiv Sena	231	15	
+28	Telangana - Vemulawada	ROUTHU THIRUPATHI	Jai Swaraj Party	199	16	
+29	Telangana - Sircilla	KALVAKUNTLA TARAKA RAMA RAO	Telangana Rashtra Samithi	125213	1	89009
+29	Telangana - Sircilla	KONDAM KARUNA MAHENDER REDDY	Indian National Congress	36204	2	89009
+29	Telangana - Sircilla	AVUNOORI RAMAKANTH	Bahujan Samaj Party	3245	3	
+29	Telangana - Sircilla	MALLUGARI NARSA GOUDU	Bharatiya Janata Party	3243	4	
+29	Telangana - Sircilla	None of the Above	None of the Above	2321	5	
+29	Telangana - Sircilla	KODURI BALA LINGAM	Independent	1922	6	
+29	Telangana - Sircilla	THAKKALA KIRAN	Republican Party of India (A)	978	7	
+29	Telangana - Sircilla	BOINPALLY SRINIVAS	Akhil Bharatiya Desh Bhakt Morcha	961	8	
+29	Telangana - Sircilla	ALWALA KANAKARAJU	Independent	628	9	
+29	Telangana - Sircilla	KARINGULA YADAGIRI	Jai Swaraj Party	472	10	
+29	Telangana - Sircilla	DOSALA CHANDRAM	India Praja Bandhu Party	468	11	
+29	Telangana - Sircilla	KURAPATI RAMESH	Bahujana Left Party	443	12	
+29	Telangana - Sircilla	GOUTA GANESH	Shiv Sena	279	13	
+29	Telangana - Sircilla	CHOUTAPELLI VENUGOPAL	Marxist Communist Party of India (United)	253	14	
+30	Telangana - Manakondur	BALAKISHAN RASAMAYI	Telangana Rashtra Samithi	88997	1	31509
+30	Telangana - Manakondur	AREPALLY MOHAN	Indian National Congress	57488	2	31509
+30	Telangana - Manakondur	PRABHAKAR MORE	Samajwadi Forward Bloc	13610	3	
+30	Telangana - Manakondur	GADDAM NAGARAJU	Bharatiya Janata Party	4356	4	
+30	Telangana - Manakondur	None of the Above	None of the Above	2561	5	
+30	Telangana - Manakondur	NISHANI RAMACHANDRAM	Bahujan Samaj Party	1520	6	
+30	Telangana - Manakondur	MANJULA YANAMALA	Dalita Bahujana Party	1045	7	
+30	Telangana - Manakondur	KARRE RAVINDER	Republican Party of India (A)	783	8	
+30	Telangana - Manakondur	ANDE BHANUMURTHY	Independent	609	9	
+30	Telangana - Manakondur	GEEDI SADAIAH	Bahujana Left Party	544	10	
+30	Telangana - Manakondur	SAMANAPELLI ANTHAIAH	Shiv Sena	491	11	
+30	Telangana - Manakondur	MADDELA ODELU	Jai Maha Bharath Party	346	12	
+30	Telangana - Manakondur	JAKKANAPALLY GANESH	All India Forward Bloc	298	13	
+30	Telangana - Manakondur	DUBBA NEERAJA	Nationalist Congress Party	259	14	
+31	Telangana - Huzurabad	EATALA RAJENDAR	Telangana Rashtra Samithi	104840	1	43719
+31	Telangana - Huzurabad	KAUSHIK REDDY PADI	Indian National Congress	61121	2	43719
+31	Telangana - Huzurabad	None of the Above	None of the Above	2867	3	
+31	Telangana - Huzurabad	BARIGE GATTAIAH YADAV	Independent	2660	4	
+31	Telangana - Huzurabad	RAGHU PUPPALA	Bharatiya Janata Party	1683	5	
+31	Telangana - Huzurabad	CHINTHA ANIL KUMAR	Pyramid Party of India	1090	6	
+31	Telangana - Huzurabad	MAREPELLI MOGILAIAH	Bahujan Samaj Party	1024	7	
+31	Telangana - Huzurabad	LINGAMPALLI SRINIVAS REDDY	Marxist Communist Party of India (United)	417	8	
+31	Telangana - Huzurabad	KATANGURI BUCHI REDDY	All India Forward Bloc	385	9	
+31	Telangana - Huzurabad	KOURU LINGA REDDY	Bahujana Left Party	338	10	
+31	Telangana - Huzurabad	PURELLA SRAVAN KUMAR	Akhil Bharatiya Jan Sangh	250	11	
+32	Telangana - Husnabad	SATISH KUMAR VODITELA	Telangana Rashtra Samithi	117083	1	70530
+32	Telangana - Husnabad	CHADHA VENKAT REDDY	Communist Party of India	46553	2	70530
+32	Telangana - Husnabad	DEVASANI THIRUPATHIREDDY	Telangana Inti Party	4556	3	
+32	Telangana - Husnabad	CHADA SRINIVASA REDDY	Bharatiya Janata Party	4309	4	
+32	Telangana - Husnabad	None of the Above	None of the Above	3534	5	
+32	Telangana - Husnabad	NAGOJU KOTESHWARA CHARI	Bahujan Samaj Party	2392	6	
+32	Telangana - Husnabad	AILENI MALLIKAARJUNA REDDY	Shiv Sena	1907	7	
+32	Telangana - Husnabad	KAPARTHI RAGHU	Pyramid Party of India	1803	8	
+32	Telangana - Husnabad	CHINTAKINDI SINGARAIAH	Independent	800	9	
+32	Telangana - Husnabad	ERROLLA RAMESH	Republican Party of India (A)	702	10	
+32	Telangana - Husnabad	PONNALA RAJENDER	Independent	630	11	
+32	Telangana - Husnabad	BOINI SRINIVAS	All India Samata Party	585	12	
+32	Telangana - Husnabad	PONNAM SREENIVAS	Independent	573	13	
+32	Telangana - Husnabad	GANNEBOINA RAJESHAM	Independent	566	14	
+32	Telangana - Husnabad	KOMMULA RAVINDER	New India Party	433	15	
+32	Telangana - Husnabad	DUMBALA PARSHARAMULU	Jai Swaraj Party	393	16	
+33	Telangana - Siddipet	THANNEERU HARISH RAO	Telangana Rashtra Samithi	131295	1	118699
+33	Telangana - Siddipet	BHAVANI MARIKANTI	Telangana Jana Samithi	12596	2	118699
+33	Telangana - Siddipet	NAINI NAROTHAM REDDY	Bharatiya Janata Party	11266	3	
+33	Telangana - Siddipet	PUSHPALATHA MEDOJU	Shramajeevi Party	3206	4	
+33	Telangana - Siddipet	None of the Above	None of the Above	2932	5	
+33	Telangana - Siddipet	BURRA SRINIVAAS	Telangana Inti Party	1204	6	
+33	Telangana - Siddipet	ALLADI SRINIVAS	Independent	931	7	
+33	Telangana - Siddipet	BHOGI SRINIVAS	Independent	905	8	
+33	Telangana - Siddipet	GYADARI JAGADISH @ JAGAN	Bahujana Left Party	798	9	
+33	Telangana - Siddipet	PEDDOLLA SRINIVAS	Bahujan Samaj Party	718	10	
+33	Telangana - Siddipet	CHINTALA MALLESHAM	Independent	492	11	
+33	Telangana - Siddipet	DARIPALLI CHANDRAM	Independent	370	12	
+33	Telangana - Siddipet	LAXMINARAYANA DONTHULA	Independent	342	13	
+34	Telangana - Medak	PADMA DEVENDER REDDY. M	Telangana Rashtra Samithi	97670	1	47983
+34	Telangana - Medak	AMMAREDDY GARI UPENDER REDDY	Indian National Congress	49687	2	47983
+34	Telangana - Medak	REVELLI VINAY SAGAR	Samajwadi Forward Bloc	6947	3	
+34	Telangana - Medak	AKULA RAJAIAH	Bharatiya Janata Party	6321	4	
+34	Telangana - Medak	None of the Above	None of the Above	2263	5	
+34	Telangana - Medak	RUDRAVARAM VENUGOPAL	Independent	1490	6	
+34	Telangana - Medak	M. SANTHOSH REDDY	Pyramid Party of India	1188	7	
+34	Telangana - Medak	BEESA ASHOK KUMAR	Bahujan Samaj Party	1044	8	
+34	Telangana - Medak	L.PARSHIYA	BhartiyaBahujanKranti Dal	953	9	
+34	Telangana - Medak	LASMAGALLA SHEKAR	Independent	541	10	
+34	Telangana - Medak	DUDA YADESHWAR	Bahujana Left Party	324	11	
+34	Telangana - Medak	P.SHASHIDHAR REDDY	Nationalist Congress Party	229	12	
+34	Telangana - Medak	GUNDUKADI KARNAKAR	India Praja Bandhu Party	205	13	
+35	Telangana - Narayankhed	MAHA REDDY BHUPAL REDDY	Telangana Rashtra Samithi	95550	1	58508
+35	Telangana - Narayankhed	SURESH KUMAR SHETKAR	Indian National Congress	37042	2	58508
+35	Telangana - Narayankhed	PATLOLLA SANJEEVA REDDY	Bharatiya Janata Party	33060	3	
+35	Telangana - Narayankhed	MUDIRAJ VENKATESHAM	Independent	3336	4	
+35	Telangana - Narayankhed	None of the Above	None of the Above	1553	5	
+35	Telangana - Narayankhed	PRAKASH RATHOD	Bahujan Mukti Party	1198	6	
+35	Telangana - Narayankhed	M. BASWA RAJ	Bahujana Left Party	567	7	
+35	Telangana - Narayankhed	ALIGE JEEVAN	Independent	491	8	
+35	Telangana - Narayankhed	K.HANMANDLU	Akhil Bharatiya Jan Sangh	352	9	
+35	Telangana - Narayankhed	MURALI GOVIND	Mana Party	336	10	
+35	Telangana - Narayankhed	SAIBABA	Aam Aadmi Party	248	11	
+36	Telangana - Andole	KRANTHI KIRAN CHANTI	Telangana Rashtra Samithi	104229	1	16465
+36	Telangana - Andole	C.DAMODAR RAJANARSIMHA	Indian National Congress	87764	2	16465
+36	Telangana - Andole	BABUMOHANPALLY	Bharatiya Janata Party	2404	3	
+36	Telangana - Andole	None of the Above	None of the Above	1510	4	
+36	Telangana - Andole	MADIGA. BUCHAIAH	Bahujan Samaj Party	729	5	
+36	Telangana - Andole	POTHARAJU JAYALAKSHIMI	Bahujana Left Party	549	6	
+36	Telangana - Andole	NAKKA. SURYA KUMAR	Independent	408	7	
+36	Telangana - Andole	APPAJIPALLY SURESH	Nava Samaj Party	281	8	
+36	Telangana - Andole	KASHAPAGA EMMAIAH	Independent	246	9	
+37	Telangana - Narsapur	CHILUMULA MADAN REDDY	Telangana Rashtra Samithi	105665	1	38320
+37	Telangana - Narsapur	VAKITI SUNITHA	Indian National Congress	67345	2	38320
+37	Telangana - Narsapur	SINGAYAPALLI GOPI	Bharatiya Janata Party	2848	3	
+37	Telangana - Narsapur	SOMANNAGARI LAXMI	Bahujan Samaj Party	2460	4	
+37	Telangana - Narsapur	None of the Above	None of the Above	1669	5	
+37	Telangana - Narsapur	AJJAMARRY MALLESHAM	Communist Party of India (Marxist)	1638	6	
+37	Telangana - Narsapur	NAVEENN	Independent	1112	7	
+37	Telangana - Narsapur	MANNE DIGAMBER MUDIRAJ	Mana Party	897	8	
+38	Telangana - Zahirabad	KONINTY MANIK RAO	Telangana Rashtra Samithi	96598	1	34473
+38	Telangana - Zahirabad	DR. JETTY GEETA	Indian National Congress	62125	2	34473
+38	Telangana - Zahirabad	JANGAM GOPI	Bharatiya Janata Party	19454	3	
+38	Telangana - Zahirabad	K.V. NALIN DUTT	Independent	4330	4	
+38	Telangana - Zahirabad	None of the Above	None of the Above	1884	5	
+38	Telangana - Zahirabad	B. RAMCHANDER	Communist Party of India (Marxist)	1036	6	
+38	Telangana - Zahirabad	PRAVEEN	Independent	744	7	
+38	Telangana - Zahirabad	RAMULU HUGGELLY	Independent	698	8	
+38	Telangana - Zahirabad	MALEDODDI PADMARAO	Bahujan Samaj Party	521	9	
+38	Telangana - Zahirabad	BANTU PURUSHOTHAM RAO	Nava Praja Rajyam Party	430	10	
+38	Telangana - Zahirabad	CHITTAMPALLY BALRAJ	Independent	277	11	
+38	Telangana - Zahirabad	HARI KRISHNA MANNE	Bahujan Mukti Party	231	12	
+38	Telangana - Zahirabad	MALLESH GANGWAR	Shiv Sena	225	13	
+38	Telangana - Zahirabad	SAJJAPUR. RAMESH	Jai Swaraj Party	181	14	
+38	Telangana - Zahirabad	ERPULA ASHOK	Independent	165	15	
+39	Telangana - Sangareddy	TURUPU JAYAPRAKASH REDDY	Indian National Congress	76572	1	2589
+39	Telangana - Sangareddy	CHINTA PRABHAKAR	Telangana Rashtra Samithi	73983	2	2589
+39	Telangana - Sangareddy	DESHPANDE RAJESHWAR RAO	Bharatiya Janata Party	7628	3	
+39	Telangana - Sangareddy	POLICE. RAMCHANDER	Independent	4140	4	
+39	Telangana - Sangareddy	None of the Above	None of the Above	1402	5	
+39	Telangana - Sangareddy	BEERAM MALLESHAM	Communist Party of India (Marxist)	1340	6	
+39	Telangana - Sangareddy	BANGARU. KRISHNA	Independent	738	7	
+39	Telangana - Sangareddy	SHAIK ZAHOOR	Independent	539	8	
+39	Telangana - Sangareddy	THALARI UDAYA BHASKAR	Independent	256	9	
+39	Telangana - Sangareddy	MALLAIAH GULLANIGARI	Bahujan Samaj Party	230	10	
+39	Telangana - Sangareddy	CHANDRA MOHAN	Telangana Communist Party of India	118	11	
+39	Telangana - Sangareddy	SYED GHOUSUDDIN	Aam Aadmi Party	105	12	
+39	Telangana - Sangareddy	NARAYANA DANDU	Bahujan Mukti Party	100	13	
+39	Telangana - Sangareddy	MD.TOUFIQ AHAMED	Anna YSR Congress Party	94	14	
+39	Telangana - Sangareddy	DODLA. VENKAT	New India Party	69	15	
+40	Telangana - Patancheru	GUDEM MAHIPAL REDDY	Telangana Rashtra Samithi	116474	1	37699
+40	Telangana - Patancheru	KATA SRINIVAS GOUD	Indian National Congress	78775	2	37699
+40	Telangana - Patancheru	KARUNAKAR REDDY. P	Bharatiya Janata Party	7428	3	
+40	Telangana - Patancheru	M PRAVEEN KUMAR	Independent	3439	4	
+40	Telangana - Patancheru	BALAIAH. M	Bahujan Samaj Party	2597	5	
+40	Telangana - Patancheru	None of the Above	None of the Above	1487	6	
+40	Telangana - Patancheru	SHAMSHABAD SUDARSHAN MUDIRAJ	Independent	956	7	
+40	Telangana - Patancheru	ROYYAPALLI SRINIVAS	Communist Party of India (Marxist)	800	8	
+40	Telangana - Patancheru	SYED HAMEED	Independent	470	9	
+40	Telangana - Patancheru	METTU SRIDHAR	Independent	336	10	
+40	Telangana - Patancheru	S. SATYANARAYANA	Independent	260	11	
+40	Telangana - Patancheru	BHARATESH	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	252	12	
+40	Telangana - Patancheru	PATAN MAKTHUM SAHEB	Independent	211	13	
+40	Telangana - Patancheru	KALLU NARSIMLU GOUD	Independent	169	14	
+40	Telangana - Patancheru	T.D.S. MANI	India Praja Bandhu Party	155	15	
+40	Telangana - Patancheru	KURMA BHOOMANI NARASIMHA	Independent	146	16	
+40	Telangana - Patancheru	DUBASHI MOHAN DAS	New India Party	110	17	
+41	Telangana - Dubbak	SOLIPETA RAMALINGA REDDY	Telangana Rashtra Samithi	89299	1	62500
+41	Telangana - Dubbak	MADDULA NAGESHWAR REDDY	Indian National Congress	26799	2	62500
+41	Telangana - Dubbak	MADAVANENI RAGHUNANDAN RAO	Bharatiya Janata Party	22595	3	
+41	Telangana - Dubbak	POSANIPALLI MAHIPAL REDDY	Samajwadi Forward Bloc	12215	4	
+41	Telangana - Dubbak	PEDDALINGANNAGARI PRASAD	Independent	3822	5	
+41	Telangana - Dubbak	CHINDAM RAJKUMAR	Telangana Jana Samithi	2554	6	
+41	Telangana - Dubbak	KISHAN RAO.D.	Bahujan Samaj Party	964	7	
+41	Telangana - Dubbak	None of the Above	None of the Above	880	8	
+41	Telangana - Dubbak	SHYAM SUNDHAR REDDY	Jai Maha Bharath Party	702	9	
+41	Telangana - Dubbak	GOUTI MALLESH	Jai Swaraj Party	644	10	
+41	Telangana - Dubbak	BONALA VIJAY KUMAR	Samajwadi Party	622	11	
+41	Telangana - Dubbak	MADDULA RAJANI REDDY	Independent	490	12	
+41	Telangana - Dubbak	GODDUBARLA BHASKAR	Communist Party of India (Marxist)	475	13	
+41	Telangana - Dubbak	SUKURI ASHOK	Republican Party of India (A)	469	14	
+41	Telangana - Dubbak	BHUJANGAM GONDHI	Independent	438	15	
+41	Telangana - Dubbak	JAKKULA NARSIMLU	Independent	418	16	
+41	Telangana - Dubbak	RANGANNAGARI KRISHNA REDDY	India Praja Bandhu Party	347	17	
+41	Telangana - Dubbak	ANJANEYULU GUNDABOINA	Independent	304	18	
+41	Telangana - Dubbak	MADHAVA REDDYGARI HANUMANTHA REDDY	Shiv Sena	244	19	
+42	Telangana - Gajwel	KALVAKUNTLA CHANDRASHEKAR RAO	Telangana Rashtra Samithi	125444	1	58290
+42	Telangana - Gajwel	VANTERU PRATAP REDDY	Indian National Congress	67154	2	58290
+42	Telangana - Gajwel	KANTE SAYANNA	Independent	3353	3	
+42	Telangana - Gajwel	BITLA VENKATESHWERLU	Independent	1636	4	
+42	Telangana - Gajwel	None of the Above	None of the Above	1624	5	
+42	Telangana - Gajwel	AKULA VIJAYA	Bharatiya Janata Party	1587	6	
+42	Telangana - Gajwel	YADAGIRI PEDDASAIGARI	Independent	1350	7	
+42	Telangana - Gajwel	GURRAPU RAMULU	Independent	1229	8	
+42	Telangana - Gajwel	KANAKAIAH GAJJELA	Bahujan Samaj Party	1023	9	
+42	Telangana - Gajwel	JEEDIPALLY SRINIVAS	New India Party	892	10	
+42	Telangana - Gajwel	KADIUM KRUPAKAR	Independent	877	11	
+42	Telangana - Gajwel	P.SATHISH	Independent	810	12	
+42	Telangana - Gajwel	SRINIVAS SREERAMULA	Bahujana Left Party	315	13	
+42	Telangana - Gajwel	EMAMPURAM YADAGIRI GOUD	Independent	226	14	
+43	Telangana - Medchal	CH. MALLA REDDY	Telangana Rashtra Samithi	167324	1	87990
+43	Telangana - Medchal	KICCHANNAGARI LAXMA REDDY	Indian National Congress	79334	2	87990
+43	Telangana - Medchal	NAKKA PRABHAKAR GOUD	Bahujan Samaj Party	25829	3	
+43	Telangana - Medchal	PEDDI MOHAN REDDY	Bharatiya Janata Party	23041	4	
+43	Telangana - Medchal	None of the Above	None of the Above	3402	5	
+43	Telangana - Medchal	BAIRAPAKA JESU DASU CHAKARAVARTI	Nava Praja Rajyam Party	978	6	
+43	Telangana - Medchal	DHARMASANAM BHANU MURTHY	Praja Satta Party	875	7	
+43	Telangana - Medchal	VODELA SURESH BABU	Indian Labour Party (Ambedkar Phule)	601	8	
+43	Telangana - Medchal	SANTOSH VELURI	Shiv Sena	563	9	
+43	Telangana - Medchal	GUJJA RAMESH	Bahujana Left Party	502	10	
+43	Telangana - Medchal	DASS MEKALA	Nationalist Congress Party	458	11	
+43	Telangana - Medchal	NEERADI HYMAVATHI	Independent	320	12	
+43	Telangana - Medchal	CHIKKADMALLA SRINIVAS	New India Party	307	13	
+43	Telangana - Medchal	KANDI PENTA CHARY	Independent	280	14	
+43	Telangana - Medchal	JANAPALA PRAKASH VEER	Bahujana Raajyam Party (Phule Ambedkar)	277	15	
+43	Telangana - Medchal	HAMID UL HAK CHAUDARI	Independent	270	16	
+44	Telangana - Malkajgiri	HANUMANTH RAO MYNAMPALLY	Telangana Rashtra Samithi	114149	1	73698
+44	Telangana - Malkajgiri	RAMCHANDER RAO NARAPARAJU	Bharatiya Janata Party	40451	2	73698
+44	Telangana - Malkajgiri	KAPILAVAI DILEEP KUMAR	Telangana Jana Samithi	34219	3	
+44	Telangana - Malkajgiri	M.D. RAJENDRA KUMAR	Samajwadi Forward Bloc	4651	4	
+44	Telangana - Malkajgiri	None of the Above	None of the Above	3391	5	
+44	Telangana - Malkajgiri	AJAY KUMAR PEDDY	Telangana Karmika Raithu Rajyam Party	1724	6	
+44	Telangana - Malkajgiri	JAMPALA MANIKYAM	Bahujan Samaj Party	1654	7	
+44	Telangana - Malkajgiri	GOPU RAMANA REDDY	Independent	884	8	
+44	Telangana - Malkajgiri	C.L.YADAGIRI	Independent	694	9	
+44	Telangana - Malkajgiri	NISSIONKARA SRAVANI	Prajaa Swaraaj Party	533	10	
+44	Telangana - Malkajgiri	JAJULA BHASKAR	Shramajeevi Party	513	11	
+44	Telangana - Malkajgiri	RATHOD DILIP KUMAR	Ambedkar National Congress	507	12	
+44	Telangana - Malkajgiri	KAMALA AYILAIAH	Bahujana Left Party	443	13	
+44	Telangana - Malkajgiri	R ANIL KUMAR	Independent	427	14	
+44	Telangana - Malkajgiri	KING WILLIAM	All India Forward Bloc	423	15	
+44	Telangana - Malkajgiri	K KUSUMA KUMAR REDDY	Independent	358	16	
+44	Telangana - Malkajgiri	MEKALA NATHANIAL	Jana Vaahini Party	285	17	
+44	Telangana - Malkajgiri	BOBBILI PAVANI REDDY	Independent	269	18	
+44	Telangana - Malkajgiri	S.B.PRAVEEN	Independent	258	19	
+44	Telangana - Malkajgiri	R VISHNU VARDHAN	Aam Aadmi Party	237	20	
+44	Telangana - Malkajgiri	MAMIDIGALLA JOHN BABU	Independent	226	21	
+44	Telangana - Malkajgiri	R SUJATHA	Independent	217	22	
+44	Telangana - Malkajgiri	THANGELLAPALLI SHYAM SUNDER	Telangana Prajala Party	215	23	
+44	Telangana - Malkajgiri	P MAHESH	Telangana Communist Party of India	209	24	
+44	Telangana - Malkajgiri	S MADHU MOHAN	Independent	201	25	
+44	Telangana - Malkajgiri	B RAVI KANTH	Independent	188	26	
+44	Telangana - Malkajgiri	PEDDI SRINIVAS	Shiv Sena	186	27	
+44	Telangana - Malkajgiri	MADDELA BEEM RAJ	Independent	171	28	
+44	Telangana - Malkajgiri	LOGGARI RAMESH	Bahujana Rashtra Samithi	170	29	
+44	Telangana - Malkajgiri	PAREEDULA SREENIVAS	Jai Swaraj Party	152	30	
+44	Telangana - Malkajgiri	NAGARAJ GOTTIMUKKALA	Jai Maha Bharath Party	147	31	
+44	Telangana - Malkajgiri	RAHUL PANDIT	Swarna Bharat Party	140	32	
+44	Telangana - Malkajgiri	DURGA PRASAD MOKADDAM	Republican Party of India	140	33	
+44	Telangana - Malkajgiri	VED VRATH	Independent	137	34	
+44	Telangana - Malkajgiri	DR. S L NARAYANA	Independent	136	35	
+44	Telangana - Malkajgiri	DEEPAK SAKAT WALA	Independent	134	36	
+44	Telangana - Malkajgiri	T LAXMI KANTH REDDY	Independent	133	37	
+44	Telangana - Malkajgiri	VELADI PREM PRAKASH	Pyramid Party of India	119	38	
+44	Telangana - Malkajgiri	VIVEKANAND ELUGURI	Jai Bharath Jena Sena Party	102	39	
+44	Telangana - Malkajgiri	K V SATISH KUMAR	Independent	100	40	
+44	Telangana - Malkajgiri	A RAMBABU	Independent	87	41	
+44	Telangana - Malkajgiri	S GANESH	Independent	76	42	
+44	Telangana - Malkajgiri	GANDI NAGESH GOUD	Independent	43	43	
+45	Telangana - Quthbullapur	K.P VIVEKANAND	Telangana Rashtra Samithi	154500	1	41500
+45	Telangana - Quthbullapur	KUNA SRISAILAM GOUD	Indian National Congress	113000	2	41500
+45	Telangana - Quthbullapur	KASANI VEERESH KASANI	Bharatiya Janata Party	9833	3	
+45	Telangana - Quthbullapur	RAVIPATI LOKA VIDYA SAGAR	Samajwadi Forward Bloc	3045	4	
+45	Telangana - Quthbullapur	None of the Above	None of the Above	2976	5	
+45	Telangana - Quthbullapur	SANJEEVA REDDY KORIMILLA	Bahujan Samaj Party	1080	6	
+45	Telangana - Quthbullapur	DONTHULA BIKSHAPATHI	Independent	727	7	
+45	Telangana - Quthbullapur	BATTULA SIDDESHWARLU	Prajaa Swaraaj Party	695	8	
+45	Telangana - Quthbullapur	K.RANGA RAO	Independent	679	9	
+45	Telangana - Quthbullapur	BODIGE LINGASWAMI	Bahujana Left Party	375	10	
+45	Telangana - Quthbullapur	KAMMETA BHUPAL	Independent	338	11	
+45	Telangana - Quthbullapur	M.S.RAMULU	Independent	337	12	
+45	Telangana - Quthbullapur	V.KURUMURTHI	Independent	295	13	
+45	Telangana - Quthbullapur	V.KIRAN KUMAR	Pyramid Party of India	293	14	
+45	Telangana - Quthbullapur	ASHWIN GARISHE	Independent	223	15	
+45	Telangana - Quthbullapur	K.RAJESH	Independent	214	16	
+45	Telangana - Quthbullapur	NAGIREDDY DASHARADHA RAAMI REDDY	All India Jaihind Party	203	17	
+45	Telangana - Quthbullapur	SESHAGIRI RAO PASUMARTHI	Praja Satta Party	189	18	
+45	Telangana - Quthbullapur	CHENNAM SHETTY JAYA SARADHI	Independent	152	19	
+45	Telangana - Quthbullapur	M.SANTOSH KUMAR	Shiv Sena	113	20	
+45	Telangana - Quthbullapur	VASANTHA RAGHAVA KADIYALA	Independent	101	21	
+46	Telangana - Kukatpally	MADHAVARAM KRISHNA RAO	Telangana Rashtra Samithi	111612	1	41049
+46	Telangana - Kukatpally	NANDAMURI VENKATA SUHASINI	Telugu Desam	70563	2	41049
+46	Telangana - Kukatpally	HARISH CHANDRA REDDY PANNALA	Bahujan Samaj Party	12761	3	
+46	Telangana - Kukatpally	MADHAVARAM KANTHA RAO	Bharatiya Janata Party	11943	4	
+46	Telangana - Kukatpally	None of the Above	None of the Above	2134	5	
+46	Telangana - Kukatpally	BHOJ RAJ KOYALKAR	Shramajeevi Party	1933	6	
+46	Telangana - Kukatpally	DASARI DEVANNA GOUD	Pyramid Party of India	863	7	
+46	Telangana - Kukatpally	D N RADHA KRISHNA	Independent	580	8	
+46	Telangana - Kukatpally	QUADRI S H	Aam Aadmi Party	482	9	
+46	Telangana - Kukatpally	MARRI PRABHAKAR MUDIRAJ	Independent	421	10	
+46	Telangana - Kukatpally	MURALI KRISHNA	Anarakshit Samaj Party	358	11	
+46	Telangana - Kukatpally	MENGA PRABHAKAR	Independent	312	12	
+46	Telangana - Kukatpally	RAGHUMUDRI NITHIN KINGSTAN	India Praja Bandhu Party	283	13	
+46	Telangana - Kukatpally	CH. CHANDRA SEKHAR	Independent	254	14	
+46	Telangana - Kukatpally	JABBAR KHAN	Samajwadi Party	182	15	
+46	Telangana - Kukatpally	RUDRAPATNA KRISHNA MOHAN	Shiv Sena	175	16	
+46	Telangana - Kukatpally	BANOTH LINGYA NAIK	Telangana Prajala Party	170	17	
+46	Telangana - Kukatpally	SANKARA NARAYANA PATIKANI	Samaikyandhra Parirakshana Samithi	139	18	
+46	Telangana - Kukatpally	MENDE SUDHAKAR YADAV	Independent	135	19	
+46	Telangana - Kukatpally	VIJAY SINGH RAJPUROHIT	Independent	127	20	
+46	Telangana - Kukatpally	PHANI KUMAR JUVVA	Independent	120	21	
+47	Telangana - Uppal	BETHI SUBHAS REDDY	Telangana Rashtra Samithi	117442	1	48168
+47	Telangana - Uppal	TULLA VEERENDER GOUD	Telugu Desam	69274	2	48168
+47	Telangana - Uppal	N.V.S.S.PRABHAKAR	Bharatiya Janata Party	26798	3	
+47	Telangana - Uppal	None of the Above	None of the Above	2712	4	
+47	Telangana - Uppal	V R SRINIVAS	Independent	1842	5	
+47	Telangana - Uppal	AKULA RAMESH	Telangana Karmika Raithu Rajyam Party	1453	6	
+47	Telangana - Uppal	YEDLA PARAMESHWAR	Bahujan Samaj Party	1211	7	
+47	Telangana - Uppal	REPAKA SUBASH REDDY	Independent	903	8	
+47	Telangana - Uppal	B VIJAY KUMAR	Nationalist Congress Party	784	9	
+47	Telangana - Uppal	B SHIVA KUMAR	Pyramid Party of India	583	10	
+47	Telangana - Uppal	BADDITI RAJU	Indian Christian Secular Party	475	11	
+47	Telangana - Uppal	ERUKALA NAVEEN GOUD	Independent	394	12	
+47	Telangana - Uppal	RAGHUNANDAN REDDY VAKITI	All India Forward Bloc	381	13	
+47	Telangana - Uppal	BANTU ANIL	The Future India Party	343	14	
+47	Telangana - Uppal	VARIKUPPALA KRISHNA	Bahujana Left Party	340	15	
+47	Telangana - Uppal	B SIVA RAMA KRISHNA	Independent	301	16	
+47	Telangana - Uppal	DR.PRIYANKA MARTHINENI	Aam Aadmi Party	297	17	
+47	Telangana - Uppal	C.JAGDISH CHOUDHARY	Shiv Sena	290	18	
+47	Telangana - Uppal	REVU CHINNA DHANA RAJU	Independent	216	19	
+47	Telangana - Uppal	K MUTHU VAMSHA RAJ	Social Justice Party	188	20	
+47	Telangana - Uppal	SEELOJU SHIVA KUMAR	Independent	159	21	
+47	Telangana - Uppal	KASULA NARASIMHA GOUD	Independent	149	22	
+47	Telangana - Uppal	KAMPALLY VIJAY KUMAR	Independent	132	23	
+47	Telangana - Uppal	PENDEM SASHIDHAR	Nava Samaj Party	120	24	
+47	Telangana - Uppal	KHATA PRAKASH	All India Samata Party	114	25	
+47	Telangana - Uppal	MAHENDER KUMAR KODIMALA	Independent	114	26	
+47	Telangana - Uppal	THUNGUNOORI BALARAJU	New India Party	106	27	
+47	Telangana - Uppal	GADDA YUGANDHAR	Jai Maha Bharath Party	106	28	
+47	Telangana - Uppal	MEKALA JAGDISH RAJ	Independent	102	29	
+47	Telangana - Uppal	SRINADHA KRISHNA	Bahujana Raajyam Party (Phule Ambedkar)	97	30	
+47	Telangana - Uppal	KARRI VENKOJI RAO	Independent	89	31	
+47	Telangana - Uppal	PITLA MAHESHWAR	Telangana Communist Party of India	87	32	
+47	Telangana - Uppal	NIRANJAN POLE	Prem Janata Dal	83	33	
+47	Telangana - Uppal	G N KRANTI KISHORE	Independent	76	34	
+47	Telangana - Uppal	MATHAI PERUKU	Independent	73	35	
+47	Telangana - Uppal	BHARATHA SUDARSHAN	Independent	65	36	
+48	Telangana - Ibrahimpatnam	MANCHIREDDY KISHAN REDDY	Telangana Rashtra Samithi	72581	1	376
+48	Telangana - Ibrahimpatnam	MALREDDY RANGA REDDY	Bahujan Samaj Party	72205	2	376
+48	Telangana - Ibrahimpatnam	SAMA RANGA REDDY	Telugu Desam	18053	3	
+48	Telangana - Ibrahimpatnam	ASHOK KOTHA	Bharatiya Janata Party	17129	4	
+48	Telangana - Ibrahimpatnam	PAGADALA YADAIAH	Communist Party of India (Marxist)	9106	5	
+48	Telangana - Ibrahimpatnam	BATANI KISTAIAH	Independent	1220	6	
+48	Telangana - Ibrahimpatnam	None of the Above	None of the Above	1151	7	
+48	Telangana - Ibrahimpatnam	T. RAJESHWARI	Jatiya Mahila Party	1123	8	
+48	Telangana - Ibrahimpatnam	SAPAVAT DEVARAM NAYAK	Independent	559	9	
+48	Telangana - Ibrahimpatnam	TIRUMAL REDDY. S	Independent	470	10	
+48	Telangana - Ibrahimpatnam	SAMREDDY SHIV KESH REDDY	Shiv Sena	467	11	
+48	Telangana - Ibrahimpatnam	SURAKANTI VIMALA REDDY	Independent	396	12	
+48	Telangana - Ibrahimpatnam	K. RAVINDER REDDY	Independent	356	13	
+48	Telangana - Ibrahimpatnam	BP GANESH MUDIRAJ	Samajwadi Party	334	14	
+48	Telangana - Ibrahimpatnam	RANADHIR REDDY BANDARU	Independent	331	15	
+48	Telangana - Ibrahimpatnam	NARLA SEETHA RAMAIAH YADAV	Independent	299	16	
+48	Telangana - Ibrahimpatnam	SEEKA BALRAJ GOUD	Jai Swaraj Party	280	17	
+48	Telangana - Ibrahimpatnam	KOTLA VASU	Telangana Prajala Party	217	18	
+48	Telangana - Ibrahimpatnam	GANDHAM SATYANARAYANA VAMSHARAJ	Social Justice Party of India	211	19	
+48	Telangana - Ibrahimpatnam	BACHIGALLA SAIDULU	Nava Samaj Party	199	20	
+48	Telangana - Ibrahimpatnam	GURRAM PAPIREDDY	Ambedkar National Congress	164	21	
+49	Telangana - Lal Bahadur Nagar	DEVI REDDY SUDHEER REDDY	Indian National Congress	113980	1	17848
+49	Telangana - Lal Bahadur Nagar	MUDDA GOWNI RAM MOHAN GOUD	Telangana Rashtra Samithi	96132	2	17848
+49	Telangana - Lal Bahadur Nagar	SHEKHAR RAO PERALA	Bharatiya Janata Party	21502	3	
+49	Telangana - Lal Bahadur Nagar	CHALLA RAM KALYAN	Samajwadi Forward Bloc	3739	4	
+49	Telangana - Lal Bahadur Nagar	None of the Above	None of the Above	3079	5	
+49	Telangana - Lal Bahadur Nagar	DHARMENDER GUNDELA	Bahujan Samaj Party	691	6	
+49	Telangana - Lal Bahadur Nagar	BOMMA RAGHU RAM NETHA	Nationalist Congress Party	558	7	
+49	Telangana - Lal Bahadur Nagar	PASULA GANGADHAR REDDY	Pyramid Party of India	549	8	
+49	Telangana - Lal Bahadur Nagar	DONTHA SRINIVASULU	Prajaa Swaraaj Party	428	9	
+49	Telangana - Lal Bahadur Nagar	MAMIDI RAMCHANDER	Bahujana Left Party	412	10	
+49	Telangana - Lal Bahadur Nagar	UDUGU IDAIAH	Independent	334	11	
+49	Telangana - Lal Bahadur Nagar	NARSIMHA SANGISHETTY	Aam Aadmi Party	269	12	
+49	Telangana - Lal Bahadur Nagar	BATTULA VENKATESH GOUD	Jai Swaraj Party	226	13	
+49	Telangana - Lal Bahadur Nagar	JUSTICE B.CHANDRA KUMAR	Telangana Prajala Party	223	14	
+49	Telangana - Lal Bahadur Nagar	VARUN REDDY	The Future India Party	213	15	
+49	Telangana - Lal Bahadur Nagar	GORRE RAMESH	Telangana Labour Party	175	16	
+49	Telangana - Lal Bahadur Nagar	MULLETI LAKSHMI JAGADEESHWARI	Independent	172	17	
+49	Telangana - Lal Bahadur Nagar	PREM GANDHI	Shiv Sena	158	18	
+49	Telangana - Lal Bahadur Nagar	AKELLA KAMESWARI RAMA DEVI	Jana Vaahini Party	156	19	
+49	Telangana - Lal Bahadur Nagar	JAYA PRAKASH DORNALA	New India Party	150	20	
+49	Telangana - Lal Bahadur Nagar	CHEPURI RAJU	Dalita Bahujana Party	124	21	
+49	Telangana - Lal Bahadur Nagar	SHYAM SUNDER GOUD GORA	Telangana Communist Party of India	105	22	
+49	Telangana - Lal Bahadur Nagar	JAKKA YADAGIRI	Social Justice Party of India	102	23	
+49	Telangana - Lal Bahadur Nagar	VENKATESH PILLI	Independent	91	24	
+49	Telangana - Lal Bahadur Nagar	DR.K VEERA BHOGA VASANTHA RAYULU	Samajwadi Party	87	25	
+49	Telangana - Lal Bahadur Nagar	M.PRAKURTHAMMA	Independent	81	26	
+49	Telangana - Lal Bahadur Nagar	JAGAN MOHAN POLE	Independent	74	27	
+49	Telangana - Lal Bahadur Nagar	ANUGU SAI KRISHNA	Independent	73	28	
+49	Telangana - Lal Bahadur Nagar	KOULE JAGANNATHAM	Bahujana Raajyam Party (Phule Ambedkar)	68	29	
+49	Telangana - Lal Bahadur Nagar	DHYAPA RAMBABU REDDY	Independent	61	30	
+49	Telangana - Lal Bahadur Nagar	KAKI PRAVEEN GOUD	Independent	60	31	
+49	Telangana - Lal Bahadur Nagar	K.NAGADEVA (DEVA)	Independent	59	32	
+49	Telangana - Lal Bahadur Nagar	K. SRINIVASA CHARY	Independent	59	33	
+49	Telangana - Lal Bahadur Nagar	R. SHANMUKHA CHARY	Independent	53	34	
+49	Telangana - Lal Bahadur Nagar	M. NAGESH KUMAR GOUD	Independent	43	35	
+49	Telangana - Lal Bahadur Nagar	BEERAM NAGARJUNA	Independent	41	36	
+50	Telangana - Maheshwaram	PATLOLLA SABITHA INDRA REDDY	Indian National Congress	95481	1	9227
+50	Telangana - Maheshwaram	TEEGALA KRISHNA REDDY	Telangana Rashtra Samithi	86254	2	9227
+50	Telangana - Maheshwaram	ANDELA SRIRAMULU	Bharatiya Janata Party	39445	3	
+50	Telangana - Maheshwaram	KRISHNA REDDY	Samajwadi Forward Bloc	3457	4	
+50	Telangana - Maheshwaram	None of the Above	None of the Above	2171	5	
+50	Telangana - Maheshwaram	SHEKAR IBRAM	Bahujan Samaj Party	2031	6	
+50	Telangana - Maheshwaram	MD. JAFFAR	Independent	1381	7	
+50	Telangana - Maheshwaram	MOHAMMED MERAJ UDDIN	Independent	708	8	
+50	Telangana - Maheshwaram	SRIKANTH GUNJA	Independent	656	9	
+50	Telangana - Maheshwaram	KANKTEKAR ARUN KUMAR	Bahujana Left Party	546	10	
+50	Telangana - Maheshwaram	DUDUKA SRISAILAM	Independent	479	11	
+50	Telangana - Maheshwaram	C. PADMA	Pyramid Party of India	440	12	
+50	Telangana - Maheshwaram	NAKKA SHARATH KUMAR	Independent	416	13	
+50	Telangana - Maheshwaram	EDUKOJU PRANAY RAJ	Independent	228	14	
+50	Telangana - Maheshwaram	G. SOUJANYA GUPTHA	Shiv Sena	187	15	
+50	Telangana - Maheshwaram	SYED ABBAS	Aam Aadmi Party	144	16	
+50	Telangana - Maheshwaram	G.MADHUSUDHAN	Jai Swaraj Party	124	17	
+50	Telangana - Maheshwaram	RUPANI LINGASVAMI	All India Forward Bloc	102	18	
+51	Telangana - Rajendranagar	TOLKANTI PRAKASH GOUD	Telangana Rashtra Samithi	108964	1	58373
+51	Telangana - Rajendranagar	GANESH RENUKUNTLA	Telugu Desam	50591	2	58373
+51	Telangana - Rajendranagar	MIRZA RAHMAT BAIG	All India Majlis-E-Ittehadul Muslimeen	46547	3	
+51	Telangana - Rajendranagar	BADDAM BAL REDDY	Bharatiya Janata Party	19627	4	
+51	Telangana - Rajendranagar	THOKALA SRINIVAS REDDY	All India Forward Bloc	13084	5	
+51	Telangana - Rajendranagar	None of the Above	None of the Above	1729	6	
+51	Telangana - Rajendranagar	GANGANI MAHENDER	Bahujan Samaj Party	1562	7	
+51	Telangana - Rajendranagar	SRILATHA	Independent	1023	8	
+51	Telangana - Rajendranagar	DR. ALUKA SRINIVAS RAO	Nationalist Congress Party	894	9	
+51	Telangana - Rajendranagar	PUSTAKALA BABU RAO	Independent	788	10	
+51	Telangana - Rajendranagar	MADAPATHI MUKESH	Independent	723	11	
+51	Telangana - Rajendranagar	VADDERA MAHESH	Pyramid Party of India	719	12	
+51	Telangana - Rajendranagar	GUDIDEVINI RAGHAVENDRA SWAMY GOUD	Bahujana Left Party	715	13	
+51	Telangana - Rajendranagar	PETERU DEVENDER	Independent	543	14	
+51	Telangana - Rajendranagar	AZEEM MOHD.	Independent	537	15	
+51	Telangana - Rajendranagar	SADIQ BIN SALAM	Aam Aadmi Party	420	16	
+51	Telangana - Rajendranagar	MOHAMMED NAWAZ	Ambedkar National Congress	330	17	
+51	Telangana - Rajendranagar	AEELA NARSING RAO	Shiv Sena	326	18	
+51	Telangana - Rajendranagar	BANDI DHANRAJ	India Praja Bandhu Party	311	19	
+51	Telangana - Rajendranagar	G NAVANEETHA	Independent	253	20	
+51	Telangana - Rajendranagar	SANTHOSH U.	Jai Bharath Jena Sena Party	248	21	
+51	Telangana - Rajendranagar	GANESH KUMAR KASHAMONI	Independent	214	22	
+51	Telangana - Rajendranagar	PEDIRIPATI SHEKAR GOUD	Jai Maha Bharath Party	182	23	
+51	Telangana - Rajendranagar	T VENKAT RAO	Independent	172	24	
+51	Telangana - Rajendranagar	BODLAPATI SRINIVASA RAO	Independent	150	25	
+51	Telangana - Rajendranagar	MOHAMMED SALAHUDDIN SOHHAIL	Independent	143	26	
+51	Telangana - Rajendranagar	RAMA RAO SALGARE	Independent	139	27	
+52	Telangana - Serilingampally	AREKAPUDI GANDHI	Telangana Rashtra Samithi	143307	1	44295
+52	Telangana - Serilingampally	V.ANANDA PRASAD	Telugu Desam	99012	2	44295
+52	Telangana - Serilingampally	GAJJALA YOGANAND	Bharatiya Janata Party	22106	3	
+52	Telangana - Serilingampally	None of the Above	None of the Above	3637	4	
+52	Telangana - Serilingampally	BEERA SRINIVASA RAO	Independent	3195	5	
+52	Telangana - Serilingampally	TANDRA KUMAR	Bahujana Left Party	1563	6	
+52	Telangana - Serilingampally	NAKKALA PRAVEEN MUDIRAJ	Bahujan Samaj Party	863	7	
+52	Telangana - Serilingampally	JULEE BENNALA	Independent	635	8	
+52	Telangana - Serilingampally	K. BASANTH RAJ	Independent	569	9	
+52	Telangana - Serilingampally	GADE SARITHA	Independent	568	10	
+52	Telangana - Serilingampally	M I. QURESHI	Aam Aadmi Party	498	11	
+52	Telangana - Serilingampally	M. PRADEEP ANIRUDH	Pyramid Party of India	496	12	
+52	Telangana - Serilingampally	UPPULA RAVINDER	Independent	370	13	
+52	Telangana - Serilingampally	M GNANA RAJU	Independent	349	14	
+52	Telangana - Serilingampally	KESHAWLU BEJUGUM	Shiv Sena	212	15	
+52	Telangana - Serilingampally	MOHAMMED KHALEED	Anna YSR Congress Party	212	16	
+52	Telangana - Serilingampally	NAROJ KALPANA	Dalita Bahujana Party	211	17	
+52	Telangana - Serilingampally	MUNAGALA SAMBA SIVA PRASAD	Independent	211	18	
+52	Telangana - Serilingampally	BASIREDDY BRAMHANANDA REDDY	Independent	196	19	
+52	Telangana - Serilingampally	MD SALEEM BHAI	Independent	190	20	
+52	Telangana - Serilingampally	JALEEL AHMED	India Praja Bandhu Party	182	21	
+52	Telangana - Serilingampally	M.SHRAVAN BABU	Independent	180	22	
+52	Telangana - Serilingampally	THOUT REDDY SANTHOSH REDDY	Independent	173	23	
+52	Telangana - Serilingampally	SRINIVAS REDDY SANKEPALLY	Independent	164	24	
+52	Telangana - Serilingampally	S. SHIVA RAM PRASAD	Independent	154	25	
+52	Telangana - Serilingampally	M.S. NAGARAJU	Ambedkar National Congress	151	26	
+52	Telangana - Serilingampally	SHIVA ONGURU	Samajwadi Party	133	27	
+52	Telangana - Serilingampally	C.SATISH	Independent	97	28	
+52	Telangana - Serilingampally	MD. ARIF	Telangana Prajala Party	95	29	
+52	Telangana - Serilingampally	DANDUGULA SRINIVAS	Independent	76	30	
+53	Telangana - Chevella	KALE YADAIAH	Telangana Rashtra Samithi	99168	1	33552
+53	Telangana - Chevella	K.S RATNAM	Indian National Congress	65616	2	33552
+53	Telangana - Chevella	KANJARLA PRAKASH	Bharatiya Janata Party	5474	3	
+53	Telangana - Chevella	KARRE SUNEEL KUMAR	Bahujan Samaj Party	1706	4	
+53	Telangana - Chevella	None of the Above	None of the Above	1469	5	
+53	Telangana - Chevella	RAVINDER MALA	Republican Party of India	1334	6	
+53	Telangana - Chevella	ATHELI NARSIMULU	Jai Swaraj Party	956	7	
+53	Telangana - Chevella	G. CHINA MANIKYAM	All India Samata Party	560	8	
+53	Telangana - Chevella	J BHEEMAIAH	Independent	492	9	
+53	Telangana - Chevella	UPPARI SRINIVAS	Bahujana Raajyam Party (Phule Ambedkar)	422	10	
+54	Telangana - PARGI	K.MAHESH REDDY	Telangana Rashtra Samithi	83467	1	15841
+54	Telangana - PARGI	T. RAM MOHAN REDDY	Indian National Congress	67626	2	15841
+54	Telangana - PARGI	K.MALLESHAM	Samajwadi Forward Bloc	8694	3	
+54	Telangana - PARGI	K.PRAHALAD RAO	Bharatiya Janata Party	6739	4	
+54	Telangana - PARGI	AMIR ASLAM AHMED KHAN	Loktantrik Sarvjan Samaj Party	1524	5	
+54	Telangana - PARGI	P.RAMANNA	Telangana Inti Party	1506	6	
+54	Telangana - PARGI	None of the Above	None of the Above	1381	7	
+54	Telangana - PARGI	B.R.KIRAN KUMAR MUDIRAJ	Bahujan Samaj Party	1119	8	
+54	Telangana - PARGI	MUKUNDA NAGESHWAR	Independent	871	9	
+54	Telangana - PARGI	MADARAM VENKATAIAH	Bahujana Left Party	729	10	
+54	Telangana - PARGI	PATHLAVATH GATTYA NAIK	Bahujan Mukti Party	665	11	
+54	Telangana - PARGI	G.MALLESHAM GOUD	Independent	634	12	
+54	Telangana - PARGI	EMANGARI ANJALAIAH	Independent	403	13	
+55	Telangana - Vikarabad	DR. ANAND METHUKU	Telangana Rashtra Samithi	59971	1	3092
+55	Telangana - Vikarabad	GADDAM PRASAD KUMAR	Indian National Congress	56879	2	3092
+55	Telangana - Vikarabad	A. CHANDRA SEKHAR	All India Forward Bloc	23908	3	
+55	Telangana - Vikarabad	PENDYALA ANANTHAIAH	Samajwadi Forward Bloc	3214	4	
+55	Telangana - Vikarabad	RAIPALLY SAI KRISHNA	Bharatiya Janata Party	1973	5	
+55	Telangana - Vikarabad	None of the Above	None of the Above	1511	6	
+55	Telangana - Vikarabad	CHITTEMPALLY BALAIAH	Bahujan Samaj Party	1401	7	
+55	Telangana - Vikarabad	G.CHANDRA SHEKER	Independent	1335	8	
+55	Telangana - Vikarabad	C.M. NARSIMULU	Bahujana Left Party	511	9	
+55	Telangana - Vikarabad	DR.GANGA BHAVANI REDDY PATLOLLO	Independent	438	10	
+55	Telangana - Vikarabad	YESHWANTH RAO.M.	Mana Party	280	11	
+55	Telangana - Vikarabad	NAKKALA RATHNAM	New India Party	258	12	
+55	Telangana - Vikarabad	GANAPURAM ARUNA RANI	Independent	252	13	
+56	Telangana - Tandur	ROHITH REDDY	Indian National Congress	70428	1	2875
+56	Telangana - Tandur	PATNAM MAHENDER REDDY	Telangana Rashtra Samithi	67553	2	2875
+56	Telangana - Tandur	PATEL RAVISHANKER	Bharatiya Janata Party	10548	3	
+56	Telangana - Tandur	P.MAHENDAR REDDY	Samajwadi Forward Bloc	2608	4	
+56	Telangana - Tandur	B.CHANDRA SHEKAR MUDIRAJ	Bahujan Samaj Party	1182	5	
+56	Telangana - Tandur	None of the Above	None of the Above	787	6	
+56	Telangana - Tandur	MARRI ADITHYA REDDY	Independent	651	7	
+56	Telangana - Tandur	MANYA NAIK	Independent	639	8	
+56	Telangana - Tandur	SRI GOPAL CHILUKA	Independent	632	9	
+56	Telangana - Tandur	DANAM LAXMAN	Bahujana Raajyam Party (Phule Ambedkar)	601	10	
+56	Telangana - Tandur	A.SRISHAILAM	Independent	401	11	
+56	Telangana - Tandur	VARTHYA RAVI NAIK	Bahujan Mukti Party	211	12	
+56	Telangana - Tandur	MAROJU SUNEEL KUMAR	Bahujana Left Party	195	13	
+57	Telangana - Musheerabad	MUTA GOPAL	Telangana Rashtra Samithi	72997	1	36910
+57	Telangana - Musheerabad	ANIL KUMAR YADAV M	Indian National Congress	36087	2	36910
+57	Telangana - Musheerabad	DR. K. LAXMAN	Bharatiya Janata Party	30813	3	
+57	Telangana - Musheerabad	None of the Above	None of the Above	1664	4	
+57	Telangana - Musheerabad	POOSA PRADEEP KUMAR	Bahujan Samaj Party	442	5	
+57	Telangana - Musheerabad	BATHULA SARASWATI	Pyramid Party of India	294	6	
+57	Telangana - Musheerabad	SRINIVAS MYLAVARAPU	Telugu Congress Party	271	7	
+57	Telangana - Musheerabad	KONGARA GANGADHARA RAO	Independent	243	8	
+57	Telangana - Musheerabad	B. RAM MOHAN REDDY	Telangana Yuva Shakti	203	9	
+57	Telangana - Musheerabad	ARSHIA AMERA KHATOON	Ambedkar National Congress	166	10	
+57	Telangana - Musheerabad	CHANDU BETLA	Yuva Party	147	11	
+57	Telangana - Musheerabad	G. RAJ KUMAR	India Praja Bandhu Party	146	12	
+57	Telangana - Musheerabad	M PADMA	Independent	135	13	
+57	Telangana - Musheerabad	DR. P. VIJAYENDER	Independent	128	14	
+57	Telangana - Musheerabad	ANANDA T	Republican Party of India (A)	124	15	
+57	Telangana - Musheerabad	GURRAM MADHUSUDHAN	Independent	119	16	
+57	Telangana - Musheerabad	KOPPALLY RAMESH	Dalita Bahujana Party	102	17	
+57	Telangana - Musheerabad	MERAJ FATHIMA BANU	Anna YSR Congress Party	100	18	
+57	Telangana - Musheerabad	MERCY MARGARET	Independent	80	19	
+57	Telangana - Musheerabad	MOHAMMED MAHABOOB ALI	New India Party	77	20	
+57	Telangana - Musheerabad	PRAVEEN KUMAR CHETHALA	Bahujana Rashtra Samithi	76	21	
+57	Telangana - Musheerabad	KARANKOTE NARENDER	All India Forward Bloc	76	22	
+57	Telangana - Musheerabad	THUMMALA PRAFUL RAM REDDY	Independent	64	23	
+57	Telangana - Musheerabad	GERA JOHN SUNDER RAO	Independent	59	24	
+57	Telangana - Musheerabad	TANGIRLA VENKAPPA SOMAYAJULU	Independent	53	25	
+57	Telangana - Musheerabad	MOHD ATHER NAWAB	Jana Vaahini Party	53	26	
+57	Telangana - Musheerabad	HARAK BAHADUR CHETTRI	Hindu Ekta Andolan Party	51	27	
+58	Telangana - Malakpet	AHMED BIN ABDULLAH BALALA	All India Majlis-E-Ittehadul Muslimeen	53281	1	23512
+58	Telangana - Malakpet	MOHAMMED MUZAFFAR ALI KHAN	Telugu Desam	29769	2	23512
+58	Telangana - Malakpet	ALE JEETENDRA	Bharatiya Janata Party	20880	3	
+58	Telangana - Malakpet	C SATISH KUMAR	Telangana Rashtra Samithi	17103	4	
+58	Telangana - Malakpet	None of the Above	None of the Above	920	5	
+58	Telangana - Malakpet	PAVAN KUMAR SHARMA	Akhil Bharatiya Jan Sangh	614	6	
+58	Telangana - Malakpet	MANIK RAO. P	Independent	221	7	
+58	Telangana - Malakpet	L. ASHOK NATH	Independent	196	8	
+58	Telangana - Malakpet	J. ASHOK	Independent	155	9	
+58	Telangana - Malakpet	HANUMANTH RAO	Lok Satta Party	146	10	
+58	Telangana - Malakpet	C. JANARDHAN	Janata Dal (Secular)	126	11	
+58	Telangana - Malakpet	P. SAYI LAXMI	Jatiya Mahila Party	124	12	
+58	Telangana - Malakpet	SYED ANWAR	Anna YSR Congress Party	118	13	
+58	Telangana - Malakpet	PODILA. VENKATA RAMANA	Bahujana Left Party	117	14	
+58	Telangana - Malakpet	SHEEMARLA CHINNA LINGAM	Aam Aadmi Party	100	15	
+58	Telangana - Malakpet	SYED ALI RAJ MOHAMMED	Rashtriya Janata Dal	89	16	
+58	Telangana - Malakpet	S. VENKATADRI CHARY	Loktantrik Sarvjan Samaj Party	84	17	
+58	Telangana - Malakpet	SAPPIDI GOPAL	Independent	80	18	
+58	Telangana - Malakpet	ALGOLA RAMESH	Independent	80	19	
+58	Telangana - Malakpet	SAMI ULLAH SHAREEF	Independent	59	20	
+58	Telangana - Malakpet	MD. SHABBIR ALI KHAN	Independent	53	21	
+59	Telangana - Amberpet	KALERU VENKATESHAM	Telangana Rashtra Samithi	61558	1	1016
+59	Telangana - Amberpet	G.KISHAN REDDY	Bharatiya Janata Party	60542	2	1016
+59	Telangana - Amberpet	NIJJANA RAMESH	Telangana Jana Samithi	4261	3	
+59	Telangana - Amberpet	None of the Above	None of the Above	1462	4	
+59	Telangana - Amberpet	GADAPA SREEHARI GANGAPUTRA	Bahujana Left Party	1302	5	
+59	Telangana - Amberpet	BATHULA RAVI	Independent	1052	6	
+59	Telangana - Amberpet	KUSURU RAJPAL YADAV	Bahujan Samaj Party	605	7	
+59	Telangana - Amberpet	RAMYA	Jatiya Mahila Party	541	8	
+59	Telangana - Amberpet	KATTELA SUBHASH	Prajaa Swaraaj Party	454	9	
+59	Telangana - Amberpet	A. MUJAHED	India Praja Bandhu Party	350	10	
+59	Telangana - Amberpet	K. RAJA GOPAL NAIDU	Telangana Prajala Party	229	11	
+59	Telangana - Amberpet	SHYAM RAO MERU	Independent	180	12	
+59	Telangana - Amberpet	V.K. UPENDRA	Pyramid Party of India	164	13	
+59	Telangana - Amberpet	M. DAYANAND SWAMY	Aam Aadmi Party	147	14	
+59	Telangana - Amberpet	S. NARSIMHA REDDY	Independent	146	15	
+59	Telangana - Amberpet	IMRAN MOHAMMED	New India Party	142	16	
+59	Telangana - Amberpet	SAI VINAY SINGH	Republican Party of India (A)	136	17	
+59	Telangana - Amberpet	A.SUDARSHAN GANGAPUTRA	Shiv Sena	125	18	
+59	Telangana - Amberpet	K. NAVEEN	Telangana Labour Party	108	19	
+59	Telangana - Amberpet	GUNDRATHI SHARADA GOUD	Independent	98	20	
+59	Telangana - Amberpet	MD. ISMAIL	Independent	88	21	
+59	Telangana - Amberpet	TEEGA SATYANARAYANA MUDIRAJ	Bharatiya Republican Paksha	85	22	
+59	Telangana - Amberpet	AASHISH PRAKASH	Independent	83	23	
+59	Telangana - Amberpet	KAPISTHALAM DEVANATH	Nava Samaj Party	82	24	
+59	Telangana - Amberpet	KESHAPAGA BALMUKUND	All India Forward Bloc	81	25	
+59	Telangana - Amberpet	CHANDU BETLA	Yuva Party	80	26	
+59	Telangana - Amberpet	VARIKUPPALA SAHADEV	Independent	71	27	
+59	Telangana - Amberpet	PONNAPATI CHINNA LINGANNA	Independent	69	28	
+59	Telangana - Amberpet	KOMIRI SATYAM	Independent	55	29	
+59	Telangana - Amberpet	BOIE RAMANA	Independent	55	30	
+59	Telangana - Amberpet	DEEPAK KUMAR B	Peoples Republican Party	45	31	
+59	Telangana - Amberpet	K. SHYAM	Independent	43	32	
+60	Telangana - Khairatabad	DANAM NAGENDER	Telangana Rashtra Samithi	63068	1	28402
+60	Telangana - Khairatabad	CHINTALA RAMA CHANDRA REDDY	Bharatiya Janata Party	34666	2	28402
+60	Telangana - Khairatabad	DASOJU SRAVAN KUMAR	Indian National Congress	33549	3	
+60	Telangana - Khairatabad	GOVERDHAN REDDY MANNE	Bahujan Samaj Party	4287	4	
+60	Telangana - Khairatabad	None of the Above	None of the Above	1371	5	
+60	Telangana - Khairatabad	BANDELA KRANTHI KUMAR	Samajwadi Forward Bloc	1152	6	
+60	Telangana - Khairatabad	MOHD MAJID	Aam Aadmi Party	459	7	
+60	Telangana - Khairatabad	SHABAD RAMESH	Independent	384	8	
+60	Telangana - Khairatabad	E HEMALATHA	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	354	9	
+60	Telangana - Khairatabad	K. YADAGIRI	Bahujana Left Party	226	10	
+60	Telangana - Khairatabad	VAIDYA PRAVEEN KUMAR	Nationalist Congress Party	180	11	
+60	Telangana - Khairatabad	DR. MOHD. SHAFI UR RAHMAN	Samajwadi Party	164	12	
+60	Telangana - Khairatabad	SYED HABEEB PASHA QUADRI	Loktantrik Sarvjan Samaj Party	157	13	
+60	Telangana - Khairatabad	MOHAMMED AYUB	Akhil Bharatiya Muslim League (Secular)	120	14	
+60	Telangana - Khairatabad	SYED MUJEEB RAOOF	Majlis Markaz-e-Siyasee Party	119	15	
+60	Telangana - Khairatabad	KUTHATI VIJAYA	Independent	114	16	
+60	Telangana - Khairatabad	R.S. RANJEET KUMAR	Independent	110	17	
+60	Telangana - Khairatabad	P. DANA LAXMI	Jatiya Mahila Party	99	18	
+60	Telangana - Khairatabad	SYED AKTHER HUSSAIN	Independent	98	19	
+60	Telangana - Khairatabad	K. NARESH KUMAR	Independent	86	20	
+60	Telangana - Khairatabad	K. NAVEEN KUMAR	Independent	77	21	
+60	Telangana - Khairatabad	P. JANAKI	Ambedkar National Congress	75	22	
+60	Telangana - Khairatabad	MIDDE KRISHNA	Independent	74	23	
+60	Telangana - Khairatabad	MOHD LATEEFUDDIN	Independent	73	24	
+60	Telangana - Khairatabad	PAUL SATYANADHAN DAVID	Bahujana Rashtra Samithi	67	25	
+60	Telangana - Khairatabad	GOWLIKAR AMRITH RAJ	New India Party	66	26	
+60	Telangana - Khairatabad	M.A. AMJAD	Samaikyandhra Parirakshana Samithi	59	27	
+60	Telangana - Khairatabad	GAJJELA RAMESH KUMAR	Independent	52	28	
+60	Telangana - Khairatabad	M.D. MOIZ ALI	Independent	50	29	
+60	Telangana - Khairatabad	P. GOVIND RAJ	Independent	49	30	
+60	Telangana - Khairatabad	MOHAMMED KHAJA	Independent	42	31	
+60	Telangana - Khairatabad	M. KALYANA RAMA KRISHNA	Nava Bharat National Party	40	32	
+60	Telangana - Khairatabad	MOHAMMED AZIZUDDIN AHMED	Independent	34	33	
+61	Telangana - Jubilee Hills	MAGANTI GOPINATH	Telangana Rashtra Samithi	68979	1	16004
+61	Telangana - Jubilee Hills	P.VISHNUVARDHAN REDDY	Indian National Congress	52975	2	16004
+61	Telangana - Jubilee Hills	NAVEEN YADAV .V	Independent	18817	3	
+61	Telangana - Jubilee Hills	RAVULA SRIDHAR REDDY	Bharatiya Janata Party	8517	4	
+61	Telangana - Jubilee Hills	GONTI SREEKANTH	Samaikyandhra Parirakshana Samithi	1626	5	
+61	Telangana - Jubilee Hills	None of the Above	None of the Above	1547	6	
+61	Telangana - Jubilee Hills	MOHAMMED MERAJ KHAN	Bahujan Samaj Party	478	7	
+61	Telangana - Jubilee Hills	ANJI BABU YADAV PEDDALA	Bahujana Left Party	423	8	
+61	Telangana - Jubilee Hills	SYED MOHAMMED HUSSAIN	Independent	342	9	
+61	Telangana - Jubilee Hills	B.SUSEEL KUMAR	Prajaa Swaraaj Party	299	10	
+61	Telangana - Jubilee Hills	SYED MEHRAJ ALI	Independent	263	11	
+61	Telangana - Jubilee Hills	L. K. SURENDER	Independent	251	12	
+61	Telangana - Jubilee Hills	DERANGULA RAMACHANDRA RAO	Independent	243	13	
+61	Telangana - Jubilee Hills	SAMPATH KUMAR DEVULAPALLY	Independent	239	14	
+61	Telangana - Jubilee Hills	MOHD MAHBOOB ALAM	Independent	194	15	
+61	Telangana - Jubilee Hills	SYED SALAUDDIN	Aam Aadmi Party	187	16	
+61	Telangana - Jubilee Hills	SYED KHURSHEED	Independent	128	17	
+61	Telangana - Jubilee Hills	MOHAMMED ZAKIUDDIN	Majlis Markaz-e-Siyasee Party	126	18	
+61	Telangana - Jubilee Hills	SHAIK GHOUSE PASHA	New India Party	61	19	
+62	Telangana - Sanath Nagar	TALASANI SRINIVAS YADAV	Telangana Rashtra Samithi	66464	1	30651
+62	Telangana - Sanath Nagar	KUNA VENKATESH GOUD	Telugu Desam	35813	2	30651
+62	Telangana - Sanath Nagar	BHAWARLAL VARMA	Bharatiya Janata Party	14247	3	
+62	Telangana - Sanath Nagar	None of the Above	None of the Above	1464	4	
+62	Telangana - Sanath Nagar	HARIKA	Prajaa Swaraaj Party	384	5	
+62	Telangana - Sanath Nagar	S.SANJEEVA CHARY	Bahujan Samaj Party	265	6	
+62	Telangana - Sanath Nagar	DEVENDAR KONNE	Independent	200	7	
+62	Telangana - Sanath Nagar	PATLOLLA VENKAT REDDY	Pyramid Party of India	195	8	
+62	Telangana - Sanath Nagar	MOHAMMED NAZEERUDDIN QUADRI	Ambedkar National Congress	142	9	
+62	Telangana - Sanath Nagar	A.SRINIVAS	Independent	96	10	
+62	Telangana - Sanath Nagar	RANJIT KUMAR SANGISHETTY	Shiv Sena	87	11	
+62	Telangana - Sanath Nagar	PALUVAYI PRAKASA RAO	Independent	82	12	
+62	Telangana - Sanath Nagar	G.PUNEEL KIRAN	Jai Swaraj Party	81	13	
+62	Telangana - Sanath Nagar	SYED KHADER	Majlis Markaz-e-Siyasee Party	79	14	
+62	Telangana - Sanath Nagar	ASHOK KUMAR MUNIKUNTLA	Bahujana Rashtra Samithi	66	15	
+62	Telangana - Sanath Nagar	NANDIPATI VINOD KUMAR	India Praja Bandhu Party	57	16	
+63	Telangana - Nampalli	JAFFAR HUSSAIN	All India Majlis-E-Ittehadul Muslimeen	57940	1	9675
+63	Telangana - Nampalli	MOHAMMED FEROZ KHAN	Indian National Congress	48265	2	9675
+63	Telangana - Nampalli	CH.ANAND KUMAR GOUD	Telangana Rashtra Samithi	17015	3	
+63	Telangana - Nampalli	DEVARA KARUNAKAR	Bharatiya Janata Party	11622	4	
+63	Telangana - Nampalli	None of the Above	None of the Above	793	5	
+63	Telangana - Nampalli	N.K.M.LAXMI KUMAR	Communist Party of India (Marxist)	400	6	
+63	Telangana - Nampalli	MOHAMMAD IMRAN	Independent	340	7	
+63	Telangana - Nampalli	MASOOD AHMED	Independent	218	8	
+63	Telangana - Nampalli	MOHAMMED ABDUL WASEEM	Independent	191	9	
+63	Telangana - Nampalli	T.VIJAY KUMAR	Bahujan Samaj Party	177	10	
+63	Telangana - Nampalli	BOPPI GANESH	Pyramid Party of India	155	11	
+63	Telangana - Nampalli	SALMAN HAFEEZ	Aam Aadmi Party	132	12	
+63	Telangana - Nampalli	PRAVEEN KUMAR. A	Independent	131	13	
+63	Telangana - Nampalli	GOPAL SAI BABA MEESALA	Independent	109	14	
+63	Telangana - Nampalli	A.SHIVRAJ	Republican Party of India	97	15	
+63	Telangana - Nampalli	AZEEM MOHD	Independent	88	16	
+63	Telangana - Nampalli	AUNDEKER SANTOSH	Independent	82	17	
+63	Telangana - Nampalli	MOHD. YOUSUF	Independent	82	18	
+63	Telangana - Nampalli	DR. AHMED SYED	Republican Party of India (A)	70	19	
+63	Telangana - Nampalli	MOHAMMAD ABDUL KHADEER	Majlis Markaz-e-Siyasee Party	65	20	
+64	Telangana - Karwan	KAUSAR MOHIUDDIN	All India Majlis-E-Ittehadul Muslimeen	87586	1	50169
+64	Telangana - Karwan	AMAR SINGH	Bharatiya Janata Party	37417	2	50169
+64	Telangana - Karwan	T.JEEVAN SINGH	Telangana Rashtra Samithi	24699	3	
+64	Telangana - Karwan	OSMAN BIN MOHAMMED AL HAJRI	Indian National Congress	11231	4	
+64	Telangana - Karwan	None of the Above	None of the Above	938	5	
+64	Telangana - Karwan	MATANGI RAMESH KUMAR	Independent	722	6	
+64	Telangana - Karwan	G. VITTAL	Bahujana Left Party	466	7	
+64	Telangana - Karwan	SAYYAD RAHIMODDIN	Bahujan Samaj Party	363	8	
+64	Telangana - Karwan	MOHAMMED IRFAN	Aam Aadmi Party	317	9	
+64	Telangana - Karwan	RAVI KUMAR PURRA	Independent	294	10	
+64	Telangana - Karwan	MOHAMMED LAIQ	Majlis Bachao Tahreek	253	11	
+64	Telangana - Karwan	V. RAMESH	Shiv Sena	231	12	
+64	Telangana - Karwan	V. NARSING RAO	Telangana Inti Party	200	13	
+64	Telangana - Karwan	GEETHA THAKUR	Anarakshit Samaj Party	198	14	
+64	Telangana - Karwan	DR. LUBNA SARWATH	Socialist Party (India)	155	15	
+64	Telangana - Karwan	FARHATH KHATIJA	Loktantrik Sarvjan Samaj Party	154	16	
+64	Telangana - Karwan	MASURI RAJESH	India Praja Bandhu Party	139	17	
+64	Telangana - Karwan	SATU JANGAIAH YADAV	Independent	134	18	
+64	Telangana - Karwan	CHINNI RAKESH	New India Party	129	19	
+65	Telangana - Goshamahal	T. RAJA SINGH	Bharatiya Janata Party	61854	1	17734
+65	Telangana - Goshamahal	PREM SINGH RATHORE	Telangana Rashtra Samithi	44120	2	17734
+65	Telangana - Goshamahal	M.MUKESH GOUD	Indian National Congress	26322	3	
+65	Telangana - Goshamahal	None of the Above	None of the Above	709	4	
+65	Telangana - Goshamahal	SURESH HASAJI	National Youth Party	443	5	
+65	Telangana - Goshamahal	RAVI KUMAR JAIN	Independent	423	6	
+65	Telangana - Goshamahal	K. SAI KUMAR	Bahujan Samaj Party	420	7	
+65	Telangana - Goshamahal	SYED SIDDIQ AKBAR ALI	Democratic Party of India	364	8	
+65	Telangana - Goshamahal	RIZWAN MOHAMMED BAKARMAN	Majlis Bachao Tahreek	268	9	
+65	Telangana - Goshamahal	GHAN SHYAM DAS JOSHI	Samajwadi Party	260	10	
+65	Telangana - Goshamahal	G.SAMBASHIVA RAO	Independent	214	11	
+65	Telangana - Goshamahal	M. KRISHNA	Independent	180	12	
+65	Telangana - Goshamahal	NARENDAR SINGH THAKUR	Independent	145	13	
+65	Telangana - Goshamahal	M RAJESH	Bahujana Left Party	120	14	
+65	Telangana - Goshamahal	MIR MOHD HUSSAIN	Aam Aadmi Party	112	15	
+65	Telangana - Goshamahal	BHAJRANG SINGH	Anarakshit Samaj Party	109	16	
+65	Telangana - Goshamahal	KHAJA KHAN	Akhil Bharatiya Muslim League (Secular)	103	17	
+65	Telangana - Goshamahal	RAJU NOUKADAWALE	Republican Party of India (A)	102	18	
+65	Telangana - Goshamahal	B. ABHIMANYU YADAV	Ambedkar National Congress	99	19	
+65	Telangana - Goshamahal	VEENA SINGH	Independent	91	20	
+65	Telangana - Goshamahal	M B CHANDAR	Shiv Sena	89	21	
+65	Telangana - Goshamahal	SYED RIYAZUDDIN	Welfare Party Of India	88	22	
+65	Telangana - Goshamahal	B YELLESH MADIGA	Bahujan Mukti Party	83	23	
+65	Telangana - Goshamahal	B.V.RAMESH BABU	Independent	76	24	
+65	Telangana - Goshamahal	SOMA THRINATH RAO	Independent	64	25	
+65	Telangana - Goshamahal	MILIND RAJ SINGH	Independent	53	26	
+66	Telangana - Charminar	MUMTAZ AHMED KHAN	All India Majlis-E-Ittehadul Muslimeen	53808	1	32586
+66	Telangana - Charminar	T UMA MAHENDRA	Bharatiya Janata Party	21222	2	32586
+66	Telangana - Charminar	MOHD GHOUSE	Indian National Congress	16899	3	
+66	Telangana - Charminar	MOHAMMED SALAHUDDIN LODHI	Telangana Rashtra Samithi	6223	4	
+66	Telangana - Charminar	M A WAHAB	Independent	705	5	
+66	Telangana - Charminar	None of the Above	None of the Above	614	6	
+66	Telangana - Charminar	JUNAID ANAM SIDDIQUI	Independent	281	7	
+66	Telangana - Charminar	SANJAY KUMAR SHUKLA	Independent	210	8	
+66	Telangana - Charminar	MIR HASAN ALI RAZVI	Independent	170	9	
+66	Telangana - Charminar	CHITRA SAXENA	Bahujan Samaj Party	140	10	
+66	Telangana - Charminar	SHAIK ISMAIL	Bahujana Left Party	138	11	
+66	Telangana - Charminar	MOHD SHARFUDDIN	Aam Aadmi Party	126	12	
+66	Telangana - Charminar	MOHD SOHAIL	Independent	116	13	
+66	Telangana - Charminar	SHAIK MOIN	Independent	54	14	
+66	Telangana - Charminar	SUNITHA DHOTRE	Loktantrik Sarvjan Samaj Party	52	15	
+66	Telangana - Charminar	G.CHANDRA SHEKAR	Independent	46	16	
+66	Telangana - Charminar	PRAKASH DULGANDE	Independent	45	17	
+67	Telangana - Chandrayangutta	AKBARUDDIN OWAISI	All India Majlis-E-Ittehadul Muslimeen	95339	1	80264
+67	Telangana - Chandrayangutta	SHAHEJADI SAYYAD	Bharatiya Janata Party	15075	2	80264
+67	Telangana - Chandrayangutta	M. SEETHA RAM REDDY	Telangana Rashtra Samithi	14224	3	
+67	Telangana - Chandrayangutta	ESA BIN OBAID MISRI	Indian National Congress	11309	4	
+67	Telangana - Chandrayangutta	None of the Above	None of the Above	1009	5	
+67	Telangana - Chandrayangutta	MOHAMMED ABDULLAH BAIG	Independent	834	6	
+67	Telangana - Chandrayangutta	MOHD. HAJI	Bahujana Left Party	506	7	
+67	Telangana - Chandrayangutta	SYED MUSTAFA MAHMOOD	Majlis Bachao Tahreek	499	8	
+67	Telangana - Chandrayangutta	KANUGULA SRINIVAS	Independent	229	9	
+67	Telangana - Chandrayangutta	C.SHIVA SHANKER	Independent	224	10	
+67	Telangana - Chandrayangutta	SUDHARSHAN MALKAN	Shiv Sena	197	11	
+67	Telangana - Chandrayangutta	RAJU KOTHURU	Independent	193	12	
+67	Telangana - Chandrayangutta	MOHAMMED HAMED SIDDIQUI	Independent	187	13	
+67	Telangana - Chandrayangutta	AMJAD KHAN	Independent	180	14	
+67	Telangana - Chandrayangutta	MD. GHOUSE	Independent	173	15	
+67	Telangana - Chandrayangutta	AKKINAMONI VENKATESH	Independent	112	16	
+68	Telangana - Yakutpura	SYED AHMED PASHA QUADRI	All India Majlis-E-Ittehadul Muslimeen	69595	1	46978
+68	Telangana - Yakutpura	SAMA SUNDER REDDY	Telangana Rashtra Samithi	22617	2	46978
+68	Telangana - Yakutpura	MAJEED ULLAH KHAN @ FARHAT KHAN	Majlis Bachao Tahreek	21222	3	
+68	Telangana - Yakutpura	CH. ROOPRAJ	Bharatiya Janata Party	16608	4	
+68	Telangana - Yakutpura	K. RAJENDER RAJU	Indian National Congress	6452	5	
+68	Telangana - Yakutpura	E.SHIVA KUMAR	Independent	1560	6	
+68	Telangana - Yakutpura	None of the Above	None of the Above	799	7	
+68	Telangana - Yakutpura	SYED INAYATH ULLAH	Bahujan Samaj Party	432	8	
+68	Telangana - Yakutpura	MD. AFSAR KHAN	Independent	405	9	
+68	Telangana - Yakutpura	JAMALPUR MAHESH KUMAR	Shiv Sena	323	10	
+68	Telangana - Yakutpura	A.PANDU RANGA REDDY	Independent	253	11	
+68	Telangana - Yakutpura	K. MAHESHWAR	Independent	242	12	
+68	Telangana - Yakutpura	S. SUJATHA	Nationalist Congress Party	230	13	
+68	Telangana - Yakutpura	MD. ABDUL AZIZ KHAN	Telangana Minorities OBC Rajyam	209	14	
+68	Telangana - Yakutpura	WASEQ RAZA	Independent	173	15	
+68	Telangana - Yakutpura	SYED HAJI PASHA	Marxist Communist Party of India (United)	131	16	
+68	Telangana - Yakutpura	MD. OSMAN	Telangana Labour Party	121	17	
+68	Telangana - Yakutpura	HABEEB OSMAN BIN JEELANI	Independent	117	18	
+68	Telangana - Yakutpura	KATTA SUDERSHAN	Independent	99	19	
+68	Telangana - Yakutpura	M.ABDUL JALEEL	Independent	93	20	
+68	Telangana - Yakutpura	NISAR MD KHAN	Independent	84	21	
+68	Telangana - Yakutpura	LAEEQ AHMED KHAN	Independent	74	22	
+69	Telangana - Bahadurpura	MOHD. MOAZAM KHAN	All India Majlis-E-Ittehadul Muslimeen	96993	1	82518
+69	Telangana - Bahadurpura	MIR INAYATH ALI BAQRI	Telangana Rashtra Samithi	14475	2	82518
+69	Telangana - Bahadurpura	HANEEF ALI	Bharatiya Janata Party	7395	3	
+69	Telangana - Bahadurpura	SHAIK MOHD KALEEMUDDIN	Indian National Congress	7174	4	
+69	Telangana - Bahadurpura	MOHAMMED SULTANUDDIN	National Youth Party	1976	5	
+69	Telangana - Bahadurpura	None of the Above	None of the Above	1210	6	
+69	Telangana - Bahadurpura	MOHAMMED MAJEED ALI	Bahujana Left Party	574	7	
+69	Telangana - Bahadurpura	N. NARSING RAO	Independent	378	8	
+69	Telangana - Bahadurpura	SHAIK NASEEM BEGUM	Aam Aadmi Party	283	9	
+69	Telangana - Bahadurpura	SAYEDA MALIHA SHEREEN	Anna YSR Congress Party	146	10	
+70	Telangana - secunderabad	T.PADMA RAO	Telangana Rashtra Samithi	79309	1	45470
+70	Telangana - secunderabad	KASANI GNANESHWAR MUDHIRAJ	Indian National Congress	33839	2	45470
+70	Telangana - secunderabad	BANDAPELLY SATISH	Bharatiya Janata Party	11781	3	
+70	Telangana - secunderabad	None of the Above	None of the Above	1582	4	
+70	Telangana - secunderabad	PAMPARI NARENDER	Rajyadhikara Party	1072	5	
+70	Telangana - secunderabad	MADAN MOHAN VEMULAWADA	Bahujan Samaj Party	633	6	
+70	Telangana - secunderabad	ANIL KUMAR KUNCHALA	Communist Party of India (Marxist)	555	7	
+70	Telangana - secunderabad	R. RAJANI	Independent	444	8	
+70	Telangana - secunderabad	DASARI SRINIVAS	Independent	260	9	
+70	Telangana - secunderabad	KONDOJU MOHAN	Independent	232	10	
+70	Telangana - secunderabad	A. DAVID PRAVEEN KUMAR	Indian Christian Secular Party	207	11	
+70	Telangana - secunderabad	M. SUNITHA	Bahujana Raajyam Party (Phule Ambedkar)	187	12	
+70	Telangana - secunderabad	N.J. SEETHARAM	Independent	158	13	
+70	Telangana - secunderabad	MOHAMMED IBRAHIM AHMED	Loktantrik Sarvjan Samaj Party	144	14	
+70	Telangana - secunderabad	MAYABRAHMA NARASIMHA	Independent	138	15	
+70	Telangana - secunderabad	JERUSALEM MATHAI	Independent	129	16	
+70	Telangana - secunderabad	B. PADMA	Independent	127	17	
+70	Telangana - secunderabad	SHAHADAT KHAN	Aam Aadmi Party	107	18	
+70	Telangana - secunderabad	V. SIVA RAMA KRISHNA	Jai Bharath Jena Sena Party	95	19	
+70	Telangana - secunderabad	KANTE SRINIVAS RAO (K.S.R)	Ambedkar National Congress	88	20	
+70	Telangana - secunderabad	S. SAI YADAV	Independent	85	21	
+70	Telangana - secunderabad	V. RATNA WESLEY	India Praja Bandhu Party	82	22	
+70	Telangana - secunderabad	V. G. SHARMA	Independent	78	23	
+70	Telangana - secunderabad	MALLAMPATI RAJENDER	All India Forward Bloc	76	24	
+70	Telangana - secunderabad	KADARI PRAVEENA	New India Party	75	25	
+70	Telangana - secunderabad	S. YADAIAH	Independent	69	26	
+70	Telangana - secunderabad	A. SRIKANTH MUDHIRAJ	Independent	65	27	
+70	Telangana - secunderabad	MRANIKRINDA RAJAGOPAL	Independent	62	28	
+70	Telangana - secunderabad	YELLALA VIJAYA KUMAR	Republican Party of India (A)	61	29	
+70	Telangana - secunderabad	SHAIK ABDUL SAYEED	Independent	39	30	
+71	Telangana - Secunderabad Cantt.	G. SAYANNA	Telangana Rashtra Samithi	65797	1	37563
+71	Telangana - Secunderabad Cantt.	SATYANARAYANA SARVEY	Indian National Congress	28234	2	37563
+71	Telangana - Secunderabad Cantt.	SRIGANESH	Bharatiya Janata Party	15487	3	
+71	Telangana - Secunderabad Cantt.	NAGESHWAR RAO GAJJELA	Independent	2170	4	
+71	Telangana - Secunderabad Cantt.	GADDAM ASHOK	Samajwadi Forward Bloc	1745	5	
+71	Telangana - Secunderabad Cantt.	None of the Above	None of the Above	1571	6	
+71	Telangana - Secunderabad Cantt.	BOMMAKU MURALI	Bahujan Samaj Party	440	7	
+71	Telangana - Secunderabad Cantt.	KONDURI YADAGIRI	Bahujana Left Party	348	8	
+71	Telangana - Secunderabad Cantt.	M. JAI RAM	Prajaa Swaraaj Party	287	9	
+71	Telangana - Secunderabad Cantt.	PUSHPANJALI SURARAM	Independent	261	10	
+71	Telangana - Secunderabad Cantt.	S. R. SHIVA KUMAR	Nationalist Congress Party	259	11	
+71	Telangana - Secunderabad Cantt.	MUPPIDI GOPAL	Independent	207	12	
+71	Telangana - Secunderabad Cantt.	PARVATHI SIRIRALA	Loktantrik Sarvjan Samaj Party	185	13	
+71	Telangana - Secunderabad Cantt.	BOTLA SAILU	Aam Aadmi Party	144	14	
+71	Telangana - Secunderabad Cantt.	EILLANDULA SHANKER	Independent	126	15	
+71	Telangana - Secunderabad Cantt.	GANDAM DAYAMANI	Independent	118	16	
+71	Telangana - Secunderabad Cantt.	B. KIRAN KUMAR	Independent	102	17	
+71	Telangana - Secunderabad Cantt.	B. RAJU	Independent	88	18	
+71	Telangana - Secunderabad Cantt.	MAHENDER PERUKA	Jai Maha Bharath Party	81	19	
+71	Telangana - Secunderabad Cantt.	YECHU SUNIL	Independent	65	20	
+72	Telangana - Kodangal	PATNAM NARENDER REDDY	Telangana Rashtra Samithi	80754	1	9319
+72	Telangana - Kodangal	ANUMULA REVANTH REDDY	Indian National Congress	71435	2	9319
+72	Telangana - Kodangal	PURRA BALAKISHORE	Independent	4171	3	
+72	Telangana - Kodangal	NAGURAO NAMAJI	Bharatiya Janata Party	2624	4	
+72	Telangana - Kodangal	None of the Above	None of the Above	1472	5	
+72	Telangana - Kodangal	K. NAGABHUSHANAM CHARY	Independent	1140	6	
+72	Telangana - Kodangal	MALKEDI BANSILAL	Bahujan Samaj Party	1041	7	
+72	Telangana - Kodangal	G. SURESH KUMAR	Independent	694	8	
+72	Telangana - Kodangal	DR. KADIRE KRISHNAIAH	Samajwadi Party	620	9	
+72	Telangana - Kodangal	SRINIVAS	Pyramid Party of India	563	10	
+72	Telangana - Kodangal	SAVITRAMMA	Mana Party	283	11	
+72	Telangana - Kodangal	RATHOD SURYA NAYAK	Bahujan Mukti Party	253	12	
+72	Telangana - Kodangal	VENKATESWARLU KANNOJU	Bahujana Left Party	244	13	
+72	Telangana - Kodangal	CH. VENKATRAMULU	Shiv Sena	139	14	
+72	Telangana - Kodangal	LINGAM CHINNA SAYAPPA	All India Samata Party	126	15	
+73	Telangana - Narayanpet	S.RAJENDER REDDY	Telangana Rashtra Samithi	68767	1	15187
+73	Telangana - Narayanpet	K.SHIVAKUMAR REDDY	Bahujana Left Party	53580	2	15187
+73	Telangana - Narayanpet	K.RATHANGA PANDU REDDY	Bharatiya Janata Party	20111	3	
+73	Telangana - Narayanpet	KRISHNA SARAF BANGARU BALAPPA	Indian National Congress	6344	4	
+73	Telangana - Narayanpet	G.SANJEEVA REDDY	Telangana Congress Party	3989	5	
+73	Telangana - Narayanpet	J.NAVITHA	Telangana Inti Party	3636	6	
+73	Telangana - Narayanpet	None of the Above	None of the Above	1948	7	
+73	Telangana - Narayanpet	KISTA REDDY	Independent	1011	8	
+73	Telangana - Narayanpet	BODHIGELI SRINIVASULU	Bahujan Samaj Party	882	9	
+73	Telangana - Narayanpet	K.RAAJU	Aam Aadmi Party	825	10	
+73	Telangana - Narayanpet	PATEL RAMCHANDRA REDDY	Independent	661	11	
+74	Telangana - Mahbubnagar	V. SRINIVAS GOUD	Telangana Rashtra Samithi	86474	1	57775
+74	Telangana - Mahbubnagar	M. CHANDRA SHEKAR	Telugu Desam	28699	2	57775
+74	Telangana - Mahbubnagar	IBRAHIM SYED	Bahujan Samaj Party	21664	3	
+74	Telangana - Mahbubnagar	MAREPALLY SURENDER REDDY	Nationalist Congress Party	11633	4	
+74	Telangana - Mahbubnagar	G. PADMAJA REDDY	Bharatiya Janata Party	5945	5	
+74	Telangana - Mahbubnagar	None of the Above	None of the Above	1423	6	
+74	Telangana - Mahbubnagar	MOHAMMED IMTIYAZ AHAMAD	Independent	1147	7	
+74	Telangana - Mahbubnagar	BABU CHINTALAPALLY	Aam Aadmi Party	592	8	
+74	Telangana - Mahbubnagar	MUDAVATH RAVI NAIK	Independent	513	9	
+74	Telangana - Mahbubnagar	MOHD. GULAM GOUSE	Bahujana Left Party	364	10	
+74	Telangana - Mahbubnagar	T. VENKATA SWAMY	Independent	314	11	
+74	Telangana - Mahbubnagar	A. SRISHAILAM YADAV	Independent	280	12	
+74	Telangana - Mahbubnagar	V. MALLIKARJUN	Independent	234	13	
+74	Telangana - Mahbubnagar	JAGADEESH CHAND	Independent	200	14	
+74	Telangana - Mahbubnagar	SATYANARAYANA	Shiv Sena	179	15	
+75	Telangana - Jadcherla	CHARLAKOLA LAXMA REDDY	Telangana Rashtra Samithi	94598	1	45082
+75	Telangana - Jadcherla	DR. MALLU RAVI	Indian National Congress	49516	2	45082
+75	Telangana - Jadcherla	DR. CHINNALA MADHUSUDHAN	Bharatiya Janata Party	3601	3	
+75	Telangana - Jadcherla	NARSINGRAO	Samajwadi Forward Bloc	2886	4	
+75	Telangana - Jadcherla	MARPADGA RAMESH REDDY	Independent	1893	5	
+75	Telangana - Jadcherla	KONGALI SHREEKANT	Bahujan Samaj Party	1470	6	
+75	Telangana - Jadcherla	SHIVA KUMAR	Telangana Inti Party	1183	7	
+75	Telangana - Jadcherla	None of the Above	None of the Above	1117	8	
+75	Telangana - Jadcherla	ANAND UMMADI	Independent	941	9	
+75	Telangana - Jadcherla	GANGAPURAM ELLAIAH	Independent	812	10	
+75	Telangana - Jadcherla	KATIKE. NAGULU	Prajaa Swaraaj Party	604	11	
+75	Telangana - Jadcherla	AJAY KUMAR GHOSH DASARI	Bahujana Left Party	579	12	
+75	Telangana - Jadcherla	V. DASRAM NAIK	Bahujan Mukti Party	568	13	
+75	Telangana - Jadcherla	K. RAGHAVA REDDY	Aam Aadmi Party	318	14	
+75	Telangana - Jadcherla	NADIMINTI SRINIVASULU	Shiv Sena	200	15	
+75	Telangana - Jadcherla	KONGALA PANDU	Samajwadi Party	196	16	
+76	Telangana - Devarkadra	ALLA VENKATESWAR REDDY	Telangana Rashtra Samithi	96130	1	35248
+76	Telangana - Devarkadra	PAVAN KUMAR	Indian National Congress	60882	2	35248
+76	Telangana - Devarkadra	A.VENKATESHWAR REDDY	Samajwadi Forward Bloc	5937	3	
+76	Telangana - Devarkadra	AGGANI NARSIMULU	Bharatiya Janata Party	5174	4	
+76	Telangana - Devarkadra	None of the Above	None of the Above	2689	5	
+76	Telangana - Devarkadra	RACHALA YUGANDER GOUD	Bahujan Samaj Party	914	6	
+76	Telangana - Devarkadra	V.SHIVA REDDY	Independent	553	7	
+76	Telangana - Devarkadra	VINODH KUMAR	Independent	501	8	
+76	Telangana - Devarkadra	DUPPALLY JAYA RAMULU	Bahujana Left Party	417	9	
+76	Telangana - Devarkadra	ADDULA ARUNA	Independent	368	10	
+76	Telangana - Devarkadra	S.KIRAN KUMAR	Independent	350	11	
+76	Telangana - Devarkadra	M.B.BALAKRISHNA	Independent	195	12	
+76	Telangana - Devarkadra	K.T. NARSIMHA REDDY	Independent	178	13	
+76	Telangana - Devarkadra	D.JANARDHAN	Independent	122	14	
+77	Telangana - Makthal	CHITTEM RAMMOHAN REDDY	Telangana Rashtra Samithi	78686	1	48315
+77	Telangana - Makthal	JALANDER REDDY	Independent	30371	2	48315
+77	Telangana - Makthal	K. DHAYYAKKAAR REDDY	Telugu Desam	26579	3	
+77	Telangana - Makthal	KONDAIAH	Bharatiya Janata Party	20242	4	
+77	Telangana - Makthal	None of the Above	None of the Above	2106	5	
+77	Telangana - Makthal	KORI MAREPPA	Bahujan Samaj Party	1944	6	
+77	Telangana - Makthal	G. RAVI KUMAR YADAV	Independent	1349	7	
+77	Telangana - Makthal	G.VENKATRAM REDDY	Bahujana Left Party	1190	8	
+77	Telangana - Makthal	JUTLA SRINIVASULU	Independent	1111	9	
+77	Telangana - Makthal	SUDHARSHAN	All India Samata Party	790	10	
+77	Telangana - Makthal	RAMESH KUMAR BANDARI	Samajwadi Party	575	11	
+78	Telangana - Wanaparthy	SINGIREDDY NIRANJAN REDDY	Telangana Rashtra Samithi	111956	1	51685
+78	Telangana - Wanaparthy	CHINNA REDDY GILLELA	Indian National Congress	60271	2	51685
+78	Telangana - Wanaparthy	KOTHA AMARENDAR REDDY	Bharatiya Janata Party	3168	3	
+78	Telangana - Wanaparthy	BUJALA VENKATESHWAR REDDY	Independent	2266	4	
+78	Telangana - Wanaparthy	AAVULA BAHUJANA SATYAM SAGARUDU	Bahujan Samaj Party	2203	5	
+78	Telangana - Wanaparthy	None of the Above	None of the Above	2014	6	
+78	Telangana - Wanaparthy	G. KRISHNAIAH	Bahujana Left Party	1091	7	
+78	Telangana - Wanaparthy	S. RAJ KUMAR	Independent	716	8	
+78	Telangana - Wanaparthy	VISHNU VARDHAN REDDY	Independent	529	9	
+78	Telangana - Wanaparthy	C.R.MUNI SWAMY	Republican Party of India	519	10	
+78	Telangana - Wanaparthy	POLA PRASHANTH KUMAR	Independent	515	11	
+78	Telangana - Wanaparthy	BABU GOUD AKKALA	Samajwadi Party	399	12	
+79	Telangana - Gadwal	BANDLA KRISHNA MOHAN REDDY	Telangana Rashtra Samithi	100415	1	28260
+79	Telangana - Gadwal	ARUNA D.K	Indian National Congress	72155	2	28260
+79	Telangana - Gadwal	M.D. ABDUL MOHEED KHAN	Samajwadi Forward Bloc	7189	3	
+79	Telangana - Gadwal	BOYA KRISHNA	Independent	2103	4	
+79	Telangana - Gadwal	G.VENKATADRI REDDY	Bharatiya Janata Party	1936	5	
+79	Telangana - Gadwal	VEERA PRASAD	Bahujan Samaj Party	1406	6	
+79	Telangana - Gadwal	None of the Above	None of the Above	1319	7	
+79	Telangana - Gadwal	GONGALLA RANJITH KUMAR	Bahujana Left Party	1275	8	
+79	Telangana - Gadwal	T.G.RAJU MUDHIRAJ	Independent	1101	9	
+79	Telangana - Gadwal	ABDULLAH	Nationalist Congress Party	694	10	
+79	Telangana - Gadwal	ATHIKUR RAHAMAN	Independent	620	11	
+79	Telangana - Gadwal	PEDDA KRISHNAIAH	Independent	398	12	
+79	Telangana - Gadwal	AKEPOGU RAJESH.A	Independent	226	13	
+79	Telangana - Gadwal	ARUN KUMAR	Independent	179	14	
+79	Telangana - Gadwal	BOYA SHANKAR NAIDU	Shiv Sena	176	15	
+80	Telangana - Alampur	ABRAHAM V.M.	Telangana Rashtra Samithi	102105	1	44679
+80	Telangana - Alampur	S.A.SAMPATH KUMAR	Indian National Congress	57426	2	44679
+80	Telangana - Alampur	HARIJANA ABRAHAM	Samajwadi Forward Bloc	8803	3	
+80	Telangana - Alampur	None of the Above	None of the Above	3492	4	
+80	Telangana - Alampur	B.RAJINI	Bharatiya Janata Party	1965	5	
+80	Telangana - Alampur	B.HUSSAIN	Bahujan Samaj Party	1066	6	
+80	Telangana - Alampur	T.SURESH MAHARAJ	Independent	983	7	
+80	Telangana - Alampur	N.SOMESHWARI	Independent	896	8	
+80	Telangana - Alampur	PRASANGI	Pyramid Party of India	711	9	
+80	Telangana - Alampur	K. JAYAPAL	Independent	517	10	
+80	Telangana - Alampur	K.VARAPRASAD RAO	Bahujana Left Party	514	11	
+80	Telangana - Alampur	A.RAGHUVARDHAN	Independent	364	12	
+80	Telangana - Alampur	D.LAXMANNA	Independent	354	13	
+80	Telangana - Alampur	M. MADDLLETI	Independent	250	14	
+80	Telangana - Alampur	H.PARUSHA RAMUDU	Shiv Sena	237	15	
+81	Telangana - Nagarkurnool	MARRI JANARDHAN REDDY	Telangana Rashtra Samithi	102493	1	54354
+81	Telangana - Nagarkurnool	DR. JANARDHAN REDDY NAGAM	Indian National Congress	48139	2	54354
+81	Telangana - Nagarkurnool	MENNO SAIMON	Samajwadi Forward Bloc	5545	3	
+81	Telangana - Nagarkurnool	DILEEP NEDDANORI	Bharatiya Janata Party	3923	4	
+81	Telangana - Nagarkurnool	VELJALA GALEEMMA	Prajaa Swaraaj Party	2153	5	
+81	Telangana - Nagarkurnool	BAAKHI RENUKA	Bahujan Samaj Party	1507	6	
+81	Telangana - Nagarkurnool	None of the Above	None of the Above	923	7	
+81	Telangana - Nagarkurnool	GADDAM VIJAY	Independent	775	8	
+81	Telangana - Nagarkurnool	KONDAKINDI JAGADEESHWAR REDDY	Independent	642	9	
+81	Telangana - Nagarkurnool	BAHADHUR SRINIVAS	Bahujana Left Party	523	10	
+81	Telangana - Nagarkurnool	ANUGANTI RAJU	Nationalist Congress Party	431	11	
+81	Telangana - Nagarkurnool	B.SAMPATH KUMAR	Independent	351	12	
+81	Telangana - Nagarkurnool	ATHAPU CHANDRA SWAMY	Independent	341	13	
+81	Telangana - Nagarkurnool	MOGGA ANIL KUMAR	Independent	300	14	
+81	Telangana - Nagarkurnool	BEESAM GOPAL	Independent	275	15	
+81	Telangana - Nagarkurnool	DHANALA VENGALA RAO NAIDU	Shiv Sena	260	16	
+82	Telangana - Achampet	GUVVALA BALARAJU	Telangana Rashtra Samithi	88073	1	9114
+82	Telangana - Achampet	CHIKKUDU VAMSHIKRISHNA	Indian National Congress	78959	2	9114
+82	Telangana - Achampet	MEDIPUR MALLESHWAR	Bharatiya Janata Party	3222	3	
+82	Telangana - Achampet	None of the Above	None of the Above	2406	4	
+82	Telangana - Achampet	SRINIVASULU KOYYALA	Bahujan Samaj Party	821	5	
+82	Telangana - Achampet	MAHESH PALLE	Independent	798	6	
+82	Telangana - Achampet	BODDUPALLY SHEKAR	Bahujana Left Party	732	7	
+82	Telangana - Achampet	YELIMINETI RAJESH	Independent	433	8	
+82	Telangana - Achampet	CHARAGONDA KRISHNAMMA	Independent	291	9	
+82	Telangana - Achampet	GENTALA MALLAIAH	Independent	269	10	
+82	Telangana - Achampet	MUDDAMOLLA RAJAMOULI	Samajwadi Party	235	11	
+83	Telangana - Kalwakurthy	GURKA JAIPAL YADAV	Telangana Rashtra Samithi	62892	1	3447
+83	Telangana - Kalwakurthy	ACHARY TALLOJU	Bharatiya Janata Party	59445	2	3447
+83	Telangana - Kalwakurthy	CHALLA VAMSHI CHAND REDDY	Indian National Congress	46523	3	
+83	Telangana - Kalwakurthy	GANGARAM SAI BABA	Bahujan Samaj Party	2500	4	
+83	Telangana - Kalwakurthy	None of the Above	None of the Above	1359	5	
+83	Telangana - Kalwakurthy	KATTA JANGAIAH	Telangana Inti Party	1334	6	
+83	Telangana - Kalwakurthy	B. RAJU GOUD	Independent	712	7	
+83	Telangana - Kalwakurthy	JAMMULA SRIKANTH	Nationalist Congress Party	599	8	
+83	Telangana - Kalwakurthy	MEESAALA LAKSHMAIAH	Independent	558	9	
+83	Telangana - Kalwakurthy	DERANGULA SHEKAR	Independent	498	10	
+83	Telangana - Kalwakurthy	BALASWAMY GOUD SINGAM	Bahujana Left Party	357	11	
+83	Telangana - Kalwakurthy	KETHAVATH JAIPAL	Bahujan Mukti Party	345	12	
+83	Telangana - Kalwakurthy	ARJUN REDDY CHEEMARLA	Independent	277	13	
+83	Telangana - Kalwakurthy	VISLAVATH HARYA NAYAK	Jana Vaahini Party	187	14	
+83	Telangana - Kalwakurthy	ANTHIREDDY ARAVINDA REDDY	Shiv Sena	180	15	
+83	Telangana - Kalwakurthy	V.AMARNATH	India Praja Bandhu Party	151	16	
+84	Telangana - Shadnagar	ANJAIAH YELGANAMONI	Telangana Rashtra Samithi	72315	1	20425
+84	Telangana - Shadnagar	CHOWLAPALLY PRATAP REDDY	Indian National Congress	51890	2	20425
+84	Telangana - Shadnagar	K. SHANKAR	Bahujan Samaj Party	27814	3	
+84	Telangana - Shadnagar	NELLI SREEVARDHAN REDDY	Bharatiya Janata Party	5162	4	
+84	Telangana - Shadnagar	ANDHARI ANJAIAH	Independent	3199	5	
+84	Telangana - Shadnagar	AMMY SANTHOSH KUMAR	Independent	2301	6	
+84	Telangana - Shadnagar	None of the Above	None of the Above	1909	7	
+84	Telangana - Shadnagar	KETHURU RAGHAVENDER	Independent	726	8	
+84	Telangana - Shadnagar	ANTHAPOORAM MAHENDAR	Independent	312	9	
+84	Telangana - Shadnagar	ANDRA ANUSHA REDDY	Aam Aadmi Party	297	10	
+84	Telangana - Shadnagar	THUMMA VIJAYA ANAND REDDY	All India Forward Bloc	231	11	
+84	Telangana - Shadnagar	NAGARAJU MANNARAM	Bahujana Left Party	218	12	
+84	Telangana - Shadnagar	SANGAMESHWAR DHANAKKA	All India Samata Party	153	13	
+85	Telangana - Kollapur	BEERAM HARSHAVARDHAN REDDY	Indian National Congress	80611	1	12543
+85	Telangana - Kollapur	JUPALLY KRISHNA RAO	Telangana Rashtra Samithi	68068	2	12543
+85	Telangana - Kollapur	AELLENI SUDHAKAR RAO	Bharatiya Janata Party	13154	3	
+85	Telangana - Kollapur	ENDRAKANTI VENKATESH	Independent	3419	4	
+85	Telangana - Kollapur	BINGI SAYANNA	Independent	1903	5	
+85	Telangana - Kollapur	J.BHRAMAIAH CHARY	Bahujana Left Party	1658	6	
+85	Telangana - Kollapur	CHIKKEPALLI SANJEEVULU	Bahujan Samaj Party	1537	7	
+85	Telangana - Kollapur	None of the Above	None of the Above	1182	8	
+85	Telangana - Kollapur	KATTA VAMSHI GOUD	Independent	844	9	
+85	Telangana - Kollapur	BARIGELA SWAROOPARANI YADAV	Samajwadi Party	807	10	
+85	Telangana - Kollapur	HANMANTHU	Independent	437	11	
+85	Telangana - Kollapur	MURALIDHAR GUPTA	Telangana Prajala Party	256	12	
+86	Telangana - Devarakonda	RAMAVATH RAVINDRA KUMAR	Telangana Rashtra Samithi	96454	1	38848
+86	Telangana - Devarakonda	BALU NAIK NENAVATH	Indian National Congress	57606	2	38848
+86	Telangana - Devarakonda	BHEELYA NAIK KETHAVATH	Bahujan Samaj Party	19350	3	
+86	Telangana - Devarakonda	BHOJYA NAIK RAMAVATH	Prajaa Swaraaj Party	3247	4	
+86	Telangana - Devarakonda	GOPI @ KALYAN NAIK	Bharatiya Janata Party	3152	5	
+86	Telangana - Devarakonda	None of the Above	None of the Above	1695	6	
+86	Telangana - Devarakonda	SREENU VADTHYA	Independent	1190	7	
+86	Telangana - Devarakonda	LAXMAN NAYAK RAMAVATH	Communist Party of India (Marxist)	1084	8	
+86	Telangana - Devarakonda	KONREDDY POCHAIAH	Independent	798	9	
+86	Telangana - Devarakonda	KATRAVATH VENKATESH	Bahujan Mukti Party	542	10	
+86	Telangana - Devarakonda	PANDU RAMAVATH	Independent	466	11	
+87	Telangana - Nagarjuna Sagar	NOMULA NARSIMHAIAH	Telangana Rashtra Samithi	83655	1	7771
+87	Telangana - Nagarjuna Sagar	JANA REDDY KUNDURU	Indian National Congress	75884	2	7771
+87	Telangana - Nagarjuna Sagar	VADLAPALLY RAMAKRISHNA REDDY	Samajwadi Forward Bloc	9819	3	
+87	Telangana - Nagarjuna Sagar	KANKANALA NIVEDITA	Bharatiya Janata Party	2675	4	
+87	Telangana - Nagarjuna Sagar	MASNA VENUGOPALU	Independent	2338	5	
+87	Telangana - Nagarjuna Sagar	None of the Above	None of the Above	1325	6	
+87	Telangana - Nagarjuna Sagar	KATTA YADAIAH MUDIRAJ	Bahujan Samaj Party	965	7	
+87	Telangana - Nagarjuna Sagar	RATHAN KUMAR GANTEKAMPU	Independent	793	8	
+87	Telangana - Nagarjuna Sagar	SOUJANYA RAMAVATH	Bahujana Left Party	681	9	
+87	Telangana - Nagarjuna Sagar	MD. KUTUBODDIN	Aam Aadmi Party	624	10	
+87	Telangana - Nagarjuna Sagar	JANAPATI NAGARAJU YADAV	Independent	446	11	
+87	Telangana - Nagarjuna Sagar	PANUGOTHU LALSINGH	Independent	390	12	
+87	Telangana - Nagarjuna Sagar	GOPALA BABU	Telangana Prajala Party	343	13	
+87	Telangana - Nagarjuna Sagar	VANKADOTHU KOTA NAYAK	Independent	342	14	
+87	Telangana - Nagarjuna Sagar	JAKKULA NARSIMHA	Independent	232	15	
+88	Telangana - Miryalguda	NALLAMOTHU BHASKAR RAO	Telangana Rashtra Samithi	83931	1	30652
+88	Telangana - Miryalguda	R. KRISHNAIAH	Indian National Congress	53279	2	30652
+88	Telangana - Miryalguda	DHEERAVATH SKYLAB NAIK	Independent	13961	3	
+88	Telangana - Miryalguda	JULAKANTI RANGA REDDY	Communist Party of India (Marxist)	11221	4	
+88	Telangana - Miryalguda	PALLAPU BIKSHPATHI RAO	Independent	4758	5	
+88	Telangana - Miryalguda	KARNATI PRABHAKAR	Bharatiya Janata Party	2502	6	
+88	Telangana - Miryalguda	None of the Above	None of the Above	1239	7	
+88	Telangana - Miryalguda	JILLA RAVI	Independent	1183	8	
+88	Telangana - Miryalguda	CHINTHALA ARAVINDHA REDDY	Pyramid Party of India	849	9	
+88	Telangana - Miryalguda	RAJU JADI	Bahujan Samaj Party	812	10	
+88	Telangana - Miryalguda	KAMPASATI VENKANNA	Independent	745	11	
+88	Telangana - Miryalguda	K. SRIDHAR GUPTHA	Independent	532	12	
+88	Telangana - Miryalguda	KODAVATH NAGA NAIK	Independent	436	13	
+88	Telangana - Miryalguda	DHANAVATH LALU NAIK	Independent	380	14	
+88	Telangana - Miryalguda	SYED FAROOQ	Independent	366	15	
+88	Telangana - Miryalguda	KARANTOTHU MANGTHA	Independent	334	16	
+88	Telangana - Miryalguda	NAGENDAR BHOKRAY	Independent	289	17	
+88	Telangana - Miryalguda	JANAIAH NANDIPATI	Independent	241	18	
+88	Telangana - Miryalguda	KONUGANTTI RAGHAVARANI	Jai Swaraj Party	235	19	
+88	Telangana - Miryalguda	BALAKRISHNA RAO	Shiv Sena	199	20	
+88	Telangana - Miryalguda	NEELAKANTAM	Bahujan Mukti Party	195	21	
+88	Telangana - Miryalguda	SUNKU SRINIVAS	Independent	189	22	
+88	Telangana - Miryalguda	KODIREKKA ILAYARAJA	Independent	186	23	
+88	Telangana - Miryalguda	BOLUSANI KRISHNAIAH	Independent	181	24	
+88	Telangana - Miryalguda	GARIKAPATI RADHAKRISHNA	Navodayam Party	165	25	
+88	Telangana - Miryalguda	ADE YADAGIRI	Independent	158	26	
+88	Telangana - Miryalguda	MD. FAROOQ	Aam Aadmi Party	143	27	
+88	Telangana - Miryalguda	RAJU RAMDENI	Independent	126	28	
+88	Telangana - Miryalguda	SARIKONDA RUSHIKESHWAR RAJU	Independent	107	29	
+88	Telangana - Miryalguda	M.V.R. REDDY	Independent	95	30	
+89	Telangana - Huzurnagar	UTTAM KUMAR REDDY NALAMADA	Indian National Congress	92996	1	7466
+89	Telangana - Huzurnagar	SANAMPUDI SAIDIREDDY	Telangana Rashtra Samithi	85530	2	7466
+89	Telangana - Huzurnagar	RAGHUMAREDDY MEKALA	Independent	4944	3	
+89	Telangana - Huzurnagar	PAREPALLY SEKHAR RAO	Communist Party of India (Marxist)	2121	4	
+89	Telangana - Huzurnagar	None of the Above	None of the Above	1621	5	
+89	Telangana - Huzurnagar	BOBBA BHAGYA REDDY	Bharatiya Janata Party	1555	6	
+89	Telangana - Huzurnagar	RAMESH SUNKARA	Independent	1454	7	
+89	Telangana - Huzurnagar	DASARI SRINIVASARAO	Bahujan Samaj Party	1018	8	
+89	Telangana - Huzurnagar	KALVAKUNTLA RAMAIAH	Independent	736	9	
+89	Telangana - Huzurnagar	BALU GUGULOTHU	Independent	727	10	
+89	Telangana - Huzurnagar	MEDARI VEERAIAH	Independent	420	11	
+89	Telangana - Huzurnagar	DESHAGANI SAMBASHIVA GOUD	Telangana Prajala Party	413	12	
+89	Telangana - Huzurnagar	B. PADMA	Independent	260	13	
+89	Telangana - Huzurnagar	MUDEM KOTIREDDY	Independent	210	14	
+89	Telangana - Huzurnagar	BANDARU NAGARAJU	Independent	170	15	
+89	Telangana - Huzurnagar	SAMULA SIVA REDDY	All India Forward Bloc	155	16	
+89	Telangana - Huzurnagar	MALOTHU GOVIND NAIK	Aam Aadmi Party	135	17	
+90	Telangana - Kodad	BOLLAM MALLAIAH YADAV	Telangana Rashtra Samithi	89115	1	756
+90	Telangana - Kodad	PADMAVATHI REDDY NALAMADA	Indian National Congress	88359	2	756
+90	Telangana - Kodad	ANJI YADAV	Independent	5240	3	
+90	Telangana - Kodad	BURRI SRIRAMULU	Communist Party of India (Marxist)	3381	4	
+90	Telangana - Kodad	KUNDURU DEVENDER REDDY	Telangana Inti Party	1508	5	
+90	Telangana - Kodad	JALLEPALLI ENKATESHWARLU	Bharatiya Janata Party	1485	6	
+90	Telangana - Kodad	None of the Above	None of the Above	1240	7	
+90	Telangana - Kodad	VELANGI RAJU ORSU	Bahujan Samaj Party	741	8	
+90	Telangana - Kodad	PANDITI KRANTHI KUMAR	Independent	610	9	
+90	Telangana - Kodad	SHAIK MASTAN SAHEB	Independent	530	10	
+90	Telangana - Kodad	GIDDE RAJESH	Independent	506	11	
+90	Telangana - Kodad	PANDI PEDDA TIRUPATHAIAH	Independent	327	12	
+90	Telangana - Kodad	AMBEDKAR DUNNA	Jai Swaraj Party	287	13	
+90	Telangana - Kodad	PARYAVARANAM KOLLU LAKSHMINARAYANA	Independent	265	14	
+90	Telangana - Kodad	DAIDA LINGAIAH	Independent	171	15	
+90	Telangana - Kodad	GANGIREDDY KOTIREDDY	Independent	123	16	
+91	Telangana - Suryapet	GUNTAKANDLA JAGADISH REDDY	Telangana Rashtra Samithi	68650	1	5967
+91	Telangana - Suryapet	DAMODAR REDDY RAM REDDY	Indian National Congress	62683	2	5967
+91	Telangana - Suryapet	SANKINENI VENKATESWAR RAO	Bharatiya Janata Party	39240	3	
+91	Telangana - Suryapet	DONGARI VENU	Independent	4871	4	
+91	Telangana - Suryapet	PERUMALLA VENKANNA	Independent	1875	5	
+91	Telangana - Suryapet	None of the Above	None of the Above	820	6	
+91	Telangana - Suryapet	RAPARTHI SRINIVAS GOUD	Bahujana Left Party	684	7	
+91	Telangana - Suryapet	TAGULLA JANARDHAN	Independent	625	8	
+91	Telangana - Suryapet	BOLKA VENKANNA	Bahujan Samaj Party	524	9	
+91	Telangana - Suryapet	BENJARAPU BIKSHAPATHI	Independent	424	10	
+91	Telangana - Suryapet	MARRI NEHEMIAH	Independent	380	11	
+91	Telangana - Suryapet	IBRAHIM SHAIK	Independent	362	12	
+91	Telangana - Suryapet	SUNKARI LITHESH	Independent	319	13	
+91	Telangana - Suryapet	RAMJI VANKUDOTH	Nationalist Congress Party	295	14	
+91	Telangana - Suryapet	KIRAN VANGAPALLI	Republican Sena	261	15	
+91	Telangana - Suryapet	SAMA VENKAT REDDY	Independent	235	16	
+91	Telangana - Suryapet	PULIGILLA VEERAMALLU	Samajwadi Party	229	17	
+91	Telangana - Suryapet	MUPPANI LINGA REDDY	Independent	228	18	
+91	Telangana - Suryapet	SAIDAMMA YERRANAGULA	Jai Swaraj Party	221	19	
+91	Telangana - Suryapet	AKKENAPALLI ESHWAR	Independent	196	20	
+91	Telangana - Suryapet	SAIDULU DEVATH	Independent	190	21	
+91	Telangana - Suryapet	LINGIDI VENKATESWARLU	Aam Aadmi Party	140	22	
+91	Telangana - Suryapet	THALARI SATHEESH	Bahujana Raajyam Party (Phule Ambedkar)	113	23	
+91	Telangana - Suryapet	MARAM VENKAT REDDY	Independent	103	24	
+91	Telangana - Suryapet	PALVAI VANAJA	India Praja Bandhu Party	84	25	
+91	Telangana - Suryapet	RAMESH PALLETI	Independent	80	26	
+92	Telangana - Nalgonda	KANCHARLA BHUPAL REDDY	Telangana Rashtra Samithi	98792	1	23698
+92	Telangana - Nalgonda	KOMATI REDDY VENKAT REDDY	Indian National Congress	75094	2	23698
+92	Telangana - Nalgonda	POLISHETTY VENKATESHWARLU	Independent	2932	3	
+92	Telangana - Nalgonda	SRIRAMOJU SHANMUKHA CHARY	Bharatiya Janata Party	1916	4	
+92	Telangana - Nalgonda	MOHAMMAD MAJEED	Independent	1686	5	
+92	Telangana - Nalgonda	None of the Above	None of the Above	1276	6	
+92	Telangana - Nalgonda	AKKENEPALLY MEENAIAH	Bahujana Left Party	1146	7	
+92	Telangana - Nalgonda	RUPANI SAIDULU	Independent	856	8	
+92	Telangana - Nalgonda	SHASHIDHAR REDDY GANTLA	Independent	559	9	
+92	Telangana - Nalgonda	BOLLA VENKATA MUDIRAJ (BVM)	Independent	345	10	
+92	Telangana - Nalgonda	KODIMALA SHIVAKUMAR	Pyramid Party of India	204	11	
+92	Telangana - Nalgonda	S.K.EBRAHIM	Independent	177	12	
+92	Telangana - Nalgonda	CHOLLETI PRABHAKAR	Independent	171	13	
+92	Telangana - Nalgonda	PARVEEN	Independent	145	14	
+92	Telangana - Nalgonda	KATTELA SHIVAKUMAR	Telangana Prajala Party	114	15	
+92	Telangana - Nalgonda	KADIUM KRUPAKAR	Independent	87	16	
+92	Telangana - Nalgonda	GULAM SUBHANI	Independent	61	17	
+92	Telangana - Nalgonda	KONDA GANESH	Independent	57	18	
+93	Telangana - Munugode	KOMATIREDDY RAJGOPAL REDDY	Indian National Congress	97239	1	22552
+93	Telangana - Munugode	KOOSUKUNTLA PRABHAKAR REDDY	Telangana Rashtra Samithi	74687	2	22552
+93	Telangana - Munugode	GANGIDI MANOHAR REDDY	Bharatiya Janata Party	12725	3	
+93	Telangana - Munugode	MANGA VENKATESH KURUMA	Independent	3569	4	
+93	Telangana - Munugode	None of the Above	None of the Above	3086	5	
+93	Telangana - Munugode	CHILUVERU NAGARAJU	Samajwadi Forward Bloc	2279	6	
+93	Telangana - Munugode	GOSHIKA KARUNAKAR	Bahujana Left Party	2080	7	
+93	Telangana - Munugode	MALGA YADAIAH	Bahujan Samaj Party	738	8	
+93	Telangana - Munugode	KAMBAMPATI SATYANARAYANA	Telangana Inti Party	688	9	
+93	Telangana - Munugode	BHEEMAGANI MAHESHWAR GOUD	Independent	457	10	
+93	Telangana - Munugode	PALVAI SRAVAN REDDY	Independent	325	11	
+93	Telangana - Munugode	MANCHUKONDA NAGARAJU	Pyramid Party of India	226	12	
+93	Telangana - Munugode	UDARI MALLESH	Independent	220	13	
+93	Telangana - Munugode	BONGU VENKATESH GOUD	Social Justice Party of India	204	14	
+93	Telangana - Munugode	NAKKA YADISHWAR	Independent	179	15	
+93	Telangana - Munugode	EEDA BHASKAR	Independent	141	16	
+94	Telangana - Bhongir	PAILLA SHEKAR REDDY	Telangana Rashtra Samithi	85476	1	24063
+94	Telangana - Bhongir	ANIL KUMAR REDDY KUMBAM	Indian National Congress	61413	2	24063
+94	Telangana - Bhongir	JITTA BALAKRISHNA REDDY	Yuva Telangana Party	13427	3	
+94	Telangana - Bhongir	POCHAMPALLY RAMANA RAO	Samajwadi Forward Bloc	3613	4	
+94	Telangana - Bhongir	KALLURI MALLESHAM YADAV	Communist Party of India (Marxist)	1856	5	
+94	Telangana - Bhongir	ALAKUNTLA YELLAIAH	Independent	1758	6	
+94	Telangana - Bhongir	None of the Above	None of the Above	1347	7	
+94	Telangana - Bhongir	DEVARAKONDA HANUMANTHU	Independent	1305	8	
+94	Telangana - Bhongir	BELLY KRISHNA	Bahujan Samaj Party	924	9	
+94	Telangana - Bhongir	PATNAM KAMALA MANOHAR	Independent	616	10	
+94	Telangana - Bhongir	GUNDALA LAXMINARAYANA GOUD	Independent	564	11	
+94	Telangana - Bhongir	UPENDER GUPTA PABBA	Shiv Sena	225	12	
+94	Telangana - Bhongir	MANCHALA MAHESHWAR	Telangana Labour Party	204	13	
+94	Telangana - Bhongir	BHONGIR SRINIVAS NETHA	Samajwadi Party	197	14	
+94	Telangana - Bhongir	NAGA RAJU GUPTA BEJUGAM	Telangana Praja Samithi (Kishore, Rao and Kishan)	163	15	
+94	Telangana - Bhongir	DHARAVATH GANESH NAYAK	Bahujan Mukti Party	143	16	
+95	Telangana - Nakrekal	CHIRUMARTHI LINGAIAH	Indian National Congress	93699	1	8259
+95	Telangana - Nakrekal	VEMULA VEERESHAM	Telangana Rashtra Samithi	85440	2	8259
+95	Telangana - Nakrekal	DUBBA RAVI KUMAR	Samajwadi Forward Bloc	10383	3	
+95	Telangana - Nakrekal	JITTA NAGESH	Communist Party of India (Marxist)	4543	4	
+95	Telangana - Nakrekal	KASARLA LINGAIAH	Bharatiya Janata Party	2233	5	
+95	Telangana - Nakrekal	None of the Above	None of the Above	1331	6	
+95	Telangana - Nakrekal	NUNE VENKATA SWAMY	Bahujan Samaj Party	885	7	
+95	Telangana - Nakrekal	DUBBA VENKANNA	Independent	634	8	
+95	Telangana - Nakrekal	MEDI SATHYANARAYANA	Telangana Prajala Party	562	9	
+95	Telangana - Nakrekal	KATTA SRINIVAS	Yekikrutha Sankshema Rashtriya Praja Party	520	10	
+95	Telangana - Nakrekal	VANTEPAKA SWAROOPARANI	Nationalist Congress Party	466	11	
+95	Telangana - Nakrekal	MEDI NARESH	Samajwadi Party	454	12	
+95	Telangana - Nakrekal	CHINENI JANAIAH	Independent	344	13	
+95	Telangana - Nakrekal	GADE SRINU	Bahujan Mukti Party	327	14	
+95	Telangana - Nakrekal	YARA SRINU	Aam Aadmi Party	242	15	
+95	Telangana - Nakrekal	KOMMU SHOBARANI	Shiv Sena	167	16	
+96	Telangana - Thungathurthy	GADARI KISHORE KUMAR	Telangana Rashtra Samithi	90857	1	1847
+96	Telangana - Thungathurthy	ADDANKI DAYAKAR	Indian National Congress	89010	2	1847
+96	Telangana - Thungathurthy	BADE ANIL	Samajwadi Forward Bloc	3729	3	
+96	Telangana - Thungathurthy	RAMACHANDRAIAH KADIYAM	Bharatiya Janata Party	3222	4	
+96	Telangana - Thungathurthy	RAVI VADDEPALLY	Independent	2806	5	
+96	Telangana - Thungathurthy	REDDIMALLA SUJANA	Independent	1593	6	
+96	Telangana - Thungathurthy	VATAM BALARAJU	Independent	1483	7	
+96	Telangana - Thungathurthy	None of the Above	None of the Above	1392	8	
+96	Telangana - Thungathurthy	DR. MANDULA SRAVAN KUMAR	Bahujan Samaj Party	1308	9	
+96	Telangana - Thungathurthy	NAGESH PALVAI	Bahujana Left Party	1262	10	
+96	Telangana - Thungathurthy	YERRA YADAGIRI	Prajaa Swaraaj Party	974	11	
+96	Telangana - Thungathurthy	POLUPONGU SHILPA	Independent	942	12	
+96	Telangana - Thungathurthy	EDULA RAMANJANEYULU	Independent	293	13	
+96	Telangana - Thungathurthy	CHERUKU VIJAY KUMAR	Independent	243	14	
+96	Telangana - Thungathurthy	KOTHI INDIRA	Telangana Communist Party of India	224	15	
+96	Telangana - Thungathurthy	PALVAI PADMA	Social Justice Party of India	195	16	
+96	Telangana - Thungathurthy	KONGARI MALLAIAH	Independent	147	17	
+96	Telangana - Thungathurthy	DASARI RAMBABU	Aam Aadmi Party	142	18	
+97	Telangana - Alair	GONGIDI SUNEETHA	Telangana Rashtra Samithi	94870	1	33086
+97	Telangana - Alair	BUDIDA BIKSHAMAIAH	Indian National Congress	61784	2	33086
+97	Telangana - Alair	KALLURI RAMCHANDRA REDDY	Bahujan Samaj Party	11923	3	
+97	Telangana - Alair	MOTHKUPALLY NARSIMHULU	Bahujana Left Party	10473	4	
+97	Telangana - Alair	DONTHIRI SRIDHAR REDDY	Bharatiya Janata Party	4967	5	
+97	Telangana - Alair	None of the Above	None of the Above	1465	6	
+97	Telangana - Alair	KANDADI MANIPAL REDDY	Telugu Congress Party	1230	7	
+97	Telangana - Alair	SARITHA JANNE	Samajwadi Party	1200	8	
+97	Telangana - Alair	DHEERAVATH GOPI NAYAK	Independent	1112	9	
+97	Telangana - Alair	VYLA SRINIVAS REDDY	Independent	913	10	
+97	Telangana - Alair	BOLLARAM RAMESH	Independent	380	11	
+97	Telangana - Alair	MORIGADI KRISHNA	Independent	358	12	
+97	Telangana - Alair	KOTHA KISTAIAH	Ambedkar National Congress	315	13	
+97	Telangana - Alair	GUJJULA RAMCHANDRA REDDY	Independent	260	14	
+97	Telangana - Alair	REGU ANAND	Bahujana Rashtra Samithi	231	15	
+98	Telangana - Jangoan	MUTHIREDDY YADAGIRI REDDY	Telangana Rashtra Samithi	91592	1	29568
+98	Telangana - Jangoan	LAKSHMAIAH PONNALA	Indian National Congress	62024	2	29568
+98	Telangana - Jangoan	LAXMAN BHIMA	Samajwadi Forward Bloc	10031	3	
+98	Telangana - Jangoan	MERUGU SRINIVAS	Independent	3604	4	
+98	Telangana - Jangoan	K.V.L.N. REDDY (RAJU)	Bharatiya Janata Party	3122	5	
+98	Telangana - Jangoan	UDUTHA RAVI YADAV	Communist Party of India (Marxist)	2691	6	
+98	Telangana - Jangoan	None of the Above	None of the Above	2616	7	
+98	Telangana - Jangoan	SRINIVAS REDDY SHAKAMPALLY	Independent	1380	8	
+98	Telangana - Jangoan	KOTHAPALLI SATISH KUMAR	Bahujan Samaj Party	1018	9	
+98	Telangana - Jangoan	THUPPATHI SIDDULU	Nava Samaj Party	619	10	
+98	Telangana - Jangoan	MAHENDER REDDY KONDETI	Independent	593	11	
+98	Telangana - Jangoan	VENKATA RAJAIAH THATIKONDA	Samajwadi Party	589	12	
+98	Telangana - Jangoan	UPENDAR JERIPOTHULA	Independent	576	13	
+98	Telangana - Jangoan	MOHAN RAJU AKKALADEVI	Bahujana Rashtra Samithi	408	14	
+98	Telangana - Jangoan	MANTHENA NARESH	Independent	395	15	
+98	Telangana - Jangoan	NIMMA JAYARAM REDDY	Aam Aadmi Party	210	16	
+99	Telangana - Ghanpur (Station)	DR. THATIKONDA RAJAIAH	Telangana Rashtra Samithi	98612	1	35790
+99	Telangana - Ghanpur (Station)	INDIRA SINGAPURAM	Indian National Congress	62822	2	35790
+99	Telangana - Ghanpur (Station)	PRATHAP RAJARAPU	Bahujan Samaj Party	22774	3	
+99	Telangana - Ghanpur (Station)	MADASI VENKATESHAM	Independent	4890	4	
+99	Telangana - Ghanpur (Station)	None of the Above	None of the Above	3540	5	
+99	Telangana - Ghanpur (Station)	PERUMANDLA VENKATESHWARLU	Bharatiya Janata Party	2370	6	
+99	Telangana - Ghanpur (Station)	BOTLA SHEKHAR	Communist Party of India (Marxist)	1832	7	
+99	Telangana - Ghanpur (Station)	SURABHI SATHAIAH	Independent	1246	8	
+99	Telangana - Ghanpur (Station)	JERIPOTHULA UPENDAR	Independent	857	9	
+100	Telangana - Palakurthi	ERRABELLI DAYAKAR RAO	Telangana Rashtra Samithi	117504	1	53053
+100	Telangana - Palakurthi	JANGA RAGAVA REDDY	Indian National Congress	64451	2	53053
+100	Telangana - Palakurthi	L. VIJAY	Samajwadi Forward Bloc	3199	3	
+100	Telangana - Palakurthi	BILLA SUDHEER REDDY	Independent	2559	4	
+100	Telangana - Palakurthi	MACHARLA SRINIVAS	Independent	1835	5	
+100	Telangana - Palakurthi	SOMAIAH PEDAGANI	Bharatiya Janata Party	1306	6	
+100	Telangana - Palakurthi	JILUKARA SREENIVAS	Bahujan Samaj Party	1280	7	
+100	Telangana - Palakurthi	KUNABOINA KUMARA SWAMY	Telangana Karmika Raithu Rajyam Party	1130	8	
+100	Telangana - Palakurthi	None of the Above	None of the Above	1078	9	
+100	Telangana - Palakurthi	MAMINDLA RAMESH RAJA	Communist Party of India (Marxist-Leninist) (Liberation)	1029	10	
+100	Telangana - Palakurthi	DAYAKAR SINGAPURAM	Independent	890	11	
+100	Telangana - Palakurthi	GOLA GANGA RAO	Independent	746	12	
+100	Telangana - Palakurthi	KORRA NARASIMHA	Independent	580	13	
+100	Telangana - Palakurthi	VISHWANATH GOVIAMSA	Republican Party of India	295	14	
+100	Telangana - Palakurthi	MAKKALA NAGALAXMI	Bahujana Left Party	234	15	
+100	Telangana - Palakurthi	RAMU BEERELLI	Independent	152	16	
+100	Telangana - Palakurthi	GARE VENKATESH	Samajwadi Party	115	17	
+100	Telangana - Palakurthi	THANDA UPENDER	Telangana Prajala Party	72	18	
+100	Telangana - Palakurthi	L.M.S. GOUD	Jai Swaraj Party	64	19	
+101	Telangana - Dornakal	DHARAM SOTH REDYA NAIK	Telangana Rashtra Samithi	88307	1	17381
+101	Telangana - Dornakal	JATOTH RAM CHANDRU NAIK	Indian National Congress	70926	2	17381
+101	Telangana - Dornakal	BANOTH. RAVINDER	Independent	4117	3	
+101	Telangana - Dornakal	BHUKYA GOPI KRISHANA	Independent	2107	4	
+101	Telangana - Dornakal	None of the Above	None of the Above	2036	5	
+101	Telangana - Dornakal	ANGOTH. VENKANNA	Communist Party of India (Marxist)	1361	6	
+101	Telangana - Dornakal	MALOTH SREENU NAIK	Bahujan Samaj Party	1245	7	
+101	Telangana - Dornakal	BANOTHU RAMDAS	Independent	1019	8	
+101	Telangana - Dornakal	AJMEERA RATHNA	Independent	925	9	
+101	Telangana - Dornakal	GUGULOTHU LAXMAN NAIK	Bharatiya Janata Party	862	10	
+101	Telangana - Dornakal	D.S. VENKANNA NAIK	Independent	685	11	
+101	Telangana - Dornakal	NEHRU NAIK MALOTHU	Independent	486	12	
+102	Telangana - Mahabubabad	BANOTH SHANKAR NAIK	Telangana Rashtra Samithi	85397	1	13534
+102	Telangana - Mahabubabad	BALARAM NAIK PORIKA	Indian National Congress	71863	2	13534
+102	Telangana - Mahabubabad	JATOTHU HUSSAIN	Bharatiya Janata Party	11646	3	
+102	Telangana - Mahabubabad	BATTU BINAMA	Independent	4819	4	
+102	Telangana - Mahabubabad	None of the Above	None of the Above	3279	5	
+102	Telangana - Mahabubabad	BANOTH MOHANLAL	Bahujana Left Party	2604	6	
+102	Telangana - Mahabubabad	BALU NAYAK BHUKYA	Bahujan Samaj Party	1515	7	
+102	Telangana - Mahabubabad	DARAMSOTHU NARAYANA SINGH	Independent	1030	8	
+102	Telangana - Mahabubabad	HALAVATH LINGYA	Independent	935	9	
+102	Telangana - Mahabubabad	SOLAM SAHADEV	Independent	895	10	
+102	Telangana - Mahabubabad	BANOTHU RAMDAS	Independent	606	11	
+102	Telangana - Mahabubabad	PRASAD DAPPU	Independent	351	12	
+103	Telangana - Narsampet	PEDDI SUDARSHAN REDDY	Telangana Rashtra Samithi	94135	1	16949
+103	Telangana - Narsampet	DONTHI MADHAVA REDDY	Indian National Congress	77186	2	16949
+103	Telangana - Narsampet	J. NAGESHWAR RAO	Independent	9025	3	
+103	Telangana - Narsampet	None of the Above	None of the Above	2436	4	
+103	Telangana - Narsampet	ASHOK REDDY EDLA	Bharatiya Janata Party	1476	5	
+103	Telangana - Narsampet	KURIMILLA RAMMURTHY	Pyramid Party of India	1307	6	
+103	Telangana - Narsampet	DHAYAKAR GAJJI	Bahujan Samaj Party	1123	7	
+103	Telangana - Narsampet	MADDIKAYALA ASHOK	Bahujana Left Party	797	8	
+103	Telangana - Narsampet	POGAKU SUDHIR	Independent	578	9	
+103	Telangana - Narsampet	BODDU KIRAN KUMAR	Independent	379	10	
+103	Telangana - Narsampet	EMMADI CHINNI KRISHNA	Independent	304	11	
+103	Telangana - Narsampet	PURNA CHANDER RAO THOTA	Shiv Sena	265	12	
+104	Telangana - Parkal	CHALLA. DHARMA REDDY	Telangana Rashtra Samithi	105903	1	46519
+104	Telangana - Parkal	KONDA SURAKHA	Indian National Congress	59384	2	46519
+104	Telangana - Parkal	U. SRINIVAS	Independent	3996	3	
+104	Telangana - Parkal	DR. PESARU VIJAYA CHANDER REDDY	Bharatiya Janata Party	2483	4	
+104	Telangana - Parkal	None of the Above	None of the Above	2064	5	
+104	Telangana - Parkal	G. SAMBAIAH	Independent	942	6	
+104	Telangana - Parkal	SHANIGARAPU. RAJU	Bahujan Samaj Party	806	7	
+104	Telangana - Parkal	ABBADI BUCHIREDDY	Independent	552	8	
+104	Telangana - Parkal	CHAPARTHI KUMARASWAMY	Independent	313	9	
+104	Telangana - Parkal	ELAMADRI RAVI	Republican Party of India (A)	269	10	
+104	Telangana - Parkal	ADEPU RAMESH	Independent	205	11	
+104	Telangana - Parkal	KUMARASWAMY GONE	Bahujana Left Party	168	12	
+104	Telangana - Parkal	DARAM YUVARAJU	Samajwadi Party	163	13	
+104	Telangana - Parkal	PUNNAM BHAGYASRI	Indian New Congress Party	127	14	
+104	Telangana - Parkal	VENU ESAMPELLY	All India Forward Bloc	116	15	
+104	Telangana - Parkal	GUNDA. RAMU	Shiv Sena	87	16	
+105	Telangana - Warangal West	DASYAM VINAY BHASKER	Telangana Rashtra Samithi	81006	1	36451
+105	Telangana - Warangal West	REVURI PRAKASH REDDY	Telugu Desam	44555	2	36451
+105	Telangana - Warangal West	DHARMARAO MARTHINENI	Bharatiya Janata Party	5979	3	
+105	Telangana - Warangal West	S. V. RAMANA RAO	Samajwadi Forward Bloc	3619	4	
+105	Telangana - Warangal West	None of the Above	None of the Above	3075	5	
+105	Telangana - Warangal West	EMMADI KIRAN	Bahujan Samaj Party	865	6	
+105	Telangana - Warangal West	BOMMATHI VIKRAM	Independent	548	7	
+105	Telangana - Warangal West	DADABOINA SRIKANTH YADAV	Bahujana Left Party	368	8	
+105	Telangana - Warangal West	PABBA BHANU LAXMAN	Independent	343	9	
+105	Telangana - Warangal West	I PRASAD SHARMA	Independent	292	10	
+105	Telangana - Warangal West	KANAKAM SURESH	Republican Party of India (A)	280	11	
+105	Telangana - Warangal West	EMMADI RAVI	Independent	248	12	
+105	Telangana - Warangal West	SATHYA PRAKASH P.	Independent	230	13	
+105	Telangana - Warangal West	FARUKH AHMED HASAN MOHAMMAD	Independent	220	14	
+105	Telangana - Warangal West	VIKRANTH SAMIDLA	Independent	185	15	
+105	Telangana - Warangal West	BANDI KRISHNA KISHORE	Aam Aadmi Party	166	16	
+105	Telangana - Warangal West	VOLLAJI RAVINDER	Bahujana Rashtra Samithi	157	17	
+105	Telangana - Warangal West	KALA RAJESHWER RAO	Independent	147	18	
+105	Telangana - Warangal West	NAKKA RAJENDER RAO	Dalita Bahujana Party	114	19	
+105	Telangana - Warangal West	GOKA VENKAT RAO	Telangana Pragati Samithi	108	20	
+105	Telangana - Warangal West	CHIDURALA RAJANNA	Shiv Sena	89	21	
+105	Telangana - Warangal West	GOPU SRINIVAS	Telangana Praja Samithi (Kishore, Rao and Kishan)	70	22	
+106	Telangana - Warangal East	NARENDAR NANNAPUNENI	Telangana Rashtra Samithi	83922	1	28782
+106	Telangana - Warangal East	RAVI CHANDRA VADDIRAJU	Indian National Congress	55140	2	28782
+106	Telangana - Warangal East	SATISH KUSUMA	Bharatiya Janata Party	4729	3	
+106	Telangana - Warangal East	AKULA VENKATESHWARLU	Independent	2759	4	
+106	Telangana - Warangal East	None of the Above	None of the Above	2716	5	
+106	Telangana - Warangal East	INNA REDDY GADE	Telangana Jana Samithi	1127	6	
+106	Telangana - Warangal East	GAI SATHISH	Independent	886	7	
+106	Telangana - Warangal East	RANGARAJU RAVINDER	Independent	733	8	
+106	Telangana - Warangal East	RAHIMUNNISA BEGUM	Independent	705	9	
+106	Telangana - Warangal East	SHANIGARAPU RAMESH BABU	Independent	500	10	
+106	Telangana - Warangal East	RAMBABU SIDDAM	Bahujana Left Party	406	11	
+106	Telangana - Warangal East	VODELA SHYAM KUMAR	Independent	395	12	
+106	Telangana - Warangal East	MOHAMMED SADIK	Independent	236	13	
+106	Telangana - Warangal East	KALA RAJESHWAR RAO	Independent	203	14	
+106	Telangana - Warangal East	CHINTHALA ANIL	Independent	196	15	
+106	Telangana - Warangal East	GORANTALA SHARATH BABU	Independent	180	16	
+106	Telangana - Warangal East	SANDRA JOHNSON	Independent	161	17	
+106	Telangana - Warangal East	POGAKU SUDHEER	Independent	147	18	
+106	Telangana - Warangal East	ALAKAPELLI KISHORE	Samajwadi Party	136	19	
+106	Telangana - Warangal East	KISHORE PARUPELLI	New India Party	120	20	
+106	Telangana - Warangal East	PALADUGULA SURENDER	Independent	117	21	
+106	Telangana - Warangal East	SATHISH BODDU	Independent	63	22	
+107	Telangana - Wardhanapet	AROORI RAMESH	Telangana Rashtra Samithi	131252	1	99240
+107	Telangana - Wardhanapet	DEVAIAH PAGIDIPATI	Telangana Jana Samithi	32012	2	99240
+107	Telangana - Wardhanapet	CHILUMULLA LENIN	Communist Party of India (Marxist-Leninist) (Liberation)	6367	3	
+107	Telangana - Wardhanapet	KOTHA SARANGA RAO	Bharatiya Janata Party	6114	4	
+107	Telangana - Wardhanapet	None of the Above	None of the Above	5864	5	
+107	Telangana - Wardhanapet	KANDHARI JANARDHAN	Independent	1702	6	
+107	Telangana - Wardhanapet	SUDHAMALLA VENKAT SWAMY	Telangana Communist Party of India	1117	7	
+107	Telangana - Wardhanapet	GANDHAM SHIVA	Bahujan Samaj Party	899	8	
+107	Telangana - Wardhanapet	VISAMPALLY NAGESH	Independent	738	9	
+107	Telangana - Wardhanapet	DARSHANAPU RAMESH	Aam Aadmi Party	660	10	
+107	Telangana - Wardhanapet	NADDUNOORI SAMPATH	Samajwadi Party	567	11	
+107	Telangana - Wardhanapet	JANNU NARSAIAH	Independent	481	12	
+107	Telangana - Wardhanapet	JATTY SWAMY	Independent	434	13	
+107	Telangana - Wardhanapet	NARSIMHA SWAMY VASHAPAKA	Bahujana Left Party	413	14	
+107	Telangana - Wardhanapet	ELLANDULA SHOBAN BABU	Independent	365	15	
+107	Telangana - Wardhanapet	AREPALLY KAMALAKAR	Independent	284	16	
+108	Telangana - Bhupalpalle	GANDRA VENKATA RAMANA REDDY	Indian National Congress	69918	1	15635
+108	Telangana - Bhupalpalle	GANDRA SATHYANARAYANA RAO(SATHANNA)	All India Forward Bloc	54283	2	15635
+108	Telangana - Bhupalpalle	SIRIKONDA MADHUSUDANA CHARI	Telangana Rashtra Samithi	53567	3	
+108	Telangana - Bhupalpalle	CHANDUPATLA KEERTHI REDDY	Bharatiya Janata Party	15744	4	
+108	Telangana - Bhupalpalle	SAMPATH MANTHENA	Independent	4787	5	
+108	Telangana - Bhupalpalle	CHALLURI MADHU	Samajwadi Forward Bloc	2171	6	
+108	Telangana - Bhupalpalle	PETTEM MALLIKARJUN	Independent	1847	7	
+108	Telangana - Bhupalpalle	SIRIPELLI RAJAIAH	Independent	1840	8	
+108	Telangana - Bhupalpalle	AKUNURI BAABU	Bahujan Samaj Party	1621	9	
+108	Telangana - Bhupalpalle	None of the Above	None of the Above	1399	10	
+108	Telangana - Bhupalpalle	DEVARAJU PENDALA	Independent	529	11	
+108	Telangana - Bhupalpalle	VANAJA VEPURI	Bahujana Left Party	362	12	
+108	Telangana - Bhupalpalle	KOUTAM RAVINDER	Independent	242	13	
+108	Telangana - Bhupalpalle	ODELU CHEPURI	Independent	220	14	
+108	Telangana - Bhupalpalle	NARSAIAH RENUKUNTLA	New India Party	211	15	
+109	Telangana - Mulug	ANASUYA DANSARI	Indian National Congress	88971	1	22671
+109	Telangana - Mulug	AZMEERA CHANDULAL	Telangana Rashtra Samithi	66300	2	22671
+109	Telangana - Mulug	BORRA LAXMINARAYANA	Independent	3348	3	
+109	Telangana - Mulug	None of the Above	None of the Above	3249	4	
+109	Telangana - Mulug	BURKA CHINA VENKATAIAH	Independent	2158	5	
+109	Telangana - Mulug	THAVITI NARAYANA	Communist Party of India (Marxist)	1674	6	
+109	Telangana - Mulug	BANOTH DEVILAL	Bharatiya Janata Party	1339	7	
+109	Telangana - Mulug	PUNEM MURALI KRISHNA	Independent	510	8	
+109	Telangana - Mulug	KORNIBELLI GANESH	Independent	323	9	
+109	Telangana - Mulug	KUDUMULA CHOKKAIAH	Independent	271	10	
+109	Telangana - Mulug	CHELA VENKATA LAXMI	Independent	256	11	
+109	Telangana - Mulug	BADI KRISHNA	Telangana Prajala Party	218	12	
+109	Telangana - Mulug	GHANTAMURI SARAIAH	Independent	163	13	
+110	Telangana - Pinapaka	KANTHA RAO REGA	Indian National Congress	72283	1	19565
+110	Telangana - Pinapaka	PAYAM VENKATESWARLU	Telangana Rashtra Samithi	52718	2	19565
+110	Telangana - Pinapaka	PALVANCHA DURGA	Independent	5277	3	
+110	Telangana - Pinapaka	MUKTI SATYAM	Independent	3570	4	
+110	Telangana - Pinapaka	KATIBOINA NAGESWARA RAO	Communist Party of India (Marxist)	2581	5	
+110	Telangana - Pinapaka	CHANDA SANTOSH KUMAR	Bharatiya Janata Party	2292	6	
+110	Telangana - Pinapaka	KALTHI YERRAIAH	Independent	1013	7	
+110	Telangana - Pinapaka	None of the Above	None of the Above	868	8	
+110	Telangana - Pinapaka	GUGULOTH VIJAYA	BhartiyaBahujanKranti Dal	704	9	
+110	Telangana - Pinapaka	KOMARAM RAJASHEKAR	Telangana Prajala Party	516	10	
+110	Telangana - Pinapaka	THUMMA NAGARAJU	Gondvana Gantantra Party	489	11	
+110	Telangana - Pinapaka	CHOULAM ARUN KUMAR	Independent	479	12	
+110	Telangana - Pinapaka	KANITHI VEERABABU	Independent	431	13	
+110	Telangana - Pinapaka	BORRA RAGHAVULU	Loktantrik Sarvjan Samaj Party	280	14	
+110	Telangana - Pinapaka	TEJAVATH NARESH	Bahujan Mukti Party	236	15	
+110	Telangana - Pinapaka	BHUKYA CHITTI BABU	Pyramid Party of India	227	16	
+110	Telangana - Pinapaka	PAYAM POTHAIAH DORA	Shiv Sena	223	17	
+111	Telangana - Yellandu	HARIPRIYA BANOTH	Indian National Congress	70644	1	2887
+111	Telangana - Yellandu	KANAKAIAH KORAM	Telangana Rashtra Samithi	67757	2	2887
+111	Telangana - Yellandu	GUMMADI NARSAIAH	Independent	12899	3	
+111	Telangana - Yellandu	YADALLAPALLI SATYAM	Independent	2871	4	
+111	Telangana - Yellandu	NAAGA SRAVANTHI MOKALLA	Bharatiya Janata Party	1975	5	
+111	Telangana - Yellandu	None of the Above	None of the Above	1915	6	
+111	Telangana - Yellandu	MALOTU MUNNA NAIK	Independent	1488	7	
+111	Telangana - Yellandu	ABBAIAH VOOKE	Independent	1156	8	
+111	Telangana - Yellandu	HANUMA MOOD	Aam Aadmi Party	891	9	
+111	Telangana - Yellandu	POLEBOINA MUTHAIAH	Independent	800	10	
+111	Telangana - Yellandu	MOKALLA PRAGATHI	Independent	601	11	
+111	Telangana - Yellandu	M. BHANU	Independent	470	12	
+111	Telangana - Yellandu	BANOTH BALAJI RAO	Independent	260	13	
+111	Telangana - Yellandu	GUGULOTHU RAVI	Independent	235	14	
+111	Telangana - Yellandu	GUGULOTH VINOD KUMAR	Independent	179	15	
+111	Telangana - Yellandu	AREM SUBHASH CHANDRA	Independent	171	16	
+111	Telangana - Yellandu	EESAM NARASIMHA RAO	Independent	159	17	
+112	Telangana - Khammam	AJAY KUMAR PUVVADA	Telangana Rashtra Samithi	102760	1	10991
+112	Telangana - Khammam	NAMA NAGESWARA RAO	Telugu Desam	91769	2	10991
+112	Telangana - Khammam	None of the Above	None of the Above	3513	3	
+112	Telangana - Khammam	VUPPALA SARADA	Bharatiya Janata Party	2325	4	
+112	Telangana - Khammam	ANWAR RAICE	Independent	2016	5	
+112	Telangana - Khammam	PALVANCHA RAMA RAO	Bahujana Left Party	1091	6	
+112	Telangana - Khammam	ABDUL KAREEM SHAIK	Bahujan Samaj Party	1023	7	
+112	Telangana - Khammam	RALLABANDI NARSIMHA CHARY	Independent	562	8	
+112	Telangana - Khammam	KASINA ANANDAPRASAD	Pyramid Party of India	387	9	
+112	Telangana - Khammam	RAPOLU KIRAN KUMAR	Independent	282	10	
+112	Telangana - Khammam	SK. JAMEEL	Independent	252	11	
+112	Telangana - Khammam	YECHU SUNIL	Independent	185	12	
+112	Telangana - Khammam	APPARAO PATTIPATI	Independent	150	13	
+112	Telangana - Khammam	TUMATI MADHU	Independent	113	14	
+113	Telangana - Palair	KANDALA UPENDER REDDY	Indian National Congress	89407	1	7669
+113	Telangana - Palair	TUMMALA NAGESWAR RAO	Telangana Rashtra Samithi	81738	2	7669
+113	Telangana - Palair	BATTULA HYMAVATHI	Communist Party of India (Marxist)	6769	3	
+113	Telangana - Palair	NANDIGAMA RAJ KUMAR	Independent	6101	4	
+113	Telangana - Palair	None of the Above	None of the Above	1271	5	
+113	Telangana - Palair	SRIDHAR REDDY KONDAPALLI	Bharatiya Janata Party	1170	6	
+113	Telangana - Palair	SUNKARI RAMAMURTHY	Independent	1157	7	
+113	Telangana - Palair	ACHAIAH GURRAM	Independent	1058	8	
+113	Telangana - Palair	KISHAN YERRABOINA	Bahujan Samaj Party	987	9	
+113	Telangana - Palair	SEEMA RAMBABU	Independent	740	10	
+113	Telangana - Palair	PULLAIAH CHARY BANALA	Pyramid Party of India	608	11	
+113	Telangana - Palair	BANOTH LAXMAN NAIK	Independent	490	12	
+113	Telangana - Palair	GOPOJU RAMESH	Telangana Communist Party of India	261	13	
+113	Telangana - Palair	MANDADAPU SHANKAR RAO	Independent	259	14	
+113	Telangana - Palair	KASANI SRINIVASA RAO	Jai Swaraj Party	148	15	
+114	Telangana - Madhira	BHATTI VIKRAMARKA MALLU	Indian National Congress	80598	1	3567
+114	Telangana - Madhira	KAMAL RAJU LINGALA	Telangana Rashtra Samithi	77031	2	3567
+114	Telangana - Madhira	RAMBABU KOTA	Bahujana Left Party	23030	3	
+114	Telangana - Madhira	KOTHAPALLI VENKATESWARA RAO	Prajaa Swaraaj Party	1228	4	
+114	Telangana - Madhira	KATHULA SHYAMALA RAO	Bharatiya Janata Party	1085	5	
+114	Telangana - Madhira	None of the Above	None of the Above	1011	6	
+114	Telangana - Madhira	CHATLA NAGAMANI KUMAR	Bahujan Samaj Party	914	7	
+114	Telangana - Madhira	BALAVANTHAPU KALYAN KUMAR	Pyramid Party of India	680	8	
+114	Telangana - Madhira	KOTHAPALLI BABU	Independent	448	9	
+114	Telangana - Madhira	RAMADAS MARKAPUDI	Telangana Communist Party of India	434	10	
+114	Telangana - Madhira	SREENIVASA RAO KOPPULA	Independent	266	11	
+114	Telangana - Madhira	PULIPATI PRAKASH	Independent	218	12	
+115	Telangana - Wyra	LAVUDYA RAMULU	Independent	52650	1	2013
+115	Telangana - Wyra	BANOTH MADAN LAL	Telangana Rashtra Samithi	50637	2	2013
+115	Telangana - Wyra	BANOTH VIJAYA	Communist Party of India	32757	3	
+115	Telangana - Wyra	BHUKYA VEERABHADRAM	Communist Party of India (Marxist)	11373	4	
+115	Telangana - Wyra	VARSA RAMULU	Independent	2588	5	
+115	Telangana - Wyra	None of the Above	None of the Above	2360	6	
+115	Telangana - Wyra	KISHAN BANOTH	Bahujan Samaj Party	1100	7	
+115	Telangana - Wyra	RESHMA BAI BHUKYA	Bharatiya Janata Party	1025	8	
+115	Telangana - Wyra	HALAVATH RAMARAO	Pyramid Party of India	996	9	
+115	Telangana - Wyra	GUGULOTH THAVURYA	Independent	897	10	
+115	Telangana - Wyra	MALOTHU MANGILAL NAIK	Independent	629	11	
+115	Telangana - Wyra	LAKAVATH NAGESWARA RAO	Bahujan Mukti Party	321	12	
+115	Telangana - Wyra	JARPULA PRASAD NAIK	Independent	257	13	
+115	Telangana - Wyra	BANOTH MANGILAL NAYAK	Independent	254	14	
+116	Telangana - Sathupalli	SANDRA VENKATA VEERAIAH	Telugu Desam	100044	1	19002
+116	Telangana - Sathupalli	PIDAMARTHI RAVI	Telangana Rashtra Samithi	81042	2	19002
+116	Telangana - Sathupalli	KOLIKAPOGU SWAMY	Independent	7345	3	
+116	Telangana - Sathupalli	MACHARLA BHARATHI	Communist Party of India (Marxist)	2673	4	
+116	Telangana - Sathupalli	None of the Above	None of the Above	1672	5	
+116	Telangana - Sathupalli	NAMBURI RAMALINGESWARA RAO	Bharatiya Janata Party	1390	6	
+116	Telangana - Sathupalli	ARJUNRAO KANKANALA	Independent	978	7	
+116	Telangana - Sathupalli	RAVINDER NATHARI	Pyramid Party of India	871	8	
+116	Telangana - Sathupalli	G.PREM NEEL KUMAR	Bahujan Samaj Party	793	9	
+116	Telangana - Sathupalli	KANCHARLA VEENAKUMARI	Independent	650	10	
+116	Telangana - Sathupalli	KONGALA MALLIKARJUNA RAO	India Praja Bandhu Party	613	11	
+116	Telangana - Sathupalli	GADDALA SUBBARAO	Jai Swaraj Party	210	12	
+117	Telangana - Kothagudem	VANAMA VENKATESWARA RAO	Indian National Congress	81118	1	4139
+117	Telangana - Kothagudem	JALAGAM VENKAT RAO	Telangana Rashtra Samithi	76979	2	4139
+117	Telangana - Kothagudem	ADAVALLI KRISHNA	Bahujana Left Party	5520	3	
+117	Telangana - Kothagudem	VAMSI KRISHNA ESSAMPALLI	Independent	1943	4	
+117	Telangana - Kothagudem	BYREDDY PRABHAKAR REDDY	Bharatiya Janata Party	1466	5	
+117	Telangana - Kothagudem	KOMARAM BUCHAIAH	Independent	1161	6	
+117	Telangana - Kothagudem	None of the Above	None of the Above	1103	7	
+117	Telangana - Kothagudem	VENKATESH DHARAVATH	Independent	984	8	
+117	Telangana - Kothagudem	MEDABOINA VENKATESWAR RAO	Independent	520	9	
+117	Telangana - Kothagudem	HANUMANTHA RAO SURAMPALLI	Pyramid Party of India	475	10	
+117	Telangana - Kothagudem	BHUKYA CHANDRA SHEKAR	Loktantrik Sarvjan Samaj Party	436	11	
+117	Telangana - Kothagudem	SATISH GUNDAPUNENI	Aam Aadmi Party	408	12	
+117	Telangana - Kothagudem	RAMANAREDDY SUREDDY	Independent	310	13	
+117	Telangana - Kothagudem	GUGULOTHU NARESH	Independent	309	14	
+117	Telangana - Kothagudem	G. RAJESH NAIK	Bahujan Mukti Party	206	15	
+117	Telangana - Kothagudem	AVUTAPALLI RAMALINGESWARA RAO	Independent	186	16	
+117	Telangana - Kothagudem	AZAM SHAIK	Independent	168	17	
+117	Telangana - Kothagudem	ANTAR SATISH	Independent	129	18	
+118	Telangana - Aswaraopeta	MECHA NAGESWARA RAO	Telugu Desam	61124	1	13117
+118	Telangana - Aswaraopeta	THATI VENKATESWARLU S/O KATTAPPA THATI	Telangana Rashtra Samithi	48007	2	13117
+118	Telangana - Aswaraopeta	TANAM RAVINDAR	Communist Party of India (Marxist)	4955	3	
+118	Telangana - Aswaraopeta	KANGALA KALLIAH	Independent	4833	4	
+118	Telangana - Aswaraopeta	None of the Above	None of the Above	2053	5	
+118	Telangana - Aswaraopeta	THATI VENKATESWARLU S/O VEERASWAMI THATI	Independent	1714	6	
+118	Telangana - Aswaraopeta	DR. BHUKYA PRASADA RAO	Bharatiya Janata Party	1303	7	
+118	Telangana - Aswaraopeta	GUGOLOTHU RAMULU	Pyramid Party of India	882	8	
+118	Telangana - Aswaraopeta	KANNEBOINA VENKATA NARSAIAH	Gondvana Gantantra Party	481	9	
+118	Telangana - Aswaraopeta	BANOTH RAMESH	Bahujan Samaj Party	460	10	
+118	Telangana - Aswaraopeta	KANITHI LAKSHMANA RAO	Independent	429	11	
+118	Telangana - Aswaraopeta	AMGOTHU KRISHNA	Independent	284	12	
+118	Telangana - Aswaraopeta	MOOD BALAJI	Bahujan Mukti Party	275	13	
+119	Telangana - Bhadrachalam	PODEM VEERAIAH	Indian National Congress	47746	1	11785
+119	Telangana - Bhadrachalam	TELLAM VENKATA RAO	Telangana Rashtra Samithi	35961	2	11785
+119	Telangana - Bhadrachalam	MIDIYAM BABU RAO	Communist Party of India (Marxist)	14228	3	
+119	Telangana - Bhadrachalam	PANDRA HEMASUNDAR	Independent	4523	4	
+119	Telangana - Bhadrachalam	None of the Above	None of the Above	2106	5	
+119	Telangana - Bhadrachalam	KUNJA SATYAVATHI	Bharatiya Janata Party	1824	6	
+119	Telangana - Bhadrachalam	RAMESH BABU BHUKYA	Pyramid Party of India	1119	7	
+119	Telangana - Bhadrachalam	CHELE ANUSHA	Independent	835	8	
+119	Telangana - Bhadrachalam	PUNEM PRADEEP KUMAR	Republican Party of India	816	9	
+119	Telangana - Bhadrachalam	KARAM NAVEEN	Independent	698	10	
+119	Telangana - Bhadrachalam	GUNDU SARATH BABU	Bahujan Samaj Party	589	11	

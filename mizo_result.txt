@@ -1,0 +1,250 @@
+Constituency No.	Constituency Name	Candidate Name	Party	Votes Polled	Position	Win/Lose Margin
+1	Mizoram - Hachhek	LALRINDIKA RALTE	Indian National Congress	6202	1	366
+1	Mizoram - Hachhek	LALRINENGA SAILO	Mizo National Front	5836	2	366
+1	Mizoram - Hachhek	VANLALRUATA PACHUAU	Bharatiya Janata Party	4399	3	
+1	Mizoram - Hachhek	H LALLIANZUALA	Independent	1373	4	
+1	Mizoram - Hachhek	EDDY ZOSANGLIANA COLNEY	Peoples Representation for Identity and Status of Mizoram (PRISM) Party	250	5	
+1	Mizoram - Hachhek	None of the Above	None of the Above	250	6	
+1	Mizoram - Hachhek	LALZENGHAKI	Independent	133	7	
+1	Mizoram - Hachhek	J. LALSAILOVA	Independent	91	8	
+1	Mizoram - Hachhek	C RAMKINLOVA	Nationalist Congress Party	78	9	
+2	Mizoram - Dampa	LALRINTLUANGA SAILO	Mizo National Front	5840	1	1657
+2	Mizoram - Dampa	LALROBIAKA	Indian National Congress	4183	2	1657
+2	Mizoram - Dampa	ER. K. LALRIMAWIA	Bharatiya Janata Party	3051	3	
+2	Mizoram - Dampa	F LALRINTLUANGI	Independent	1920	4	
+2	Mizoram - Dampa	LALRINZUALA CHAWNGTHU	Peoples Representation for Identity and Status of Mizoram (PRISM) Party	133	5	
+2	Mizoram - Dampa	LIANZUALA	National People's Party	106	6	
+2	Mizoram - Dampa	None of the Above	None of the Above	77	7	
+2	Mizoram - Dampa	LALCHUHVELA	Independent	33	8	
+2	Mizoram - Dampa	LALAWMPUIA CHHANGTE	Nationalist Congress Party	28	9	
+3	Mizoram - Mamit	H. LALZIRLIANA	Mizo National Front	6874	1	407
+3	Mizoram - Mamit	JOHN ROTLUANGLIANA	Indian National Congress	6467	2	407
+3	Mizoram - Mamit	MALSAWMTLUANGA	Bharatiya Janata Party	4528	3	
+3	Mizoram - Mamit	C.ZOTHANSANGA	Independent	1122	4	
+3	Mizoram - Mamit	None of the Above	None of the Above	190	5	
+3	Mizoram - Mamit	LIANZUALA	National People's Party	90	6	
+3	Mizoram - Mamit	LALAWMPUIA CHHANGTE	Nationalist Congress Party	80	7	
+3	Mizoram - Mamit	B.LALHMUNZAWNGA	Independent	75	8	
+4	Mizoram - Tuirial	ANDREW H. THANGLIANA	Independent	4387	1	204
+4	Mizoram - Tuirial	SAILOTHANGA SAILO	Mizo National Front	4183	2	204
+4	Mizoram - Tuirial	JOSEPH L. RALTE	Indian National Congress	3748	3	
+4	Mizoram - Tuirial	HMINGDAILOVA KHIANGTE	National People's Party	1209	4	
+4	Mizoram - Tuirial	JACOB T. VANLAWMA	Bharatiya Janata Party	487	5	
+4	Mizoram - Tuirial	B. VANLALHRUAIA	Peoples Representation for Identity and Status of Mizoram (PRISM) Party	104	6	
+4	Mizoram - Tuirial	V. LALENNAWMA	Independent	66	7	
+4	Mizoram - Tuirial	None of the Above	None of the Above	61	8	
+5	Mizoram - Kolasib	K. LALRINLIANA	Mizo National Front	5940	1	279
+5	Mizoram - Kolasib	LALFAMKIMA	Independent	5661	2	279
+5	Mizoram - Kolasib	DR. NGURDINGLIANA	Indian National Congress	5232	3	
+5	Mizoram - Kolasib	B. LIANTHLIRA	Bharatiya Janata Party	504	4	
+5	Mizoram - Kolasib	JOHN LALREMRUATA	National People's Party	288	5	
+5	Mizoram - Kolasib	None of the Above	None of the Above	106	6	
+5	Mizoram - Kolasib	ZODINSANGA	Peoples Representation for Identity and Status of Mizoram (PRISM) Party	80	7	
+6	Mizoram - Serlui	LALRINSANGA RALTE	Mizo National Front	6128	1	927
+6	Mizoram - Serlui	LALHMACHHUANA	Indian National Congress	5201	2	927
+6	Mizoram - Serlui	LALMUANPUIA PUNTE	Independent	1995	3	
+6	Mizoram - Serlui	VANLALHMUAKA	Bharatiya Janata Party	1959	4	
+6	Mizoram - Serlui	HMINGCHUNGNUNGA	National People's Party	638	5	
+6	Mizoram - Serlui	None of the Above	None of the Above	134	6	
+7	Mizoram - Tuivawl	LALCHHANDAMA RALTE	Mizo National Front	5207	1	3
+7	Mizoram - Tuivawl	R. L. PIANMAWIA	Indian National Congress	5204	2	3
+7	Mizoram - Tuivawl	JUDY ZOHMINGLIANI	Bharatiya Janata Party	1607	3	
+7	Mizoram - Tuivawl	K. ROMAWIA	Independent	1083	4	
+7	Mizoram - Tuivawl	H. K. HLIMPAWLTHANGA	Independent	58	5	
+7	Mizoram - Tuivawl	None of the Above	None of the Above	52	6	
+8	Mizoram - Chalfilh	LALRINLIANA SAILO	Mizo National Front	5541	1	1007
+8	Mizoram - Chalfilh	F. RUALHLEIA	Independent	4534	2	1007
+8	Mizoram - Chalfilh	L. T. HRANGCHAL	Indian National Congress	4144	3	
+8	Mizoram - Chalfilh	P. SANGHMINGTHANGA	Bharatiya Janata Party	678	4	
+8	Mizoram - Chalfilh	None of the Above	None of the Above	81	5	
+9	Mizoram - Tawi	R.LALZIRLIANA	Mizo National Front	4940	1	184
+9	Mizoram - Tawi	R. LALTHATLUANGA	Independent	4756	2	184
+9	Mizoram - Tawi	ROSIAMNGHETA	Indian National Congress	2630	3	
+9	Mizoram - Tawi	PROF.J.V.HLUNA	Bharatiya Janata Party	714	4	
+9	Mizoram - Tawi	H.LALREMSIAMA	Peoples Representation for Identity and Status of Mizoram (PRISM) Party	97	5	
+9	Mizoram - Tawi	LALZENGHAKI	Independent	49	6	
+9	Mizoram - Tawi	None of the Above	None of the Above	39	7	
+10	Mizoram - Aizawl North - i	VANLALHLANA	Independent	7094	1	1165
+10	Mizoram - Aizawl North - i	LALRINGLIANA	Mizo National Front	5929	2	1165
+10	Mizoram - Aizawl North - i	C.LALHLIMPUIA	Indian National Congress	3595	3	
+10	Mizoram - Aizawl North - i	LALRUATFELI HLAWNDO	Independent	700	4	
+10	Mizoram - Aizawl North - i	DAVID LALFAKZUALA	Bharatiya Janata Party	225	5	
+10	Mizoram - Aizawl North - i	VANLALRUATA	Peoples Representation for Identity and Status of Mizoram (PRISM) Party	77	6	
+10	Mizoram - Aizawl North - i	None of the Above	None of the Above	74	7	
+11	Mizoram - Aizawl North - ii	VANLALTHLANA	Independent	7775	1	1801
+11	Mizoram - Aizawl North - ii	LALTLANZOVA KHIANGTE	Mizo National Front	5974	2	1801
+11	Mizoram - Aizawl North - ii	H. LIANSAILOVA	Indian National Congress	4106	3	
+11	Mizoram - Aizawl North - ii	LALHRILZELI HLAWNDO	Independent	98	4	
+11	Mizoram - Aizawl North - ii	C. LALNUNZIRI	Bharatiya Janata Party	69	5	
+11	Mizoram - Aizawl North - ii	None of the Above	None of the Above	51	6	
+11	Mizoram - Aizawl North - ii	ROCHUNGNUNGA	Peoples Representation for Identity and Status of Mizoram (PRISM) Party	39	7	
+12	Mizoram - Aizawl North-iii	C LALMUANPUIA	Mizo National Front	5166	1	434
+12	Mizoram - Aizawl North-iii	LAL THANZARA	Indian National Congress	4732	2	434
+12	Mizoram - Aizawl North-iii	LALHMINGTHANGA	Independent	4510	3	
+12	Mizoram - Aizawl North-iii	LALREMSIAMA RALTE	Independent	139	4	
+12	Mizoram - Aizawl North-iii	VL AWIA	Bharatiya Janata Party	77	5	
+12	Mizoram - Aizawl North-iii	None of the Above	None of the Above	49	6	
+13	Mizoram - Aizawl East - i	ZORAMTHANGA	Mizo National Front	8358	1	2504
+13	Mizoram - Aizawl East - i	K SAPDANGA	Independent	5854	2	2504
+13	Mizoram - Aizawl East - i	K VANLALRAWNA	Indian National Congress	4768	3	
+13	Mizoram - Aizawl East - i	LALDINLIANA SAILO	Bharatiya Janata Party	260	4	
+13	Mizoram - Aizawl East - i	ZOSANGLIANA	Independent	146	5	
+13	Mizoram - Aizawl East - i	K. LALRINPUII	Nationalist Congress Party	102	6	
+13	Mizoram - Aizawl East - i	None of the Above	None of the Above	63	7	
+14	Mizoram - Aizawl East ii	ROBERT ROMAWIA ROYTE	Mizo National Front	5869	1	1492
+14	Mizoram - Aizawl East ii	B LALCHHANZOVA	Independent	4377	2	1492
+14	Mizoram - Aizawl East ii	LALSAWTA	Indian National Congress	3818	3	
+14	Mizoram - Aizawl East ii	T LALMALSAWMI	Bharatiya Janata Party	112	4	
+14	Mizoram - Aizawl East ii	None of the Above	None of the Above	47	5	
+15	Mizoram - Aizawl West i	LALDUHOMA	Independent	7889	1	1060
+15	Mizoram - Aizawl West i	K. SANGTHUAMA	Mizo National Front	6829	2	1060
+15	Mizoram - Aizawl West i	P.C. LALTLANSANGA	Indian National Congress	5039	3	
+15	Mizoram - Aizawl West i	LALRODINGA COLNEY	Bharatiya Janata Party	287	4	
+15	Mizoram - Aizawl West i	ZAICHHAWNA HLAWNDO	Independent	228	5	
+15	Mizoram - Aizawl West i	None of the Above	None of the Above	60	6	
+15	Mizoram - Aizawl West i	LALHRUAIA	Nationalist Congress Party	46	7	
+16	Mizoram - Aizawl West ii	LALRUATKIMA	Mizo National Front	7626	1	2720
+16	Mizoram - Aizawl West ii	DR. LALMALSAWMA NGHAKA	Indian National Congress	4906	2	2720
+16	Mizoram - Aizawl West ii	LALHMANGAIHA SAILO	Independent	4070	3	
+16	Mizoram - Aizawl West ii	C LALCHAWIMAWIA	Bharatiya Janata Party	106	4	
+16	Mizoram - Aizawl West ii	DR LALMUANA	Independent	80	5	
+16	Mizoram - Aizawl West ii	C LALTANPUIA	Peoples Representation for Identity and Status of Mizoram (PRISM) Party	48	6	
+16	Mizoram - Aizawl West ii	None of the Above	None of the Above	35	7	
+17	Mizoram - Aizawl West iii	V.L. ZAITHANZAMA	Independent	6934	1	1026
+17	Mizoram - Aizawl West iii	VANLALZAWMA	Mizo National Front	5908	2	1026
+17	Mizoram - Aizawl West iii	DR. C.T. TLUANGA	Indian National Congress	3521	3	
+17	Mizoram - Aizawl West iii	R LALZAMLIANA	Bharatiya Janata Party	400	4	
+17	Mizoram - Aizawl West iii	None of the Above	None of the Above	57	5	
+18	Mizoram - Aizawl South i	C. LALSAWIVUNGA	Independent	6808	1	1049
+18	Mizoram - Aizawl South i	K. LIANTLINGA	Mizo National Front	5759	2	1049
+18	Mizoram - Aizawl South i	R. VANLALVENA	Indian National Congress	4208	3	
+18	Mizoram - Aizawl South i	DR ZONUNTLUANGA	Bharatiya Janata Party	177	4	
+18	Mizoram - Aizawl South i	HK LIANSAWTA	Peoples Representation for Identity and Status of Mizoram (PRISM) Party	111	5	
+18	Mizoram - Aizawl South i	LALTHLAMUANI	Independent	69	6	
+18	Mizoram - Aizawl South i	None of the Above	None of the Above	64	7	
+19	Mizoram - Aizawl South ii	LALCHHUANTHANGA	Independent	7294	1	179
+19	Mizoram - Aizawl South ii	DENGHMINGTHANGA	Mizo National Front	7115	2	179
+19	Mizoram - Aizawl South ii	LT. COL. ZOSANGZUALA	Indian National Congress	4836	3	
+19	Mizoram - Aizawl South ii	R LALCHHUANAWMI	Independent	173	4	
+19	Mizoram - Aizawl South ii	None of the Above	None of the Above	63	5	
+20	Mizoram - Aizawl South-iii	F. LALNUNMAWIA	Mizo National Front	7558	1	2088
+20	Mizoram - Aizawl South-iii	K.S THANGA	Indian National Congress	5470	2	2088
+20	Mizoram - Aizawl South-iii	RD LALRAMMAWIA	Independent	3175	3	
+20	Mizoram - Aizawl South-iii	F. LALREMSANGI	Bharatiya Janata Party	1046	4	
+20	Mizoram - Aizawl South-iii	TLANGNGAIHTHANGA	Independent	86	5	
+20	Mizoram - Aizawl South-iii	None of the Above	None of the Above	52	6	
+21	Mizoram - Lengteng	L.THANGMAWIA	Mizo National Front	6430	1	1772
+21	Mizoram - Lengteng	H.ROHLUNA	Indian National Congress	4658	2	1772
+21	Mizoram - Lengteng	H.GINZALALA	Independent	2657	3	
+21	Mizoram - Lengteng	LALDINNGHETI	Bharatiya Janata Party	204	4	
+21	Mizoram - Lengteng	LALHRILZELI HLAWNDO	Independent	77	5	
+21	Mizoram - Lengteng	None of the Above	None of the Above	24	6	
+22	Mizoram - Tuichang	TAWNLUIA	Mizo National Front	5146	1	739
+22	Mizoram - Tuichang	W. CHHUANAWMA	Independent	4407	2	739
+22	Mizoram - Tuichang	JAMES THANGHMINGMAWIA	Indian National Congress	3171	3	
+22	Mizoram - Tuichang	LALDUHPUII	Bharatiya Janata Party	174	4	
+22	Mizoram - Tuichang	LALREMSANGA	Independent	97	5	
+22	Mizoram - Tuichang	None of the Above	None of the Above	26	6	
+23	Mizoram - Champhai North	DR ZR.THIAMSANGA	Mizo National Front	6057	1	1093
+23	Mizoram - Champhai North	T.T. ZOTHANSANGA	Indian National Congress	4964	2	1093
+23	Mizoram - Champhai North	C.LALCHHAWNTHANGA	Independent	2278	3	
+23	Mizoram - Champhai North	C.HRANGSATKIMA	Bharatiya Janata Party	980	4	
+23	Mizoram - Champhai North	B.SUANZALANG	National People's Party	273	5	
+23	Mizoram - Champhai North	TBC LALVENCHHUNGA	Peoples Representation for Identity and Status of Mizoram (PRISM) Party	161	6	
+23	Mizoram - Champhai North	None of the Above	None of the Above	30	7	
+24	Mizoram - Champhai South	T.J LALNUNTLUANGA	Mizo National Front	5212	1	1049
+24	Mizoram - Champhai South	LAL THANHAWLA	Indian National Congress	4163	2	1049
+24	Mizoram - Champhai South	C. LALREMLIANA	Independent	3957	3	
+24	Mizoram - Champhai South	RONGHAKA	Bharatiya Janata Party	847	4	
+24	Mizoram - Champhai South	TLANGNGAIHTHANGA	Independent	72	5	
+24	Mizoram - Champhai South	None of the Above	None of the Above	50	6	
+25	Mizoram - East tuipui	RAMTHANMAWIA	Mizo National Front	4384	1	587
+25	Mizoram - East tuipui	C.LALTANPUIA	Independent	3797	2	587
+25	Mizoram - East tuipui	T.SANGKUNGA	Indian National Congress	3421	3	
+25	Mizoram - East tuipui	DR.VL.ZAHAWMA CHAWNGTHU	Bharatiya Janata Party	100	4	
+25	Mizoram - East tuipui	SIMEONA	Independent	23	5	
+25	Mizoram - East tuipui	None of the Above	None of the Above	21	6	
+26	Mizoram - Serchhip	LALDUHOMA	Independent	5481	1	410
+26	Mizoram - Serchhip	LAL THANHAWLA	Indian National Congress	5071	2	410
+26	Mizoram - Serchhip	C LALRAMZAUVA	Mizo National Front	4313	3	
+26	Mizoram - Serchhip	ZAICHHAWNA HLAWNDO	Independent	278	4	
+26	Mizoram - Serchhip	LALCHUNGLURA	Bharatiya Janata Party	211	5	
+26	Mizoram - Serchhip	KAPLIANA PACHUAU	National People's Party	119	6	
+26	Mizoram - Serchhip	None of the Above	None of the Above	41	7	
+26	Mizoram - Serchhip	VANLALRUATA	Peoples Representation for Identity and Status of Mizoram (PRISM) Party	29	8	
+27	Mizoram - Tuikum	ER. LALRINAWMA	Mizo National Front	5439	1	1397
+27	Mizoram - Tuikum	SANGZELA TLAU	Indian National Congress	4042	2	1397
+27	Mizoram - Tuikum	P.C. VANLALRUATA	Independent	3810	3	
+27	Mizoram - Tuikum	LALNUNMAWIA CHHAKCHHUAK	Bharatiya Janata Party	140	4	
+27	Mizoram - Tuikum	LALRUATFELI HLAWNDO	Independent	135	5	
+27	Mizoram - Tuikum	None of the Above	None of the Above	59	6	
+27	Mizoram - Tuikum	RC ROHMINGTHANGA	Peoples Representation for Identity and Status of Mizoram (PRISM) Party	22	7	
+28	Mizoram - Hrangturzo	LALCHAMLIANA	Mizo National Front	4572	1	757
+28	Mizoram - Hrangturzo	VANLALAWMPUII CHAWNGTHU	Indian National Congress	3815	2	757
+28	Mizoram - Hrangturzo	LALTHANSANGA	Independent	3766	3	
+28	Mizoram - Hrangturzo	K.SANGZUALA	Bharatiya Janata Party	307	4	
+28	Mizoram - Hrangturzo	LALAWMPUIA RENTHLEI	Independent	215	5	
+28	Mizoram - Hrangturzo	RL LIANTLUANGA	Peoples Representation for Identity and Status of Mizoram (PRISM) Party	111	6	
+28	Mizoram - Hrangturzo	None of the Above	None of the Above	50	7	
+29	Mizoram - South tuipui	DR R LALTHANGLIANA	Mizo National Front	6126	1	1469
+29	Mizoram - South tuipui	JOHN SIAMKUNGA	Indian National Congress	4657	2	1469
+29	Mizoram - South tuipui	PHAIROTHANGA	Independent	1359	3	
+29	Mizoram - South tuipui	LALNUNPUIA	Bharatiya Janata Party	151	4	
+29	Mizoram - South tuipui	None of the Above	None of the Above	35	5	
+30	Mizoram - Lunglei North	VANLALTANPUIA	Mizo National Front	5022	1	395
+30	Mizoram - Lunglei North	V MALSAWMTLUANGA	Independent	4627	2	395
+30	Mizoram - Lunglei North	P.C. LALTHANLIANA	Indian National Congress	4466	3	
+30	Mizoram - Lunglei North	RAMDINZAUVA	Bharatiya Janata Party	66	4	
+30	Mizoram - Lunglei North	None of the Above	None of the Above	61	5	
+31	Mizoram - Lunglei East	LAWMAWMA TOCHHAWNG	Mizo National Front	4063	1	72
+31	Mizoram - Lunglei East	LALRINPUII	Independent	3991	2	72
+31	Mizoram - Lunglei East	JOSEPH LALHIMPUIA	Indian National Congress	3836	3	
+31	Mizoram - Lunglei East	H.LALRUATA	Bharatiya Janata Party	405	4	
+31	Mizoram - Lunglei East	None of the Above	None of the Above	52	5	
+32	Mizoram - Lunglei West	C.LALRINSANGA	Mizo National Front	4093	1	77
+32	Mizoram - Lunglei West	CHALROSANGA RALTE	Indian National Congress	4016	2	77
+32	Mizoram - Lunglei West	LALNUNTLUANGA SAILO	Independent	3587	3	
+32	Mizoram - Lunglei West	C.S.CHAWNGCHHUMA	Bharatiya Janata Party	142	4	
+32	Mizoram - Lunglei West	None of the Above	None of the Above	47	5	
+33	Mizoram - Lunglei South	K PACHHUNGA	Mizo National Front	6245	1	2441
+33	Mizoram - Lunglei South	R LALNUNTHARA	Indian National Congress	3804	2	2441
+33	Mizoram - Lunglei South	REV DR K THANZAUVA	Independent	3492	3	
+33	Mizoram - Lunglei South	DR.AICHHUNGA	Bharatiya Janata Party	920	4	
+33	Mizoram - Lunglei South	None of the Above	None of the Above	53	5	
+34	Mizoram - Thorang	ZODINTLUANGA RALTE	Indian National Congress	4499	1	1240
+34	Mizoram - Thorang	R.ROHMINGLIANA	Mizo National Front	3259	2	1240
+34	Mizoram - Thorang	JOSEPH LALZAWMLIANA	Bharatiya Janata Party	1629	3	
+34	Mizoram - Thorang	LALRINZUALA	Independent	1101	4	
+34	Mizoram - Thorang	LALHULIANA	National People's Party	653	5	
+34	Mizoram - Thorang	None of the Above	None of the Above	74	6	
+35	Mizoram - West tuipui	NIHAR KANTI CHAKMA	Indian National Congress	5943	1	2385
+35	Mizoram - West tuipui	KINA RANJAN CHAKMA	Bharatiya Janata Party	3558	2	2385
+35	Mizoram - West tuipui	F ROBERT HMINGTHANSANGA	Mizo National Front	3243	3	
+35	Mizoram - West tuipui	None of the Above	None of the Above	121	4	
+35	Mizoram - West tuipui	B VANLALAUVA	Independent	103	5	
+36	Mizoram - Tuichawng	BUDDHA DHAN CHAKMA	Bharatiya Janata Party	11419	1	1594
+36	Mizoram - Tuichawng	RASIK MOHAN CHAKMA	Mizo National Front	9825	2	1594
+36	Mizoram - Tuichawng	KALI KUMAR TONGCHANGYA	Indian National Congress	4353	3	
+36	Mizoram - Tuichawng	None of the Above	None of the Above	293	4	
+36	Mizoram - Tuichawng	DOYMOY DAVENG CHAKMA	National People's Party	250	5	
+37	Mizoram - Lawngtlai West	C. NGUNLIANCHUNGA	Indian National Congress	10678	1	795
+37	Mizoram - Lawngtlai West	C. RAMHLUNA	Mizo National Front	9883	2	795
+37	Mizoram - Lawngtlai West	J.B. RUALCHHINGA	Bharatiya Janata Party	973	3	
+37	Mizoram - Lawngtlai West	VANLALTHAA	Independent	177	4	
+37	Mizoram - Lawngtlai West	None of the Above	None of the Above	136	5	
+38	Mizoram - Lawngtlai East	H. BIAKZAUA	Mizo National Front	8656	1	944
+38	Mizoram - Lawngtlai East	H. ZOTHANGLIANA	Indian National Congress	7712	2	944
+38	Mizoram - Lawngtlai East	VANUPA ZATHANG	Bharatiya Janata Party	1086	3	
+38	Mizoram - Lawngtlai East	MC. LALRAMCHHANA	Independent	209	4	
+38	Mizoram - Lawngtlai East	C. BIAKCHHUNGA	Independent	164	5	
+38	Mizoram - Lawngtlai East	None of the Above	None of the Above	58	6	
+39	Mizoram - Siaha	DR. K. BEICHHUA	Mizo National Front	8109	1	2468
+39	Mizoram - Siaha	S. HIATO	Indian National Congress	5641	2	2468
+39	Mizoram - Siaha	S. VADYU	Bharatiya Janata Party	2315	3	
+39	Mizoram - Siaha	F. THANGCHHUAHA	Independent	171	4	
+39	Mizoram - Siaha	None of the Above	None of the Above	41	5	
+40	Mizoram - Palak	K.T. ROKHAW	Indian National Congress	5492	1	844
+40	Mizoram - Palak	M. CHAKHU	Mizo National Front	4648	2	844
+40	Mizoram - Palak	HIPHEI	Bharatiya Janata Party	4431	3	
+40	Mizoram - Palak	S. SATHLU	Independent	59	4	
+40	Mizoram - Palak	None of the Above	None of the Above	40	5	

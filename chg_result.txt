@@ -1,0 +1,1360 @@
+Constituency No.	Constituency Name	Candidate Name	Party	Votes Polled	Position	Win/Lose Margin
+1	Chhattisgarh - Bharatpur-sonhat	GULAB KAMRO	Indian National Congress	51732	1	16533
+1	Chhattisgarh - Bharatpur-sonhat	CHAMPADEVI PAWLE	Bharatiya Janata Party	35199	2	16533
+1	Chhattisgarh - Bharatpur-sonhat	SHYAM SINGH MARKAM	Gondvana Gantantra Party	26632	3	
+1	Chhattisgarh - Bharatpur-sonhat	KRISHANA PRASAD CHERVA	Bahujan Samaj Party	9689	4	
+1	Chhattisgarh - Bharatpur-sonhat	None of the Above	None of the Above	3360	5	
+1	Chhattisgarh - Bharatpur-sonhat	SUKHMANTI BAI	Aam Aadmi Party	2205	6	
+1	Chhattisgarh - Bharatpur-sonhat	SHARAN SINGH	Independent	1486	7	
+1	Chhattisgarh - Bharatpur-sonhat	KRISHNA KANT NAGVANSHI	Chhattisgarh Vikas Ganga Rashtriya Party	1409	8	
+1	Chhattisgarh - Bharatpur-sonhat	MADANLAL	Bhartiya Panchyat Party	837	9	
+1	Chhattisgarh - Bharatpur-sonhat	POOJA SINGH POYA	Pichhara Samaj Party United	626	10	
+2	Chhattisgarh - Manendragarh	DR. VINAY JAISWAL	Indian National Congress	35819	1	4074
+2	Chhattisgarh - Manendragarh	SHYAM BIHARI JAISWAL	Bharatiya Janata Party	31745	2	4074
+2	Chhattisgarh - Manendragarh	LAKHAN LAL SHRIVASTAVA (PANI WALE BABA)	Janta Congress Chhattisgarh (J)	12907	3	
+2	Chhattisgarh - Manendragarh	ADITYA RAJ DAVID	Gondvana Gantantra Party	11564	4	
+2	Chhattisgarh - Manendragarh	None of the Above	None of the Above	2112	5	
+2	Chhattisgarh - Manendragarh	SATISH KUMAR SINGH	Aam Aadmi Party	1004	6	
+2	Chhattisgarh - Manendragarh	DEEPAK KUMAR	Independent	805	7	
+2	Chhattisgarh - Manendragarh	DIGAMBER SINGH	Independent	766	8	
+2	Chhattisgarh - Manendragarh	JALJEET SINGH POYA	Rashtriya Gondvana Party	526	9	
+2	Chhattisgarh - Manendragarh	DR. FLORENCE NIGHTINGLE SAGAR (DR. LAKRA MADAM)	Janata Dal (United)	374	10	
+2	Chhattisgarh - Manendragarh	PARATAP SINGH	Bhartiya Panchyat Party	266	11	
+3	Chhattisgarh - Baikunthpur	AMBICA SINGH DEO	Indian National Congress	48885	1	5339
+3	Chhattisgarh - Baikunthpur	BHAIYALAL RAJWADE	Bharatiya Janata Party	43546	2	5339
+3	Chhattisgarh - Baikunthpur	ENGR.SANJAY SINGH KAMRO	Gondvana Gantantra Party	20247	3	
+3	Chhattisgarh - Baikunthpur	BIHARI LAL RAJWADE	Janta Congress Chhattisgarh (J)	9236	4	
+3	Chhattisgarh - Baikunthpur	None of the Above	None of the Above	2630	5	
+3	Chhattisgarh - Baikunthpur	SUNIL SINGH	Aam Aadmi Party	1504	6	
+3	Chhattisgarh - Baikunthpur	RAM NARAYAN SAHU	Independent	1171	7	
+3	Chhattisgarh - Baikunthpur	CHINTAMANI SANDILYA	Independent	710	8	
+3	Chhattisgarh - Baikunthpur	GOPAL SINGH	Independent	615	9	
+3	Chhattisgarh - Baikunthpur	RAM PRATAP SAHU	Bhartiya Panchyat Party	579	10	
+3	Chhattisgarh - Baikunthpur	LAV SINGH UDAY	Rashtriya Gondvana Party	426	11	
+4	Chhattisgarh - Premnagar	KHEL SAI SINGH	Indian National Congress	66475	1	15340
+4	Chhattisgarh - Premnagar	VIJAY PRATAP SINGH	Bharatiya Janata Party	51135	2	15340
+4	Chhattisgarh - Premnagar	JAINATH SINGH KERAM	Gondvana Gantantra Party	26388	3	
+4	Chhattisgarh - Premnagar	PANKAJ TIWARI	Janta Congress Chhattisgarh (J)	11842	4	
+4	Chhattisgarh - Premnagar	None of the Above	None of the Above	4058	5	
+4	Chhattisgarh - Premnagar	ANJAY JAIN	Aam Aadmi Party	2178	6	
+4	Chhattisgarh - Premnagar	SURAJLAL RAVI	Independent	2091	7	
+4	Chhattisgarh - Premnagar	ALOK KUMAR SAHU	Independent	1797	8	
+4	Chhattisgarh - Premnagar	SEEMA SINGH TEKAM	Independent	1250	9	
+4	Chhattisgarh - Premnagar	DEV KUMARI SINGH SANDILYA	Independent	1130	10	
+4	Chhattisgarh - Premnagar	VIDYA BAI BAGHEL	Independent	1063	11	
+4	Chhattisgarh - Premnagar	KRISHNA KUMAR DEVANGAN	Independent	801	12	
+4	Chhattisgarh - Premnagar	KHEMRAJ SINGH	Bhartiya Panchyat Party	717	13	
+4	Chhattisgarh - Premnagar	MALTI BIHARI RAJWADE	Janata Dal (United)	608	14	
+5	Chhattisgarh - Bhatgaon	PARAS NATH RAJWADE	Indian National Congress	74623	1	15734
+5	Chhattisgarh - Bhatgaon	RAJNI RAVISHANKAR TRIPATHI	Bharatiya Janata Party	58889	2	15734
+5	Chhattisgarh - Bhatgaon	RAM ADHEEN POYA	Samajwadi Party	10050	3	
+5	Chhattisgarh - Bhatgaon	SURENDRA CHOUDHARY	Janta Congress Chhattisgarh (J)	9067	4	
+5	Chhattisgarh - Bhatgaon	MADHU TIWARI	Independent	3967	5	
+5	Chhattisgarh - Bhatgaon	SURENDRA LAL SINGH NETI	Communist Party of India (Marxist)	2673	6	
+5	Chhattisgarh - Bhatgaon	DILEEP YADAV (KASKELA)	Independent	1608	7	
+5	Chhattisgarh - Bhatgaon	LAVKUSH THAKUR	Independent	1407	8	
+5	Chhattisgarh - Bhatgaon	SAHEBAN PRASAD BHAGAT	Independent	1228	9	
+5	Chhattisgarh - Bhatgaon	ALAM SAI SINGH	Independent	1005	10	
+5	Chhattisgarh - Bhatgaon	None of the Above	None of the Above	981	11	
+5	Chhattisgarh - Bhatgaon	D. K. SONI	Aam Aadmi Party	877	12	
+5	Chhattisgarh - Bhatgaon	TILESHWAR PRASAD RAJWADE	Independent	844	13	
+5	Chhattisgarh - Bhatgaon	OM PRAKASH SONWANI	Independent	807	14	
+5	Chhattisgarh - Bhatgaon	SITA RAM BHASKAR	Independent	803	15	
+5	Chhattisgarh - Bhatgaon	MOHAN SINGH TEKAM	Shiv Sena	734	16	
+5	Chhattisgarh - Bhatgaon	KUMAIT SANDIL	Independent	692	17	
+5	Chhattisgarh - Bhatgaon	UPENDRA GUPTA	Independent	683	18	
+5	Chhattisgarh - Bhatgaon	RAMLAL RAJWADE	Bhartiya Panchyat Party	517	19	
+5	Chhattisgarh - Bhatgaon	HARIBHAGAT YADAV	Independent	472	20	
+5	Chhattisgarh - Bhatgaon	ANAND RAJWADE	Independent	439	21	
+6	Chhattisgarh - Pratappur	DR. PREMSAI SINGH TEKAM	Indian National Congress	90148	1	44105
+6	Chhattisgarh - Pratappur	RAMSEWAK PAIKRA	Bharatiya Janata Party	46043	2	44105
+6	Chhattisgarh - Pratappur	ASHA DEVI POYA	Gondvana Gantantra Party	17341	3	
+6	Chhattisgarh - Pratappur	DR. NARENDRA PRATAP SINGH	Janta Congress Chhattisgarh (J)	5977	4	
+6	Chhattisgarh - Pratappur	None of the Above	None of the Above	5741	5	
+6	Chhattisgarh - Pratappur	CHHOTELAL TIRKEY	Aam Aadmi Party	1971	6	
+6	Chhattisgarh - Pratappur	VIRNARAYAN SINGH	Independent	1808	7	
+6	Chhattisgarh - Pratappur	PREMSAI SINGH FATHER LAKSHAN	Independent	1375	8	
+6	Chhattisgarh - Pratappur	RAMASAPNA SINGH	Ambedkarite Party of India	1181	9	
+6	Chhattisgarh - Pratappur	PREMSAI SINGH FATHER RAMVRIKSHA AAYAM	Independent	792	10	
+6	Chhattisgarh - Pratappur	NARESH BEK	Bahujan Mukti Party	741	11	
+6	Chhattisgarh - Pratappur	PREMSAI	Independent	692	12	
+6	Chhattisgarh - Pratappur	DHANPAT SINGH AAYAM	Independent	569	13	
+7	Chhattisgarh - Ramanujganj	BRIHASPAT SINGH	Indian National Congress	64580	1	32916
+7	Chhattisgarh - Ramanujganj	RAMKISHUN SINGH	Bharatiya Janata Party	31664	2	32916
+7	Chhattisgarh - Ramanujganj	VINAY PAIKRA	Independent	29241	3	
+7	Chhattisgarh - Ramanujganj	MOHAN SINGH	Janta Congress Chhattisgarh (J)	10354	4	
+7	Chhattisgarh - Ramanujganj	DAYA SHANKAR MARKAM	Gondvana Gantantra Party	4691	5	
+7	Chhattisgarh - Ramanujganj	None of the Above	None of the Above	4055	6	
+7	Chhattisgarh - Ramanujganj	SHRAWAN SINGH	Independent	1676	7	
+7	Chhattisgarh - Ramanujganj	BABLA NAND RAGHUVANSHI	Ambedkarite Party of India	1449	8	
+7	Chhattisgarh - Ramanujganj	MOTILAL PANDO	Independent	1429	9	
+7	Chhattisgarh - Ramanujganj	SYAMLAL MARKAM	Independent	1224	10	
+7	Chhattisgarh - Ramanujganj	JAILAL LAKRA	Janata Dal (United)	1069	11	
+7	Chhattisgarh - Ramanujganj	DHARMU EKKA	Bahujan Mukti Party	1037	12	
+7	Chhattisgarh - Ramanujganj	RAJPAL SINGH NAGWANSHI	Independent	969	13	
+7	Chhattisgarh - Ramanujganj	SUGRIV RAM	Aam Aadmi Party	844	14	
+7	Chhattisgarh - Ramanujganj	DAYANAND SINGH	Independent	591	15	
+8	Chhattisgarh - Samri	CHINTAMANI MAHRAJ	Indian National Congress	80620	1	21923
+8	Chhattisgarh - Samri	SIDHNATH PAIKRA	Bharatiya Janata Party	58697	2	21923
+8	Chhattisgarh - Samri	MITKOO BHAGAT	Bahujan Samaj Party	6587	3	
+8	Chhattisgarh - Samri	None of the Above	None of the Above	6250	4	
+8	Chhattisgarh - Samri	ARJUN SANDILY	Samajwadi Party	1968	5	
+8	Chhattisgarh - Samri	PAWAN KUMAR NAG	Bahujan Mukti Party	1824	6	
+8	Chhattisgarh - Samri	RADHESHYAM NAGESIYA	Independent	1707	7	
+8	Chhattisgarh - Samri	MUKESH PRASAD SANDILYA	Independent	1671	8	
+8	Chhattisgarh - Samri	ANAND TIGGA	Independent	1554	9	
+8	Chhattisgarh - Samri	DR SOHAN LAL KANWAR	Aam Aadmi Party	1114	10	
+8	Chhattisgarh - Samri	AJEET KUMAR SINGH	Independent	833	11	
+9	Chhattisgarh - Lundra	DR. PRITAM RAM	Indian National Congress	77773	1	22179
+9	Chhattisgarh - Lundra	VIJAYNATH SINGH	Bharatiya Janata Party	55594	2	22179
+9	Chhattisgarh - Lundra	None of the Above	None of the Above	2626	3	
+9	Chhattisgarh - Lundra	SUMITRA SINGH PAIKRA	Independent	1949	4	
+9	Chhattisgarh - Lundra	PRADEEP BARWA	Aam Aadmi Party	1884	5	
+9	Chhattisgarh - Lundra	MAYA BHAGAT	Bahujan Samaj Party	1804	6	
+9	Chhattisgarh - Lundra	RAM PRASAD TEKAM	Independent	1799	7	
+9	Chhattisgarh - Lundra	CHAKRADHARI SINGH	Nationalist Congress Party	1567	8	
+9	Chhattisgarh - Lundra	MEENA SINGH TEKAM	Communist Party of India (Marxist)	1562	9	
+9	Chhattisgarh - Lundra	RAM KUMAR SINGH	Independent	1252	10	
+9	Chhattisgarh - Lundra	SUNA RAM EKKA	Independent	1169	11	
+9	Chhattisgarh - Lundra	FRANSISKA TIRKEY	Pichhara Samaj Party United	704	12	
+9	Chhattisgarh - Lundra	BHARAT SINGH MARAVI	Independent	655	13	
+9	Chhattisgarh - Lundra	PARASNATH LAKRA	Independent	529	14	
+9	Chhattisgarh - Lundra	CHAIN SAI KINDO	Independent	511	15	
+9	Chhattisgarh - Lundra	NIRANJAN BARWA	Independent	502	16	
+10	Chhattisgarh - Ambikapur	T.S. BABA	Indian National Congress	100439	1	39624
+10	Chhattisgarh - Ambikapur	ANURAG SINGH DEO	Bharatiya Janata Party	60815	2	39624
+10	Chhattisgarh - Ambikapur	GOPAL PRASAD GUPTA	Gondvana Gantantra Party	4459	3	
+10	Chhattisgarh - Ambikapur	TARUN KUMAR BHAGAT	Independent	2173	4	
+10	Chhattisgarh - Ambikapur	KRANTI KUMAR RAWAT	Independent	2103	5	
+10	Chhattisgarh - Ambikapur	SITA RAM DAS	Bahujan Samaj Party	1322	6	
+10	Chhattisgarh - Ambikapur	T S SINGH (BABA)	Independent	1075	7	
+10	Chhattisgarh - Ambikapur	PARASNATH RAJWADE	Independent	981	8	
+10	Chhattisgarh - Ambikapur	None of the Above	None of the Above	609	9	
+10	Chhattisgarh - Ambikapur	KRISHNA NANDAN SINGH	Independent	592	10	
+10	Chhattisgarh - Ambikapur	ARVIND KACHCHHAP	Bahujan Mukti Party	507	11	
+10	Chhattisgarh - Ambikapur	SAKET TRIPATHI	Aam Aadmi Party	424	12	
+10	Chhattisgarh - Ambikapur	TRIBHUVAN KUMAR	Ambedkarite Party of India	360	13	
+10	Chhattisgarh - Ambikapur	MUSKAN RAJAK	Independent	358	14	
+10	Chhattisgarh - Ambikapur	JHAMKESHWAR PAIKRA	Chhattisgarh Swabhiman Manch	334	15	
+10	Chhattisgarh - Ambikapur	KAMAL KUMAR KASHYAP	Independent	327	16	
+10	Chhattisgarh - Ambikapur	ALIMUDDIN QUADARI	Independent	319	17	
+10	Chhattisgarh - Ambikapur	VIJAY TIWARI	Independent	307	18	
+10	Chhattisgarh - Ambikapur	SATENDRA KUMAR SINGH	Independent	288	19	
+10	Chhattisgarh - Ambikapur	SHARAD TRIPATHI	Shiv Sena	284	20	
+10	Chhattisgarh - Ambikapur	SUJAN BIND	Rashtriya mahan Gantantra Party	258	21	
+10	Chhattisgarh - Ambikapur	T.S.SINGH (BABA)	Janata Congress	254	22	
+10	Chhattisgarh - Ambikapur	VIJAY KUMAR PAIKRA	Independent	161	23	
+11	Chhattisgarh - Sitapur	AMARJEET BHAGAT	Indian National Congress	86670	1	36137
+11	Chhattisgarh - Sitapur	PROFESSOR GOPAL RAM	Bharatiya Janata Party	50533	2	36137
+11	Chhattisgarh - Sitapur	None of the Above	None of the Above	5189	3	
+11	Chhattisgarh - Sitapur	SETRAM BARA	Janta Congress Chhattisgarh (J)	2495	4	
+11	Chhattisgarh - Sitapur	SHANTI PRAKASH	Independent	1938	5	
+11	Chhattisgarh - Sitapur	ASHOK TIRKEY	Aam Aadmi Party	1680	6	
+11	Chhattisgarh - Sitapur	MUNNA TOPPO	Independent	1629	7	
+11	Chhattisgarh - Sitapur	VIPIN BIHARI PAIKARA	Independent	890	8	
+11	Chhattisgarh - Sitapur	RAMCHANDRA PAIKARA	Independent	876	9	
+11	Chhattisgarh - Sitapur	JEMS TOPPO	Independent	500	10	
+11	Chhattisgarh - Sitapur	GOPAL RAM TIGGA	Independent	452	11	
+11	Chhattisgarh - Sitapur	GOPAL RAM LAKRA	Independent	371	12	
+12	Chhattisgarh - Jashpur	VINAY KUMAR BHAGAT	Indian National Congress	71963	1	8026
+12	Chhattisgarh - Jashpur	GOVIND RAM BHAGAT	Bharatiya Janata Party	63937	2	8026
+12	Chhattisgarh - Jashpur	PRADEEP SINGH	Independent	10646	3	
+12	Chhattisgarh - Jashpur	NAN RAM BHARDWAJ	Independent	4784	4	
+12	Chhattisgarh - Jashpur	None of the Above	None of the Above	4317	5	
+12	Chhattisgarh - Jashpur	KRIPA SHANKAR BHAGAT	Samajwadi Party	2551	6	
+12	Chhattisgarh - Jashpur	VISHNU RAM	Independent	2394	7	
+12	Chhattisgarh - Jashpur	ROHIT LAKRA	Aam Aadmi Party	2281	8	
+12	Chhattisgarh - Jashpur	GAGANMATI BHAGAT	Bahujan Samaj Party	2081	9	
+12	Chhattisgarh - Jashpur	EMMANUEL KERKETTA	Republican Party of India (A)	1886	10	
+12	Chhattisgarh - Jashpur	RENUKA BHAGAT	Independent	1634	11	
+12	Chhattisgarh - Jashpur	SUKRU BHAGAT	Bhartiya Tribal Party	1005	12	
+12	Chhattisgarh - Jashpur	HARSH KUJUR	Bahujan Mukti Party	899	13	
+13	Chhattisgarh - Kunkuri	U. D. MINJ	Indian National Congress	69896	1	4293
+13	Chhattisgarh - Kunkuri	BHARAT SAI	Bharatiya Janata Party	65603	2	4293
+13	Chhattisgarh - Kunkuri	None of the Above	None of the Above	2129	3	
+13	Chhattisgarh - Kunkuri	BENJAMIN MINJ	Bahujan Samaj Party	1970	4	
+13	Chhattisgarh - Kunkuri	ASUNDEV SAI	Aam Aadmi Party	1842	5	
+13	Chhattisgarh - Kunkuri	SUSHILA SAI PAINKRA	Independent	1619	6	
+13	Chhattisgarh - Kunkuri	KAMLESHWAR RAM NAYAK	Independent	1574	7	
+13	Chhattisgarh - Kunkuri	MUKTI MINJ	Independent	1571	8	
+13	Chhattisgarh - Kunkuri	BALRAM KUNWAR	Ambedkarite Party of India	1106	9	
+13	Chhattisgarh - Kunkuri	BODH SAI	Bhartiya Tribal Party	1047	10	
+13	Chhattisgarh - Kunkuri	KAUSHAL KUMAR OHDAR	Independent	908	11	
+13	Chhattisgarh - Kunkuri	SHYAM SUNDAR MARAVI	Gondvana Gantantra Party	888	12	
+13	Chhattisgarh - Kunkuri	SATMAN SAI	Chhattisgarhi Samaj Party	480	13	
+13	Chhattisgarh - Kunkuri	INDRANATH PAINKRA	Independent	458	14	
+13	Chhattisgarh - Kunkuri	MANOHAR TIRKEY	Republican Party of India (A)	340	15	
+14	Chhattisgarh - Pathalgaon	RAMPUKAR SINGH THAKUR	Indian National Congress	96599	1	36686
+14	Chhattisgarh - Pathalgaon	SHIVSHANKAR PAINKARA	Bharatiya Janata Party	59913	2	36686
+14	Chhattisgarh - Pathalgaon	None of the Above	None of the Above	5159	3	
+14	Chhattisgarh - Pathalgaon	M. S. PAINKARA	Janta Congress Chhattisgarh (J)	3915	4	
+14	Chhattisgarh - Pathalgaon	YAGYA KUMAR BHAGAT	Independent	2619	5	
+14	Chhattisgarh - Pathalgaon	PATRIK BAKHLA	Independent	1175	6	
+14	Chhattisgarh - Pathalgaon	MEERA TIRKEY	Aam Aadmi Party	854	7	
+14	Chhattisgarh - Pathalgaon	TIKESHWAR EKKA	Independent	821	8	
+14	Chhattisgarh - Pathalgaon	RUPNARAYAN EKKA	Bahujan Mukti Party	818	9	
+14	Chhattisgarh - Pathalgaon	KARTIK SAI SIDAR	Independent	533	10	
+14	Chhattisgarh - Pathalgaon	LALESHWAR JAGAT	Gondvana Gantantra Party	494	11	
+14	Chhattisgarh - Pathalgaon	SWAMI KARTIK BHAGAT	Bharatiya Bahujan Congress	459	12	
+15	Chhattisgarh - Lailunga	CHAKRADHAR SINGH SIDAR	Indian National Congress	81770	1	24483
+15	Chhattisgarh - Lailunga	SATYANAND RATHIYA	Bharatiya Janata Party	57287	2	24483
+15	Chhattisgarh - Lailunga	HRIDYA RAM RATHIYA	Janta Congress Chhattisgarh (J)	12195	3	
+15	Chhattisgarh - Lailunga	None of the Above	None of the Above	4092	4	
+15	Chhattisgarh - Lailunga	DARSHAN SIDAR	Gondvana Gantantra Party	2470	5	
+15	Chhattisgarh - Lailunga	SHIVPAL BHAGAT	Independent	2000	6	
+15	Chhattisgarh - Lailunga	SURESH KUMAR KUJUR	Independent	1559	7	
+15	Chhattisgarh - Lailunga	GOVIND SINGH NETI	Independent	1052	8	
+15	Chhattisgarh - Lailunga	SUNIL MINJ	Bhartiya Tribal Party	841	9	
+16	Chhattisgarh - Raigarh	PRAKASH SHAKRAJEET NAIK	Indian National Congress	69062	1	14580
+16	Chhattisgarh - Raigarh	ROSHANLAL	Bharatiya Janata Party	54482	2	14580
+16	Chhattisgarh - Raigarh	VIJAY AGRAWAL	Independent	42914	3	
+16	Chhattisgarh - Raigarh	RAVISHANKAR PATEL	Independent	7823	4	
+16	Chhattisgarh - Raigarh	VIBHAS SINGH THAKUR	Janta Congress Chhattisgarh (J)	5823	5	
+16	Chhattisgarh - Raigarh	None of the Above	None of the Above	2215	6	
+16	Chhattisgarh - Raigarh	BIRSINGH NAGESH	Bhartiya Tribal Party	2114	7	
+16	Chhattisgarh - Raigarh	MUKUND GUPTA	Independent	1918	8	
+16	Chhattisgarh - Raigarh	CHEHARALAL CHOUHAN	Independent	1486	9	
+16	Chhattisgarh - Raigarh	BHARAT KUMAR DUBEY (OM TENT)	Independent	777	10	
+16	Chhattisgarh - Raigarh	RAJESH TRIPATHI	Aam Aadmi Party	499	11	
+16	Chhattisgarh - Raigarh	MAHESH KUMAR KHOBRAGADE	Ambedkarite Party of India	476	12	
+16	Chhattisgarh - Raigarh	SHARMILA DEVI	Bharatiya Rashtravadi Samanta Party	429	13	
+16	Chhattisgarh - Raigarh	RAJESH JAIN	Shiv Sena	384	14	
+16	Chhattisgarh - Raigarh	GOVIND DUBEY (AD.)	Independent	319	15	
+16	Chhattisgarh - Raigarh	TEJRAM MALAKAR	Independent	291	16	
+16	Chhattisgarh - Raigarh	NURUL SHAMS ALIAS JAVED ALI	Independent	282	17	
+16	Chhattisgarh - Raigarh	NAZIR AHMAD	Independent	239	18	
+17	Chhattisgarh - Sarangarh	UTTARI GANPAT JANGDE	Indian National Congress	101834	1	52389
+17	Chhattisgarh - Sarangarh	KERA BAI MANAHAR	Bharatiya Janata Party	49445	2	52389
+17	Chhattisgarh - Sarangarh	ARVIND KHATKER	Bahujan Samaj Party	31083	3	
+17	Chhattisgarh - Sarangarh	None of the Above	None of the Above	2342	4	
+17	Chhattisgarh - Sarangarh	SANTOSHI	Independent	1476	5	
+17	Chhattisgarh - Sarangarh	KRISHNA CHAND BHARDVAJ	Independent	1147	6	
+17	Chhattisgarh - Sarangarh	SANTOSH KUMAR CHAUHAN	Independent	1139	7	
+17	Chhattisgarh - Sarangarh	DEVANAND NIRALA	Bharatiya Bahujan Congress	1076	8	
+17	Chhattisgarh - Sarangarh	SEEMA AJAY	Ambedkarite Party of India	1055	9	
+17	Chhattisgarh - Sarangarh	SUBHASH CHAUHAN	Aam Aadmi Party	1024	10	
+17	Chhattisgarh - Sarangarh	DHANKA NIRALA	Independent	771	11	
+17	Chhattisgarh - Sarangarh	GHURAU SARTHI	Independent	748	12	
+17	Chhattisgarh - Sarangarh	MANGAL PRASAD MAHESH	Bhartiya Lokmat Rashtrwadi Party	495	13	
+17	Chhattisgarh - Sarangarh	RAVINDRA KUMAR RATRE	Sunder Samaj Party	389	14	
+18	Chhattisgarh - Kharsia	UMESH PATEL	Indian National Congress	94201	1	16967
+18	Chhattisgarh - Kharsia	OP CHOUDHARY	Bharatiya Janata Party	77234	2	16967
+18	Chhattisgarh - Kharsia	None of the Above	None of the Above	2368	3	
+18	Chhattisgarh - Kharsia	VIJAY SHARMA	Independent	1252	4	
+18	Chhattisgarh - Kharsia	NARAYAN SIDAR	Bahujan Samaj Party	965	5	
+18	Chhattisgarh - Kharsia	AMAR AGRAWAL	Aam Aadmi Party	600	6	
+18	Chhattisgarh - Kharsia	RAMESH KUMAR AGRAWAL	Independent	333	7	
+18	Chhattisgarh - Kharsia	DHANMATI RATHIA	Ambedkarite Party of India	306	8	
+18	Chhattisgarh - Kharsia	SAKRAMATI SITRAM SIDAR	Gondvana Gantantra Party	235	9	
+18	Chhattisgarh - Kharsia	BHOGILAL YADAV (ADVOCATE)	Independent	201	10	
+18	Chhattisgarh - Kharsia	UMMED SINGH RATHIA	Independent	156	11	
+18	Chhattisgarh - Kharsia	STAR RAMKUMAR	Sunder Samaj Party	155	12	
+19	Chhattisgarh - Dharamjaigarh	LALJEET SINGH RATHIA	Indian National Congress	95173	1	40335
+19	Chhattisgarh - Dharamjaigarh	LEENAV BIRJU RATHIA	Bharatiya Janata Party	54838	2	40335
+19	Chhattisgarh - Dharamjaigarh	None of the Above	None of the Above	5954	3	
+19	Chhattisgarh - Dharamjaigarh	SANTRAM RATHIA	Janta Congress Chhattisgarh (J)	4574	4	
+19	Chhattisgarh - Dharamjaigarh	HARI TIRKEY	Independent	2314	5	
+19	Chhattisgarh - Dharamjaigarh	LAKHAN LAL BAIGA	Ambedkarite Party of India	1615	6	
+19	Chhattisgarh - Dharamjaigarh	JAI SINGH SIDAR	Samajwadi Party	1563	7	
+19	Chhattisgarh - Dharamjaigarh	ANUP KUMAR BARWA	Bahujan Mukti Party	1538	8	
+19	Chhattisgarh - Dharamjaigarh	LINYUS TOPPO	Independent	1241	9	
+19	Chhattisgarh - Dharamjaigarh	PREM SINGH RATHIA	Aam Aadmi Party	1174	10	
+20	Chhattisgarh - Rampur	NANKI RAM KANWAR	Bharatiya Janata Party	65048	1	18175
+20	Chhattisgarh - Rampur	PHOOL SINGH RATHIYA	Janta Congress Chhattisgarh (J)	46873	2	18175
+20	Chhattisgarh - Rampur	SHYAM LAL KANWAR	Indian National Congress	44261	3	
+20	Chhattisgarh - Rampur	None of the Above	None of the Above	4609	4	
+20	Chhattisgarh - Rampur	CHANDRABHUSHAN KANWAR ADHIWAKTA LLM	Ambedkarite Party of India	2451	5	
+20	Chhattisgarh - Rampur	RAMDAYAL URAON	Independent	1842	6	
+20	Chhattisgarh - Rampur	TULSI RAM KHAIRWAR	Independent	1525	7	
+20	Chhattisgarh - Rampur	DILIP SINGH KANWAR	Adhikar Vikas Party	1407	8	
+21	Chhattisgarh - Korba	JAISINGH AGRAWAL(JAISINGH BHAIYA)	Indian National Congress	70119	1	11806
+21	Chhattisgarh - Korba	VIKAS MAHTO	Bharatiya Janata Party	58313	2	11806
+21	Chhattisgarh - Korba	RAM SINGH AGRAWAL(CHACHA)	Janta Congress Chhattisgarh (J)	20938	3	
+21	Chhattisgarh - Korba	VISHAL KELKAR(ENGINEER)	Independent	4859	4	
+21	Chhattisgarh - Korba	RAM LAL SURYWANSHI	Independent	1210	5	
+21	Chhattisgarh - Korba	None of the Above	None of the Above	1014	6	
+21	Chhattisgarh - Korba	RAJESH PANDEY	Independent	914	7	
+21	Chhattisgarh - Korba	VIKAS KUMAR MAHTO	Nationalist Congress Party	671	8	
+21	Chhattisgarh - Korba	SHERE HAQUE	Independent	636	9	
+21	Chhattisgarh - Korba	ANUP AGRAWAL	Aam Aadmi Party	632	10	
+21	Chhattisgarh - Korba	AMARNATH AGRAWAL(AMARNATH MATIMANCH)	Independent	573	11	
+21	Chhattisgarh - Korba	LAKHAN LAL DEWANGAN	Samajwadi Party	385	12	
+21	Chhattisgarh - Korba	DHARMENDRA SINGH DHRUW	Ambedkarite Party of India	309	13	
+21	Chhattisgarh - Korba	MADHUR ROBERTS( GURUJI)	Rashtriya Gondvana Party	271	14	
+21	Chhattisgarh - Korba	RAJJAK ALI	Independent	267	15	
+21	Chhattisgarh - Korba	RAM CHARAN PATEL	Independent	254	16	
+21	Chhattisgarh - Korba	DHANSAI MADHUKAR(DR. D.S. MADHUKAR)	Chhattisgarh Vikas Ganga Rashtriya Party	173	17	
+21	Chhattisgarh - Korba	DUDEN KHANDE	Independent	127	18	
+21	Chhattisgarh - Korba	PAWAN MAHANT	Independent	124	19	
+21	Chhattisgarh - Korba	SUSHIL KUMAR VISHVAKARMA	Independent	123	20	
+21	Chhattisgarh - Korba	SATRUDHAN SAHU	Independent	105	21	
+22	Chhattisgarh - Katghora	PURUSHOTTAM KANWAR	Indian National Congress	59227	1	11511
+22	Chhattisgarh - Katghora	LAKHANLAL DEWANGAN	Bharatiya Janata Party	47716	2	11511
+22	Chhattisgarh - Katghora	GOVIND SINGH RAJPUT	Janta Congress Chhattisgarh (J)	30509	3	
+22	Chhattisgarh - Katghora	LALIT MANIKPURI	Gondvana Gantantra Party	4520	4	
+22	Chhattisgarh - Katghora	SAPURAN KULDEEP	Communist Party of India (Marxist)	4113	5	
+22	Chhattisgarh - Katghora	None of the Above	None of the Above	2867	6	
+22	Chhattisgarh - Katghora	CHANDRAKANT DIXENA CHANDU	Aam Aadmi Party	1278	7	
+22	Chhattisgarh - Katghora	MADHURI KAIWART	Bharat Bhoomi Party	1155	8	
+22	Chhattisgarh - Katghora	BHARATLAL SHROTE	Independent	1070	9	
+22	Chhattisgarh - Katghora	DILIP SINGH KANWAR	Ambedkarite Party of India	895	10	
+22	Chhattisgarh - Katghora	PURUSHOTTAM SINGH KANWAR	Janata Congress	645	11	
+23	Chhattisgarh - Pali-tanakhar	MOHIT RAM	Indian National Congress	66971	1	9656
+23	Chhattisgarh - Pali-tanakhar	HIRA SINGH MARKAM	Gondvana Gantantra Party	57315	2	9656
+23	Chhattisgarh - Pali-tanakhar	UIKE RAMDYAL	Bharatiya Janata Party	32155	3	
+23	Chhattisgarh - Pali-tanakhar	None of the Above	None of the Above	5128	4	
+23	Chhattisgarh - Pali-tanakhar	SUKHNANDAN SINGH PUHUP	Aam Aadmi Party	3239	5	
+23	Chhattisgarh - Pali-tanakhar	CRESENTIA KUJUR	Independent	2954	6	
+23	Chhattisgarh - Pali-tanakhar	TAPESHWAR SINGH MARAVI	Bahujan Samaj Party	2579	7	
+23	Chhattisgarh - Pali-tanakhar	ALWAN SINGH	Ambedkarite Party of India	2166	8	
+23	Chhattisgarh - Pali-tanakhar	DR.L.S. UDAY SINGH	Rashtriya Gondvana Party	1053	9	
+24	Chhattisgarh - Marwahi	AJIT JOGI	Janta Congress Chhattisgarh (J)	74041	1	46462
+24	Chhattisgarh - Marwahi	ARCHANA PORTE	Bharatiya Janata Party	27579	2	46462
+24	Chhattisgarh - Marwahi	GULAB SINGH RAJ	Indian National Congress	20040	3	
+24	Chhattisgarh - Marwahi	RITU PANDRAM	Gondvana Gantantra Party	9978	4	
+24	Chhattisgarh - Marwahi	CHANDRABHAN SINGH SHAYAM	Independent	5069	5	
+24	Chhattisgarh - Marwahi	None of the Above	None of the Above	4501	6	
+24	Chhattisgarh - Marwahi	UMEND SINGH POTTAM	Shiv Sena	2140	7	
+24	Chhattisgarh - Marwahi	LALJI MARKO	Aam Aadmi Party	1806	8	
+24	Chhattisgarh - Marwahi	GULAB SINGH PAIKRA	Independent	1494	9	
+24	Chhattisgarh - Marwahi	RAMLAL BHAINA	Independent	1422	10	
+24	Chhattisgarh - Marwahi	KHELAN SINGH KORCHE	Ambedkarite Party of India	1100	11	
+25	Chhattisgarh - Kota	RENU AJIT JOGI	Janta Congress Chhattisgarh (J)	48800	1	3026
+25	Chhattisgarh - Kota	KASHI RAM SAHU	Bharatiya Janata Party	45774	2	3026
+25	Chhattisgarh - Kota	VIBHOR SINGH	Indian National Congress	30803	3	
+25	Chhattisgarh - Kota	BALARAM ARMO	Gondvana Gantantra Party	8163	4	
+25	Chhattisgarh - Kota	HARISH CHANDEL	Aam Aadmi Party	4953	5	
+25	Chhattisgarh - Kota	None of the Above	None of the Above	3942	6	
+25	Chhattisgarh - Kota	DR. URMILA SINGH MARKO	Rashtriya Gondvana Party	1590	7	
+25	Chhattisgarh - Kota	HARISH KUMAR MANDWA	Independent	1326	8	
+25	Chhattisgarh - Kota	VIRENDRA KUMAR NETAM	Ambedkarite Party of India	1052	9	
+25	Chhattisgarh - Kota	SHAMBHU PRASAD SHARMA ADVOCATE	Bharat Bhoomi Party	975	10	
+25	Chhattisgarh - Kota	SANDEEP SINGH PORTE	Independent	791	11	
+25	Chhattisgarh - Kota	MAHANT JAG KUMAR SHARMA	Independent	760	12	
+26	Chhattisgarh - Lormi	DHARMJEET SINGH	Janta Congress Chhattisgarh (J)	67742	1	25553
+26	Chhattisgarh - Lormi	TOKHAN SAHU	Bharatiya Janata Party	42189	2	25553
+26	Chhattisgarh - Lormi	SHATRUHAN (SONU) CHANDRAKAR	Indian National Congress	16669	3	
+26	Chhattisgarh - Lormi	LALIT SAHU	Independent	3706	4	
+26	Chhattisgarh - Lormi	SANAT KUMAR SAHU (S/O BHUWAN LAL SAHU)	Independent	2526	5	
+26	Chhattisgarh - Lormi	TIRITH RAM	Independent	1719	6	
+26	Chhattisgarh - Lormi	None of the Above	None of the Above	1143	7	
+26	Chhattisgarh - Lormi	THA. MAHENDRA SINGH CHHATRI	Aam Aadmi Party	1053	8	
+26	Chhattisgarh - Lormi	RAMKUMAR GHRITLAHRE	Independent	941	9	
+26	Chhattisgarh - Lormi	SANAT KUMAR SAHU (S/O BANIHAR SAHU)	Independent	861	10	
+26	Chhattisgarh - Lormi	SANTOSH KUMAR SAHU	Independent	852	11	
+26	Chhattisgarh - Lormi	RAMAVTAR NISHAD	Shiv Sena	848	12	
+26	Chhattisgarh - Lormi	MILAU RAM YADAV	Samajwadi Party	458	13	
+26	Chhattisgarh - Lormi	HARISH KUMAR KURREY	Ambedkarite Party of India	405	14	
+26	Chhattisgarh - Lormi	HEERA SINGH KASHYAP	Independent	363	15	
+26	Chhattisgarh - Lormi	PARDESHI RAM	Independent	356	16	
+26	Chhattisgarh - Lormi	MANOJ KUMAR DHURVE	Independent	335	17	
+26	Chhattisgarh - Lormi	PADARATH LAL SAHU	Independent	304	18	
+26	Chhattisgarh - Lormi	ARUN KUMAR BANJARA	Independent	274	19	
+27	Chhattisgarh - Mungeli	PUNNULAL MOHALE	Bharatiya Janata Party	60469	1	8487
+27	Chhattisgarh - Mungeli	RAKESH PATRE	Indian National Congress	51982	2	8487
+27	Chhattisgarh - Mungeli	CHANDRABHAN BARMATE	Janta Congress Chhattisgarh (J)	32257	3	
+27	Chhattisgarh - Mungeli	None of the Above	None of the Above	3150	4	
+27	Chhattisgarh - Mungeli	GOVIND NAT	Shiv Sena	2797	5	
+27	Chhattisgarh - Mungeli	VIKAS KHANDEKER	Ambedkarite Party of India	1423	6	
+27	Chhattisgarh - Mungeli	RAJKUMAR BANJARE	Gondvana Gantantra Party	1416	7	
+27	Chhattisgarh - Mungeli	SANTRAM GENDARE	Independent	1385	8	
+27	Chhattisgarh - Mungeli	TULSIDAS JANGDE	Independent	1261	9	
+27	Chhattisgarh - Mungeli	RAMKUMAR GANDHARV	Aam Aadmi Party	1044	10	
+27	Chhattisgarh - Mungeli	PRAMOD NARAYAN PATLE	Independent	782	11	
+28	Chhattisgarh - Takhatpur	RASHMI ASHISH SINGH	Indian National Congress	52616	1	2991
+28	Chhattisgarh - Takhatpur	SANTOSH KAUSHIK (GURUJI)	Janta Congress Chhattisgarh (J)	49625	2	2991
+28	Chhattisgarh - Takhatpur	HARSHITA PANDEY	Bharatiya Janata Party	45622	3	
+28	Chhattisgarh - Takhatpur	BALRAM SAHU	Independent	1861	4	
+28	Chhattisgarh - Takhatpur	ANIL BAGHEL	Aam Aadmi Party	1564	5	
+28	Chhattisgarh - Takhatpur	PRATEEK PANDEY	Independent	1422	6	
+28	Chhattisgarh - Takhatpur	SIDDHRAM LAHARE	Rashtriya Jansabha Party	1330	7	
+28	Chhattisgarh - Takhatpur	HORILAL MAHRA	Shiv Sena	941	8	
+28	Chhattisgarh - Takhatpur	None of the Above	None of the Above	916	9	
+28	Chhattisgarh - Takhatpur	BHAGIRATHI KURRE	Independent	795	10	
+28	Chhattisgarh - Takhatpur	GEETA RAM SAHU	Bhartiya Shakti Chetna Party	750	11	
+28	Chhattisgarh - Takhatpur	JAGANNATH PRASAD DHURW	Rashtriya Gondvana Party	690	12	
+28	Chhattisgarh - Takhatpur	GIRISH PATLE	Ambedkarite Party of India	582	13	
+28	Chhattisgarh - Takhatpur	RAGHUVANSHMADI KHAIRWAR	Independent	470	14	
+28	Chhattisgarh - Takhatpur	DURPATI DEVI SURYAVANSHI	Independent	458	15	
+28	Chhattisgarh - Takhatpur	NIYANTA KURRE	Independent	456	16	
+28	Chhattisgarh - Takhatpur	SATISH SONWANI	Aap Sabki Apni Party	448	17	
+28	Chhattisgarh - Takhatpur	DEVANAND KAUSHIK	Independent	360	18	
+28	Chhattisgarh - Takhatpur	AJAY KUMAR JANGRE	Independent	334	19	
+28	Chhattisgarh - Takhatpur	SUSHANT KUMAR PATREY	Independent	309	20	
+28	Chhattisgarh - Takhatpur	RAMESH KUMAR VASTRAKAR	Independent	293	21	
+28	Chhattisgarh - Takhatpur	RAMCHANDRA KARDA	Independent	270	22	
+28	Chhattisgarh - Takhatpur	SURENDRA KUMAR LAHARE	Independent	222	23	
+28	Chhattisgarh - Takhatpur	SADHELAL SULTAN	Independent	161	24	
+28	Chhattisgarh - Takhatpur	SATISH KUMAR GHRITLAHARE	Independent	143	25	
+29	Chhattisgarh - Bilha	DHARAM LAL KAUSHIK	Bharatiya Janata Party	84431	1	26524
+29	Chhattisgarh - Bilha	RAJENDRA SHUKLA	Indian National Congress	57907	2	26524
+29	Chhattisgarh - Bilha	SIYARAM KAUSHIK	Janta Congress Chhattisgarh (J)	29613	3	
+29	Chhattisgarh - Bilha	MANOJ THAKUR	Independent	4518	4	
+29	Chhattisgarh - Bilha	SARDAR JASBEER SINGH	Aam Aadmi Party	4428	5	
+29	Chhattisgarh - Bilha	DILIP KUMAR KOSHLE	Independent	2583	6	
+29	Chhattisgarh - Bilha	NIKHADRAM NISHAD	Nationalist Congress Party	1606	7	
+29	Chhattisgarh - Bilha	None of the Above	None of the Above	1224	8	
+29	Chhattisgarh - Bilha	DEVPRASAD	Independent	1215	9	
+29	Chhattisgarh - Bilha	GANESHRAM JOSHI	Independent	1176	10	
+29	Chhattisgarh - Bilha	NAND KISHORE RAJ	Gondvana Gantantra Party	747	11	
+29	Chhattisgarh - Bilha	VIJAY SHANKAR PATRE	Ambedkarite Party of India	718	12	
+29	Chhattisgarh - Bilha	USMAN KHAN	Independent	684	13	
+29	Chhattisgarh - Bilha	CHANDRAKALA DHIDHI	Independent	637	14	
+29	Chhattisgarh - Bilha	DEVRAM SAHU	Bharat Bhoomi Party	620	15	
+29	Chhattisgarh - Bilha	PRAMOD KUMAR GADEWAL	Independent	616	16	
+29	Chhattisgarh - Bilha	SATVAN SINGH TANDON	Independent	586	17	
+29	Chhattisgarh - Bilha	SURESH PANDEY	Independent	321	18	
+29	Chhattisgarh - Bilha	RAMESH KUMAR LAHARE	Independent	313	19	
+29	Chhattisgarh - Bilha	NIRANJAN KUMAR SAHU	Independent	313	20	
+29	Chhattisgarh - Bilha	NARENDRA SHANDEY	Janata Congress	311	21	
+29	Chhattisgarh - Bilha	B.P. VISHWAKARMA	Independent	273	22	
+29	Chhattisgarh - Bilha	RAM CHARAN KENVAT	Aap Sabki Apni Party	247	23	
+29	Chhattisgarh - Bilha	RAJKUMAR NAVRANG	Rashtriya Jansabha Party	241	24	
+29	Chhattisgarh - Bilha	VINOD KUMAR SAHU	Independent	233	25	
+29	Chhattisgarh - Bilha	MANIRAM GHRITLAHRE	Bharatiya Sadbhawana Samaj Party	205	26	
+29	Chhattisgarh - Bilha	LAHARGANGA SONI	Independent	195	27	
+29	Chhattisgarh - Bilha	RAJKUMAR YADAV	Independent	159	28	
+29	Chhattisgarh - Bilha	LAXMAN DAS MANDLE	Independent	139	29	
+29	Chhattisgarh - Bilha	ROOPDAS KURREY	Independent	104	30	
+30	Chhattisgarh - Bilaspur	SHAILESH PANDEY	Indian National Congress	67896	1	11221
+30	Chhattisgarh - Bilaspur	AMAR AGRAWAL	Bharatiya Janata Party	56675	2	11221
+30	Chhattisgarh - Bilaspur	BRIJESH SAHU	Janta Congress Chhattisgarh (J)	3641	3	
+30	Chhattisgarh - Bilaspur	None of the Above	None of the Above	1153	4	
+30	Chhattisgarh - Bilaspur	DR. SHAILESH AHUJA ADVOCATE	Aam Aadmi Party	813	5	
+30	Chhattisgarh - Bilaspur	AVISHEK EKKA	Independent	609	6	
+30	Chhattisgarh - Bilaspur	OMPRAKASH SINGH	Independent	599	7	
+30	Chhattisgarh - Bilaspur	TOLARAM RELWANI	Independent	496	8	
+30	Chhattisgarh - Bilaspur	ARJUN SHRIWASH	Independent	346	9	
+30	Chhattisgarh - Bilaspur	AJAY KUMAR WAHNE	Akhil Bhartiya Sarvadharma Samaj Party	307	10	
+30	Chhattisgarh - Bilaspur	SHEKHAR BANJARE	Independent	195	11	
+30	Chhattisgarh - Bilaspur	RAJA KINNAR	Independent	145	12	
+30	Chhattisgarh - Bilaspur	SANTOSH KUMAR KAUSHAL	Shiv Sena	140	13	
+30	Chhattisgarh - Bilaspur	LAXMI KANT PANDEY	Independent	133	14	
+30	Chhattisgarh - Bilaspur	SUSHIL JAIDEO CHAVHAN	Ambedkarite Party of India	132	15	
+30	Chhattisgarh - Bilaspur	SHRIMATI RAJNI SETH	Aap Sabki Apni Party	116	16	
+30	Chhattisgarh - Bilaspur	HAJI ABDUL RAJJAQ KHAN	Independent	97	17	
+30	Chhattisgarh - Bilaspur	ABHISHEK KU. NISHAD	Bharat Bhoomi Party	91	18	
+30	Chhattisgarh - Bilaspur	DR. BALMUKUND SINGH MARAVI	Gondvana Gantantra Party	80	19	
+30	Chhattisgarh - Bilaspur	SHITLA PRASAD TRIPATHI	Independent	76	20	
+30	Chhattisgarh - Bilaspur	MO. SALIM KHAN	Bharatiya Sadbhawana Samaj Party	74	21	
+30	Chhattisgarh - Bilaspur	ANISH CHARAN	India Praja Bandhu Party	67	22	
+30	Chhattisgarh - Bilaspur	RADHESHYAM SHARMA	Independent	65	23	
+30	Chhattisgarh - Bilaspur	PAWAN KUMAR AWASTHI	Independent	63	24	
+30	Chhattisgarh - Bilaspur	ASHISH KUMAR SHRIVASTAV	Bhartiya Shakti Chetna Party	57	25	
+30	Chhattisgarh - Bilaspur	NILESH MASIH	Independent	53	26	
+30	Chhattisgarh - Bilaspur	NARAIN PATRE	Independent	51	27	
+30	Chhattisgarh - Bilaspur	BRIJESH SINGH KAUSHIK	Independent	44	28	
+30	Chhattisgarh - Bilaspur	NEERA DEVI SONWANI	Independent	37	29	
+31	Chhattisgarh - Beltara	RAJNISH KUMAR SINGH	Bharatiya Janata Party	49601	1	6259
+31	Chhattisgarh - Beltara	RAJENDRA SAHU(DABBU)	Indian National Congress	43342	2	6259
+31	Chhattisgarh - Beltara	ANIL TAH	Janta Congress Chhattisgarh (J)	38308	3	
+31	Chhattisgarh - Beltara	SOHIT YADAV OR BUNTY	Independent	2576	4	
+31	Chhattisgarh - Beltara	None of the Above	None of the Above	2176	5	
+31	Chhattisgarh - Beltara	SHITAL SONI	Aap Sabki Apni Party	1663	6	
+31	Chhattisgarh - Beltara	SANJAY SINGH(GURUJI)	Independent	1458	7	
+31	Chhattisgarh - Beltara	ARVIND KUMAR PANDEY	Aam Aadmi Party	881	8	
+31	Chhattisgarh - Beltara	SURESH KUMAR KINLE	Nationalist Congress Party	797	9	
+31	Chhattisgarh - Beltara	AJAY SHARMA	Shiv Sena	680	10	
+31	Chhattisgarh - Beltara	PARAS RAM YADAW	Independent	518	11	
+31	Chhattisgarh - Beltara	KIRAN KUMAR SINGH	Gondvana Gantantra Party	452	12	
+31	Chhattisgarh - Beltara	RUPENDRA KUMAR SURYAWANSHI	Republican Party of India (A)	411	13	
+31	Chhattisgarh - Beltara	NAVEEN KUMAR SAHU	Ambedkarite Party of India	387	14	
+31	Chhattisgarh - Beltara	RAMESH SAHU	Janata Dal (United)	363	15	
+31	Chhattisgarh - Beltara	NANDKUMAR KAMAL	India Praja Bandhu Party	186	16	
+32	Chhattisgarh - Masturi	DR. KRISHNA MURTI BANDHI	Bharatiya Janata Party	67950	1	14107
+32	Chhattisgarh - Masturi	JAYENDRA SINGH PATLE	Bahujan Samaj Party	53843	2	14107
+32	Chhattisgarh - Masturi	DILIP LAHARIYA	Indian National Congress	53620	3	
+32	Chhattisgarh - Masturi	None of the Above	None of the Above	3437	4	
+32	Chhattisgarh - Masturi	HIRA GANDHARW	Independent	1725	5	
+32	Chhattisgarh - Masturi	SANJAY TONDAN	Independent	1400	6	
+32	Chhattisgarh - Masturi	HEMANT RAY	Ambedkarite Party of India	1070	7	
+32	Chhattisgarh - Masturi	LAXMI PRASAD TANDAN	Aam Aadmi Party	1061	8	
+32	Chhattisgarh - Masturi	JAGESHWAR PRASAD KURRE	India Praja Bandhu Party	943	9	
+32	Chhattisgarh - Masturi	SAVITA GANDHARWA	Independent	839	10	
+32	Chhattisgarh - Masturi	DHANESH KUMAR	Shiv Sena	588	11	
+32	Chhattisgarh - Masturi	BARAN LAL KARIYARE	Republican Party of India (A)	375	12	
+33	Chhattisgarh - Akaltara	SAURABH SINGH	Bharatiya Janata Party	60502	1	1854
+33	Chhattisgarh - Akaltara	RICHA JOGI	Bahujan Samaj Party	58648	2	1854
+33	Chhattisgarh - Akaltara	CHUNNILAL SAHU	Indian National Congress	27667	3	
+33	Chhattisgarh - Akaltara	None of the Above	None of the Above	2242	4	
+33	Chhattisgarh - Akaltara	BADRI PRASAD OGREY	Independent	971	5	
+33	Chhattisgarh - Akaltara	CHANDRAHAS DEWANGAN	Aam Aadmi Party	958	6	
+33	Chhattisgarh - Akaltara	PUSHPENDRA KUMAR JAISWAL	Nationalist Congress Party	746	7	
+33	Chhattisgarh - Akaltara	SHIV KUMAR VISHWKARMA	Independent	682	8	
+33	Chhattisgarh - Akaltara	RKS (RAM KUMAR SHRIWAS)	Independent	552	9	
+33	Chhattisgarh - Akaltara	RAJESH KUMAR BANJARE	Ambedkarite Party of India	483	10	
+33	Chhattisgarh - Akaltara	JAGMOHAN PATLEY	Independent	481	11	
+33	Chhattisgarh - Akaltara	DILESHWAR SAHU	National Democratic Peoples Front	345	12	
+33	Chhattisgarh - Akaltara	SANJAY PRAKASH SAHU	Bhartiya Kisan Party	323	13	
+33	Chhattisgarh - Akaltara	AMIR SINGH	Independent	308	14	
+33	Chhattisgarh - Akaltara	JIWAN LAL YADAW	Samajwadi Party	301	15	
+33	Chhattisgarh - Akaltara	DILESHWAR VISHWAKARMA	Shiv Sena	287	16	
+34	Chhattisgarh - Janjgir-champa	NARAYAN CHANDEL	Bharatiya Janata Party	54040	1	4188
+34	Chhattisgarh - Janjgir-champa	MOTILAL DEWANGAN	Indian National Congress	49852	2	4188
+34	Chhattisgarh - Janjgir-champa	BYAS NARAYAN KASHYAP	Bahujan Samaj Party	33505	3	
+34	Chhattisgarh - Janjgir-champa	SANJAY KUMAR SHARMA	Aam Aadmi Party	1538	4	
+34	Chhattisgarh - Janjgir-champa	SUDHIR YADAV	Communist Party of India	1422	5	
+34	Chhattisgarh - Janjgir-champa	None of the Above	None of the Above	1240	6	
+34	Chhattisgarh - Janjgir-champa	RAMLALLA SATNAMI	Independent	1161	7	
+34	Chhattisgarh - Janjgir-champa	MAYARAM NAT	Independent	978	8	
+34	Chhattisgarh - Janjgir-champa	AAJAD MAHENDRA DEWANGAN	Independent	868	9	
+34	Chhattisgarh - Janjgir-champa	ASHOK CHOWDHARY	Nationalist Congress Party	755	10	
+34	Chhattisgarh - Janjgir-champa	BHOLARAM SATNAMI	Independent	372	11	
+34	Chhattisgarh - Janjgir-champa	INNAL BIND	Nirbal Indian Shoshit Hamara Aam Dal	311	12	
+34	Chhattisgarh - Janjgir-champa	AJAY KUMAR DEWANGAN	Independent	295	13	
+34	Chhattisgarh - Janjgir-champa	SANJAY PRAKASH SAO	Bhartiya Kisan Party	282	14	
+34	Chhattisgarh - Janjgir-champa	SANTOSH KUMAR KASHYAP (BUDENA WALE)	National Democratic Peoples Front	281	15	
+34	Chhattisgarh - Janjgir-champa	SHIV BHANU SINGH KSHATRY	Janata Dal (United)	219	16	
+35	Chhattisgarh - Sakti	CHARAN DAS MAHANT	Indian National Congress	78058	1	30046
+35	Chhattisgarh - Sakti	MEDHA RAM SAHU	Bharatiya Janata Party	48012	2	30046
+35	Chhattisgarh - Sakti	GAUTAM RATHORE	Bahujan Samaj Party	13907	3	
+35	Chhattisgarh - Sakti	KALESHWAR SINGH MARAVI	Gondvana Gantantra Party	1202	4	
+35	Chhattisgarh - Sakti	SATYANARAYAN PATEL	Independent	1132	5	
+35	Chhattisgarh - Sakti	None of the Above	None of the Above	1057	6	
+35	Chhattisgarh - Sakti	COMRADE ANIL SHARMA	Communist Party of India	1006	7	
+35	Chhattisgarh - Sakti	MEGHARAM SAHU	Nationalist Congress Party	920	8	
+35	Chhattisgarh - Sakti	SURAJ KUMAR YADAV	Independent	754	9	
+35	Chhattisgarh - Sakti	PRAKASH KUMAR URAON	Independent	555	10	
+35	Chhattisgarh - Sakti	VIJAY MAURYA	Aam Aadmi Party	485	11	
+35	Chhattisgarh - Sakti	NATWAR LAL GOND	Independent	457	12	
+35	Chhattisgarh - Sakti	SURYAKANT RATHORE	Shiv Sena	385	13	
+35	Chhattisgarh - Sakti	KHOMRAM JANGDE	Independent	324	14	
+35	Chhattisgarh - Sakti	RAMNARAYAN RATHORE	Kisan Mazdoor Sangharsh Party	241	15	
+36	Chhattisgarh - Chandrapur	RAM KUMAR YADAV	Indian National Congress	51717	1	4418
+36	Chhattisgarh - Chandrapur	GITANJALI PATEL	Bahujan Samaj Party	47299	2	4418
+36	Chhattisgarh - Chandrapur	BAHU RANI SANYOGITA SINGH JUDEV	Bharatiya Janata Party	39638	3	
+36	Chhattisgarh - Chandrapur	SUMAN NOVEL VERMA	Nationalist Congress Party	14429	4	
+36	Chhattisgarh - Chandrapur	RAJKUMAR YADAV	Independent	1779	5	
+36	Chhattisgarh - Chandrapur	MANHARAN LAL KAMLESH	Independent	690	6	
+36	Chhattisgarh - Chandrapur	ABHINAV SHUKLA	Shiv Sena	611	7	
+36	Chhattisgarh - Chandrapur	BHANU PRAKASH CHANDRA	Aam Aadmi Party	588	8	
+36	Chhattisgarh - Chandrapur	PAITRAM KHUNTE	Independent	575	9	
+36	Chhattisgarh - Chandrapur	None of the Above	None of the Above	550	10	
+36	Chhattisgarh - Chandrapur	RAMKUMAR YADAV	Independent	547	11	
+36	Chhattisgarh - Chandrapur	NAVEL KUMAR PANKAJ	Independent	507	12	
+36	Chhattisgarh - Chandrapur	SUNDAR LAL CHOUHAN	Independent	504	13	
+36	Chhattisgarh - Chandrapur	SATAYANAND SIDAR	Ambedkarite Party of India	485	14	
+36	Chhattisgarh - Chandrapur	BALWANT SINGH	Gondvana Gantantra Party	426	15	
+36	Chhattisgarh - Chandrapur	DADULAL TANDAN	Independent	395	16	
+36	Chhattisgarh - Chandrapur	UMA KANT SAHU	Bhartiya Shakti Chetna Party	387	17	
+36	Chhattisgarh - Chandrapur	SITA SARTHI	Bharat Bhoomi Party	357	18	
+36	Chhattisgarh - Chandrapur	GEETANJALI PATEL	Independent	346	19	
+37	Chhattisgarh - Jaijaipur	KESHAV PRASAD CHANDRA	Bahujan Samaj Party	64774	1	21687
+37	Chhattisgarh - Jaijaipur	KAILASH SAHU	Bharatiya Janata Party	43087	2	21687
+37	Chhattisgarh - Jaijaipur	ANIL KUMAR CHANDRA	Indian National Congress	38594	3	
+37	Chhattisgarh - Jaijaipur	None of the Above	None of the Above	1527	4	
+37	Chhattisgarh - Jaijaipur	NARSINGH SINHA	Independent	1286	5	
+37	Chhattisgarh - Jaijaipur	SAHEB LAL CHANDRA	Independent	1156	6	
+37	Chhattisgarh - Jaijaipur	RESHAMLAL KHUNTE	Independent	1134	7	
+37	Chhattisgarh - Jaijaipur	SANTOSH KUMAR JATWAR	Ambedkarite Party of India	1036	8	
+37	Chhattisgarh - Jaijaipur	MARTAND SINGH BANAFAR	Aam Aadmi Party	1026	9	
+37	Chhattisgarh - Jaijaipur	RAM SAY KASHYAP	Independent	964	10	
+37	Chhattisgarh - Jaijaipur	PITAMBER DEEWAR	Shiv Sena	773	11	
+37	Chhattisgarh - Jaijaipur	RAJ KUMAR CHANDRA	Independent	435	12	
+37	Chhattisgarh - Jaijaipur	SHANTI KUMAR RATRE (WAKIL)	Gondvana Gantantra Party	333	13	
+38	Chhattisgarh - Pamgarh	INDU BANJARE	Bahujan Samaj Party	50129	1	3061
+38	Chhattisgarh - Pamgarh	GORELAL BARMAN	Indian National Congress	47068	2	3061
+38	Chhattisgarh - Pamgarh	AMBESH JANGRE	Bharatiya Janata Party	32676	3	
+38	Chhattisgarh - Pamgarh	None of the Above	None of the Above	1470	4	
+38	Chhattisgarh - Pamgarh	SANTRAM TURKE	Independent	1048	5	
+38	Chhattisgarh - Pamgarh	KAMLESH KUMARI	Shiv Sena	975	6	
+38	Chhattisgarh - Pamgarh	SHIV SHANKAR RAHI	Independent	863	7	
+38	Chhattisgarh - Pamgarh	SANTOSH KUMAR KHUTEY	Ambedkarite Party of India	743	8	
+38	Chhattisgarh - Pamgarh	MAHABIR JANGRE	Independent	610	9	
+38	Chhattisgarh - Pamgarh	MUKESH KUMAR LAHARE	Samajwadi Party	574	10	
+38	Chhattisgarh - Pamgarh	CHAITRAM DEV KHATKAR	Aam Aadmi Party	515	11	
+38	Chhattisgarh - Pamgarh	NITA SAYTONDAY	Chhattisgarh Swabhiman Manch	459	12	
+38	Chhattisgarh - Pamgarh	NAND KUMAR CHAUHAN	Janata Dal (United)	378	13	
+38	Chhattisgarh - Pamgarh	DUJE URF DUJRAM KURRE	National Democratic Peoples Front	253	14	
+38	Chhattisgarh - Pamgarh	BAHORIK MADHUKAR	India Praja Bandhu Party	243	15	
+39	Chhattisgarh - Saraipali	KISMAT LAL NAND	Indian National Congress	100302	1	52288
+39	Chhattisgarh - Saraipali	SHYAM TANDI	Bharatiya Janata Party	48014	2	52288
+39	Chhattisgarh - Saraipali	None of the Above	None of the Above	3270	3	
+39	Chhattisgarh - Saraipali	CHHABILAL RATRE	Bahujan Samaj Party	1849	4	
+39	Chhattisgarh - Saraipali	RAMPRASAD CHAUHAN	Bharatiya Prajatantrik Shudh Gandhiwadi Krishak Dal	1093	5	
+39	Chhattisgarh - Saraipali	PRABHAKAR GWAL	Aam Aadmi Party	1064	6	
+39	Chhattisgarh - Saraipali	PADMACHARAN NAG	Shiv Sena	926	7	
+39	Chhattisgarh - Saraipali	SETRAM BHASKAR	Independent	924	8	
+39	Chhattisgarh - Saraipali	MAHENDRA GOVIND RAM KHATKAR	Ambedkarite Party of India	906	9	
+40	Chhattisgarh - Basna	DEVENDRA BAHADUR SINGH	Indian National Congress	67535	1	17508
+40	Chhattisgarh - Basna	SAMPAT AGRAWAL	Independent	50027	2	17508
+40	Chhattisgarh - Basna	DURGACHARAN(D.C.) PATEL	Bharatiya Janata Party	36394	3	
+40	Chhattisgarh - Basna	TRILOCHAN NAYAK LUNGIWALA	Janta Congress Chhattisgarh (J)	7758	4	
+40	Chhattisgarh - Basna	DR. ANAMIKA PAUL	Independent	2475	5	
+40	Chhattisgarh - Basna	None of the Above	None of the Above	2431	6	
+40	Chhattisgarh - Basna	MAHENDRA SAO	Independent	2123	7	
+40	Chhattisgarh - Basna	KALESHWAR YADAV	National Democratic Peoples Front	1753	8	
+40	Chhattisgarh - Basna	ASHOK PRADHAN	Shiv Sena	1007	9	
+40	Chhattisgarh - Basna	JAGDISH SIDAR	Independent	923	10	
+40	Chhattisgarh - Basna	PRAHALLAD BARIHA	Independent	833	11	
+40	Chhattisgarh - Basna	SANKALP DASS	Aam Aadmi Party	493	12	
+40	Chhattisgarh - Basna	GAURISHANKAR PATEL	Independent	492	13	
+40	Chhattisgarh - Basna	KEDARNATH PATEL	Independent	406	14	
+40	Chhattisgarh - Basna	SADANAND SAHU	Bhartiya Shakti Chetna Party	405	15	
+40	Chhattisgarh - Basna	YAGENDRA BHOI	Samajwadi Party	350	16	
+41	Chhattisgarh - Khallari	DWARIKADHISH YADAV	Indian National Congress	96108	1	56978
+41	Chhattisgarh - Khallari	MONIKA DILIP SAHU	Bharatiya Janata Party	39130	2	56978
+41	Chhattisgarh - Khallari	PARESH BAGBAHARA	Janta Congress Chhattisgarh (J)	12649	3	
+41	Chhattisgarh - Khallari	BHEKHLAL SAHU URF BHEKHU	Independent	5228	4	
+41	Chhattisgarh - Khallari	BASANTA THAKUR	Nationalist Congress Party	2972	5	
+41	Chhattisgarh - Khallari	MOHINI RAJENDRA PANDE	Independent	1376	6	
+41	Chhattisgarh - Khallari	BHUKHAN LAL SAHU	Independent	1219	7	
+41	Chhattisgarh - Khallari	BHUWANLAL SAHU	Independent	935	8	
+41	Chhattisgarh - Khallari	CHAMPALAL PATEL	Independent	829	9	
+41	Chhattisgarh - Khallari	SANTOSH CHANDRAKAR	Aam Aadmi Party	764	10	
+41	Chhattisgarh - Khallari	NAND KUMAR NISHAD	Pichhara Samaj Party United	683	11	
+41	Chhattisgarh - Khallari	LOKESWAR CHANDRAKAR (LOKU)	Shiv Sena	665	12	
+41	Chhattisgarh - Khallari	KUMAR GOND	Gondvana Gantantra Party	577	13	
+41	Chhattisgarh - Khallari	DAYARAM	Independent	529	14	
+41	Chhattisgarh - Khallari	None of the Above	None of the Above	499	15	
+41	Chhattisgarh - Khallari	JAGESHWAR (JUGNU) CHANDRAKAR	Independent	421	16	
+41	Chhattisgarh - Khallari	TEJSINGH	Independent	343	17	
+41	Chhattisgarh - Khallari	ROSHAN TANDE	Independent	332	18	
+41	Chhattisgarh - Khallari	GOVARDHAN NISHAD	Rashtriya Jansabha Party	269	19	
+41	Chhattisgarh - Khallari	RAMAWATAR DHRUW	Independent	168	20	
+41	Chhattisgarh - Khallari	MO. SARFARAJ	Independent	103	21	
+42	Chhattisgarh - Mahasamund	VINOD SEVAN LAL CHANDRAKAR	Indian National Congress	49356	1	23066
+42	Chhattisgarh - Mahasamund	POONAM CHANDRAKAR	Bharatiya Janata Party	26290	2	23066
+42	Chhattisgarh - Mahasamund	TRIBHUWAN MAHILANG	Janta Congress Chhattisgarh (J)	24839	3	
+42	Chhattisgarh - Mahasamund	MANOJ KANT SAHU	Independent	21911	4	
+42	Chhattisgarh - Mahasamund	DR VIMAL CHOPRA	Independent	21160	5	
+42	Chhattisgarh - Mahasamund	None of the Above	None of the Above	2085	6	
+42	Chhattisgarh - Mahasamund	T.K. DADSENA	Independent	1552	7	
+42	Chhattisgarh - Mahasamund	PANKAJ SAHU	Independent	1445	8	
+42	Chhattisgarh - Mahasamund	PUJA DHRUW	Independent	1270	9	
+42	Chhattisgarh - Mahasamund	ASHOK SONI	Ambedkarite Party of India	1000	10	
+42	Chhattisgarh - Mahasamund	SANJAY YADAV	Aam Aadmi Party	764	11	
+42	Chhattisgarh - Mahasamund	GANGU RAM THAKUR	Independent	734	12	
+42	Chhattisgarh - Mahasamund	DEJIRANI NETAM	Gondvana Gantantra Party	710	13	
+42	Chhattisgarh - Mahasamund	PARASRAM DHRUW LAHANGAR WALE	Chhattisgarhi Samaj Party	642	14	
+42	Chhattisgarh - Mahasamund	KAUSHAL DEWANGAN	Independent	560	15	
+42	Chhattisgarh - Mahasamund	KRISHNA KUMAR CHANDRAKAR	Rashtriya Jansabha Party	361	16	
+43	Chhattisgarh - Bilaigarh	CHANDRADEV PRASAD RAI	Indian National Congress	71936	1	9847
+43	Chhattisgarh - Bilaigarh	SHYAM KUMAR TANDAN	Bahujan Samaj Party	62089	2	9847
+43	Chhattisgarh - Bilaigarh	DR. SANAM JANGDE	Bharatiya Janata Party	40623	3	
+43	Chhattisgarh - Bilaigarh	BHOJ RAM AJAGALE	Independent	10595	4	
+43	Chhattisgarh - Bilaigarh	None of the Above	None of the Above	2789	5	
+43	Chhattisgarh - Bilaigarh	HARI RAM KURREY	Independent	2580	6	
+43	Chhattisgarh - Bilaigarh	SANJAY KUMAR	Independent	1822	7	
+43	Chhattisgarh - Bilaigarh	SANTOSH KUMAR SONWANI	Janata Congress	1083	8	
+43	Chhattisgarh - Bilaigarh	ER. REVALAL SATNAMI	Independent	858	9	
+43	Chhattisgarh - Bilaigarh	KOMAL PRASAD	Gondvana Gantantra Party	839	10	
+43	Chhattisgarh - Bilaigarh	FULMANI TANDAN	Janta Congress Chhattisgarh (J)	803	11	
+43	Chhattisgarh - Bilaigarh	NAND KISHOR DEEP	Independent	654	12	
+43	Chhattisgarh - Bilaigarh	TAKESH ALIAS TAKESHWAR	Independent	630	13	
+43	Chhattisgarh - Bilaigarh	JAGANNATH MAHILANG	Aam Aadmi Party	568	14	
+43	Chhattisgarh - Bilaigarh	NARESH KUMARI AJAY	Shiv Sena	456	15	
+43	Chhattisgarh - Bilaigarh	NITESH KUMAR RATRE	Sunder Samaj Party	444	16	
+44	Chhattisgarh - Kasdol	SHAKUNTALA SAHU	Indian National Congress	121422	1	48418
+44	Chhattisgarh - Kasdol	GAURISHANKAR AGRAWAL	Bharatiya Janata Party	73004	2	48418
+44	Chhattisgarh - Kasdol	PARMESHWAR YADU	Janta Congress Chhattisgarh (J)	18170	3	
+44	Chhattisgarh - Kasdol	RAMESHWAR PRASAD KAIWART	Bahujan Samaj Party	9558	4	
+44	Chhattisgarh - Kasdol	JAGJEEWAN KUMAR NARANGE	Independent	3917	5	
+44	Chhattisgarh - Kasdol	KRISHNA KANT PANDEY	Independent	2128	6	
+44	Chhattisgarh - Kasdol	CHHABI LAL KANWAR	Bhartiya Shakti Chetna Party	1917	7	
+44	Chhattisgarh - Kasdol	None of the Above	None of the Above	1588	8	
+44	Chhattisgarh - Kasdol	DASRU RAM PAIKARA	Independent	1560	9	
+44	Chhattisgarh - Kasdol	TARACHAND KASHYAP	Independent	1485	10	
+44	Chhattisgarh - Kasdol	CHARAN DAS	Independent	1370	11	
+44	Chhattisgarh - Kasdol	DHARMU PRABHUWA	Independent	1288	12	
+44	Chhattisgarh - Kasdol	ASHOK SAHU	Independent	1098	13	
+44	Chhattisgarh - Kasdol	SHAKUNTALA SAHU	Nationalist Congress Party	1009	14	
+44	Chhattisgarh - Kasdol	GYANPRAKASH	Independent	789	15	
+44	Chhattisgarh - Kasdol	SANJAY BANJARE	Janata Congress	741	16	
+44	Chhattisgarh - Kasdol	PROFESSOR DR. SHANTI KUMAR KAIWARTYA	Independent	735	17	
+44	Chhattisgarh - Kasdol	GOVIND SAHU	Independent	734	18	
+44	Chhattisgarh - Kasdol	MANHARAN SAHU	Shiv Sena	577	19	
+44	Chhattisgarh - Kasdol	RADHE LAL CHANDRAKAR	Chhattisgarh Swabhiman Manch	519	20	
+44	Chhattisgarh - Kasdol	DR. SAHDEV DANDEKAR	Janata Dal (United)	484	21	
+44	Chhattisgarh - Kasdol	SHYAMA CHARAN SAHU	Aam Aadmi Party	453	22	
+44	Chhattisgarh - Kasdol	SHANKAR LAL TANDAN	Independent	423	23	
+44	Chhattisgarh - Kasdol	NILKANTH VERMA	Independent	406	24	
+44	Chhattisgarh - Kasdol	SANTOSH KUMAR MARKANDEY	Independent	387	25	
+44	Chhattisgarh - Kasdol	PURAN LAL KATHOTRE	Independent	324	26	
+44	Chhattisgarh - Kasdol	RAHUL KAIWARTYA	Independent	307	27	
+44	Chhattisgarh - Kasdol	DURGESHWAR PRASAD SAHU	Independent	297	28	
+44	Chhattisgarh - Kasdol	PRABHAT KUMAR YADAV	Independent	244	29	
+44	Chhattisgarh - Kasdol	PRANNATH SAHU	Independent	181	30	
+45	Chhattisgarh - Balodabazar	PRAMOD KUMAR SHARMA	Janta Congress Chhattisgarh (J)	65251	1	2129
+45	Chhattisgarh - Balodabazar	JANAK RAM VERMA	Indian National Congress	63122	2	2129
+45	Chhattisgarh - Balodabazar	TESU LAL DHURANDHAR	Bharatiya Janata Party	48808	3	
+45	Chhattisgarh - Balodabazar	None of the Above	None of the Above	3167	4	
+45	Chhattisgarh - Balodabazar	GANESH KUMAR AGRAWAL	Independent	3093	5	
+45	Chhattisgarh - Balodabazar	GANGA RAM SHER	Independent	3079	6	
+45	Chhattisgarh - Balodabazar	SANTOSH KUMAR YADU	Shiv Sena	1634	7	
+45	Chhattisgarh - Balodabazar	MUKESH SAHU	Independent	1530	8	
+45	Chhattisgarh - Balodabazar	KISHAN LAL	Independent	1035	9	
+45	Chhattisgarh - Balodabazar	MANAHARAN LAL VERMA	Aam Aadmi Party	979	10	
+45	Chhattisgarh - Balodabazar	ANIL KUMAR YADAV	Ambedkarite Party of India	903	11	
+45	Chhattisgarh - Balodabazar	SMT. TIKESHWARI DHRUW	Independent	824	12	
+45	Chhattisgarh - Balodabazar	GAUKARAN NISHAD	Bhrashtachar Mukti Morcha	690	13	
+45	Chhattisgarh - Balodabazar	MAHENDRA KUMAR SAHU	Chhattisgarh Swabhiman Manch	688	14	
+45	Chhattisgarh - Balodabazar	ASHWANI VERMA	Independent	521	15	
+45	Chhattisgarh - Balodabazar	ROHIT PATIL	Rashtriya Jansabha Party	368	16	
+46	Chhattisgarh - Bhatapara	SHIVRATAN SHARMA	Bharatiya Janata Party	63399	1	11909
+46	Chhattisgarh - Bhatapara	SUNIL MAHESHWARI	Indian National Congress	51490	2	11909
+46	Chhattisgarh - Bhatapara	CHAITRAM SAHU	Janta Congress Chhattisgarh (J)	45907	3	
+46	Chhattisgarh - Bhatapara	MURARI MISHRA	Nationalist Congress Party	2269	4	
+46	Chhattisgarh - Bhatapara	MOHAN GAYAKWAD	Independent	1963	5	
+46	Chhattisgarh - Bhatapara	NARAYAN SAHU	Independent	1701	6	
+46	Chhattisgarh - Bhatapara	AMAR DAS MATRE	Independent	1463	7	
+46	Chhattisgarh - Bhatapara	RESHAMLAL JOGI	Independent	1153	8	
+46	Chhattisgarh - Bhatapara	KATYANI VERMA	Aam Aadmi Party	1140	9	
+46	Chhattisgarh - Bhatapara	RADHECHARAN DHRUW	Gondvana Gantantra Party	928	10	
+46	Chhattisgarh - Bhatapara	None of the Above	None of the Above	915	11	
+46	Chhattisgarh - Bhatapara	BHEEKHAM YADU	Shiv Sena	837	12	
+46	Chhattisgarh - Bhatapara	SANTOSH KUMAR KOSHLE	Independent	714	13	
+46	Chhattisgarh - Bhatapara	GOPAL NUT	Asankhya Samaj Party	701	14	
+46	Chhattisgarh - Bhatapara	PRAVIN KUMAR SAHU	Chhattisgarh Swabhiman Manch	654	15	
+46	Chhattisgarh - Bhatapara	TORANDAS KOSLE	Independent	614	16	
+46	Chhattisgarh - Bhatapara	GIRJALAL TONDE	Independent	468	17	
+46	Chhattisgarh - Bhatapara	SATYANARAYAN SONWANI	Independent	370	18	
+46	Chhattisgarh - Bhatapara	PREMPRAKASH	Bharat Bhoomi Party	365	19	
+47	Chhattisgarh - Dharsiwa	ANITA YOGENDRA SHARMA	Indian National Congress	78989	1	19400
+47	Chhattisgarh - Dharsiwa	DEVJI BHAI PATEL	Bharatiya Janata Party	59589	2	19400
+47	Chhattisgarh - Dharsiwa	PANNA LAL SAHU	Janta Congress Chhattisgarh (J)	14968	3	
+47	Chhattisgarh - Dharsiwa	SANJU YADAV	Independent	3343	4	
+47	Chhattisgarh - Dharsiwa	SANGITA BAGHEL	Independent	2197	5	
+47	Chhattisgarh - Dharsiwa	None of the Above	None of the Above	1361	6	
+47	Chhattisgarh - Dharsiwa	DR. OM PRAKASH SAHU	Samajwadi Party	632	7	
+47	Chhattisgarh - Dharsiwa	TAMESHWAR SAHU	Independent	592	8	
+47	Chhattisgarh - Dharsiwa	PURAN LAL BAGHEL	Independent	521	9	
+47	Chhattisgarh - Dharsiwa	ANIL PURI GOSWAMI	Independent	390	10	
+47	Chhattisgarh - Dharsiwa	DHANESH KUMAR MAIRISHA	Ambedkarite Party of India	383	11	
+47	Chhattisgarh - Dharsiwa	SANTOSH DUBEY	Aam Aadmi Party	324	12	
+47	Chhattisgarh - Dharsiwa	RAJESH KUMAR BANJARE	Rashtriya Jansabha Party	293	13	
+47	Chhattisgarh - Dharsiwa	DASHRATH BIRJALE	Independent	280	14	
+47	Chhattisgarh - Dharsiwa	TIKARAM SAHU	Independent	265	15	
+47	Chhattisgarh - Dharsiwa	GULAB TANDON	Independent	236	16	
+47	Chhattisgarh - Dharsiwa	GUNISH KUMAR VERMA (LATE CHHEDULAL VERMA)	Independent	127	17	
+48	Chhattisgarh - Raipur City Gramin	SATYANARAYAN SHARMA	Indian National Congress	78468	1	10453
+48	Chhattisgarh - Raipur City Gramin	NAND KUMAR SAHU (NANDE BHAIYA)	Bharatiya Janata Party	68015	2	10453
+48	Chhattisgarh - Raipur City Gramin	DR. OMPRAKASH DEWANGAN	Janta Congress Chhattisgarh (J)	17175	3	
+48	Chhattisgarh - Raipur City Gramin	PITAMBAR JANGDE	Independent	1483	4	
+48	Chhattisgarh - Raipur City Gramin	NARENDRA KUMAR BAGHEL	Independent	1106	5	
+48	Chhattisgarh - Raipur City Gramin	DR. SANKET THAKUR	Aam Aadmi Party	1096	6	
+48	Chhattisgarh - Raipur City Gramin	None of the Above	None of the Above	955	7	
+48	Chhattisgarh - Raipur City Gramin	GAIND LAL DADSENA	Independent	940	8	
+48	Chhattisgarh - Raipur City Gramin	CHANDRAKANT BHAI SOLANKI	Independent	727	9	
+48	Chhattisgarh - Raipur City Gramin	SANDEEP YADU	Independent	546	10	
+48	Chhattisgarh - Raipur City Gramin	BALDEV PRAKASH DWIVEDI	Independent	473	11	
+48	Chhattisgarh - Raipur City Gramin	BUDHARU RAM BANJARE	Independent	370	12	
+48	Chhattisgarh - Raipur City Gramin	MOTIRAM VERMA	Independent	308	13	
+48	Chhattisgarh - Raipur City Gramin	BANMALI CHHURA	Bharatiya Bahujan Party	224	14	
+48	Chhattisgarh - Raipur City Gramin	FULRAJ VARMA	Bharatiya Bahujan Congress	194	15	
+48	Chhattisgarh - Raipur City Gramin	KRISHNA MURARI YADAV	Independent	170	16	
+48	Chhattisgarh - Raipur City Gramin	SATYANARAYAN	Independent	139	17	
+48	Chhattisgarh - Raipur City Gramin	LAKHAMOORAM TANDON	Rashtriya Jansabha Party	135	18	
+48	Chhattisgarh - Raipur City Gramin	RAJENDRA KUMAR SAHU	Independent	118	19	
+48	Chhattisgarh - Raipur City Gramin	MD. USMAN SHAKH	Independent	113	20	
+48	Chhattisgarh - Raipur City Gramin	MOHAMMAD AURANGJEB	Independent	102	21	
+48	Chhattisgarh - Raipur City Gramin	MANGALCHAND	Republican Party of India (A)	81	22	
+48	Chhattisgarh - Raipur City Gramin	SMT. SHAMEEM KHAN	Bhartiya Lokmat Rashtrwadi Party	75	23	
+49	Chhattisgarh - Raipur City West	VIKAS UPADHYAY	Indian National Congress	76359	1	12212
+49	Chhattisgarh - Raipur City West	RAJESH MUNAT	Bharatiya Janata Party	64147	2	12212
+49	Chhattisgarh - Raipur City West	BHOJRAJ GAURKHEDE	Bahujan Samaj Party	2271	3	
+49	Chhattisgarh - Raipur City West	UTTAM JAYASVAL	Aam Aadmi Party	984	4	
+49	Chhattisgarh - Raipur City West	None of the Above	None of the Above	779	5	
+49	Chhattisgarh - Raipur City West	AJAY MISHRA	Independent	591	6	
+49	Chhattisgarh - Raipur City West	ARUN HARPAL	Bhartiya Kisan Party	480	7	
+49	Chhattisgarh - Raipur City West	ASHOK KUMAR BHAWSAGAR	Independent	419	8	
+49	Chhattisgarh - Raipur City West	BHARAT NAYAK	Independent	363	9	
+49	Chhattisgarh - Raipur City West	AWDHESH KUMAR UPADHYAY	Independent	357	10	
+49	Chhattisgarh - Raipur City West	KANTI YADAV	Independent	329	11	
+49	Chhattisgarh - Raipur City West	RAKESH LAHARI	Independent	251	12	
+49	Chhattisgarh - Raipur City West	USHA BAGHEL	Independent	205	13	
+49	Chhattisgarh - Raipur City West	RAGHUNANDAN SAHU	Independent	201	14	
+49	Chhattisgarh - Raipur City West	INDRA KUMAR CHANDRAKAR	Independent	196	15	
+49	Chhattisgarh - Raipur City West	ENGINEER AZMUL HASAN	Independent	154	16	
+49	Chhattisgarh - Raipur City West	RADHESHYAM YADAV	Independent	149	17	
+49	Chhattisgarh - Raipur City West	SMT. REKHA SAHU	Independent	147	18	
+49	Chhattisgarh - Raipur City West	RAM SAJEEVAN GUPTA	Independent	140	19	
+49	Chhattisgarh - Raipur City West	NAVIN GUPTA	Samajwadi Party	135	20	
+49	Chhattisgarh - Raipur City West	PRADEEP SINGH THAKUR	Shiv Sena	121	21	
+49	Chhattisgarh - Raipur City West	PREMDAS RAO	Ambedkarite Party of India	120	22	
+49	Chhattisgarh - Raipur City West	ENGINEER ASHOK TAMRAKAR	Chhattisgarhi Samaj Party	110	23	
+49	Chhattisgarh - Raipur City West	BHARAT SINGH RAJPUT	Independent	101	24	
+49	Chhattisgarh - Raipur City West	SHIVKUMAR SAHU ALIAS GOLU SAHU	Independent	97	25	
+49	Chhattisgarh - Raipur City West	DR. KHEMSINGH TELI	Independent	94	26	
+49	Chhattisgarh - Raipur City West	BILLAKURTY GAURAV	Bharat Bhoomi Party	93	27	
+49	Chhattisgarh - Raipur City West	HARINDER ARORA	Republican Party of India (A)	86	28	
+49	Chhattisgarh - Raipur City West	TILOKA BAI SAHU	Independent	81	29	
+49	Chhattisgarh - Raipur City West	VISHNU RAM SAHU	Independent	78	30	
+49	Chhattisgarh - Raipur City West	PRITI SAGAR	Independent	76	31	
+49	Chhattisgarh - Raipur City West	DINDAYAL BANJARE	Independent	70	32	
+49	Chhattisgarh - Raipur City West	SUNIL YADAV	Chhattisgarh Sanyukt Jatiye Party	69	33	
+49	Chhattisgarh - Raipur City West	BAIKUNTH SONA	Independent	68	34	
+49	Chhattisgarh - Raipur City West	SHRI DIGAMBAR JANAKPURI	Independent	58	35	
+49	Chhattisgarh - Raipur City West	NOOR SHABA	Independent	54	36	
+49	Chhattisgarh - Raipur City West	GANGA BAI SAHU	Independent	46	37	
+49	Chhattisgarh - Raipur City West	TUKARAM SAHU	Independent	43	38	
+50	Chhattisgarh - Raipur City North	KULDEEP JUNEJA	Indian National Congress	59843	1	16341
+50	Chhattisgarh - Raipur City North	SHRI CHAND SUNDRANI	Bharatiya Janata Party	43502	2	16341
+50	Chhattisgarh - Raipur City North	AMAR GIDWANI	Janta Congress Chhattisgarh (J)	2510	3	
+50	Chhattisgarh - Raipur City North	YOGENDRA SEN	Aam Aadmi Party	898	4	
+50	Chhattisgarh - Raipur City North	None of the Above	None of the Above	705	5	
+50	Chhattisgarh - Raipur City North	SHANKAR LAL VARANDANI	Independent	686	6	
+50	Chhattisgarh - Raipur City North	SHEKHAR TANDI	Independent	373	7	
+50	Chhattisgarh - Raipur City North	HARI BANDHU NAIK	Independent	323	8	
+50	Chhattisgarh - Raipur City North	NISHAR JAHAN	Independent	176	9	
+50	Chhattisgarh - Raipur City North	HAIDER BHATI	Independent	142	10	
+50	Chhattisgarh - Raipur City North	MO. MEHNDI HASAN BHATI	Independent	139	11	
+50	Chhattisgarh - Raipur City North	VIKAS MOTWANI	Shiv Sena	132	12	
+50	Chhattisgarh - Raipur City North	M. ZUBAIR KHAN	Ambedkarite Party of India	129	13	
+50	Chhattisgarh - Raipur City North	PRAKASH NARAYAN SHUKLA	Akhil Bharat Hindu Mahasabha	121	14	
+50	Chhattisgarh - Raipur City North	MD. DANISH QUADRI	Independent	78	15	
+50	Chhattisgarh - Raipur City North	IQBAL ALI	Independent	72	16	
+50	Chhattisgarh - Raipur City North	MO. JAVED BHATI	Independent	70	17	
+50	Chhattisgarh - Raipur City North	DR KAILASH ADIL	Independent	60	18	
+50	Chhattisgarh - Raipur City North	PRAVIN JAIN	Akhil Bhartiya Sarvadharma Samaj Party	56	19	
+51	Chhattisgarh - Raipur City South	BRIJMOHAN AGRAWAL	Bharatiya Janata Party	77589	1	17496
+51	Chhattisgarh - Raipur City South	KANHAIYA AGRAWAL	Indian National Congress	60093	2	17496
+51	Chhattisgarh - Raipur City South	None of the Above	None of the Above	1521	3	
+51	Chhattisgarh - Raipur City South	UMESH DAS MANIKPURI	Bahujan Samaj Party	1514	4	
+51	Chhattisgarh - Raipur City South	MUNNA BISEN	Aam Aadmi Party	1363	5	
+51	Chhattisgarh - Raipur City South	MANISH THAKUR	Bhartiya Tribal Party	491	6	
+51	Chhattisgarh - Raipur City South	AATMADAS MAHESHWARI	Rashtriya Jansabha Party	354	7	
+51	Chhattisgarh - Raipur City South	MUKESH KUMAR LOKHANDE	Ambedkarite Party of India	316	8	
+51	Chhattisgarh - Raipur City South	MANISH SHRIVASTAV	Independent	260	9	
+51	Chhattisgarh - Raipur City South	RESHAM LAL JANGDE	Shiv Sena	226	10	
+51	Chhattisgarh - Raipur City South	SANTOSH SAHU	Independent	221	11	
+51	Chhattisgarh - Raipur City South	NUSRAT BEGUM	Independent	210	12	
+51	Chhattisgarh - Raipur City South	MANJU BAI YADAV	Independent	205	13	
+51	Chhattisgarh - Raipur City South	ABDUL RAZZAK	Independent	189	14	
+51	Chhattisgarh - Raipur City South	BISESHER BAGHMAR	Bhartiya Panchyat Party	185	15	
+51	Chhattisgarh - Raipur City South	NEERAJ SAINI (PUJARI)	Akhil Bharat Hindu Mahasabha	166	16	
+51	Chhattisgarh - Raipur City South	ANIL KUMAR KADAM	Independent	166	17	
+51	Chhattisgarh - Raipur City South	HABIB KHAN	Independent	152	18	
+51	Chhattisgarh - Raipur City South	SMT. RUBEENA ANJUM	Independent	150	19	
+51	Chhattisgarh - Raipur City South	PAVAN SHUKLA	Independent	145	20	
+51	Chhattisgarh - Raipur City South	MAZHAR IQBAL	Rashtriya Gondvana Party	138	21	
+51	Chhattisgarh - Raipur City South	BHARATLAL SONI	Bharat Bhoomi Party	124	22	
+51	Chhattisgarh - Raipur City South	SHEKH RAHMUDOODIN	Independent	99	23	
+51	Chhattisgarh - Raipur City South	A. NAZIR	Independent	98	24	
+51	Chhattisgarh - Raipur City South	ILIYAS HUSSAIN	Bhartiya Sarvjan Hitay Samaj Party	86	25	
+51	Chhattisgarh - Raipur City South	JAGESHWER PRASAD TIWARI	Janata Dal (United)	80	26	
+51	Chhattisgarh - Raipur City South	SHEIKH ASIF KHAN	Independent	79	27	
+51	Chhattisgarh - Raipur City South	DR. GOJUPAUL	Republican Party of India (A)	78	28	
+51	Chhattisgarh - Raipur City South	ABDUL SHEIKH NAIM	Independent	77	29	
+51	Chhattisgarh - Raipur City South	SUBHASH KURRE	Independent	76	30	
+51	Chhattisgarh - Raipur City South	PRAVIN JAIN	Akhil Bhartiya Sarvadharma Samaj Party	73	31	
+51	Chhattisgarh - Raipur City South	DHEERAJ TIWARI	Anjaan Aadmi Party	66	32	
+51	Chhattisgarh - Raipur City South	IMRAN BAKS	Independent	62	33	
+51	Chhattisgarh - Raipur City South	EMRAN ALI	Independent	62	34	
+51	Chhattisgarh - Raipur City South	MO. AJAZ AHMED	Independent	58	35	
+51	Chhattisgarh - Raipur City South	SHAYRA BANO	Independent	54	36	
+51	Chhattisgarh - Raipur City South	NAIM ANSARI	Independent	54	37	
+51	Chhattisgarh - Raipur City South	ASHA BARELE	Independent	48	38	
+51	Chhattisgarh - Raipur City South	SHANKAR LAL VARANDANI	Independent	44	39	
+51	Chhattisgarh - Raipur City South	AAMNA BEGAM	Independent	41	40	
+51	Chhattisgarh - Raipur City South	RUMANA HUSSAIN	Independent	39	41	
+51	Chhattisgarh - Raipur City South	SHARIQ ALMAS	Independent	37	42	
+51	Chhattisgarh - Raipur City South	M. VAKIL SHDDHAQUI	Independent	35	43	
+51	Chhattisgarh - Raipur City South	SALIM KHAN	Independent	32	44	
+51	Chhattisgarh - Raipur City South	MO. AHMAD	Independent	30	45	
+51	Chhattisgarh - Raipur City South	SHAGUFTA AFROZ	Independent	27	46	
+51	Chhattisgarh - Raipur City South	SHABUDDIN	Independent	25	47	
+52	Chhattisgarh - Arang	DR. SHIVKUMAR DAHARIYA	Indian National Congress	69900	1	25077
+52	Chhattisgarh - Arang	SANJAY DHIDHI	Bharatiya Janata Party	44823	2	25077
+52	Chhattisgarh - Arang	SANJAY CHELAK	Janta Congress Chhattisgarh (J)	27903	3	
+52	Chhattisgarh - Arang	SHARDA BANJARE	Independent	3042	4	
+52	Chhattisgarh - Arang	NARAYAN PRASAD TANDAN	Independent	1528	5	
+52	Chhattisgarh - Arang	DAGESHVAR BHARTI	Aam Aadmi Party	1423	6	
+52	Chhattisgarh - Arang	None of the Above	None of the Above	1321	7	
+52	Chhattisgarh - Arang	SANTOSH KUMAR DAHARIYA	Shiv Sena	1112	8	
+52	Chhattisgarh - Arang	SANJAY KUMAR KOSARIYA	Chhattisgarh Vikas Party	1053	9	
+52	Chhattisgarh - Arang	NAROTTAM BANJARE	Independent	552	10	
+52	Chhattisgarh - Arang	ASHOK SONWANI	Independent	439	11	
+52	Chhattisgarh - Arang	GAJENDRA SINGH KOSHLEY	Independent	379	12	
+52	Chhattisgarh - Arang	DR. UDAY RATRE	Independent	361	13	
+52	Chhattisgarh - Arang	NEHA BAGHEL	Bharatiya Bahujan Congress	360	14	
+52	Chhattisgarh - Arang	TARJAN JANGADE	Independent	315	15	
+52	Chhattisgarh - Arang	RIJHENDRA KUMAR DAHARIYA	Rashtriya Jansabha Party	265	16	
+52	Chhattisgarh - Arang	ADVOCATE SHAILENDRA BANJARE(SHAKTI PUTRA )	Shakti Sena (Bharat Desh)	202	17	
+53	Chhattisgarh - Abhanpur	DHANENDRA SAHU	Indian National Congress	76761	1	23471
+53	Chhattisgarh - Abhanpur	CHANDRASHEKHAR SAHU - CHAMPU BHAIYYA	Bharatiya Janata Party	53290	2	23471
+53	Chhattisgarh - Abhanpur	DAYARAM NISHAD	Janta Congress Chhattisgarh (J)	21324	3	
+53	Chhattisgarh - Abhanpur	None of the Above	None of the Above	3005	4	
+53	Chhattisgarh - Abhanpur	BRAMHANAND SAHU	Independent	2249	5	
+53	Chhattisgarh - Abhanpur	SHWETA RAKESH SAHU	Independent	2040	6	
+53	Chhattisgarh - Abhanpur	TIKENDRA SINGH THAKUR	Nationalist Congress Party	1242	7	
+53	Chhattisgarh - Abhanpur	SHAKUNTALA MANDLE	Independent	962	8	
+53	Chhattisgarh - Abhanpur	SANJAY RAI	Aam Aadmi Party	695	9	
+53	Chhattisgarh - Abhanpur	SAVITRI PAL	Independent	582	10	
+53	Chhattisgarh - Abhanpur	BHUNESHWAR	Independent	479	11	
+53	Chhattisgarh - Abhanpur	TEKESHWAR CHATURVEDI	Independent	244	12	
+53	Chhattisgarh - Abhanpur	DEEPAK KUMAR NAVRANGE	Independent	182	13	
+54	Chhattisgarh - Rajim	AMITESH SHUKLA	Indian National Congress	99041	1	58132
+54	Chhattisgarh - Rajim	SANTOSH UPADHYAY	Bharatiya Janata Party	40909	2	58132
+54	Chhattisgarh - Rajim	ROHIT SAHU	Janta Congress Chhattisgarh (J)	23776	3	
+54	Chhattisgarh - Rajim	None of the Above	None of the Above	4844	4	
+54	Chhattisgarh - Rajim	VISHWANATH SONWANI	Independent	1474	5	
+54	Chhattisgarh - Rajim	BHUSHAN SAHU	Bhartiya Shakti Chetna Party	1136	6	
+54	Chhattisgarh - Rajim	TEJRAM SAHU VIDROHI	Communist Party of India (Marxist-Leninist) Red Star	934	7	
+54	Chhattisgarh - Rajim	PARDESHI RAM DHRUW	Gondvana Gantantra Party	769	8	
+54	Chhattisgarh - Rajim	DEVRAJ THAKUR	Independent	662	9	
+54	Chhattisgarh - Rajim	RAJA THAKUR	Aam Aadmi Party	610	10	
+54	Chhattisgarh - Rajim	GANESH SONI URF BABA	Independent	574	11	
+54	Chhattisgarh - Rajim	GOPAL JETHI	Independent	420	12	
+54	Chhattisgarh - Rajim	FALENDRA KUMAR SAHU	Pichhara Samaj Party United	404	13	
+55	Chhattisgarh - Bindranawagarh	DAMARUDHAR PUJARI	Bharatiya Janata Party	79619	1	10430
+55	Chhattisgarh - Bindranawagarh	SANJAY NETAM	Indian National Congress	69189	2	10430
+55	Chhattisgarh - Bindranawagarh	ONKAR SHAH	Gondvana Gantantra Party	19022	3	
+55	Chhattisgarh - Bindranawagarh	None of the Above	None of the Above	5515	4	
+55	Chhattisgarh - Bindranawagarh	DEVENDRA THAKUR	Bahujan Samaj Party	2752	5	
+55	Chhattisgarh - Bindranawagarh	SIYARAM NAGESH	Aam Aadmi Party	2378	6	
+55	Chhattisgarh - Bindranawagarh	BHOJLAL NETAM	Communist Party of India (Marxist-Leninist) Red Star	2083	7	
+56	Chhattisgarh - Sihawa	DR. LAKSHMI DHRUW	Indian National Congress	88451	1	45436
+56	Chhattisgarh - Sihawa	PINKY SHIVRAJ SHAH	Bharatiya Janata Party	43015	2	45436
+56	Chhattisgarh - Sihawa	VINOD KUMAR NAGWANSHI	Gondvana Gantantra Party	8126	3	
+56	Chhattisgarh - Sihawa	MAKHAN LAL MARKAM	Independent	4729	4	
+56	Chhattisgarh - Sihawa	None of the Above	None of the Above	4306	5	
+56	Chhattisgarh - Sihawa	SHANTANU SOM	Janta Congress Chhattisgarh (J)	2312	6	
+56	Chhattisgarh - Sihawa	AKBAR MANDAVI	Aam Aadmi Party	1544	7	
+56	Chhattisgarh - Sihawa	JAGANNATH DHRUW	Loktantrik Samajwadi Party	1399	8	
+56	Chhattisgarh - Sihawa	MADALSA DHRUV (RUKHMANI)	Independent	1155	9	
+56	Chhattisgarh - Sihawa	BHAGIRAM MANDAVI	Independent	746	10	
+56	Chhattisgarh - Sihawa	JETHURAM DHRUV	Independent	541	11	
+56	Chhattisgarh - Sihawa	ISHWAR LAL KORRAM	Ambedkarite Party of India	371	12	
+57	Chhattisgarh - Kurud	AJAY CHANDRAKAR	Bharatiya Janata Party	72922	1	12317
+57	Chhattisgarh - Kurud	NEELAM CHANDRAKAR	Independent	60605	2	12317
+57	Chhattisgarh - Kurud	LAXMIKANTA SAHU	Indian National Congress	26483	3	
+57	Chhattisgarh - Kurud	None of the Above	None of the Above	3470	4	
+57	Chhattisgarh - Kurud	KANHAIYA LAL SAHU	Bahujan Samaj Party	2888	5	
+57	Chhattisgarh - Kurud	YUGESHWAR SAHU	Independent	1341	6	
+57	Chhattisgarh - Kurud	NEERA CHANDRAKAR	Independent	1253	7	
+57	Chhattisgarh - Kurud	TEJENDRA KUMAR TODEKAR	Aam Aadmi Party	1252	8	
+57	Chhattisgarh - Kurud	AJIT AGRAWAL	Independent	672	9	
+57	Chhattisgarh - Kurud	DINESH SAHU	Independent	609	10	
+57	Chhattisgarh - Kurud	CHANDRAHAS SAHU	Independent	353	11	
+57	Chhattisgarh - Kurud	RAGHUNANDAN SAHU	Janata Dal (United)	347	12	
+57	Chhattisgarh - Kurud	DOMAR SINGH	Independent	339	13	
+58	Chhattisgarh - Dhamtari	RANJANA DIPENDRA SAHU	Bharatiya Janata Party	63198	1	464
+58	Chhattisgarh - Dhamtari	GURUMUKH SINGH HORA	Indian National Congress	62734	2	464
+58	Chhattisgarh - Dhamtari	ANAND PAWAR	Independent	29163	3	
+58	Chhattisgarh - Dhamtari	DIGVIJAY SINGH KRIDUTT	Janta Congress Chhattisgarh (J)	3299	4	
+58	Chhattisgarh - Dhamtari	RAJESHWARI DOMAN SAHU	Independent	2856	5	
+58	Chhattisgarh - Dhamtari	TIRATH RAJ FUTAN (GADDI)	Independent	2061	6	
+58	Chhattisgarh - Dhamtari	SHATRUHAN SINGH SAHU	Aam Aadmi Party	1736	7	
+58	Chhattisgarh - Dhamtari	BHAGESH BAID	Independent	1585	8	
+58	Chhattisgarh - Dhamtari	RANJANA SAHU	Independent	1189	9	
+58	Chhattisgarh - Dhamtari	KEWAL SINGH NETAM	Gondvana Gantantra Party	812	10	
+58	Chhattisgarh - Dhamtari	GYANCHAND PARAKH (GYANU)	Independent	655	11	
+58	Chhattisgarh - Dhamtari	AKASH DEWANGAN	Independent	566	12	
+58	Chhattisgarh - Dhamtari	None of the Above	None of the Above	551	13	
+58	Chhattisgarh - Dhamtari	BHARATLAL SATNAMI	Independent	537	14	
+58	Chhattisgarh - Dhamtari	DR. GEINDLAL SATNAMI	Independent	478	15	
+58	Chhattisgarh - Dhamtari	DR. NEPALSINGH SAHU	Independent	350	16	
+58	Chhattisgarh - Dhamtari	GOPAL JOSHI	Independent	269	17	
+58	Chhattisgarh - Dhamtari	JANMEJAI MAHILANGE	Rashtriya Jansabha Party	222	18	
+58	Chhattisgarh - Dhamtari	YOGENDRA KUMAR SAHU	Pichhara Samaj Party United	221	19	
+59	Chhattisgarh - Sanjari balod	SANGEETA SINHA	Indian National Congress	90428	1	27488
+59	Chhattisgarh - Sanjari balod	PAWAN SAHU	Bharatiya Janata Party	62940	2	27488
+59	Chhattisgarh - Sanjari balod	ARJUN HIRWANI	Janta Congress Chhattisgarh (J)	12664	3	
+59	Chhattisgarh - Sanjari balod	None of the Above	None of the Above	2913	4	
+59	Chhattisgarh - Sanjari balod	BHUPESH KUMAR SAHU	Independent	2401	5	
+59	Chhattisgarh - Sanjari balod	KAMINI DHURVE	Aam Aadmi Party	1770	6	
+59	Chhattisgarh - Sanjari balod	GHANSHYAM SINGH THAKUR	Independent	961	7	
+59	Chhattisgarh - Sanjari balod	ROHIT KUMAR NISHAD	Shiv Sena	614	8	
+59	Chhattisgarh - Sanjari balod	RENU YADAV	Samajwadi Party	500	9	
+59	Chhattisgarh - Sanjari balod	MANOJ KUMAR SORI	National Democratic Peoples Front	280	10	
+60	Chhattisgarh - Dondi lohara	ANILA BHENDIA	Indian National Congress	67448	1	33103
+60	Chhattisgarh - Dondi lohara	LAL MAHENDRA SINGH TEKAM	Bharatiya Janata Party	34345	2	33103
+60	Chhattisgarh - Dondi lohara	DEV LAL THAKUR	Independent	21360	3	
+60	Chhattisgarh - Dondi lohara	JANAK LAL THAKUR	Independent	19242	4	
+60	Chhattisgarh - Dondi lohara	RAJESH CHURENDRA	Janta Congress Chhattisgarh (J)	13929	5	
+60	Chhattisgarh - Dondi lohara	None of the Above	None of the Above	4842	6	
+60	Chhattisgarh - Dondi lohara	HITESHWARI KOTHARI	Independent	1902	7	
+60	Chhattisgarh - Dondi lohara	MAHESH KUMAR KORETI	Ambedkarite Party of India	1279	8	
+60	Chhattisgarh - Dondi lohara	RAMESH KUMAR CHURENDRA	Swabhiman Party	1256	9	
+60	Chhattisgarh - Dondi lohara	YUGAL KISHOR RATRE	Aam Aadmi Party	1100	10	
+61	Chhattisgarh - Gunderdehi	KUNWER SINGH NISHAD	Indian National Congress	110369	1	55394
+61	Chhattisgarh - Gunderdehi	DEEPAK TARACHAND SAHU	Bharatiya Janata Party	54975	2	55394
+61	Chhattisgarh - Gunderdehi	RAJENDRA KUMAR RAI	Janta Congress Chhattisgarh (J)	8648	3	
+61	Chhattisgarh - Gunderdehi	None of the Above	None of the Above	5014	4	
+61	Chhattisgarh - Gunderdehi	RAMAN KUMAR SAHU	Independent	1835	5	
+61	Chhattisgarh - Gunderdehi	NAMRATA SONI	Aam Aadmi Party	1261	6	
+61	Chhattisgarh - Gunderdehi	CHANDRAHAS KALICHARAN SAHU	Bhartiya Panchyat Party	909	7	
+61	Chhattisgarh - Gunderdehi	DHANNULAL MARKANDE	Independent	671	8	
+61	Chhattisgarh - Gunderdehi	BUDHELAL KOSLE	Independent	655	9	
+61	Chhattisgarh - Gunderdehi	NEETA SAHU	Shiv Sena	582	10	
+61	Chhattisgarh - Gunderdehi	MITHILESH PISDA	Ambedkarite Party of India	513	11	
+61	Chhattisgarh - Gunderdehi	GAURAV KUMAR CHANDRAKAR	Independent	496	12	
+61	Chhattisgarh - Gunderdehi	TAMRAJDHWAJ SAHU	Chhattisgarh Swabhiman Manch	429	13	
+61	Chhattisgarh - Gunderdehi	LEDGU RAM	Rashtriya Jansabha Party	347	14	
+62	Chhattisgarh - Patan	BHUPESH BAGHEL	Indian National Congress	84352	1	27477
+62	Chhattisgarh - Patan	MOTILAL SAHU	Bharatiya Janata Party	56875	2	27477
+62	Chhattisgarh - Patan	SHAKUNTALA SAHU	Janta Congress Chhattisgarh (J)	13201	3	
+62	Chhattisgarh - Patan	None of the Above	None of the Above	3939	4	
+62	Chhattisgarh - Patan	HAIDAR BHATEE	Independent	1450	5	
+62	Chhattisgarh - Patan	DINESH KUMAR KURRE	Ambedkarite Party of India	788	6	
+62	Chhattisgarh - Patan	RAM PRASAD KOSLE NETA JI	Rashtriya Jansabha Party	621	7	
+62	Chhattisgarh - Patan	DURGA JHA	Aam Aadmi Party	495	8	
+62	Chhattisgarh - Patan	TIKENDRA VERMA	Independent	492	9	
+62	Chhattisgarh - Patan	DR. HARISHCHANDRA SAHU	Independent	456	10	
+63	Chhattisgarh - Durg Gramin	TAMRADHWAJ SAHU	Indian National Congress	76208	1	27112
+63	Chhattisgarh - Durg Gramin	JAGESHWAR SAHU	Bharatiya Janata Party	49096	2	27112
+63	Chhattisgarh - Durg Gramin	DR. BALMUKUND DEWANGAN	Janta Congress Chhattisgarh (J)	11485	3	
+63	Chhattisgarh - Durg Gramin	CHUMMAN LAL DESHMUKH	Independent	2819	4	
+63	Chhattisgarh - Durg Gramin	None of the Above	None of the Above	2603	5	
+63	Chhattisgarh - Durg Gramin	BALMUKUND DEWANGAN	Independent	2069	6	
+63	Chhattisgarh - Durg Gramin	BADRI PRASAD PARKAR	Chhattisgarh Swabhiman Manch	1336	7	
+63	Chhattisgarh - Durg Gramin	ISHWARI KURRE	Aam Aadmi Party	1286	8	
+63	Chhattisgarh - Durg Gramin	SATISH PARAKH	Democratic Party of India	970	9	
+63	Chhattisgarh - Durg Gramin	JAGESHWAR KUMAR SAHU	Independent	553	10	
+64	Chhattisgarh - Durg City	ARUN VORA	Indian National Congress	64981	1	21081
+64	Chhattisgarh - Durg City	CHANDRIKA CHANDRAKAR	Bharatiya Janata Party	43900	2	21081
+64	Chhattisgarh - Durg City	PRATAP MADHYANI	Janta Congress Chhattisgarh (J)	20634	3	
+64	Chhattisgarh - Durg City	KANCHAN SHENDRE	Independent	1733	4	
+64	Chhattisgarh - Durg City	DR. S. K. AGRAWAL	Aam Aadmi Party	1701	5	
+64	Chhattisgarh - Durg City	None of the Above	None of the Above	1471	6	
+64	Chhattisgarh - Durg City	SUBHASH KUMAR PAUL	India Praja Bandhu Party	554	7	
+64	Chhattisgarh - Durg City	KAMLESH KUMAR NAGARCHI	Independent	553	8	
+64	Chhattisgarh - Durg City	BRAMHA TIWARI	Independent	462	9	
+64	Chhattisgarh - Durg City	ANOOP KUMAR PANDEY	Independent	398	10	
+64	Chhattisgarh - Durg City	AATMA RAM SAHU	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	375	11	
+64	Chhattisgarh - Durg City	BALDEV SINGH SAHU	Chhattisgarh Swabhiman Manch	339	12	
+64	Chhattisgarh - Durg City	RAS BIHARI BARI	Independent	319	13	
+64	Chhattisgarh - Durg City	SUNIL KUMAR MARKANDEY	Ambedkarite Party of India	309	14	
+64	Chhattisgarh - Durg City	ARUN KUMAR JOSHI	Independent	269	15	
+64	Chhattisgarh - Durg City	TAMESHWAR TIWARI	Akhil Bharat Hindu Mahasabha	262	16	
+64	Chhattisgarh - Durg City	BRAJESH KUMAR YADAV	Samajwadi Party	257	17	
+64	Chhattisgarh - Durg City	SURYA NARAYAN SONWANI	Pichhara Samaj Party United	234	18	
+64	Chhattisgarh - Durg City	MAHELKA BEGUM SHEKH	Independent	148	19	
+64	Chhattisgarh - Durg City	SURESH KUMAR VERMA	Independent	128	20	
+64	Chhattisgarh - Durg City	SUJATA SINGH	Bhartiya Panchyat Party	123	21	
+64	Chhattisgarh - Durg City	ADVOCATE RAMRATAN SAHU	Independent	63	22	
+65	Chhattisgarh - Bhilai Nagar	DEVENDRA YADAV	Indian National Congress	51044	1	2849
+65	Chhattisgarh - Bhilai Nagar	PREM PRAKASH PANDEY	Bharatiya Janata Party	48195	2	2849
+65	Chhattisgarh - Bhilai Nagar	DEENANATH JAISWAR	Bahujan Samaj Party	2662	3	
+65	Chhattisgarh - Bhilai Nagar	None of the Above	None of the Above	1147	4	
+65	Chhattisgarh - Bhilai Nagar	SHATRUGHAN PRASAD	Independent	592	5	
+65	Chhattisgarh - Bhilai Nagar	SURESH KUMAR ADIL	Independent	544	6	
+65	Chhattisgarh - Bhilai Nagar	THANENDRA SAHU	Swabhiman Party	319	7	
+65	Chhattisgarh - Bhilai Nagar	MO. RAZA SIDDIQUE	Aam Aadmi Party	276	8	
+65	Chhattisgarh - Bhilai Nagar	AENUL HAQUE KHAN	Bhrashtachar Mukti Morcha	216	9	
+65	Chhattisgarh - Bhilai Nagar	RAMPYARI BHARTI	Independent	208	10	
+65	Chhattisgarh - Bhilai Nagar	BIJU JOHNSON	Chhattisgarh Swabhiman Manch	149	11	
+65	Chhattisgarh - Bhilai Nagar	JAVED KHAN	Independent	123	12	
+65	Chhattisgarh - Bhilai Nagar	ANWARUL HAQUE	Independent	91	13	
+65	Chhattisgarh - Bhilai Nagar	JANISAR AKHTAR	Rashtriya Samajwadi Swabhiman Manch	72	14	
+65	Chhattisgarh - Bhilai Nagar	MO. NASEEM	Bahujan Mukti Party	55	15	
+66	Chhattisgarh - Vaishali Nagar	VIDYA RATAN BHASIN	Bharatiya Janata Party	72920	1	18080
+66	Chhattisgarh - Vaishali Nagar	BADRUDDIN QURESHI	Indian National Congress	54840	2	18080
+66	Chhattisgarh - Vaishali Nagar	MANOJ KUMAR	Janta Congress Chhattisgarh (J)	10696	3	
+66	Chhattisgarh - Vaishali Nagar	None of the Above	None of the Above	2724	4	
+66	Chhattisgarh - Vaishali Nagar	HEMANT CHAUHAN	Independent	797	5	
+66	Chhattisgarh - Vaishali Nagar	ANJULA BHARGAVA	Aam Aadmi Party	777	6	
+66	Chhattisgarh - Vaishali Nagar	SHANKAR LAL SAHU	Bhrashtachar Mukti Morcha	568	7	
+66	Chhattisgarh - Vaishali Nagar	LATA NUNHADE	Chhattisgarh Swabhiman Manch	472	8	
+66	Chhattisgarh - Vaishali Nagar	ASHWINI KUMAR SHUKLA	Swabhiman Party	448	9	
+66	Chhattisgarh - Vaishali Nagar	PANKAJ SIRSAT	Ambedkarite Party of India	414	10	
+66	Chhattisgarh - Vaishali Nagar	SUBEDAR SINGH YADAV	Samajwadi Party	412	11	
+66	Chhattisgarh - Vaishali Nagar	YAGESHWAR SAHU	Independent	381	12	
+66	Chhattisgarh - Vaishali Nagar	RAJKISHOR GUPTA	Independent	379	13	
+66	Chhattisgarh - Vaishali Nagar	NAZRUL KHAN	Independent	356	14	
+66	Chhattisgarh - Vaishali Nagar	JANISAR AKHTAR	Independent	306	15	
+66	Chhattisgarh - Vaishali Nagar	ALI HUSSAIN SIDDIQUI	Independent	185	16	
+67	Chhattisgarh - Ahiwara	GURU RUDRA KUMAR	Indian National Congress	88735	1	31687
+67	Chhattisgarh - Ahiwara	RAJMAHANT SANWLA RAM DAHRE	Bharatiya Janata Party	57048	2	31687
+67	Chhattisgarh - Ahiwara	DR.SHOBHA RAM BANJARE	Bahujan Samaj Party	5844	3	
+67	Chhattisgarh - Ahiwara	None of the Above	None of the Above	3681	4	
+67	Chhattisgarh - Ahiwara	RAM KUMAR SURVANSHI	Independent	1513	5	
+67	Chhattisgarh - Ahiwara	AJAY RAMTEKE	Aam Aadmi Party	1178	6	
+67	Chhattisgarh - Ahiwara	RAMBAGAS BHARTI	Independent	705	7	
+67	Chhattisgarh - Ahiwara	PADMA PATIL	SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)	673	8	
+67	Chhattisgarh - Ahiwara	MANOJ KUMAR LAHARE	Ambedkarite Party of India	638	9	
+67	Chhattisgarh - Ahiwara	GAIND LAL RAI	Independent	595	10	
+67	Chhattisgarh - Ahiwara	NANDKUMAR MAHILANG	Independent	507	11	
+67	Chhattisgarh - Ahiwara	ADVOCATE SHAILENDRA KUMAR BANJARE (SHAKTI PUTRA)	Shakti Sena (Bharat Desh)	266	12	
+68	Chhattisgarh - Saja	RAVINDRA CHAUBE	Indian National Congress	95658	1	31535
+68	Chhattisgarh - Saja	LABHCHAND BAFNA	Bharatiya Janata Party	64123	2	31535
+68	Chhattisgarh - Saja	TEKSINGH CHANDEL	Janta Congress Chhattisgarh (J)	6206	3	
+68	Chhattisgarh - Saja	None of the Above	None of the Above	5840	4	
+68	Chhattisgarh - Saja	BASANT AGRAWAL	Independent	5700	5	
+68	Chhattisgarh - Saja	LOCHAN SAHU	Independent	4274	6	
+68	Chhattisgarh - Saja	ASHOK KUMAR SINGHANIYA	Aam Aadmi Party	637	7	
+68	Chhattisgarh - Saja	RAKESH SINGH	Independent	602	8	
+68	Chhattisgarh - Saja	KAUSHILYA NARANG	Independent	491	9	
+68	Chhattisgarh - Saja	GULAB SINGH LODHI	Bhartiya Shakti Chetna Party	368	10	
+68	Chhattisgarh - Saja	YESWANT BHARGOW	Independent	308	11	
+68	Chhattisgarh - Saja	CHITREN LODHI	Shiv Sena	303	12	
+68	Chhattisgarh - Saja	BHAGATRAM	Independent	262	13	
+68	Chhattisgarh - Saja	ROHIT SINHA	Janata Dal (United)	204	14	
+68	Chhattisgarh - Saja	KISHAN SAHU	Independent	199	15	
+68	Chhattisgarh - Saja	ASHOK TANDULKER	Independent	146	16	
+69	Chhattisgarh - Bemetara	ASHISH KUMAR CHHABRA	Indian National Congress	74914	1	25131
+69	Chhattisgarh - Bemetara	AWADHESH SINGH CHANDEL	Bharatiya Janata Party	49783	2	25131
+69	Chhattisgarh - Bemetara	YOGESH TIWARI	Janta Congress Chhattisgarh (J)	28332	3	
+69	Chhattisgarh - Bemetara	SANJEEV AGRAWAL	Independent	4374	4	
+69	Chhattisgarh - Bemetara	SOHAN LAL NISHAD	Nirbal Indian Shoshit Hamara Aam Dal	4275	5	
+69	Chhattisgarh - Bemetara	None of the Above	None of the Above	3789	6	
+69	Chhattisgarh - Bemetara	CHURAMAN SINGH SAHU	Janata Dal (United)	1713	7	
+69	Chhattisgarh - Bemetara	ANJOR DHAS MAHANT	Independent	1332	8	
+69	Chhattisgarh - Bemetara	RAMCHAND SAHU	Independent	969	9	
+69	Chhattisgarh - Bemetara	DAURAM CHOUHAN	Shiv Sena	638	10	
+69	Chhattisgarh - Bemetara	SAIYAD FARUQUE ALI	Aam Aadmi Party	613	11	
+69	Chhattisgarh - Bemetara	YASHWANT SITARAM SAHU	Bhartiya Shakti Chetna Party	526	12	
+69	Chhattisgarh - Bemetara	RAJESH DUBEY	Independent	469	13	
+69	Chhattisgarh - Bemetara	MANMOHAN THAKUR	Independent	375	14	
+69	Chhattisgarh - Bemetara	BHUNESHWAR SATNAMI	Independent	362	15	
+69	Chhattisgarh - Bemetara	BALDAU PRASAD SIWARE	Ambedkarite Party of India	343	16	
+70	Chhattisgarh - Navagarh	GURUDAYAL SINGH BANJARE	Indian National Congress	86779	1	33200
+70	Chhattisgarh - Navagarh	DAYALDAS BAGHEL	Bharatiya Janata Party	53579	2	33200
+70	Chhattisgarh - Navagarh	OMPRAKASH BATCHPAYI	Bahujan Samaj Party	18576	3	
+70	Chhattisgarh - Navagarh	HEMANT KUMAR MAHILANG	Independent	3501	4	
+70	Chhattisgarh - Navagarh	HIRALAL ANANT	Independent	3389	5	
+70	Chhattisgarh - Navagarh	None of the Above	None of the Above	2196	6	
+70	Chhattisgarh - Navagarh	BHAI HARIKISHAN	Independent	1484	7	
+70	Chhattisgarh - Navagarh	ANJORDAS GHRITLAHARE	Aam Aadmi Party	1081	8	
+70	Chhattisgarh - Navagarh	LAKHVIR SINGH	Independent	677	9	
+70	Chhattisgarh - Navagarh	RAJU PATREY	Shiv Sena	593	10	
+70	Chhattisgarh - Navagarh	RAMAKANT RAY	Independent	369	11	
+70	Chhattisgarh - Navagarh	ANAND NAWAGARHIYA	Independent	325	12	
+70	Chhattisgarh - Navagarh	BHASKAR GHOSH	Independent	313	13	
+70	Chhattisgarh - Navagarh	TEK RAM KOSHLE	Independent	275	14	
+70	Chhattisgarh - Navagarh	BHAGBALI SIWARE	Independent	264	15	
+70	Chhattisgarh - Navagarh	BHARAT LAL PATALEY	Independent	255	16	
+71	Chhattisgarh - Pandariya	MAMTA CHANDRAKAR	Indian National Congress	100907	1	36487
+71	Chhattisgarh - Pandariya	MOTIRAM CHANDRAVANSHI	Bharatiya Janata Party	64420	2	36487
+71	Chhattisgarh - Pandariya	CHAITRAM RAJ	Bahujan Samaj Party	33547	3	
+71	Chhattisgarh - Pandariya	None of the Above	None of the Above	5234	4	
+71	Chhattisgarh - Pandariya	HARENDRA KUMAR DAHIRE	Independent	2511	5	
+71	Chhattisgarh - Pandariya	RAMKUMAR SINHA	Independent	2450	6	
+71	Chhattisgarh - Pandariya	RESHAMLAL PATRE	Independent	2266	7	
+71	Chhattisgarh - Pandariya	NARENDRA TIWARI	Shiv Sena	1558	8	
+71	Chhattisgarh - Pandariya	GHANSHYAM YADAV	Independent	1381	9	
+71	Chhattisgarh - Pandariya	NARAYAN SINGH BAUDDH	Independent	1341	10	
+71	Chhattisgarh - Pandariya	CHANDRAPRATAP SAHU	Independent	800	11	
+71	Chhattisgarh - Pandariya	DHARMENDRA KUMAR	Independent	657	12	
+71	Chhattisgarh - Pandariya	SANDEEP TIWARI "RAJ"	Bhartiya Sarvjan Hitay Samaj Party	476	13	
+72	Chhattisgarh - Kawardha	AKBAR BHAI	Indian National Congress	136320	1	59284
+72	Chhattisgarh - Kawardha	ASHOK SAHU	Bharatiya Janata Party	77036	2	59284
+72	Chhattisgarh - Kawardha	RAMKHILAWAN DAHARIYA	Independent	6604	3	
+72	Chhattisgarh - Kawardha	AGAM DAS ANANT	Janta Congress Chhattisgarh (J)	6250	4	
+72	Chhattisgarh - Kawardha	RAM KUMAR SAHU	Independent	2947	5	
+72	Chhattisgarh - Kawardha	REKHACHAND BAGHEL	Independent	1990	6	
+72	Chhattisgarh - Kawardha	MALESH KUMAR MARKAM	Gondvana Gantantra Party	1475	7	
+72	Chhattisgarh - Kawardha	MOHIT SAHOO	Independent	1265	8	
+72	Chhattisgarh - Kawardha	None of the Above	None of the Above	949	9	
+72	Chhattisgarh - Kawardha	BHOJ KUMAR BANJARA	Independent	903	10	
+72	Chhattisgarh - Kawardha	SIYADEVI PENDRO	Independent	701	11	
+72	Chhattisgarh - Kawardha	AGHAN SINGH YADAV	Samajwadi Party	547	12	
+72	Chhattisgarh - Kawardha	KAMLESH TIWARI DAMRUWALE	Independent	468	13	
+72	Chhattisgarh - Kawardha	ASHOK SAHU	Chhattisgarh Swabhiman Manch	465	14	
+72	Chhattisgarh - Kawardha	KRITI DEVI SINGH (YOGESHWR RAJ SINGH)	Independent	459	15	
+72	Chhattisgarh - Kawardha	GOPAL SINGH KHUSARO	Independent	438	16	
+72	Chhattisgarh - Kawardha	KAUSHAL KUMAR MOHLE	Independent	402	17	
+72	Chhattisgarh - Kawardha	AJAY PALI (BABA)	Shiv Sena	381	18	
+72	Chhattisgarh - Kawardha	AKBAR AJMER	Independent	342	19	
+72	Chhattisgarh - Kawardha	SANTLAL DHURWEY	Independent	296	20	
+72	Chhattisgarh - Kawardha	SUSHIL KUMAR SATYAVANSHI	Independent	268	21	
+72	Chhattisgarh - Kawardha	SEWARAM PATRE	Independent	233	22	
+73	Chhattisgarh - Khairagarh	DEVWRAT SINGH	Janta Congress Chhattisgarh (J)	61516	1	870
+73	Chhattisgarh - Khairagarh	KOMAL JANGHEL	Bharatiya Janata Party	60646	2	870
+73	Chhattisgarh - Khairagarh	GIRWAR JANGHEL	Indian National Congress	31811	3	
+73	Chhattisgarh - Khairagarh	SARJU JANGHEL	Independent	4060	4	
+73	Chhattisgarh - Khairagarh	None of the Above	None of the Above	3068	5	
+73	Chhattisgarh - Khairagarh	DINESH SINGH	Shiv Sena	1775	6	
+73	Chhattisgarh - Khairagarh	GYANENDRA KUMAR VERMA	Independent	1456	7	
+73	Chhattisgarh - Khairagarh	YOGENDRA KUMAR THAKUR (MARKAM)	Independent	1343	8	
+73	Chhattisgarh - Khairagarh	MANOJ GUPTA	Aam Aadmi Party	1209	9	
+73	Chhattisgarh - Khairagarh	SANTOSH DESHMUKH	Independent	1114	10	
+73	Chhattisgarh - Khairagarh	MAHAVEER JANGHEL	Independent	599	11	
+73	Chhattisgarh - Khairagarh	AAM AADMI MAHESH JANGHEL	Independent	528	12	
+73	Chhattisgarh - Khairagarh	RAJESH VERMA	Ambedkarite Party of India	525	13	
+73	Chhattisgarh - Khairagarh	AJAY SINGH	Independent	326	14	
+73	Chhattisgarh - Khairagarh	TIJAU RAM JANGHEL	Independent	282	15	
+73	Chhattisgarh - Khairagarh	BHUSHAN BANJARE	Independent	251	16	
+74	Chhattisgarh - Dongargarh	BHUNESHWAR SHOBHARAM BAGHEL	Indian National Congress	86949	1	35418
+74	Chhattisgarh - Dongargarh	SAROJANI BANJARE	Bharatiya Janata Party	51531	2	35418
+74	Chhattisgarh - Dongargarh	TARUN KUMAR HATHEL	Independent	6699	3	
+74	Chhattisgarh - Dongargarh	MISHRI LAL MARKANDE	Bahujan Samaj Party	5388	4	
+74	Chhattisgarh - Dongargarh	None of the Above	None of the Above	3896	5	
+74	Chhattisgarh - Dongargarh	DILIP KUMAR LAHARE	Gondvana Gantantra Party	1407	6	
+74	Chhattisgarh - Dongargarh	YUVRAJ SIRMAUR	Independent	1312	7	
+74	Chhattisgarh - Dongargarh	ANIL KUMAR UMARE	Ambedkarite Party of India	1033	8	
+74	Chhattisgarh - Dongargarh	YEESHU CHANDEY	Aam Aadmi Party	887	9	
+74	Chhattisgarh - Dongargarh	VIJENDRA BORKER	Independent	880	10	
+74	Chhattisgarh - Dongargarh	MOHAN KOTLE	Independent	593	11	
+75	Chhattisgarh - Rajnandgaon	DR. RAMAN SINGH	Bharatiya Janata Party	80589	1	16933
+75	Chhattisgarh - Rajnandgaon	KARUNA SHUKLA	Indian National Congress	63656	2	16933
+75	Chhattisgarh - Rajnandgaon	DEEPAK YADAV	Janta Congress Chhattisgarh (J)	1858	3	
+75	Chhattisgarh - Rajnandgaon	KAILASH SHRIVASTAVA	Independent	1782	4	
+75	Chhattisgarh - Rajnandgaon	None of the Above	None of the Above	1501	5	
+75	Chhattisgarh - Rajnandgaon	DR. UDAY RATRE	Independent	1093	6	
+75	Chhattisgarh - Rajnandgaon	KRISHN KUMAR SINGH (PAPPU THAKUR)	Independent	715	7	
+75	Chhattisgarh - Rajnandgaon	AGYARAM CHOUHAN	Pichhara Samaj Party United	607	8	
+75	Chhattisgarh - Rajnandgaon	SUKRIT DAS SAHU	Independent	463	9	
+75	Chhattisgarh - Rajnandgaon	GURUSARAN SINGH	Independent	414	10	
+75	Chhattisgarh - Rajnandgaon	VARUN TIWARI	Aam Aadmi Party	363	11	
+75	Chhattisgarh - Rajnandgaon	ARVIND TIWARI	Independent	308	12	
+75	Chhattisgarh - Rajnandgaon	LEKHU SANJAY SAHU CHHATTISGARIA	Chhattisgarh Swabhiman Manch	279	13	
+75	Chhattisgarh - Rajnandgaon	YOUGALKISHOR SONTEKE	Ambedkarite Party of India	260	14	
+75	Chhattisgarh - Rajnandgaon	AMOD WADEKAR	Independent	242	15	
+75	Chhattisgarh - Rajnandgaon	PRATIMA SANTOSH WASNIK	Republican Paksha (Khoripa)	202	16	
+75	Chhattisgarh - Rajnandgaon	RITESH KUMAR MESHRAM	Independent	192	17	
+75	Chhattisgarh - Rajnandgaon	PREMNARAYAN VERMA	Chhattisgarh Mukti Morcha	192	18	
+75	Chhattisgarh - Rajnandgaon	JAIPRAKASH SIRVANI	Independent	178	19	
+75	Chhattisgarh - Rajnandgaon	SHYAM RAO SUKHDEVE	Independent	166	20	
+75	Chhattisgarh - Rajnandgaon	ANISH KHAN	Independent	145	21	
+75	Chhattisgarh - Rajnandgaon	AKIL KHAN	Independent	124	22	
+75	Chhattisgarh - Rajnandgaon	LEKHRAM BAGHEL	Independent	119	23	
+75	Chhattisgarh - Rajnandgaon	SUNIL YADAV	Chhattisgarh Sanyukt Jatiye Party	114	24	
+75	Chhattisgarh - Rajnandgaon	DINESH NAMDEO	Independent	74	25	
+75	Chhattisgarh - Rajnandgaon	YUSUF BHAI CHHATTISGADIHA	Independent	51	26	
+75	Chhattisgarh - Rajnandgaon	MOHAMMAD AKIL GORI	Independent	50	27	
+75	Chhattisgarh - Rajnandgaon	RAJKUMAR	Independent	49	28	
+75	Chhattisgarh - Rajnandgaon	PADAM CHAND LALWANY 'JAIN'	Independent	47	29	
+75	Chhattisgarh - Rajnandgaon	RAMCHARAN YADAW	Independent	45	30	
+75	Chhattisgarh - Rajnandgaon	RAJMAHANT RAMDAYAL DAHARIYA	Independent	23	31	
+76	Chhattisgarh - Dongargaon	DALESHWAR SAHU	Indian National Congress	84581	1	19083
+76	Chhattisgarh - Dongargaon	MADHUSUDAN YADAV	Bharatiya Janata Party	65498	2	19083
+76	Chhattisgarh - Dongargaon	None of the Above	None of the Above	2257	3	
+76	Chhattisgarh - Dongargaon	VANI VILASH PATEL	Independent	1863	4	
+76	Chhattisgarh - Dongargaon	REKHCHAND MANDLE	Independent	1782	5	
+76	Chhattisgarh - Dongargaon	ASHOK VERMA	Bahujan Samaj Party	1482	6	
+76	Chhattisgarh - Dongargaon	CHANDRMANI VERMA	Aam Aadmi Party	1474	7	
+76	Chhattisgarh - Dongargaon	JITENDRA SAHU	Gondvana Gantantra Party	765	8	
+76	Chhattisgarh - Dongargaon	MANMOHAN AGRAWAL	Independent	574	9	
+76	Chhattisgarh - Dongargaon	SANDEEP TEMBURKAR	Ambedkarite Party of India	380	10	
+76	Chhattisgarh - Dongargaon	BANSHI LAL SINHA	Independent	352	11	
+76	Chhattisgarh - Dongargaon	TIJAU RAM VERMA	Independent	255	12	
+76	Chhattisgarh - Dongargaon	RAJ KUMAR SAHU	Shiv Sena	251	13	
+77	Chhattisgarh - Khujji	CHHANNI CHANDU SAHU	Indian National Congress	71733	1	27497
+77	Chhattisgarh - Khujji	HIRENDRA KUMAR SAHU	Bharatiya Janata Party	44236	2	27497
+77	Chhattisgarh - Khujji	JARNAIL SINGH BHATIYA	Janta Congress Chhattisgarh (J)	14507	3	
+77	Chhattisgarh - Khujji	MADAN LAL NETAM	Independent	6766	4	
+77	Chhattisgarh - Khujji	RAMKRISHN YADU	Independent	3536	5	
+77	Chhattisgarh - Khujji	DEVI LAL MARKAM	Independent	2699	6	
+77	Chhattisgarh - Khujji	None of the Above	None of the Above	1383	7	
+77	Chhattisgarh - Khujji	ARJUN SINGH THAKUR (KORRAM )	Ambedkarite Party of India	1031	8	
+77	Chhattisgarh - Khujji	KAMAL DAS SAHU	Independent	910	9	
+77	Chhattisgarh - Khujji	RAMESH YADAV	Aam Aadmi Party	839	10	
+77	Chhattisgarh - Khujji	ANITA SINHA	Pichhara Samaj Party United	830	11	
+77	Chhattisgarh - Khujji	DEV PARSHAD YADAV (RAJU)	Shiv Sena	791	12	
+77	Chhattisgarh - Khujji	TIJU RAM SAHU	Independent	771	13	
+77	Chhattisgarh - Khujji	CHANDRA PRAKASH SINHA	Gondvana Gantantra Party	626	14	
+77	Chhattisgarh - Khujji	KEDAR RAM YADAV	Independent	535	15	
+77	Chhattisgarh - Khujji	SURENDRA SINGH	Janata Dal (United)	438	16	
+77	Chhattisgarh - Khujji	AKIL BHAI	Independent	421	17	
+78	Chhattisgarh - Mohala-manpur	INDRASHAH MANDAVI	Indian National Congress	50576	1	21048
+78	Chhattisgarh - Mohala-manpur	KANCHAN MALA BHUARYA	Bharatiya Janata Party	29528	2	21048
+78	Chhattisgarh - Mohala-manpur	SANJEET THAKUR	Janta Congress Chhattisgarh (J)	28740	3	
+78	Chhattisgarh - Mohala-manpur	None of the Above	None of the Above	4238	4	
+78	Chhattisgarh - Mohala-manpur	SMT. KHAGESH THAKUR	Independent	3769	5	
+78	Chhattisgarh - Mohala-manpur	RAJENDRA KUMAR USARE	Gondvana Gantantra Party	1851	6	
+78	Chhattisgarh - Mohala-manpur	SIYARAM NUROTI	Ambedkarite Party of India	1461	7	
+78	Chhattisgarh - Mohala-manpur	DHANESH KOLIYARE	Independent	1394	8	
+78	Chhattisgarh - Mohala-manpur	PYARELAL KORATIA	Shiv Sena	1371	9	
+78	Chhattisgarh - Mohala-manpur	ARJUN MANDAVI	Aam Aadmi Party	1269	10	
+78	Chhattisgarh - Mohala-manpur	KANAK NAGVANSI	Independent	1153	11	
+79	Chhattisgarh - Antagarh	ANOOP NAG	Indian National Congress	57061	1	13414
+79	Chhattisgarh - Antagarh	VIKRAM USENDI	Bharatiya Janata Party	43647	2	13414
+79	Chhattisgarh - Antagarh	SUKHRANJAN USENDI URAF SILEDAR	Independent	4854	3	
+79	Chhattisgarh - Antagarh	None of the Above	None of the Above	4831	4	
+79	Chhattisgarh - Antagarh	SANTRAM SARPHE (SALAM)	Aam Aadmi Party	3981	5	
+79	Chhattisgarh - Antagarh	HEMANT POYAM	Bahujan Samaj Party	1243	6	
+79	Chhattisgarh - Antagarh	RUPDHAR PUDO	Ambedkarite Party of India	1085	7	
+79	Chhattisgarh - Antagarh	LAXMAN SINGH KOMRA	Independent	922	8	
+79	Chhattisgarh - Antagarh	NEHRU RAM KOMRA	Independent	683	9	
+79	Chhattisgarh - Antagarh	SUNITA DHURVE MANDAL	Bhartiya Panchyat Party	663	10	
+79	Chhattisgarh - Antagarh	PARVAR SINGH KOMRA	Gondvana Gantantra Party	607	11	
+79	Chhattisgarh - Antagarh	BIRENDRA PARTE	Shiv Sena	484	12	
+80	Chhattisgarh - Bhanupratappur	MANOJ SINGH MANDAVI	Indian National Congress	72520	1	26693
+80	Chhattisgarh - Bhanupratappur	DEO LAL DUGGA	Bharatiya Janata Party	45827	2	26693
+80	Chhattisgarh - Bhanupratappur	KOMAL HUPENDI	Aam Aadmi Party	9634	3	
+80	Chhattisgarh - Bhanupratappur	MANAK DARPATTI	Janta Congress Chhattisgarh (J)	9611	4	
+80	Chhattisgarh - Bhanupratappur	None of the Above	None of the Above	4235	5	
+80	Chhattisgarh - Bhanupratappur	SIYA RAM PARCHAPI	Gondvana Gantantra Party	2698	6	
+80	Chhattisgarh - Bhanupratappur	SHYAM LAL GAWDE	Shiv Sena	1699	7	
+80	Chhattisgarh - Bhanupratappur	DURGA PRASAD THAKUR	Ambedkarite Party of India	1565	8	
+81	Chhattisgarh - Kanker	SHISHUPAL SHORI	Indian National Congress	69053	1	19804
+81	Chhattisgarh - Kanker	HIRA MARKAM	Bharatiya Janata Party	49249	2	19804
+81	Chhattisgarh - Kanker	HEMLAL MARKAM	Gondvana Gantantra Party	6206	3	
+81	Chhattisgarh - Kanker	None of the Above	None of the Above	3323	4	
+81	Chhattisgarh - Kanker	RAMSAHAY KORRAM	Bahujan Samaj Party	3014	5	
+81	Chhattisgarh - Kanker	BISHAL DHRUW	Aam Aadmi Party	2016	6	
+81	Chhattisgarh - Kanker	DEEPAK KUMAR USENDI	Independent	1882	7	
+82	Chhattisgarh - Keshkal	SANT RAM NETAM	Indian National Congress	73470	1	16972
+82	Chhattisgarh - Keshkal	HARISHANKAR NETAM	Bharatiya Janata Party	56498	2	16972
+82	Chhattisgarh - Keshkal	None of the Above	None of the Above	6113	3	
+82	Chhattisgarh - Keshkal	JUGALKISHOR BODH	Bahujan Samaj Party	4903	4	
+82	Chhattisgarh - Keshkal	KAMLESH KUMAR SALAM	Aam Aadmi Party	2791	5	
+82	Chhattisgarh - Keshkal	RADHIKA SODI	Communist Party of India	2180	6	
+82	Chhattisgarh - Keshkal	SURESH KUMAR NETAM	Independent	2078	7	
+82	Chhattisgarh - Keshkal	BINDESH RANA	Janata Dal (United)	2008	8	
+82	Chhattisgarh - Keshkal	HIRAU RAM SHORI	Independent	1963	9	
+83	Chhattisgarh - Kondagaon	MOHAN MARKAM	Indian National Congress	61582	1	1796
+83	Chhattisgarh - Kondagaon	LATA USENDI	Bharatiya Janata Party	59786	2	1796
+83	Chhattisgarh - Kondagaon	None of the Above	None of the Above	5146	3	
+83	Chhattisgarh - Kondagaon	NARENDRA NETAM	Bahujan Samaj Party	4769	4	
+83	Chhattisgarh - Kondagaon	RAMCHANDRA NAG	Communist Party of India	3883	5	
+83	Chhattisgarh - Kondagaon	SUKHARAM NETAM	Independent	2906	6	
+84	Chhattisgarh - Narayanpur	CHANDAN KASHYAP	Indian National Congress	58652	1	2647
+84	Chhattisgarh - Narayanpur	KEDAR KASHYAP	Bharatiya Janata Party	56005	2	2647
+84	Chhattisgarh - Narayanpur	None of the Above	None of the Above	6858	3	
+84	Chhattisgarh - Narayanpur	NILAMBAR BAGHEL	Independent	2696	4	
+84	Chhattisgarh - Narayanpur	NAREND KUMAR NAG	Aam Aadmi Party	2576	5	
+84	Chhattisgarh - Narayanpur	BALIRAM KACHLAM	Janta Congress Chhattisgarh (J)	2249	6	
+84	Chhattisgarh - Narayanpur	RAMSHILA MANDAVI	India Praja Bandhu Party	1756	7	
+84	Chhattisgarh - Narayanpur	PANEESH PRASAD NAG	Ambedkarite Party of India	1485	8	
+85	Chhattisgarh - Bastar	BAGHEL LAKHESHWAR	Indian National Congress	74378	1	33471
+85	Chhattisgarh - Bastar	DR. SUBHAU KASHYAP	Bharatiya Janata Party	40907	2	33471
+85	Chhattisgarh - Bastar	None of the Above	None of the Above	5083	3	
+85	Chhattisgarh - Bastar	SONSAY KASHYAP	Janta Congress Chhattisgarh (J)	3688	4	
+85	Chhattisgarh - Bastar	JAGMOHAN BAGHEL	Aam Aadmi Party	2121	5	
+85	Chhattisgarh - Bastar	DULAB SURYAVANSHI	Independent	2034	6	
+86	Chhattisgarh - Jagdalpur	REKHCHAND JAIN	Indian National Congress	76556	1	27440
+86	Chhattisgarh - Jagdalpur	SANTOSH BAFNA	Bharatiya Janata Party	49116	2	27440
+86	Chhattisgarh - Jagdalpur	MANGALRAM KASHYAP	Communist Party of India	3020	3	
+86	Chhattisgarh - Jagdalpur	AMIT PANDEY	Janta Congress Chhattisgarh (J)	2801	4	
+86	Chhattisgarh - Jagdalpur	NASEEM QURESHI	Independent	2306	5	
+86	Chhattisgarh - Jagdalpur	PAPPURAM NAG	Independent	1382	6	
+86	Chhattisgarh - Jagdalpur	SURENDRA CHALKI	India Praja Bandhu Party	1233	7	
+86	Chhattisgarh - Jagdalpur	KARIYA DIWAN	Shiv Sena	1081	8	
+86	Chhattisgarh - Jagdalpur	JAGATRAM NAG	Independent	1075	9	
+86	Chhattisgarh - Jagdalpur	None of the Above	None of the Above	936	10	
+86	Chhattisgarh - Jagdalpur	ROHIT SINGH ARYA	Aam Aadmi Party	861	11	
+86	Chhattisgarh - Jagdalpur	SAROJ YADAV	Rashtriya Jansambhavna Party	717	12	
+86	Chhattisgarh - Jagdalpur	PALANRAM SAHU	Independent	488	13	
+86	Chhattisgarh - Jagdalpur	SHYAM GHOSH	Bhartiya Panchyat Party	475	14	
+86	Chhattisgarh - Jagdalpur	MUNNARAM BAGHEL	Independent	410	15	
+86	Chhattisgarh - Jagdalpur	SHIVCHARAN	Akhil Bharat Samagra Kranti Party	389	16	
+86	Chhattisgarh - Jagdalpur	SALIM RAZA	Independent	357	17	
+86	Chhattisgarh - Jagdalpur	PURUSHOTTAM SHUKLA	Rashtriya Gondvana Party	346	18	
+86	Chhattisgarh - Jagdalpur	VIRENDRA VAIDH(SINHA)	Rashtriya Jansabha Party	335	19	
+86	Chhattisgarh - Jagdalpur	VIMLESH DUBEY	Samajwadi Party	287	20	
+86	Chhattisgarh - Jagdalpur	NANDLAL GUPTA(NANDU BHAIYYA)	Bhartiya Naujawan Inklav Party	267	21	
+86	Chhattisgarh - Jagdalpur	YASHODA VISHWAKARMA	Independent	213	22	
+87	Chhattisgarh - Chitrakot	DEEPAK BAIJ	Indian National Congress	62616	1	17770
+87	Chhattisgarh - Chitrakot	LACHHURAM KASHYAP	Bharatiya Janata Party	44846	2	17770
+87	Chhattisgarh - Chitrakot	None of the Above	None of the Above	9824	3	
+87	Chhattisgarh - Chitrakot	TANKESHWAR BHARDWAJ	Janta Congress Chhattisgarh (J)	7494	4	
+87	Chhattisgarh - Chitrakot	DHARMURAM KASHYAP	Independent	3032	5	
+87	Chhattisgarh - Chitrakot	SURESH KAWASI ALIAS SARGEEM KAWASI	Shiv Sena	2297	6	
+87	Chhattisgarh - Chitrakot	LAKHESHWAR KAWASI	Ambedkarite Party of India	1791	7	
+87	Chhattisgarh - Chitrakot	DANTIRAM POYAM	Aam Aadmi Party	1517	8	
+88	Chhattisgarh - Dantewara	BHIMA MANDAVI	Bharatiya Janata Party	37990	1	2172
+88	Chhattisgarh - Dantewara	DEVATI KARMA	Indian National Congress	35818	2	2172
+88	Chhattisgarh - Dantewara	NANDA RAM SORI	Communist Party of India	12195	3	
+88	Chhattisgarh - Dantewara	None of the Above	None of the Above	9929	4	
+88	Chhattisgarh - Dantewara	KESHAV NETAM	Bahujan Samaj Party	6119	5	
+88	Chhattisgarh - Dantewara	BALOO RAM BHAWANI	Aam Aadmi Party	4903	6	
+88	Chhattisgarh - Dantewara	JAYA KASHYAP	Independent	3555	7	
+88	Chhattisgarh - Dantewara	SUDHRU RAM KUNJAM	Bhartiya Panchyat Party	3154	8	
+89	Chhattisgarh - Bijapur	VIKRAM MANDAVI	Indian National Congress	44011	1	21584
+89	Chhattisgarh - Bijapur	MAHESH GAGDA	Bharatiya Janata Party	22427	2	21584
+89	Chhattisgarh - Bijapur	None of the Above	None of the Above	4703	3	
+89	Chhattisgarh - Bijapur	CHANDRAIYA SAKNI	Janta Congress Chhattisgarh (J)	2696	4	
+89	Chhattisgarh - Bijapur	HARISH PAMBHOI	Independent	2004	5	
+89	Chhattisgarh - Bijapur	SANTOSH PUNEM	Samajwadi Party	999	6	
+89	Chhattisgarh - Bijapur	TRIPAT YALAM	Aam Aadmi Party	942	7	
+89	Chhattisgarh - Bijapur	JAMES KUDIYAM	Independent	920	8	
+90	Chhattisgarh - Konta	KAWASI LAKHMA	Indian National Congress	31933	1	6709
+90	Chhattisgarh - Konta	DHANIRAM BARSE	Bharatiya Janata Party	25224	2	6709
+90	Chhattisgarh - Konta	MANISH KUNJAM	Communist Party of India	24549	3	
+90	Chhattisgarh - Konta	None of the Above	None of the Above	4468	4	
+90	Chhattisgarh - Konta	VIJAY SODI	Chhattisgarh Swabhiman Manch	1660	5	
+90	Chhattisgarh - Konta	BUDHRAM KARTAMI	Bahujan Samaj Party	1660	6	
+90	Chhattisgarh - Konta	RAMDEV BAGHEL	Aam Aadmi Party	1619	7	
